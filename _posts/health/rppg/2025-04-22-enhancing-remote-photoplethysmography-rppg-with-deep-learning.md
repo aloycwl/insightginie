@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Enhancing Remote Photoplethysmography (rPPG) with Deep Learning"
-date: 2025-04-22T13:25:36
-categories: [118]
+title: Enhancing Remote Photoplethysmography (rPPG) with Deep Learning
+date: 2025-04-22 13:25:36
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/enhancing-remote-photoplethysmography-rppg-with-deep-learning
+featured_image: /media/images/2504220125.avif
 ---
+
 
 The field of remote photoplethysmography (rPPG) has emerged as a transformative technology in contactless health monitoring. By analyzing subtle color variations in facial skin through standard RGB cameras, rPPG enables the estimation of vital signs such as heart rate, respiration rate, and blood oxygen levels—without physical sensors. While this innovation holds immense promise for telemedicine, fitness applications, and ubiquitous health diagnostics, its real-world adoption has been hampered by challenges related to signal noise, lighting variability, and motion artifacts. This is where deep learning steps in as a game-changing force.
 

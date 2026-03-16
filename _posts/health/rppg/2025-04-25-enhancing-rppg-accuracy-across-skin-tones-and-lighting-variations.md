@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Enhancing rPPG Accuracy Across Skin Tones and Lighting Variations"
-date: 2025-04-25T13:01:13
-categories: [118]
+title: Enhancing rPPG Accuracy Across Skin Tones and Lighting Variations
+date: 2025-04-25 13:01:13
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/enhancing-rppg-accuracy-across-skin-tones-and-lighting-variations
+featured_image: /media/images/2504250100.avif
 ---
+
 
 Remote photoplethysmography (rPPG) has emerged as a transformative technology in non-invasive health monitoring, enabling the estimation of vital signs such as heart rate through standard cameras. However, the accuracy of rPPG can be significantly influenced by variations in skin tone and lighting conditions. Understanding and addressing these factors are crucial for developing reliable and inclusive rPPG systems.
 

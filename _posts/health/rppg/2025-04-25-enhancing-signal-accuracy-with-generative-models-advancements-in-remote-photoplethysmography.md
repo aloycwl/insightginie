@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Enhancing Signal Accuracy with Generative Models: Advancements in Remote Photoplethysmography"
-date: 2025-04-25T12:26:46
-categories: [118]
+title: 'Enhancing Signal Accuracy with Generative Models: Advancements in Remote Photoplethysmography'
+date: 2025-04-25 12:26:46
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/enhancing-signal-accuracy-with-generative-models-advancements-in-remote-photoplethysmography
+featured_image: /media/images/2504251226.avif
 ---
+
 
 In the realm of remote photoplethysmography (rPPG), a non-contact method for monitoring vital signs through video analysis, the challenge of obtaining accurate and noise-free signals has been a significant hurdle. Traditional approaches often struggle with motion artifacts, lighting variations, and other environmental factors that degrade signal quality. However, the integration of generative models, particularly Generative Adversarial Networks (GANs) and diffusion models, has ushered in a new era of signal enhancement, offering promising solutions to these longstanding issues.
 

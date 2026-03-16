@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "Enhancing Privacy with Federated Learning in rPPG Technology: A Privacy-Preserving Future for Wearable Health Devices"
-date: 2025-05-02T13:00:18
-categories: [118]
+title: 'Enhancing Privacy with Federated Learning in rPPG Technology: A Privacy-Preserving
+  Future for Wearable Health Devices'
+date: 2025-05-02 13:00:18
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/enhancing-privacy-with-federated-learning-in-rppg-technology-a-privacy-preserving-future-for-wearable-health-devices
+featured_image: /media/images/2505021300.avif
 ---
+
 
 The advent of wearable health technology has opened up transformative possibilities for continuous and real-time health monitoring. Among the most promising innovations in this field is remote photoplethysmography (rPPG), a non-invasive method that uses subtle changes in skin color to track vital signs like heart rate, blood oxygen levels, and respiratory patterns. However, as rPPG technology integrates with personal devices like smartwatches and fitness trackers, concerns about data privacy and security have become significant challenges. With the growing need to safeguard sensitive health data, privacy-preserving technologies like federated learning are gaining attention as a way to balance innovation with confidentiality.
 

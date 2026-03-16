@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "The Power of Remote Photoplethysmography (rPPG) in Monitoring Children's Health"
-date: 2025-04-25T12:25:02
-categories: [118]
+title: The Power of Remote Photoplethysmography (rPPG) in Monitoring Children's Health
+date: 2025-04-25 12:25:02
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/the-power-of-remote-photoplethysmography-rppg-in-monitoring-childrens-health
+featured_image: /media/images/2504251224.avif
 ---
+
 
 In the ever-advancing world of medical technology, remote photoplethysmography (rPPG) has emerged as a groundbreaking tool in pediatric healthcare. As a non-invasive, camera-based technique for monitoring vital signs, rPPG offers a touchless method to measure physiological signals such as heart rate, respiratory rate, and blood oxygenation. Its applications in pediatric settings are particularly compelling, given the unique challenges involved in monitoring infants, toddlers, and young children.
 

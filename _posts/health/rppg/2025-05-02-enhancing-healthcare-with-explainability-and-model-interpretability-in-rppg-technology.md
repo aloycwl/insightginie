@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "Enhancing Healthcare with Explainability and Model Interpretability in rPPG Technology"
-date: 2025-05-02T12:55:19
-categories: [118]
+title: Enhancing Healthcare with Explainability and Model Interpretability in rPPG
+  Technology
+date: 2025-05-02 12:55:19
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/enhancing-healthcare-with-explainability-and-model-interpretability-in-rppg-technology
+featured_image: /media/images/2505021255.avif
 ---
+
 
 In the realm of healthcare technology, one of the most promising advancements is the integration of remote photoplethysmography (rPPG) into wearable devices for continuous health monitoring. rPPG enables non-invasive measurement of vital health metrics, such as heart rate and blood oxygen levels, by detecting subtle changes in skin color due to blood flow. While rPPG holds great potential for revolutionizing health tracking, its application in healthcare is closely linked to the need for explainability and model interpretability. These concepts are crucial for ensuring the transparency, trustworthiness, and reliability of AI models used to process rPPG signals, particularly when these models influence critical health decisions.
 

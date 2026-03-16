@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Crown Bioscience: Pioneering Precision in Oncology Research and Drug Development"
-date: 2025-05-02T12:48:49
-categories: [307]
+title: 'Crown Bioscience: Pioneering Precision in Oncology Research and Drug Development'
+date: 2025-05-02 12:48:49
+categories:
+- health
+- bioscience
 original_url: https://insightginie.com/crown-bioscience-pioneering-precision-in-oncology-research-and-drug-development
+featured_image: /media/images/2505021248.avif
 ---
+
 
 In the rapidly evolving landscape of cancer research and drug development, Crown Bioscience stands out as a global leader, offering comprehensive preclinical and translational services that accelerate the journey from discovery to clinical application. Headquartered in San Diego, California, and operating across 11 sites in the United States, Europe, and the Asia-Pacific region, Crown Bioscience has established itself as a trusted partner for biotech and pharmaceutical companies worldwide.
 

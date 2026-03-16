@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "rPPG in Clinical Diagnostics: A Revolution in Contactless Health Monitoring"
-date: 2025-04-22T13:28:29
-categories: [118]
+title: 'rPPG in Clinical Diagnostics: A Revolution in Contactless Health Monitoring'
+date: 2025-04-22 13:28:29
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/rppg-in-clinical-diagnostics-a-revolution-in-contactless-health-monitoring
+featured_image: /media/images/2504220128.avif
 ---
+
 
 Remote photoplethysmography, or rPPG, is rapidly emerging as a game-changer in the realm of clinical diagnostics. This non-invasive technology leverages standard RGB cameras to extract vital physiological information—such as heart rate, respiration rate, and blood oxygen saturation—by analyzing the subtle color changes in a patient's skin caused by blood flow. Originally a subject of academic interest and experimental setups, rPPG is now stepping confidently into the world of real-world healthcare, where its contactless nature offers transformative benefits across a range of clinical environments.
 

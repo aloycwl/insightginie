@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "Strengthening rPPG: Ensuring Adversarial Robustness and Security in Wearable Health Monitoring"
-date: 2025-05-02T12:58:22
-categories: [118]
+title: 'Strengthening rPPG: Ensuring Adversarial Robustness and Security in Wearable
+  Health Monitoring'
+date: 2025-05-02 12:58:22
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/strengthening-rppg-ensuring-adversarial-robustness-and-security-in-wearable-health-monitoring
+featured_image: /media/images/2505021258.avif
 ---
+
 
 As wearable devices become an integral part of modern healthcare, their ability to monitor vital health data like heart rate and blood oxygen levels in real-time has opened new avenues for personalized and continuous health management. Among the most groundbreaking technologies powering these devices is remote photoplethysmography (rPPG), a technique that leverages subtle changes in skin color caused by blood flow to measure vital signs. While rPPG holds immense promise for non-invasive, continuous health monitoring, it also faces significant challenges related to adversarial robustness and security. As these devices are increasingly integrated into healthcare ecosystems, it becomes crucial to safeguard them against potential attacks that could compromise the integrity of health data and, by extension, patient well-being.
 

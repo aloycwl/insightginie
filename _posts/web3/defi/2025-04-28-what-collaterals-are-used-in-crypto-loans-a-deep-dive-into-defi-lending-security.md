@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "What Collaterals Are Used in Crypto Loans? A Deep Dive into DeFi Lending Security"
-date: 2025-04-28T20:36:53
-categories: [2175]
+title: What Collaterals Are Used in Crypto Loans? A Deep Dive into DeFi Lending Security
+date: 2025-04-28 20:36:53
+categories:
+- web3
+- defi
 original_url: https://insightginie.com/what-collaterals-are-used-in-crypto-loans-a-deep-dive-into-defi-lending-security
+featured_image: /media/images/2504282037.avif
 ---
+
 
 Crypto loans have reshaped the landscape of borrowing and lending by removing traditional intermediaries like banks and credit agencies. However, at the heart of any lending system—whether traditional or decentralized—lies a fundamental necessity: collateral. In the crypto world, collateral is not just a safety net for lenders but the very backbone that sustains the trustless nature of blockchain-based loans. Understanding what types of collaterals are used in crypto loans reveals a lot about how decentralized finance operates and why certain assets dominate this space.
 

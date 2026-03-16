@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "Motion Artifact Reduction in rPPG: The Imperative for Accurate, Real-World Applications"
-date: 2025-04-22T10:41:08
-categories: [118]
+title: 'Motion Artifact Reduction in rPPG: The Imperative for Accurate, Real-World
+  Applications'
+date: 2025-04-22 10:41:08
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/motion-artifact-reduction-in-rppg-the-imperative-for-accurate-real-world-applications
+featured_image: /media/images/2504221040.avif
 ---
+
 
 Remote photoplethysmography (rPPG) has emerged as a promising technique for contactless and continuous monitoring of heart rate and other vital signs. This technology utilizes video cameras to analyze subtle color changes in the skin, revealing information about blood flow pulsations. However, a significant challenge to accurate rPPG measurements is the presence of motion artifacts.
 

@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "The Science of rPPG Signal Processing"
-date: 2025-04-22T14:15:40
-categories: [118]
+title: The Science of rPPG Signal Processing
+date: 2025-04-22 14:15:40
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/the-science-of-rppg-signal-processing
+featured_image: /media/images/2504220215.avif
 ---
+
 
 In the age of digital health and AI-powered diagnostics, the ability to monitor vital signs remotely and non-invasively has become a groundbreaking frontier. Among the most promising technologies in this realm is remote photoplethysmography, or rPPG. Unlike traditional sensors that require physical contact with the body, rPPG extracts physiological signals—most notably heart rate and respiratory rate—using only standard RGB cameras. At the heart of this technology lies a sophisticated process known as rPPG signal processing, which translates subtle color changes in human skin into meaningful biomedical insights.
 

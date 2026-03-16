@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "rPPG in Wearable Technology: The Heartbeat of Innovation"
-date: 2025-04-22T12:17:35
-categories: [118]
+title: 'rPPG in Wearable Technology: The Heartbeat of Innovation'
+date: 2025-04-22 12:17:35
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/rppg-in-wearable-technology-the-heartbeat-of-innovation
+featured_image: /media/images/2504221216.avif
 ---
+
 
 Remote Photoplethysmography (rPPG) has emerged as a promising technology in the realm of wearable technology, offering a non-contact, non-invasive means of measuring heart rate and other vital signs. This innovative approach leverages the power of embedded cameras in wearable devices to analyze subtle color variations in the skin, revealing valuable insights into an individual's physiological state. By integrating rPPG into wearable technology, we can move beyond simple step counting and activity tracking towards a more holistic understanding of an individual's health and well-being.
 

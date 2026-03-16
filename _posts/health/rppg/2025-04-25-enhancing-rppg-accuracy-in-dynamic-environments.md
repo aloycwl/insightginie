@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Enhancing rPPG Accuracy in Dynamic Environments"
-date: 2025-04-25T13:09:13
-categories: [118]
+title: Enhancing rPPG Accuracy in Dynamic Environments
+date: 2025-04-25 13:09:13
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/enhancing-rppg-accuracy-in-dynamic-environments
+featured_image: /media/images/2504241308.avif
 ---
+
 
 Remote photoplethysmography (rPPG) has emerged as a promising non-contact method for estimating heart rate by analyzing subtle color variations in facial skin captured through video recordings. This technology offers significant advantages in terms of convenience and hygiene, making it particularly appealing for applications such as telemedicine, fitness tracking, and driver monitoring. However, the accuracy of rPPG can be compromised in real-world scenarios due to motion artifacts introduced by head movements, facial gestures, and environmental factors.
 

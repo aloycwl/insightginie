@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "OMFIF Public Blockchain Working Group Report (2025)"
-date: 2025-11-15T09:55:19
-categories: [6570]
+title: OMFIF Public Blockchain Working Group Report (2025)
+date: 2025-11-15 09:55:19
+categories:
+- web3
+- cryptocurrency
 original_url: https://insightginie.com/omfif-public-blockchain-working-group-report-2025
+featured_image: /media/images/2505190938.avif
 ---
+
 
 The report examines how public blockchains are evolving from experimental tools into viable components of the global financial system, while highlighting the regulatory, technological and governance challenges that must be addressed for mainstream adoption—especially by banks.
 

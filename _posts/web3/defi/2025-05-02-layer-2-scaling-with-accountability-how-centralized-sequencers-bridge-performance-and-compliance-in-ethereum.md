@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "Layer 2 Scaling with Accountability: How Centralized Sequencers Bridge Performance and Compliance in Ethereum"
-date: 2025-05-02T12:43:09
-categories: [2175]
+title: 'Layer 2 Scaling with Accountability: How Centralized Sequencers Bridge Performance
+  and Compliance in Ethereum'
+date: 2025-05-02 12:43:09
+categories:
+- web3
+- defi
 original_url: https://insightginie.com/layer-2-scaling-with-accountability-how-centralized-sequencers-bridge-performance-and-compliance-in-ethereum
+featured_image: /media/images/2505021243.avif
 ---
+
 
 As Ethereum continues to evolve into a global settlement layer for digital assets and decentralized applications, the challenge of scalability remains a critical hurdle. While Layer 1 provides unmatched security and decentralization, it struggles under the weight of rising demand, leading to high transaction fees and limited throughput. Enter Layer 2 (L2) solutions—an architectural leap that promises to bring scalability to Ethereum without compromising the foundational principles of security and transparency. But with this evolution comes a new trade-off: performance now rests heavily on the shoulders of centralized sequencers.
 

@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "RGB Video Health Monitoring: The Future of Contactless Vital Sign Detection"
-date: 2025-04-22T13:36:31
-categories: [118]
+title: 'RGB Video Health Monitoring: The Future of Contactless Vital Sign Detection'
+date: 2025-04-22 13:36:31
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/rgb-video-health-monitoring-the-future-of-contactless-vital-sign-detection
+featured_image: /media/images/2504220135.avif
 ---
+
 
 The concept of using a simple camera to monitor a person's health may sound like science fiction, but RGB video health monitoring is turning this futuristic idea into a practical reality. Leveraging standard red, green, and blue (RGB) imaging found in everyday webcams and smartphone cameras, this emerging field allows for non-contact measurement of physiological parameters such as heart rate, respiration rate, blood oxygen levels, and even emotional state. This innovative technique represents a powerful convergence of computer vision, biomedical engineering, and artificial intelligence.
 

@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Privacy Concerns in rPPG Health Monitoring"
-date: 2025-04-22T14:17:57
-categories: [118]
+title: Privacy Concerns in rPPG Health Monitoring
+date: 2025-04-22 14:17:57
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/privacy-concerns-in-rppg-health-monitoring
+featured_image: /media/images/2504220217.avif
 ---
+
 
 As technology continues to weave itself into the fabric of daily life, non-invasive health monitoring tools have emerged as both convenient and transformative. Among the most compelling innovations is remote photoplethysmography, or rPPG—a method of detecting vital signs such as heart rate, respiratory rate, and stress levels using only a camera. While rPPG's promise of contactless wellness tracking sounds like a leap forward in healthcare accessibility, it also opens a complex discussion on privacy, data ethics, and the potential for misuse.
 

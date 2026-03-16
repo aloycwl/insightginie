@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "AI Doctor Apps: Are Chatbots the Future of Primary Care?"
-date: 2025-04-26T12:49:06
-categories: [1326]
+title: 'AI Doctor Apps: Are Chatbots the Future of Primary Care?'
+date: 2025-04-26 12:49:06
+categories:
+- health
+- healthtech
 original_url: https://insightginie.com/ai-doctor-apps-are-chatbots-the-future-of-primary-care
+featured_image: /media/images/2504261249.avif
 ---
+
 
 The rise of artificial intelligence (AI) is transforming many aspects of our lives, and healthcare is no exception. AI-powered doctor apps and chatbots are emerging as a new frontier in primary care, offering convenient and accessible ways for patients to seek medical advice, manage their health, and connect with healthcare providers. But are these digital tools truly the future of primary care, or are they just a passing trend?
 

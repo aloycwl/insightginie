@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "How rPPG is Revolutionizing Sleep Quality Assessment in a Stressed-Out Modern World"
-date: 2025-04-22T13:31:08
-categories: [118]
+title: How rPPG is Revolutionizing Sleep Quality Assessment in a Stressed-Out Modern
+  World
+date: 2025-04-22 13:31:08
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/how-rppg-is-revolutionizing-sleep-quality-assessment-in-a-stressed-out-modern-world
+featured_image: /media/images/2504220130.avif
 ---
+
 
 In today's hyper-connected, always-on society, sleep has quietly become one of the most neglected pillars of health. The modern workforce, burdened by long hours, digital overload, and relentless stress, is sleeping less and worse than ever before. The World Health Organization has called sleep deprivation a global epidemic, with millions suffering from insomnia, sleep apnea, and general sleep fragmentation. The consequences are profound—poor sleep has been directly linked to a weakened immune system, increased risk of cardiovascular disease, impaired cognitive function, and even shortened life expectancy.
 

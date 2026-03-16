@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "BIP-177: The Proposal to Redefine Bitcoin Units and Eliminate &#8216;Satoshis&#8217;"
-date: 2025-05-20T09:07:47
-categories: [6570]
+title: 'BIP-177: The Proposal to Redefine Bitcoin Units and Eliminate &#8216;Satoshis&#8217;'
+date: 2025-05-20 09:07:47
+categories:
+- web3
+- cryptocurrency
 original_url: https://insightginie.com/bip-177-the-proposal-to-redefine-bitcoin-units-and-eliminate-satoshis
+featured_image: /media/images/2505200907.avif
 ---
+
 
 Bitcoin's smallest unit, the “satoshi,” has been a fundamental part of its structure since inception. However, a new proposal, BIP-177, suggests a significant change: redefining the base unit of Bitcoin and potentially phasing out the term “satoshi.” This proposal aims to simplify Bitcoin's unit representation, making it more intuitive for users.
 

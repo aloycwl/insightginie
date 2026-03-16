@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "The Rise of Machine Learning in rPPG: Beyond Signal Processing"
-date: 2025-04-22T12:24:20
-categories: [118]
+title: 'The Rise of Machine Learning in rPPG: Beyond Signal Processing'
+date: 2025-04-22 12:24:20
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/the-rise-of-machine-learning-in-rppg-beyond-signal-processing
+featured_image: /media/images/2504221223.avif
 ---
+
 
 Remote Photoplethysmography (rPPG), a non-contact method of measuring heart rate by analyzing subtle color changes in the skin, has seen a surge in interest. While traditional rPPG approaches relied heavily on signal processing techniques, the integration of machine learning has opened up new avenues for innovation and accuracy. This article will explore the role of machine learning in rPPG, delving into the learning process and the evolving hardware requirements for real-time analysis.
 

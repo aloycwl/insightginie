@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Voice Assistants Diagnosing You: Alexa, Are You My Doctor?"
-date: 2025-04-26T13:03:03
-categories: [1326]
+title: 'Voice Assistants Diagnosing You: Alexa, Are You My Doctor?'
+date: 2025-04-26 13:03:03
+categories:
+- health
+- healthtech
 original_url: https://insightginie.com/voice-assistants-diagnosing-you-alexa-are-you-my-doctor
+featured_image: /media/images/2504261303.avif
 ---
+
 
 Voice assistants like Alexa, Google Assistant, and Siri have become ubiquitous in our daily lives, helping us with everything from setting alarms to playing music. But could these AI-powered tools also play a role in diagnosing our health problems? The idea of using voice assistants for medical diagnosis is gaining traction, with developers creating skills and apps designed to provide health information, triage symptoms, and even offer treatment recommendations.
 

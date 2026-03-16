@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Beyond the Lens: Unlocking rPPG Potential through Multi-Modal Fusion"
-date: 2025-05-02T09:31:58
-categories: [118]
+title: 'Beyond the Lens: Unlocking rPPG Potential through Multi-Modal Fusion'
+date: 2025-05-02 09:31:58
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/beyond-the-lens-unlocking-rppg-potential-through-multi-modal-fusion
+featured_image: /media/images/2505020931.avif
 ---
+
 
 Remote photoplethysmography (rPPG) has become one of the most transformative technologies in the field of contactless health monitoring. By extracting physiological signals such as heart rate and respiratory rate from facial videos, rPPG is redefining how we think about non-invasive diagnostics. But despite its promise, standalone rPPG still struggles with a variety of real-world challenges—motion artifacts, lighting variations, low-resolution video feeds, and inconsistent skin tone representation. To overcome these obstacles and elevate the performance of rPPG systems, researchers and engineers are turning to an advanced approach: multi-modal fusion.
 

@@ -1,10 +1,15 @@
 ---
 layout: post
-title: "Making rPPG Reliable: The Role of Robustness and Uncertainty Quantification in Contactless Health Monitoring"
-date: 2025-05-02T09:25:51
-categories: [118]
+title: 'Making rPPG Reliable: The Role of Robustness and Uncertainty Quantification
+  in Contactless Health Monitoring'
+date: 2025-05-02 09:25:51
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/making-rppg-reliable-the-role-of-robustness-and-uncertainty-quantification-in-contactless-health-monitoring
+featured_image: /media/images/2505020925.avif
 ---
+
 
 In the expanding field of contactless health monitoring, remote photoplethysmography (rPPG) stands at the forefront as a non-invasive method for measuring vital signs using standard video cameras. From heart rate and respiratory tracking to emotional and stress analysis, rPPG promises to reshape how we understand and interact with our own health. But to truly fulfill its potential beyond controlled environments, one critical frontier must be conquered: robustness and uncertainty quantification.
 

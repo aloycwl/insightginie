@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Enhancing Remote Heart Rate Estimation"
-date: 2025-04-25T13:06:29
-categories: [118]
+title: Enhancing Remote Heart Rate Estimation
+date: 2025-04-25 13:06:29
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/enhancing-remote-heart-rate-estimation-the-power-of-multimodal-approaches-integrating-physical-attributes
+featured_image: /media/images/2504250105.avif
 ---
+
 
 Remote photoplethysmography (rPPG) has revolutionized the way we monitor vital signs, particularly heart rate, without the need for physical contact. By analyzing subtle color variations in facial skin captured through video, rPPG offers a non-invasive method for continuous health monitoring. However, traditional rPPG techniques often face challenges in accurately estimating heart rate due to factors like skin tone variations and lighting conditions. To address these limitations, researchers are increasingly turning to multimodal approaches that integrate physical attributes with rPPG signals, enhancing the accuracy and reliability of heart rate estimation.
 

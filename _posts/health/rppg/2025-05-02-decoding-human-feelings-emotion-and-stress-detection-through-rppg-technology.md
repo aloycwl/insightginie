@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Decoding Human Feelings: Emotion and Stress Detection through rPPG Technology"
-date: 2025-05-02T09:33:17
-categories: [118]
+title: 'Decoding Human Feelings: Emotion and Stress Detection through rPPG Technology'
+date: 2025-05-02 09:33:17
+categories:
+- health
+- rppg
 original_url: https://insightginie.com/decoding-human-feelings-emotion-and-stress-detection-through-rppg-technology
+featured_image: /media/images/2505020933.avif
 ---
+
 
 Remote photoplethysmography, or rPPG, has already proven itself as a groundbreaking method for contactless vital sign monitoring. Traditionally used to estimate heart rate and respiratory patterns through subtle color changes in facial video, rPPG is now entering a new frontier—one that reaches beyond physical wellness and into the emotional and psychological domains. As mental health becomes an increasing global priority, researchers and developers are leveraging the power of rPPG for emotion and stress detection, unlocking a new era of non-invasive affective computing.
 
