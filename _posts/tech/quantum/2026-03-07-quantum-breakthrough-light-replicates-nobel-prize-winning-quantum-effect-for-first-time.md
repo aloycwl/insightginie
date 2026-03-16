@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Quantum Breakthrough: Light Replicates Nobel Prize-Winning Quantum Effect for First Time"
-date: 2026-03-07T07:46:24
-categories: [10979]
+title: 'Quantum Breakthrough: Light Replicates Nobel Prize-Winning Quantum Effect
+  for First Time'
+date: 2026-03-07 07:46:24
+categories:
+- tech
+- quantum
 original_url: https://insightginie.com/quantum-breakthrough-light-replicates-nobel-prize-winning-quantum-effect-for-first-time
 ---
+
 
 **Introduction**:
 

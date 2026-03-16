@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "AI Sentinel: Guarding Your OpenClaw Gateway Against Prompt Injection Attacks"
-date: 2026-03-13T00:46:00
-categories: [24854]
+title: 'AI Sentinel: Guarding Your OpenClaw Gateway Against Prompt Injection Attacks'
+date: 2026-03-13 00:46:00
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/ai-sentinel-guarding-your-openclaw-gateway-against-prompt-injection-attacks
 ---
+
 
 **Introduction**
 

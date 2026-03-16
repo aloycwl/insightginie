@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Explain what this OpenClaw skill does: skills/skills/alirezarezvani/senior-prompt-engineer/SKILL.md at main · openclaw/skills · GitHub"
-date: 2026-03-14T00:45:34
-categories: [24854]
+title: "Explain what this OpenClaw skill does: skills/skills/alirezarezvani/senior-prompt-engineer/SKILL.md\
+  \ at main \xB7 openclaw/skills \xB7 GitHub"
+date: 2026-03-14 00:45:34
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/explain-what-this-openclaw-skill-does-skills-skills-alirezarezvani-senior-prompt-engineer-skill-md-at-main-%c2%b7-openclaw-skills-%c2%b7-github
 ---
+
 
 The 'senior-prompt-engineer' skill in the OpenClaw GitHub repository is designed to help users optimize, evaluate, and design prompts, as well as build agentic systems and implement RAG (Retrieval-Augmented Generation). This skill focuses on prompt engineering patterns, LLM evaluation frameworks, agent architectures, and structured output design.
 

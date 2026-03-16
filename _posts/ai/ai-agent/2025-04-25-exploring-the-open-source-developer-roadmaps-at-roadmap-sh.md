@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Exploring the Open-Source Developer Roadmaps at roadmap.sh"
-date: 2025-04-25T13:14:26
-categories: [16]
+title: Exploring the Open-Source Developer Roadmaps at roadmap.sh
+date: 2025-04-25 13:14:26
+categories:
+- ai
+- ai-agent
 original_url: https://insightginie.com/exploring-the-open-source-developer-roadmaps-at-roadmap-sh
 ---
+
 
 Embarking on a career in software development can often feel like navigating a vast and intricate landscape. With numerous technologies, frameworks, and methodologies to choose from, it's easy to become overwhelmed. This is where roadmap.sh comes into play, offering a structured and community-driven approach to guide developers through their learning journey.
 

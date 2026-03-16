@@ -11,6 +11,7 @@ featured_image: /media/images/281237.avif
 ---
 
 
+
 ### **Quiz Questions**
 
 You're a new artist about to release your first CD. What type of jacket design would you pick?

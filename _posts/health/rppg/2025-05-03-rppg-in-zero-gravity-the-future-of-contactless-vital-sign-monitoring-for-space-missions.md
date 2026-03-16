@@ -11,6 +11,7 @@ featured_image: /media/images/2505031435.avif
 ---
 
 
+
 ### Introduction: Vital Signs in Space — A New Frontier for rPPG Technology
 
 Space travel is no longer confined to science fiction. With the rise of commercial space ventures and international missions, astronaut health monitoring has become more critical—and complex—than ever. Traditional biomedical sensors, while reliable, are often intrusive, require maintenance, and can pose risks in zero-gravity environments. Enter **rPPG (remote photoplethysmography)**: a non-contact, camera-based technology that uses subtle light changes in facial skin to measure vital signs like heart rate, oxygen saturation, and respiratory rate.

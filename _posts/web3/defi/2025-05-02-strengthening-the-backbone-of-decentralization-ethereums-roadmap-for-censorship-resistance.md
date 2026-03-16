@@ -11,6 +11,7 @@ featured_image: /media/images/2505021244.avif
 ---
 
 
+
 As Ethereum continues to evolve into a foundational layer for decentralized finance, identity, and global coordination, one of its most essential responsibilities is to protect its users from undue influence and interference. Among the core values that have guided Ethereum since its inception, censorship resistance stands paramount. The network's ability to ensure free, permissionless access to its infrastructure is not just a philosophical ideal—it is a functional requirement in a world increasingly fraught with surveillance, overreach, and geopolitical fragmentation. Recognizing the growing complexity and pressures on transaction neutrality, Ethereum's development roadmap is actively embedding new layers of censorship resistance to fortify its trustless architecture.
 
 The urgency for these upgrades has intensified in recent years. As the network matured and its economic activity skyrocketed, Ethereum's ecosystem has witnessed the rise of sophisticated block builders, relayers, and validators, some of whom have begun selectively including or excluding transactions. Whether driven by compliance with sanctions lists or personal incentives, this soft censorship has the potential to erode the neutral foundations of Ethereum and compromise user expectations of equal access. If left unaddressed, it risks undermining confidence in the network's fairness and universality.

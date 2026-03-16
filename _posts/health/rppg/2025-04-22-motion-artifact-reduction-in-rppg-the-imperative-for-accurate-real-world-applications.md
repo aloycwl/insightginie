@@ -11,6 +11,7 @@ featured_image: /media/images/2504221040.avif
 ---
 
 
+
 Remote photoplethysmography (rPPG) has emerged as a promising technique for contactless and continuous monitoring of heart rate and other vital signs. This technology utilizes video cameras to analyze subtle color changes in the skin, revealing information about blood flow pulsations. However, a significant challenge to accurate rPPG measurements is the presence of motion artifacts.
 
 Motion artifacts, such as head movements, facial expressions, and subtle vibrations, can introduce noise into the rPPG signal, making it difficult to accurately extract the cardiac waveform. These artifacts can arise from various sources, including the subject's natural movements, environmental disturbances, and even camera jitter. The presence of motion artifacts can lead to inaccurate heart rate estimations, compromised data reliability, and ultimately hinder the successful deployment of rPPG in real-world applications.

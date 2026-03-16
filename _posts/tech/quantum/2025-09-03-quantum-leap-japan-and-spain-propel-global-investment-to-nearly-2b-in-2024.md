@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Quantum Leap: Japan and Spain Propel Global Investment to Nearly $2B in 2024"
-date: 2025-09-03T10:51:48
-categories: [10979]
+title: 'Quantum Leap: Japan and Spain Propel Global Investment to Nearly $2B in 2024'
+date: 2025-09-03 10:51:48
+categories:
+- tech
+- quantum
 original_url: https://insightginie.com/quantum-leap-japan-and-spain-propel-global-investment-to-nearly-2b-in-2024
 ---
+
 
 The quantum technology sector has experienced a significant surge in investment, with global funding reaching nearly $2 billion in 2024—a 50% increase from the previous year. This growth is largely attributed to substantial public investments from countries like Japan and Spain, signaling a strong commitment to advancing quantum research and development.
 

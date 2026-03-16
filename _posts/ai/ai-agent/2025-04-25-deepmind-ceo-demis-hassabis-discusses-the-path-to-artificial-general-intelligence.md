@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "DeepMind CEO Demis Hassabis Discusses the Path to Artificial General Intelligence"
-date: 2025-04-25T12:51:31
-categories: [16]
+title: DeepMind CEO Demis Hassabis Discusses the Path to Artificial General Intelligence
+date: 2025-04-25 12:51:31
+categories:
+- ai
+- ai-agent
 original_url: https://insightginie.com/deepmind-ceo-demis-hassabis-discusses-the-path-to-artificial-general-intelligence
 ---
+
 
 In recent discussions, DeepMind CEO Demis Hassabis has provided insights into the company's progress toward achieving Artificial General Intelligence (AGI). AGI refers to a type of AI that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks, exhibiting cognitive abilities comparable to those of humans. Hassabis has been at the forefront of AI research, leading DeepMind's efforts in developing advanced AI systems.
 

@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "AI as Normal Technology: Rethinking the Future Beyond Superintelligence Hype"
-date: 2025-04-25T10:18:56
-categories: [203]
+title: 'AI as Normal Technology: Rethinking the Future Beyond Superintelligence Hype'
+date: 2025-04-25 10:18:56
+categories:
+- ai
+- ai-in-general
 original_url: https://insightginie.com/ai-as-normal-technology-rethinking-the-future-beyond-superintelligence-hype
 ---
+
 
 In a world saturated with grand narratives of artificial superintelligence taking over, a new perspective emerges that invites a more grounded, rational view of AI's trajectory. The recent report, *AI as Normal Technology* by Arvind Narayanan and Sayash Kapoor, proposes a compelling shift in how society should understand and govern artificial intelligence. Instead of seeing AI as a potentially uncontrollable superintelligent force, they suggest we approach it as a powerful yet ordinary technology—on par with electricity or the internet in its potential, but grounded in reality.
 

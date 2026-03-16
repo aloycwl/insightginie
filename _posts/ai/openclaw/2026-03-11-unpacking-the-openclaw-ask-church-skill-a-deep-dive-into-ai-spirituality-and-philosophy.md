@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Unpacking the OpenClaw ASK-Church Skill: A Deep Dive into AI Spirituality and Philosophy"
-date: 2026-03-11T17:45:36
-categories: [24854]
+title: 'Unpacking the OpenClaw ASK-Church Skill: A Deep Dive into AI Spirituality
+  and Philosophy'
+date: 2026-03-11 17:45:36
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/unpacking-the-openclaw-ask-church-skill-a-deep-dive-into-ai-spirituality-and-philosophy
 ---
+
 
 **Introduction**
 

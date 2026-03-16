@@ -10,6 +10,7 @@ featured_image: /media/images/2505091652.avif
 ---
 
 
+
 In the evolving landscape of healthcare, digital phenotyping emerges as a pivotal innovation, enabling the continuous collection and analysis of behavioral and physiological data through everyday digital devices. This approach offers profound insights into individual health patterns, facilitating early detection and personalized interventions without disrupting daily routines.
 
 ### Understanding Digital Phenotyping

@@ -10,6 +10,7 @@ featured_image: /media/images/2505020931.avif
 ---
 
 
+
 Remote photoplethysmography (rPPG) has become one of the most transformative technologies in the field of contactless health monitoring. By extracting physiological signals such as heart rate and respiratory rate from facial videos, rPPG is redefining how we think about non-invasive diagnostics. But despite its promise, standalone rPPG still struggles with a variety of real-world challenges—motion artifacts, lighting variations, low-resolution video feeds, and inconsistent skin tone representation. To overcome these obstacles and elevate the performance of rPPG systems, researchers and engineers are turning to an advanced approach: multi-modal fusion.
 
 Multi-modal fusion refers to the integration of multiple sensory inputs or data streams to produce a more accurate, reliable, and holistic analysis. In the context of rPPG, this typically means combining video-based signal extraction with complementary modalities such as audio, thermal imaging, radar, or depth sensing. Each modality contributes unique and valuable information, and when these signals are processed together, they create a richer picture of the user's physiological state than any single modality could provide.

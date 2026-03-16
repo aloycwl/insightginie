@@ -10,6 +10,7 @@ featured_image: /media/images/2505020933.avif
 ---
 
 
+
 Remote photoplethysmography, or rPPG, has already proven itself as a groundbreaking method for contactless vital sign monitoring. Traditionally used to estimate heart rate and respiratory patterns through subtle color changes in facial video, rPPG is now entering a new frontier—one that reaches beyond physical wellness and into the emotional and psychological domains. As mental health becomes an increasing global priority, researchers and developers are leveraging the power of rPPG for emotion and stress detection, unlocking a new era of non-invasive affective computing.
 
 At the heart of this shift is a simple truth: our emotional and mental states leave physiological traces. Stress, anxiety, frustration, calmness, and joy all manifest through changes in cardiovascular patterns, skin temperature, micro-facial expressions, and breathing rhythms. Unlike traditional emotion recognition techniques that rely heavily on facial expression classification or voice tone analysis, rPPG focuses on the physiological side of emotion—offering a more objective and often subtler measure of how we truly feel.

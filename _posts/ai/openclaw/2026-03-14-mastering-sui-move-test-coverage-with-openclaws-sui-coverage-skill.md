@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Mastering Sui Move Test Coverage with OpenClaw&#8217;s SUI-Coverage Skill"
-date: 2026-03-14T05:46:00
-categories: [24854]
+title: Mastering Sui Move Test Coverage with OpenClaw&#8217;s SUI-Coverage Skill
+date: 2026-03-14 05:46:00
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/mastering-sui-move-test-coverage-with-openclaws-sui-coverage-skill
 ---
+
 
 In the rapidly evolving world of blockchain technology, ensuring the reliability and security of smart contracts is paramount. Sui Move, a powerful smart contract language for the Sui blockchain, demands robust testing techniques to guarantee its integrity. OpenClaw's [SUI-Coverage skill](https://github.com/EasonC13-agent/sui-skills/tree/main/sui-coverage) offers developers an innovative approach to analyze, identify gaps, and automatically improve Sui Move test coverage. This article explores how this powerful tool can transform smart contract testing and enhance overall security.
 

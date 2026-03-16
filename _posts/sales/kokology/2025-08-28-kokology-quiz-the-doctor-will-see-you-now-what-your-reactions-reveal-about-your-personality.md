@@ -11,6 +11,7 @@ featured_image: /media/images/281246.avif
 ---
 
 
+
 ### **Quiz Questions**
 
 You are in the lobby of a medical clinic, waiting for your name to be called. A small boy is racing around the waiting area unattended and you warn him to be careful and slow down.

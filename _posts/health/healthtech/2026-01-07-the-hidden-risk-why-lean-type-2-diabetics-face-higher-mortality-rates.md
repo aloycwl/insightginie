@@ -10,4 +10,5 @@ featured_image: /media/images/2507031315.avif
 ---
 
 
+
 The Surprising Truth: When Lower BMI Means Higher Risk for Type 2 Diabetics

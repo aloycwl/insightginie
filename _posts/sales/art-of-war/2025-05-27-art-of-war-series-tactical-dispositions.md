@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Art of War Series: Tactical Dispositions"
-date: 2025-05-27T14:39:28
-categories: [5895]
+title: 'Art of War Series: Tactical Dispositions'
+date: 2025-05-27 14:39:28
+categories:
+- sales
+- art-of-war
 original_url: https://insightginie.com/art-of-war-series-tactical-dispositions
 ---
+
 
 1. Sun Tzu said: The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.
 2. To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.

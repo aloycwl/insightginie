@@ -10,6 +10,7 @@ featured_image: /media/images/8151.jpg
 ---
 
 
+
 Are Partnerships Replacing Sales Teams? A New Framework For Growth
 ==================================================================
 

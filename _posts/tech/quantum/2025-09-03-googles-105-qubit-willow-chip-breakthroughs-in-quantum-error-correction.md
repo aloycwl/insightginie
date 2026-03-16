@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Google's 105-Qubit Willow Chip: Breakthroughs in Quantum Error Correction"
-date: 2025-09-03T10:55:11
-categories: [10979]
+title: 'Google''s 105-Qubit Willow Chip: Breakthroughs in Quantum Error Correction'
+date: 2025-09-03 10:55:11
+categories:
+- tech
+- quantum
 original_url: https://insightginie.com/googles-105-qubit-willow-chip-breakthroughs-in-quantum-error-correction
 ---
+
 
 Google has unveiled its latest quantum processor, the 105-qubit “Willow” chip, signaling a major milestone in the race toward practical, fault-tolerant quantum computing. Coupled with advances in error correction techniques, this development positions Google at the forefront of scalable quantum technology and has implications for industries from cryptography to pharmaceuticals.
 

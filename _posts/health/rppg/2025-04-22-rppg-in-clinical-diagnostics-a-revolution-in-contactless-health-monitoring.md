@@ -10,6 +10,7 @@ featured_image: /media/images/2504220128.avif
 ---
 
 
+
 Remote photoplethysmography, or rPPG, is rapidly emerging as a game-changer in the realm of clinical diagnostics. This non-invasive technology leverages standard RGB cameras to extract vital physiological information—such as heart rate, respiration rate, and blood oxygen saturation—by analyzing the subtle color changes in a patient's skin caused by blood flow. Originally a subject of academic interest and experimental setups, rPPG is now stepping confidently into the world of real-world healthcare, where its contactless nature offers transformative benefits across a range of clinical environments.
 
 The fundamental value of rPPG lies in its ability to monitor patients without the need for direct skin contact or wearable sensors. This capability is particularly advantageous in scenarios where traditional contact-based monitoring is impractical or undesirable, such as in neonatal care, burn units, infectious disease wards, and during telemedicine consultations. For instance, in neonatal intensive care units (NICUs), where fragile preterm infants can suffer from skin damage due to adhesive sensors, rPPG provides a gentle alternative that ensures continuous monitoring without physical interference.

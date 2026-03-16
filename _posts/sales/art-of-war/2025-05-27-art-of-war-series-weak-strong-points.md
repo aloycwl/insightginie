@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Art of War Series: Weak &amp; Strong Points"
-date: 2025-05-27T14:46:15
-categories: [5895]
+title: 'Art of War Series: Weak &amp; Strong Points'
+date: 2025-05-27 14:46:15
+categories:
+- sales
+- art-of-war
 original_url: https://insightginie.com/art-of-war-series-weak-strong-points
 ---
+
 
 1. Sun Tzu said: Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted.
 2. Therefore the clever combatant imposes his will on the enemy, but does not allow the enemy's will to be imposed on him.

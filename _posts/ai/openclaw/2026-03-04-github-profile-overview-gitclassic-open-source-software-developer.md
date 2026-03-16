@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "GitHub Profile Overview: gitclassic &#8211; Open Source Software Developer"
-date: 2026-03-04T17:00:43
-categories: [24854]
+title: 'GitHub Profile Overview: gitclassic &#8211; Open Source Software Developer'
+date: 2026-03-04 17:00:43
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/github-profile-overview-gitclassic-open-source-software-developer
 ---
+
 
 OpenClaw is a powerful tool that allows developers to easily extract structured data from websites and convert it into usable formats. This article will explore how OpenClaw can be used to extract information from GitHub profiles and provide a comprehensive overview of a developer's online presence.
 

@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Art of War Series: Laying Plans"
-date: 2025-05-27T14:24:20
-categories: [5895]
+title: 'Art of War Series: Laying Plans'
+date: 2025-05-27 14:24:20
+categories:
+- sales
+- art-of-war
 original_url: https://insightginie.com/art-of-war-series-laying-plans
 ---
+
 
 1. Sun Tzu said: The art of war is of vital importance to the State.
 2. It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected.

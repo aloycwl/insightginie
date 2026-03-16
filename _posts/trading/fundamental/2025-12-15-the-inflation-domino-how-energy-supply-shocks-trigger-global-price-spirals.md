@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "The Inflation Domino: How Energy Supply Shocks Trigger Global Price Spirals"
-date: 2025-12-15T12:53:20
-categories: [19160]
+title: 'The Inflation Domino: How Energy Supply Shocks Trigger Global Price Spirals'
+date: 2025-12-15 12:53:20
+categories:
+- trading
+- fundamental
 original_url: https://insightginie.com/the-inflation-domino-how-energy-supply-shocks-trigger-global-price-spirals
 ---
+
 
 In the intricate web of the global economy, energy is the spider. It is the master input, the foundational commodity upon which all other economic activity is built. When the price of an iPhone rises, it affects a niche group of consumers. When the price of energy rises, it affects every living being and every operating business on the planet.
 

@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "How to Trade Bullish and Bearish Tri-Star Candlestick Patterns"
-date: 2025-04-30T09:16:19
-categories: [2678]
+title: How to Trade Bullish and Bearish Tri-Star Candlestick Patterns
+date: 2025-04-30 09:16:19
+categories:
+- trading
+- candle
 original_url: https://insightginie.com/how-to-trade-bullish-and-bearish-tri-star-candlestick-patterns
 ---
+
 
 In the realm of technical analysis, certain candlestick patterns are prized not for their frequency, but for their accuracy. The **tri-star candlestick pattern** is one such rare but powerful formation that signals a high-probability market reversal. Found at key turning points, the bullish and bearish tri-star patterns are made up of three consecutive dojis, each indicating market indecision and exhaustion, and together forming a compelling signal for a potential trend reversal.
 

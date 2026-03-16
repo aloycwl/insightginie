@@ -11,5 +11,6 @@ featured_image: /media/images/2505160917.avif
 ---
 
 
+
 Invasive Klebsiella Syndrome (IKS) is an emerging infectious disease characterized by severe infections that can spread to multiple organs, including the liver, lungs, eyes, and brain. Primarily caused by hypervirulent strains of *Klebsiella pneumoniae* (hvKp), IKS poses a significant threat, especially to individuals with underlying conditions such as diabetes mellitus. Early detection is paramount in managing this life-threatening condition effectively.
 

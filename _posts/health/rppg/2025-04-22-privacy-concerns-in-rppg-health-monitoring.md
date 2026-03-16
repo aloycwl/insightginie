@@ -10,6 +10,7 @@ featured_image: /media/images/2504220217.avif
 ---
 
 
+
 As technology continues to weave itself into the fabric of daily life, non-invasive health monitoring tools have emerged as both convenient and transformative. Among the most compelling innovations is remote photoplethysmography, or rPPG—a method of detecting vital signs such as heart rate, respiratory rate, and stress levels using only a camera. While rPPG's promise of contactless wellness tracking sounds like a leap forward in healthcare accessibility, it also opens a complex discussion on privacy, data ethics, and the potential for misuse.
 
 The crux of rPPG technology lies in its ability to analyze subtle color changes in facial skin caused by blood flow, using standard RGB video captured by devices like smartphones, webcams, or surveillance cameras. This functionality enables real-time physiological monitoring without the user even being aware. It is precisely this seamless and unobtrusive capability that raises red flags for privacy advocates. Unlike traditional biometric systems that require explicit participation, such as fingerprint scans or wearable heart monitors, rPPG can be conducted from a distance—silently collecting health data without consent or knowledge.

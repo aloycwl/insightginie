@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Llama 3 8B with 1.58-Bit Quantization: Pioneering Efficient AI at Scale"
-date: 2025-04-29T15:59:37
-categories: [16]
+title: 'Llama 3 8B with 1.58-Bit Quantization: Pioneering Efficient AI at Scale'
+date: 2025-04-29 15:59:37
+categories:
+- ai
+- ai-agent
 original_url: https://insightginie.com/llama-3-8b-with-1-58-bit-quantization-pioneering-efficient-ai-at-scale
 ---
+
 
 In the rapidly evolving landscape of artificial intelligence, the quest for models that balance performance with efficiency has become paramount. Meta AI's Llama 3 8B model, when combined with 1.58-bit quantization and trained on 100 billion tokens, represents a significant stride in this direction.​
 

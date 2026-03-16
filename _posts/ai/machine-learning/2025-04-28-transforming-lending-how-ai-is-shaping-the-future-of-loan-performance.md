@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Transforming Lending: How AI is Shaping the Future of Loan Performance"
-date: 2025-04-28T09:09:54
-categories: [74]
+title: 'Transforming Lending: How AI is Shaping the Future of Loan Performance'
+date: 2025-04-28 09:09:54
+categories:
+- ai
+- machine-learning
 original_url: https://insightginie.com/transforming-lending-how-ai-is-shaping-the-future-of-loan-performance
 ---
+
 
 Artificial intelligence (AI) is transforming industries at an unprecedented pace, and the lending sector is experiencing some of the most profound changes. Traditionally, evaluating loan performance involved manual reviews, rigid credit scoring systems, and time-consuming underwriting processes. However, the rise of AI is redefining how financial institutions assess risk, monitor portfolios, and predict loan outcomes, ushering in a smarter, faster, and more inclusive era of lending.
 

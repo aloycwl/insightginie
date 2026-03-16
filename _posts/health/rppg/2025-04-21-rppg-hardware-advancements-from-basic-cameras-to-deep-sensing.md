@@ -10,6 +10,7 @@ featured_image: /media/images/2504212251.avif
 ---
 
 
+
 **Remote photoplethysmography (rPPG)** has emerged as a non-contact, non-invasive technology with the potential to revolutionize how we monitor vital signs. By analyzing subtle changes in facial skin color, rPPG can estimate heart rate and other physiological parameters. While the underlying principle remains the same, advancements in hardware have significantly improved the accuracy, reliability, and accessibility of rPPG.
 
 Current Hardware Requirements

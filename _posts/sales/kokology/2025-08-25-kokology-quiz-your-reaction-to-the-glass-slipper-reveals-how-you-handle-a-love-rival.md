@@ -11,6 +11,7 @@ featured_image: /media/images/252219.avif
 ---
 
 
+
 ### **Quiz Question**
 
 Imagine you are Cinderella. The glass slipper is placed on your stepsister's foot—and it fits perfectly. What will you do?

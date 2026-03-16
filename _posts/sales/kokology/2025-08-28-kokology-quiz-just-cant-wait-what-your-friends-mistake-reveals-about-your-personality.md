@@ -11,6 +11,7 @@ featured_image: /media/images/281243.avif
 ---
 
 
+
 ### **Quiz Question**
 
 You visit your friend who has a new job, but he is having some kind of trouble. What did he do wrong?

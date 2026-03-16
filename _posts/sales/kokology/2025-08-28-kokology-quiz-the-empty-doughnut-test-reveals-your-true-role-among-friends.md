@@ -10,6 +10,7 @@ featured_image: /media/images/281031.avif
 ---
 
 
+
 ### **Quiz Question**
 
 You have a super lucky day and went to a local bakery to buy a jelly doughnut. You open it at home and find the jelly is missing inside. How would you react?

@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Trawl: The Autonomous Agent Lead Generation Skill That Works While You Sleep"
-date: 2026-03-04T20:02:49
-categories: [24854]
+title: 'Trawl: The Autonomous Agent Lead Generation Skill That Works While You Sleep'
+date: 2026-03-04 20:02:49
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/trawl-the-autonomous-agent-lead-generation-skill-that-works-while-you-sleep
 ---
+
 
 In the rapidly evolving landscape of autonomous agents and AI-powered business development, a new skill has emerged that's changing how agents generate leads and build professional networks. Meet Trawl, the autonomous agent lead generation skill that works tirelessly while you sleep, networking through agent social networks to find your next business opportunity.
 

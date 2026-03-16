@@ -10,6 +10,7 @@ featured_image: /media/images/2505131412.avif
 ---
 
 
+
 ### H2: From Game Dev to Bitcoin Strategist
 
 Before becoming one of Bitcoin's most recognizable figures, **Samson Mow** built a career in video game publishing and tech innovation. He served as **Chief Strategy Officer at Blockstream**, a Bitcoin infrastructure company, and was pivotal in launching the **Liquid Network**, a Bitcoin sidechain for faster, confidential transactions.

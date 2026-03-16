@@ -11,5 +11,6 @@ featured_image: /media/images/2505142157.avif
 ---
 
 
+
 In a landmark move that underscores the growing convergence between traditional finance and the cryptocurrency sector, Twenty One Capital has announced a $3.6 billion merger with Cantor Equity Partners (CEP), a special-purpose acquisition company (SPAC) affiliated with Cantor Fitzgerald. This strategic alliance aims to establish Twenty One as a dominant force in institutional Bitcoin investment.
 

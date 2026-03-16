@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Auto Shorts Repurposer: Transform Long-Form Content into Engaging Short Clips"
-date: 2026-03-05T14:01:25
-categories: [24854]
+title: 'Auto Shorts Repurposer: Transform Long-Form Content into Engaging Short Clips'
+date: 2026-03-05 14:01:25
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/auto-shorts-repurposer-transform-long-form-content-into-engaging-short-clips
 ---
+
 
 The Auto Shorts Repurposer is an innovative skill designed to help content creators efficiently transform long-form media into engaging short-form clips optimized for today's popular social platforms. This comprehensive tool analyzes lengthy videos, podcasts, or livestreams and generates a strategic plan for creating multiple short clips that capture attention and drive engagement.
 

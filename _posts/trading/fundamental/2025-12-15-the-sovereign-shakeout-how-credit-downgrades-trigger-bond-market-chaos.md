@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "The Sovereign Shakeout: How Credit Downgrades Trigger Bond Market Chaos"
-date: 2025-12-15T12:40:48
-categories: [19160]
+title: 'The Sovereign Shakeout: How Credit Downgrades Trigger Bond Market Chaos'
+date: 2025-12-15 12:40:48
+categories:
+- trading
+- fundamental
 original_url: https://insightginie.com/the-sovereign-shakeout-how-credit-downgrades-trigger-bond-market-chaos
 ---
+
 
 In the hierarchy of global finance, sovereign debt is supposed to be the bedrock—the “risk-free” foundation upon which all other assets are priced. But what happens when the bedrock cracks?
 

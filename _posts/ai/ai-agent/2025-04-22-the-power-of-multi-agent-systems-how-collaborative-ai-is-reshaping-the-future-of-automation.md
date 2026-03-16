@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "The Power of Multi-Agent Systems: How Collaborative AI is Reshaping the Future of Automation"
-date: 2025-04-22T13:45:17
-categories: [16]
+title: 'The Power of Multi-Agent Systems: How Collaborative AI is Reshaping the Future
+  of Automation'
+date: 2025-04-22 13:45:17
+categories:
+- ai
+- ai-agent
 original_url: https://insightginie.com/the-power-of-multi-agent-systems-how-collaborative-ai-is-reshaping-the-future-of-automation
 ---
+
 
 Artificial intelligence is no longer confined to single, all-knowing models acting in isolation. As technology evolves, the concept of distributed intelligence has taken center stage, with multi-agent systems (MAS) leading the charge. Multi-agent systems consist of multiple autonomous agents—each capable of sensing, deciding, and acting—interacting within a shared environment. These systems draw inspiration from nature and society, where groups of agents, such as ants, bees, or humans, work together to achieve complex objectives that would be impossible for individuals to accomplish alone.
 

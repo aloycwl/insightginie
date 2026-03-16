@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "BitNet b1.58 2B4T: Microsoft&#8217;s 1-Bit LLM Now Available on Hugging Face​"
-date: 2025-04-30T10:01:47
-categories: [16]
+title: "BitNet b1.58 2B4T: Microsoft&#8217;s 1-Bit LLM Now Available on Hugging Face\u200B"
+date: 2025-04-30 10:01:47
+categories:
+- ai
+- ai-agent
 original_url: https://insightginie.com/bitnet-b1-58-2b4t-microsofts-1-bit-llm-now-available-on-hugging-face
 ---
+
 
 In a significant stride towards efficient and scalable artificial intelligence, Microsoft Research has unveiled BitNet b1.58 2B4T, a 2-billion parameter large language model (LLM) that operates using 1.58-bit quantization. This model is now accessible to the AI community via Hugging Face, marking a pivotal moment in the evolution of low-bit precision models.
 

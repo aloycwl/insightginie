@@ -10,6 +10,7 @@ featured_image: /media/images/2505021248.avif
 ---
 
 
+
 In the rapidly evolving landscape of cancer research and drug development, Crown Bioscience stands out as a global leader, offering comprehensive preclinical and translational services that accelerate the journey from discovery to clinical application. Headquartered in San Diego, California, and operating across 11 sites in the United States, Europe, and the Asia-Pacific region, Crown Bioscience has established itself as a trusted partner for biotech and pharmaceutical companies worldwide.
 
 Founded in 2006, Crown Bioscience has consistently expanded its capabilities to meet the growing demands of oncology and immuno-oncology research. The company's integration into JSR Life Sciences in 2018 further bolstered its resources and global reach, enabling a more robust offering of services and technologies.

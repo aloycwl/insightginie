@@ -10,6 +10,7 @@ featured_image: /media/images/2504250100.avif
 ---
 
 
+
 Remote photoplethysmography (rPPG) has emerged as a transformative technology in non-invasive health monitoring, enabling the estimation of vital signs such as heart rate through standard cameras. However, the accuracy of rPPG can be significantly influenced by variations in skin tone and lighting conditions. Understanding and addressing these factors are crucial for developing reliable and inclusive rPPG systems.
 
 Skin tone variations can impact the subtle changes in skin color that rPPG relies on to detect blood volume changes. Research indicates that rPPG methods may exhibit biases when applied to individuals with darker skin tones, leading to less accurate heart rate estimations. For instance, a study comparing rPPG methods with contact-based devices found that while the mean error was approximately 1 beat per minute (bpm) across all skin tones, the mean absolute error (MAE) for darker skin tones was slightly higher, around 3.79 bpm . This discrepancy underscores the need for rPPG systems to be trained on diverse datasets representing various skin tones to mitigate such biases.

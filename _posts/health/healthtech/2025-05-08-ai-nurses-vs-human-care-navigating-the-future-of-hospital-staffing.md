@@ -10,5 +10,6 @@ featured_image: /media/images/2505080936.avif
 ---
 
 
+
 Artificial Intelligence (AI) is rapidly transforming various sectors, and healthcare is no exception. From automating administrative tasks to assisting in clinical decision-making, AI technologies are being integrated into hospital settings worldwide. One notable development is the emergence of AI “nurses” designed to support or, in some cases, replace human nursing staff. While proponents argue that AI can alleviate staffing shortages and enhance efficiency, many human nurses express concerns about the implications for patient care and their professional roles.
 

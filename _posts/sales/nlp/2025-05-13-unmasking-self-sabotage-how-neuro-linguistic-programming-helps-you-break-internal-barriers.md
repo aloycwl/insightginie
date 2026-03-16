@@ -11,6 +11,7 @@ featured_image: /media/images/2505121018.avif
 ---
 
 
+
 Have you ever caught yourself procrastinating on a major goal, backing out of a great opportunity, or repeatedly falling into the same unhealthy patterns? Chances are, you're not lazy or unmotivated—you're experiencing **self-sabotage**.
 
 Self-sabotage is the unconscious process of **undermining your own success**. It shows up in ways that feel rational on the surface but are driven by hidden fears, limiting beliefs, and emotional conflicts. Left unchecked, self-sabotage can quietly derail careers, relationships, health, and happiness.

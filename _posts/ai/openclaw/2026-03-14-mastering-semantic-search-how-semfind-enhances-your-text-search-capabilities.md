@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Mastering Semantic Search: How semfind Enhances Your Text Search Capabilities"
-date: 2026-03-14T13:45:48
-categories: [24854]
+title: 'Mastering Semantic Search: How semfind Enhances Your Text Search Capabilities'
+date: 2026-03-14 13:45:48
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/mastering-semantic-search-how-semfind-enhances-your-text-search-capabilities
 ---
+
 
 **Introduction**
 

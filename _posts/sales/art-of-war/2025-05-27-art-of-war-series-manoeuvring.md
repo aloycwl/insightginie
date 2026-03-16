@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Art of War Series: Manoeuvring"
-date: 2025-05-27T14:51:28
-categories: [5895]
+title: 'Art of War Series: Manoeuvring'
+date: 2025-05-27 14:51:28
+categories:
+- sales
+- art-of-war
 original_url: https://insightginie.com/art-of-war-series-manoeuvring
 ---
+
 
 1. Sun Tzu said: In war, the general receives his commands from the sovereign.
 2. Having collected an army and concentrated his forces, he must blend and harmonise the different elements thereof before pitching his camp.

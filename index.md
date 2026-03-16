@@ -1,22 +1,27 @@
 ---
 layout: default
-title: InsightGinie Archive
+title: InsightGinie
 ---
 
-# InsightGinie Article Archive
+# InsightGinie
 
-Original site: https://insightginie.com
+Official site:  
+https://insightginie.com
+
+This repository is a mirror of the InsightGinie knowledge archive.
 
 ---
 
-## Latest Posts
+## Categories
 
 <ul>
 
-{% for post in site.posts limit:30 %}
+{% for category in site.categories %}
 
 <li>
-<a href="{{ post.url }}">{{ post.title }}</a>
+<a href="/category/{{ category[0] }}/">
+{{ category[0] | capitalize }} ({{ category[1].size }})
+</a>
 </li>
 
 {% endfor %}

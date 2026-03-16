@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Agentic AI: The New Era of Automation and Human Collaboration"
-date: 2025-04-30T16:01:42
-categories: [16]
+title: 'Agentic AI: The New Era of Automation and Human Collaboration'
+date: 2025-04-30 16:01:42
+categories:
+- ai
+- ai-agent
 original_url: https://insightginie.com/agentic-ai-the-new-era-of-automation-and-human-collaboration
 ---
+
 
 Artificial intelligence is rapidly evolving from a tool that assists with isolated tasks into a powerful ecosystem of autonomous agents capable of executing entire workflows. The groundbreaking report **“Artificial Intelligence Agents and Agentic Workflows: The New Frontier of Automation”** by Juan Gustavo Corvalán and his team at UBA IALAB offers a comprehensive and practical roadmap to understanding this paradigm shift. Published in 2025, the report bridges theory and application, demonstrating how generative AI is redefining automation, productivity, and the balance of power between machines and human oversight.
 

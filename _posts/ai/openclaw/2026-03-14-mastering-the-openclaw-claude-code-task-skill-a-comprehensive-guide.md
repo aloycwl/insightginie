@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Mastering the OpenClaw Claude Code Task Skill: A Comprehensive Guide"
-date: 2026-03-14T13:30:28
-categories: [24854]
+title: 'Mastering the OpenClaw Claude Code Task Skill: A Comprehensive Guide'
+date: 2026-03-14 13:30:28
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/mastering-the-openclaw-claude-code-task-skill-a-comprehensive-guide
 ---
+
 
 In the rapidly evolving landscape of AI-driven development, the ability to offload complex tasks to intelligent agents is a game-changer. Within the OpenClaw ecosystem, the **claude-code-task** skill stands out as a powerful utility designed for developers and power users who need to handle heavy-lifting tasks without keeping a session open. This article explores exactly what this skill does and how to harness its capabilities effectively.
 

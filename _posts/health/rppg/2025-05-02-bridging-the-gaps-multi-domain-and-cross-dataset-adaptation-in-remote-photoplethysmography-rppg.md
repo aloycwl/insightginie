@@ -11,6 +11,7 @@ featured_image: /media/images/25050209268.avif
 ---
 
 
+
 Remote photoplethysmography (rPPG) has rapidly gained recognition as a revolutionary tool for contactless vital sign monitoring. By capturing subtle color changes in the skin using regular cameras, rPPG systems can estimate heart rate, respiration, and even stress levels without the need for physical sensors. As this technology continues to evolve, a major barrier to real-world deployment is the challenge of generalization—ensuring that rPPG models perform reliably across different environments, devices, and user demographics. This is where multi-domain and cross-dataset adaptation become not just relevant, but essential.
 
 The problem arises from what is known as domain shift. A model trained on one dataset often struggles when applied to another due to differences in lighting conditions, camera specifications, skin tones, facial movements, or even background environments. These variations significantly affect the quality and consistency of physiological signals captured from videos. For instance, a model trained on a lab-controlled dataset may perform exceptionally well in that controlled setting, but its performance can deteriorate drastically when used in real-world scenarios like video calls, mobile apps, or outdoor surveillance.

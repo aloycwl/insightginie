@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "GitHub Profile Analysis: Cursor Agent Overview"
-date: 2026-03-04T18:15:58
-categories: [24854]
+title: 'GitHub Profile Analysis: Cursor Agent Overview'
+date: 2026-03-04 18:15:58
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/github-profile-analysis-cursor-agent-overview
 ---
+
 
 GitHub Profile Analysis: Cursor Agent Overview
 

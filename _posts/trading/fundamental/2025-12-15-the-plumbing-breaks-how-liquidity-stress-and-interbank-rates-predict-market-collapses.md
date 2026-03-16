@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "The Plumbing Breaks: How Liquidity Stress and Interbank Rates Predict Market Collapses"
-date: 2025-12-15T12:41:44
-categories: [19160]
+title: 'The Plumbing Breaks: How Liquidity Stress and Interbank Rates Predict Market
+  Collapses'
+date: 2025-12-15 12:41:44
+categories:
+- trading
+- fundamental
 original_url: https://insightginie.com/the-plumbing-breaks-how-liquidity-stress-and-interbank-rates-predict-market-collapses
 ---
+
 
 To the average retail investor, the stock market is a collection of flashing tickers, earnings reports, and moving averages. But to the seasoned macro strategist, these are merely the surface ripples of a much deeper ocean. The true currents that dictate the direction of the global economy flow through the opaque, high-stakes world of **Interbank Funding**.
 

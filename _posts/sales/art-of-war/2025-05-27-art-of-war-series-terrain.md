@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Art of War Series: Terrain"
-date: 2025-05-27T15:05:13
-categories: [5895]
+title: 'Art of War Series: Terrain'
+date: 2025-05-27 15:05:13
+categories:
+- sales
+- art-of-war
 original_url: https://insightginie.com/art-of-war-series-terrain
 ---
+
 
 1. Sun Tzu said: We may distinguish six kinds of terrain, to wit
    1. Accessible ground;

@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "AI in ASEAN: Transforming Economies and Shaping the Future of Southeast Asia"
-date: 2025-04-28T09:33:20
-categories: [203]
+title: 'AI in ASEAN: Transforming Economies and Shaping the Future of Southeast Asia'
+date: 2025-04-28 09:33:20
+categories:
+- ai
+- ai-in-general
 original_url: https://insightginie.com/ai-in-asean-transforming-economies-and-shaping-the-future-of-southeast-asia
 ---
+
 
 Artificial intelligence (AI) is rapidly reshaping the economic and social landscape of ASEAN, the Association of Southeast Asian Nations. Comprising ten diverse countries with dynamic economies, ASEAN is uniquely positioned to harness AI's transformative power to drive sustainable growth, improve public services, and elevate regional competitiveness. As AI adoption accelerates across industries and governments, ASEAN is becoming a vibrant hub of technological innovation, collaboration, and opportunity.
 

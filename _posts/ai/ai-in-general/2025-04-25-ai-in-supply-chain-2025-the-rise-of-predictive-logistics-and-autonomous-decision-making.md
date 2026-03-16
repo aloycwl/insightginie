@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "AI in Supply Chain 2025: The Rise of Predictive Logistics and Autonomous Decision-Making"
-date: 2025-04-25T10:46:35
-categories: [203]
+title: 'AI in Supply Chain 2025: The Rise of Predictive Logistics and Autonomous Decision-Making'
+date: 2025-04-25 10:46:35
+categories:
+- ai
+- ai-in-general
 original_url: https://insightginie.com/ai-in-supply-chain-2025-the-rise-of-predictive-logistics-and-autonomous-decision-making
 ---
+
 
 In 2025, artificial intelligence is no longer a supporting function in supply chain operations—it is the nerve center driving end-to-end efficiency, resilience, and adaptability. Global businesses have come to rely on AI-powered systems not just for automation but for orchestrating complex logistics networks that respond to real-time changes in demand, disruption, and consumer behavior. From demand forecasting to autonomous shipping decisions, AI is redefining how products move across the globe, ensuring that supply chains are not only smarter but future-proof.
 

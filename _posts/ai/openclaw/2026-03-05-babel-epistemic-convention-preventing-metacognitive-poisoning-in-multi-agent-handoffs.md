@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Babel Epistemic Convention: Preventing Metacognitive Poisoning in Multi-Agent Handoffs"
-date: 2026-03-05T11:41:11
-categories: [24854]
+title: 'Babel Epistemic Convention: Preventing Metacognitive Poisoning in Multi-Agent
+  Handoffs'
+date: 2026-03-05 11:41:11
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/babel-epistemic-convention-preventing-metacognitive-poisoning-in-multi-agent-handoffs
 ---
+
 
 The Babel Epistemic Convention is a sophisticated skill designed to address a critical failure mode in multi-agent systems: metacognitive poisoning. This skill prevents the silent inflation of confidence that occurs when agents hand off work to one another, ensuring that downstream agents maintain proper calibration of the information they receive rather than treating upstream inferences as verified facts.
 

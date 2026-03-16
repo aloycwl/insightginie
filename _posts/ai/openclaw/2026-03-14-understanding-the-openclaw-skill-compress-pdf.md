@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Understanding the OpenClaw Skill: Compress PDF"
-date: 2026-03-14T17:16:27
-categories: [24854]
+title: 'Understanding the OpenClaw Skill: Compress PDF'
+date: 2026-03-14 17:16:27
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/understanding-the-openclaw-skill-compress-pdf
 ---
+
 
 The OpenClaw compress-pdf skill is a specialized tool designed to efficiently compress PDF files through the Cross-Service-Solutions platform. This skill automates the entire process of PDF compression, from file upload to final download, making it an invaluable resource for users who need to reduce PDF file sizes without compromising quality.
 

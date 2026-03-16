@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "GITEX 2025 Day 1: AI, Cybersecurity, and Green Tech Take Center Stage in Singapore"
-date: 2025-04-24T09:14:37
-categories: [203]
+title: 'GITEX 2025 Day 1: AI, Cybersecurity, and Green Tech Take Center Stage in Singapore'
+date: 2025-04-24 09:14:37
+categories:
+- ai
+- ai-in-general
 original_url: https://insightginie.com/gitex-2025-day-1-ai-cybersecurity-and-green-tech-take-center-stage-in-singapore
 ---
+
 
 GITEX 2025 launched with a dynamic start, uniting global tech leaders, innovators, and policymakers across two major venues: Dubai and Singapore. The first day set the tone for a week of groundbreaking announcements, strategic collaborations, and visionary discussions, emphasizing the transformative power of technology in shaping our future.​
 

@@ -10,6 +10,7 @@ featured_image: /media/images/251913.avif
 ---
 
 
+
 ### **Quiz Question**
 
 You see a calming blue sky. What follows?

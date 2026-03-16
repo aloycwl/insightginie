@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "The Weaponization of Finance: How Sanctions Shatter Currency Markets"
-date: 2025-12-15T12:30:38
-categories: [19160]
+title: 'The Weaponization of Finance: How Sanctions Shatter Currency Markets'
+date: 2025-12-15 12:30:38
+categories:
+- trading
+- fundamental
 original_url: https://insightginie.com/the-weaponization-of-finance-how-sanctions-shatter-currency-markets
 ---
+
 
 In the modern era, the most devastating battles are not fought with ballistics or boots on the ground; they are fought on balance sheets. Economic sanctions have evolved into the primary weapon of choice for global superpowers, serving as a non-kinetic method to coerce adversaries. For the foreign exchange (FX) market, the deployment of these financial weapons creates shockwaves that can obliterate a currency's value overnight, alter trade flows, and fundamentally reshape the global financial architecture.
 

@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "AI Singapore: Driving Innovation and Shaping the Future of Technology"
-date: 2025-04-28T09:26:18
-categories: [203]
+title: 'AI Singapore: Driving Innovation and Shaping the Future of Technology'
+date: 2025-04-28 09:26:18
+categories:
+- ai
+- ai-in-general
 original_url: https://insightginie.com/ai-singapore-driving-innovation-and-shaping-the-future-of-technology
 ---
+
 
 Singapore has long been known as a global hub for innovation, and in recent years, the city-state has rapidly emerged as a powerhouse in artificial intelligence. At the heart of this transformation is AI Singapore, a national program launched in 2017 to catalyze, support, and nurture AI development across the country. Backed by the Singapore government and a consortium of research institutions and private sector partners, AI Singapore is playing a pivotal role in shaping the nation's future through technology.
 

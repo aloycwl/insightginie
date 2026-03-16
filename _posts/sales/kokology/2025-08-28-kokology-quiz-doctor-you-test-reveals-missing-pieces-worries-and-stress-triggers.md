@@ -11,6 +11,7 @@ featured_image: /media/images/281014.avif
 ---
 
 
+
 ### **Quiz Questions**
 
 Imagine you are a psychotherapist with your own private counseling practice.

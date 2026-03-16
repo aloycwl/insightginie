@@ -10,6 +10,7 @@ featured_image: /media/images/252239.avif
 ---
 
 
+
 ### **Quiz Questions**
 
 You are walking halfway and it suddenly starts pouring. What do you do?

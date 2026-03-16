@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Understanding OpenClaw&#8217;s Humanizer Skill: AI-Language Detection and Rectification"
-date: 2026-03-11T20:45:51
-categories: [24854]
+title: 'Understanding OpenClaw&#8217;s Humanizer Skill: AI-Language Detection and
+  Rectification'
+date: 2026-03-11 20:45:51
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/understanding-openclaws-humanizer-skill-ai-language-detection-and-rectification
 ---
+
 
 **Introduction**
 

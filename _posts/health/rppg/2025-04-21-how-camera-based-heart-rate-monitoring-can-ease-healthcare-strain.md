@@ -10,6 +10,7 @@ featured_image: /media/images/2504212205.avif
 ---
 
 
+
 *In a healthcare system often stretched thin, innovative technologies are offering a lifeline. Camera-based heart rate monitoring, leveraging the power of Remote Photoplethysmography (rPPG), is emerging as a crucial tool to save valuable time, reduce costs, and alleviate the burden on understaffed medical professionals.*
 
 The global healthcare landscape is facing immense pressure. Rising costs, an aging population, and persistent staffing shortages are creating a perfect storm, leading to longer wait times, increased workload for healthcare professionals, and potentially compromised patient care. In this challenging environment, finding ways to optimize workflows and free up valuable clinician time is paramount.

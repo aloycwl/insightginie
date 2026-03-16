@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Art of War Series: Variation in Tactics"
-date: 2025-05-27T14:55:59
-categories: [5895]
+title: 'Art of War Series: Variation in Tactics'
+date: 2025-05-27 14:55:59
+categories:
+- sales
+- art-of-war
 original_url: https://insightginie.com/art-of-war-series-variation-in-tactics
 ---
+
 
 1. Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces
 2. When in a difficult country, do not encamp. In a country where high roads intersect, join hands with your allies. Do not linger in dangerously isolated positions. In hemmed-in situations, you must resort to stratagem. In a desperate position, you must fight.

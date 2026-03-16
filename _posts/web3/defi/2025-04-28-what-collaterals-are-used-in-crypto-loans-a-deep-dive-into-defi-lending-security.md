@@ -10,6 +10,7 @@ featured_image: /media/images/2504282037.avif
 ---
 
 
+
 Crypto loans have reshaped the landscape of borrowing and lending by removing traditional intermediaries like banks and credit agencies. However, at the heart of any lending system—whether traditional or decentralized—lies a fundamental necessity: collateral. In the crypto world, collateral is not just a safety net for lenders but the very backbone that sustains the trustless nature of blockchain-based loans. Understanding what types of collaterals are used in crypto loans reveals a lot about how decentralized finance operates and why certain assets dominate this space.
 
 The most commonly used form of collateral in crypto loans is Bitcoin. As the largest and most established cryptocurrency, Bitcoin offers high liquidity, wide recognition, and deep markets, making it an attractive choice for both borrowers and lenders. Bitcoin's status as a “blue-chip” digital asset means that it generally commands more favorable borrowing terms compared to lesser-known tokens. Borrowers often pledge Bitcoin to obtain stablecoins or other cryptocurrencies without selling their holdings, especially if they believe the value of Bitcoin will continue to rise over time.

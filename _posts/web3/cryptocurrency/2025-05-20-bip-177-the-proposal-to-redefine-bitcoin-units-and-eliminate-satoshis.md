@@ -10,6 +10,7 @@ featured_image: /media/images/2505200907.avif
 ---
 
 
+
 Bitcoin's smallest unit, the “satoshi,” has been a fundamental part of its structure since inception. However, a new proposal, BIP-177, suggests a significant change: redefining the base unit of Bitcoin and potentially phasing out the term “satoshi.” This proposal aims to simplify Bitcoin's unit representation, making it more intuitive for users.
 
 ### Understanding BIP-177

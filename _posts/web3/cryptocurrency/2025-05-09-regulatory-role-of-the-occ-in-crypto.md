@@ -10,6 +10,7 @@ featured_image: /media/images/2505090955.avif
 ---
 
 
+
 The Office of the Comptroller of the Currency (OCC) has emerged as the foremost U.S. federal regulator enabling banks to engage in cryptocurrency activities—most notably through a series of interpretive letters clarifying authority for crypto custody, stablecoins, and distributed ledger networks. Since early 2025, Acting Comptroller Rodney Hood rescinded earlier restrictions and, in May, issued Interpretive Letter 1184 to explicitly permit crypto-asset custody and execution services by national banks and federal savings associations. However, mixed signals from the Federal Reserve and legal challenges underscore ongoing regulatory complexity. This article examines the OCC's evolving crypto framework, key guidance, industry impact, and future outlook for banks navigating digital-asset services.
 
 ### Mandate and Authority

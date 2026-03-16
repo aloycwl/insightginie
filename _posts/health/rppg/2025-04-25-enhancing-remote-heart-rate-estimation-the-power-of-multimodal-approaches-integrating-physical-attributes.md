@@ -10,6 +10,7 @@ featured_image: /media/images/2504250105.avif
 ---
 
 
+
 Remote photoplethysmography (rPPG) has revolutionized the way we monitor vital signs, particularly heart rate, without the need for physical contact. By analyzing subtle color variations in facial skin captured through video, rPPG offers a non-invasive method for continuous health monitoring. However, traditional rPPG techniques often face challenges in accurately estimating heart rate due to factors like skin tone variations and lighting conditions. To address these limitations, researchers are increasingly turning to multimodal approaches that integrate physical attributes with rPPG signals, enhancing the accuracy and reliability of heart rate estimation.
 
 Integrating physical attributes such as age, gender, weight, height, and body mass index (BMI) with rPPG signals provides a more comprehensive understanding of an individual's physiological state. These attributes offer valuable context that can help disambiguate the subtle color changes in facial skin that rPPG relies on. For instance, BMI has been shown to influence heart rate variability, and incorporating this information can lead to more accurate estimations. A study conducted by researchers at [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11644660/) demonstrated that combining rPPG signals with physical attributes resulted in a mean absolute error (MAE) of 3.057 beats per minute (bpm), outperforming traditional rPPG methods.

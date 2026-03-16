@@ -10,6 +10,7 @@ featured_image: /media/images/2504251226.avif
 ---
 
 
+
 In the realm of remote photoplethysmography (rPPG), a non-contact method for monitoring vital signs through video analysis, the challenge of obtaining accurate and noise-free signals has been a significant hurdle. Traditional approaches often struggle with motion artifacts, lighting variations, and other environmental factors that degrade signal quality. However, the integration of generative models, particularly Generative Adversarial Networks (GANs) and diffusion models, has ushered in a new era of signal enhancement, offering promising solutions to these longstanding issues.
 
 Generative models, through their ability to learn complex data distributions, have proven effective in generating high-quality synthetic data that closely resembles real-world signals. In the context of rPPG, these models can reconstruct clean and accurate pulse waveforms from noisy or incomplete input, thereby improving the reliability of vital sign measurements. One notable example is PulseGAN, a framework that utilizes GANs to generate realistic rPPG pulse signals by denoising chrominance signals. By incorporating adversarial loss functions alongside time and frequency domain error metrics, PulseGAN effectively enhances heart rate variability and interbeat interval estimations, even in cross-database scenarios.

@@ -11,6 +11,7 @@ featured_image: /media/images/2504251228.avif
 ---
 
 
+
 As healthcare technologies evolve, remote photoplethysmography (rPPG) has emerged as a transformative tool for non-contact health monitoring, including the estimation of blood pressure. Traditionally, blood pressure measurements require a cuff-based method, which can be uncomfortable, invasive, and impractical for continuous monitoring. However, rPPG, a technique that analyzes subtle variations in skin color caused by blood flow, offers a revolutionary solution by enabling blood pressure estimation without the need for physical contact.
 
 Blood pressure is a critical indicator of cardiovascular health, and its accurate measurement is vital for the prevention and management of various heart-related conditions, such as hypertension. rPPG works by capturing video data of a person's skin, typically from the face or fingertips, and detecting the minute changes in color that occur as blood circulates. These color fluctuations correspond to the expansion and contraction of blood vessels, which can be used to derive cardiovascular parameters, including heart rate and blood pressure.

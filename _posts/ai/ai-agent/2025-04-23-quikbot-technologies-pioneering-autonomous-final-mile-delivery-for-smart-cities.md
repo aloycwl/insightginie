@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "QuikBot Technologies: Pioneering Autonomous Final-Mile Delivery for Smart Cities"
-date: 2025-04-23T22:09:29
-categories: [16]
+title: 'QuikBot Technologies: Pioneering Autonomous Final-Mile Delivery for Smart
+  Cities'
+date: 2025-04-23 22:09:29
+categories:
+- ai
+- ai-agent
 original_url: https://insightginie.com/quikbot-technologies-pioneering-autonomous-final-mile-delivery-for-smart-cities
 ---
+
 
 In the rapidly evolving landscape of urban logistics, QuikBot Technologies has emerged as a trailblazer, introducing the world's first Autonomous Final-Mile Delivery Platform-as-a-Service (AFMD PaaS) . Founded in 2021 and headquartered in Singapore, the company is redefining last-mile delivery by integrating advanced robotics, artificial intelligence, and Internet of Things (IoT) technologies to create efficient, sustainable, and smart delivery solutions.
 

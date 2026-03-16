@@ -10,6 +10,7 @@ featured_image: /media/images/2504241308.avif
 ---
 
 
+
 Remote photoplethysmography (rPPG) has emerged as a promising non-contact method for estimating heart rate by analyzing subtle color variations in facial skin captured through video recordings. This technology offers significant advantages in terms of convenience and hygiene, making it particularly appealing for applications such as telemedicine, fitness tracking, and driver monitoring. However, the accuracy of rPPG can be compromised in real-world scenarios due to motion artifacts introduced by head movements, facial gestures, and environmental factors.
 
 Motion artifacts pose a significant challenge to the reliability of rPPG-based heart rate estimation. When the subject moves, the relative position between the camera and the face changes, leading to variations in the captured video data. These movements can distort the subtle color changes associated with blood flow, making it difficult for traditional rPPG algorithms to accurately extract the photoplethysmographic signal. As a result, heart rate estimations may become unreliable, undermining the effectiveness of rPPG in practical applications.

@@ -11,6 +11,7 @@ featured_image: /media/images/251416.avif
 ---
 
 
+
 ### **Quiz Questions**
 
 You journey to a mountain. Answer the following:

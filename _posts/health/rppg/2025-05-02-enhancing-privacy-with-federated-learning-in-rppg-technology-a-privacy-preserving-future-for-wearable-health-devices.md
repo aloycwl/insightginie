@@ -11,6 +11,7 @@ featured_image: /media/images/2505021300.avif
 ---
 
 
+
 The advent of wearable health technology has opened up transformative possibilities for continuous and real-time health monitoring. Among the most promising innovations in this field is remote photoplethysmography (rPPG), a non-invasive method that uses subtle changes in skin color to track vital signs like heart rate, blood oxygen levels, and respiratory patterns. However, as rPPG technology integrates with personal devices like smartwatches and fitness trackers, concerns about data privacy and security have become significant challenges. With the growing need to safeguard sensitive health data, privacy-preserving technologies like federated learning are gaining attention as a way to balance innovation with confidentiality.
 
 Federated learning is an emerging machine learning paradigm that enables collaborative data training without the need to centralize sensitive data. This decentralized approach is particularly valuable for privacy-sensitive applications, such as health monitoring systems powered by rPPG. In traditional machine learning, data from various sources is often pooled into a centralized database where it is used to train a global model. However, this approach poses privacy risks, as it requires transmitting and storing vast amounts of personal health data, which may expose individuals to security breaches or unauthorized access.

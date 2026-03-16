@@ -10,6 +10,7 @@ featured_image: /media/images/2505260917.avif
 ---
 
 
+
 Respiratory Syncytial Virus (RSV) is a common respiratory virus that affects the lungs and breathing passages. While it typically causes mild, cold-like symptoms in adults and older children, RSV can lead to severe respiratory illnesses in infants, young children, and older adults.
 
 ### Symptoms of RSV

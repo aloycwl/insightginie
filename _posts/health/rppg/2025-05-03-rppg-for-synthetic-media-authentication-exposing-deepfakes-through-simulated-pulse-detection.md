@@ -11,6 +11,7 @@ featured_image: /media/images/2505031451.avif
 ---
 
 
+
 ### Introduction: The Rise of Deepfakes and the Need for Biometric Countermeasures
 
 As deepfake technology becomes increasingly convincing and accessible, the digital world faces a growing threat to truth, identity, and security. Synthetic media can manipulate appearances, forge identities, and even simulate human speech—all with stunning realism. In this new frontier, **remote photoplethysmography (rPPG)** offers a powerful and innovative solution: **detecting whether a face in a video is real by analyzing subtle, physiological pulse signals** that deepfakes cannot accurately replicate.

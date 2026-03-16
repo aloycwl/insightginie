@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "The Currency of Trust: Why Central Bank Credibility is the Ultimate Market Mover"
-date: 2025-12-15T12:49:11
-categories: [19160]
+title: 'The Currency of Trust: Why Central Bank Credibility is the Ultimate Market
+  Mover'
+date: 2025-12-15 12:49:11
+categories:
+- trading
+- fundamental
 original_url: https://insightginie.com/the-currency-of-trust-why-central-bank-credibility-is-the-ultimate-market-mover
 ---
+
 
 In the complex machinery of the global economy, fiat currency is backed by nothing more than government decree. But beneath that decree lies a far more fragile and essential foundation: **Credibility**.
 

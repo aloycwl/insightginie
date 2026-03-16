@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Art of War Series: The Attack by Fire"
-date: 2025-05-27T15:15:29
-categories: [5895]
+title: 'Art of War Series: The Attack by Fire'
+date: 2025-05-27 15:15:29
+categories:
+- sales
+- art-of-war
 original_url: https://insightginie.com/art-of-war-series-the-attack-by-fire
 ---
+
 
 1. Sun Tzu said: There are five ways of attacking with fire. The first is to burn soldiers in their camp; the second is to burn stores; the third is to burn baggage trains; the fourth is to burn arsenals and magazines; the fifth is to hurl dropping fire amongst the enemy.
 2. In order to carry out an attack, we must have means available. The material for raising fire should always be kept in readiness.

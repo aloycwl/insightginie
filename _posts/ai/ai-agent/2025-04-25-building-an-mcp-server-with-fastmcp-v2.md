@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Building an MCP Server with FastMCP v2"
-date: 2025-04-25T13:17:14
-categories: [16]
+title: Building an MCP Server with FastMCP v2
+date: 2025-04-25 13:17:14
+categories:
+- ai
+- ai-agent
 original_url: https://insightginie.com/building-an-mcp-server-with-fastmcp-v2
 ---
+
 
 In the rapidly evolving landscape of AI development, integrating external tools and resources into large language models (LLMs) has become a pivotal aspect of enhancing their capabilities. The Model Context Protocol (MCP) offers a standardized approach to achieve this integration, allowing LLMs to seamlessly interact with custom tools, APIs, and data sources. FastMCP v2, a Pythonic framework for building MCP servers, simplifies this process, enabling developers to create robust and efficient servers with minimal boilerplate code.​
 

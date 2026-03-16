@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "The Domino Effect: How Markets Price Systemic Risk During a Banking Crisis"
-date: 2025-12-15T12:35:27
-categories: [19160]
+title: 'The Domino Effect: How Markets Price Systemic Risk During a Banking Crisis'
+date: 2025-12-15 12:35:27
+categories:
+- trading
+- fundamental
 original_url: https://insightginie.com/the-domino-effect-how-markets-price-systemic-risk-during-a-banking-crisis
 ---
+
 
 In the world of finance, trust is the currency of the realm. A bank is, at its core, a confidence trick: it takes in deposits on the promise of immediate liquidity, while lending that same money out for long-term projects. When that confidence evaporates, the result is not just a decline in stock price—it is an existential crisis.
 

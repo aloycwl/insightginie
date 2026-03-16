@@ -11,6 +11,7 @@ featured_image: /media/images/2505031447.avif
 ---
 
 
+
 ### Introduction: Bridging Health Data and Web3 with rPPG-Enabled NFTs
 
 The future of healthcare lies at the intersection of **decentralization, digital identity, and real-time biometric monitoring**. Enter **rPPG-enabled NFTs**—a groundbreaking concept that combines **remote photoplethysmography (rPPG)** with **non-fungible tokens (NFTs)** to securely and transparently tokenize **vital sign trends** such as heart rate, respiratory rate, and blood oxygen levels.

@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Sustainable Software Development: Coding with the Planet in Mind"
-date: 2025-05-01T19:35:38
-categories: [16]
+title: 'Sustainable Software Development: Coding with the Planet in Mind'
+date: 2025-05-01 19:35:38
+categories:
+- ai
+- ai-agent
 original_url: https://insightginie.com/sustainable-software-development-coding-with-the-planet-in-mind
 ---
+
 
 In the digital age, where software runs nearly every aspect of our lives, the environmental impact of software development is often overlooked. From the energy consumed by data centers to the carbon footprint left by inefficient code, the tech industry has a significant environmental footprint. However, as global awareness of climate change and sustainability grows, there is a movement towards more eco-friendly and sustainable software development practices. This approach, known as sustainable software development, involves creating software that is not only efficient but also mindful of its environmental impact.
 

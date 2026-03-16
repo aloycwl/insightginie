@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "BitNet a4.8: Advancing 1-Bit LLMs with 4-Bit Activations for Enhanced Efficiency"
-date: 2025-04-30T09:56:51
-categories: [16]
+title: 'BitNet a4.8: Advancing 1-Bit LLMs with 4-Bit Activations for Enhanced Efficiency'
+date: 2025-04-30 09:56:51
+categories:
+- ai
+- ai-agent
 original_url: https://insightginie.com/bitnet-a4-8-advancing-1-bit-llms-with-4-bit-activations-for-enhanced-efficiency
 ---
+
 
 As the demand for deploying large language models (LLMs) on resource-constrained environments grows, the focus has shifted towards optimizing both model weights and activations for efficiency. Building upon the foundation laid by BitNet b1.58, which introduced 1.58-bit quantized weights using ternary values (-1, 0, +1), researchers have now turned their attention to activation quantization. This progression has led to the development of BitNet a4.8, a model that employs 4-bit activations in conjunction with 1.58-bit weights, aiming to enhance inference efficiency without compromising performance.​
 

@@ -10,6 +10,7 @@ featured_image: /media/images/8155.jpg
 ---
 
 
+
 The Future of Clean Energy: Floating Solar Technology
 =====================================================
 

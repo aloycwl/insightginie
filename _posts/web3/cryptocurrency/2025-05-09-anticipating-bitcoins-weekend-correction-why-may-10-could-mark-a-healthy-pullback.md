@@ -11,6 +11,7 @@ featured_image: /media/images/2505090959.avif
 ---
 
 
+
 Bitcoin is poised for a short-term correction over the May 10, 2025 weekend, driven by overbought technical readings, reduced trading volumes, and historical seasonality patterns that suggest mid-May pullbacks are common.
 
 Market Context Before the Weekend

@@ -11,6 +11,7 @@ featured_image: /media/images/251421.avif
 ---
 
 
+
 ### **Quiz Question**
 
 You have everything ready and leave your house. Halfway, you realize you forgot your wallet. After searching everywhere around you, how much money can you find?

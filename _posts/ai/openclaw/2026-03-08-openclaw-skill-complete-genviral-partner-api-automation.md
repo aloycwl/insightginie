@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "OpenClaw Skill: Complete Genviral Partner API Automation"
-date: 2026-03-08T09:16:14
-categories: [24854]
+title: 'OpenClaw Skill: Complete Genviral Partner API Automation'
+date: 2026-03-08 09:16:14
+categories:
+- ai
+- openclaw
 original_url: https://insightginie.com/openclaw-skill-complete-genviral-partner-api-automation
 ---
+
 
 This OpenClaw skill delivers complete automation for Genviral's Partner API, wrapping all 42+ documented endpoints into a comprehensive CLI tool. The skill enables content creators to generate, schedule, and track posts across multiple platforms including TikTok, Instagram, and any other supported social media accounts.
 

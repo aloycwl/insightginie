@@ -11,6 +11,7 @@ featured_image: /media/images/261203.avif
 ---
 
 
+
 ### **Quiz Questions**
 
 You are watching an erupting volcano from a safe distance. What is your first thought?

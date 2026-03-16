@@ -11,6 +11,7 @@ featured_image: /media/images/2505021305.avif
 ---
 
 
+
 Remote photoplethysmography (rPPG) is increasingly becoming a cornerstone of modern health monitoring, offering a non-invasive method of tracking vital signs like heart rate and blood oxygen levels using simple optical sensors. Unlike traditional methods, which often require physical contact or complicated setups, rPPG leverages subtle changes in light reflected from the skin to detect blood flow variations, providing a wealth of health data through everyday wearable devices like smartwatches and fitness trackers. However, for rPPG to realize its full potential in practical, real-world applications, it must overcome several challenges, particularly in the areas of power consumption and illumination optimization.
 
 One of the primary advantages of rPPG is its ability to operate in a continuous, real-time mode. However, this continuous data acquisition can lead to significant energy consumption, which is a critical concern for wearable devices that are reliant on battery power. Low-power sensor technology plays a crucial role in mitigating this challenge, enabling devices to monitor vital signs effectively without quickly draining the battery. In the case of rPPG, sensors are responsible for detecting minute changes in skin color due to blood flow, and these sensors must be both accurate and energy-efficient to ensure that wearables can function for long periods without frequent recharging.

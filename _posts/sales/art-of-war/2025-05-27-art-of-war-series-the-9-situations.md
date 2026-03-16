@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Art of War Series: The 9 Situations"
-date: 2025-05-27T15:10:19
-categories: [5895]
+title: 'Art of War Series: The 9 Situations'
+date: 2025-05-27 15:10:19
+categories:
+- sales
+- art-of-war
 original_url: https://insightginie.com/art-of-war-series-the-9-situations
 ---
+
 
 1. Sun Tzu said: The art of war recognises nine varieties of ground:
    1. Dispersive ground;
