@@ -3,17 +3,16 @@ import os
 import json
 import subprocess
 import re
-from urllib.parse import urlparse
 from pathlib import Path
+from urllib.parse import urlparse
 from markdownify import markdownify as md
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
 SITE = "https://insightginie.com"
-API = f"{SITE}/wp-json/wp/v2/posts"
 
-PER_PAGE = 100
-THREADS = 10
+POST_API = f"{SITE}/wp-json/wp/v2/posts"
+CATEGORY_API = f"{SITE}/wp-json/wp/v2/categories"
 
 POST_DIR = "../_posts"
 MEDIA_DIR = "../media/images"
@@ -21,35 +20,17 @@ MEDIA_DIR = "../media/images"
 INDEX_FILE = "../index/posts.json"
 SYNC_FILE = "../index/sync.json"
 
+PER_PAGE = 100
+THREADS = 10
+
 os.makedirs(POST_DIR, exist_ok=True)
 os.makedirs(MEDIA_DIR, exist_ok=True)
 os.makedirs("../index", exist_ok=True)
 
-if os.path.exists(INDEX_FILE):
-    with open(INDEX_FILE) as f:
-        index = json.load(f)
-else:
-    index = {}
 
-def get_last_sync():
+def sanitize(content):
 
-    if not os.path.exists(SYNC_FILE):
-        return "2000-01-01T00:00:00"
-
-    with open(SYNC_FILE) as f:
-        return json.load(f)["last_sync"]
-
-
-def save_sync():
-
-    now = datetime.utcnow().isoformat()
-
-    with open(SYNC_FILE, "w") as f:
-        json.dump({"last_sync": now}, f)
-
-def sanitize_markdown(content):
-
-    import re
+    content = content.replace("‘", "'").replace("’", "'")
 
     content = re.sub(
         r"\{%\s*include\s+(.+?)\s*%\}",
@@ -70,14 +51,14 @@ def sanitize_markdown(content):
     return content
 
 
-def fetch_posts(last_sync):
+def fetch_categories():
 
-    posts = []
+    categories = {}
     page = 1
 
     while True:
 
-        url = f"{API}?per_page={PER_PAGE}&page={page}&modified_after={last_sync}"
+        url = f"{CATEGORY_API}?per_page=100&page={page}"
 
         r = requests.get(url)
 
@@ -89,16 +70,42 @@ def fetch_posts(last_sync):
         if not data:
             break
 
-        posts.extend(data)
+        for c in data:
+
+            categories[c["id"]] = {
+                "slug": c["slug"],
+                "parent": c["parent"]
+            }
 
         page += 1
 
-    return posts
+    return categories
+
+
+def resolve_category(cat_id, categories):
+
+    parts = []
+
+    while cat_id in categories:
+
+        c = categories[cat_id]
+
+        parts.append(c["slug"])
+
+        if c["parent"] == 0:
+            break
+
+        cat_id = c["parent"]
+
+    parts.reverse()
+
+    return parts
 
 
 def download_image(url):
 
     filename = os.path.basename(urlparse(url).path)
+
     path = os.path.join(MEDIA_DIR, filename)
 
     if os.path.exists(path):
@@ -106,7 +113,7 @@ def download_image(url):
 
     try:
 
-        r = requests.get(url, timeout=10)
+        r = requests.get(url)
 
         if r.status_code == 200:
 
@@ -130,14 +137,40 @@ def process_images(content):
 
         filenames = list(executor.map(download_image, urls))
 
-    for url, filename in zip(urls, filenames):
+    for url, name in zip(urls, filenames):
 
-        content = content.replace(url, f"/media/images/{filename}")
+        content = content.replace(url, f"/media/images/{name}")
 
     return content
 
 
-def convert_post(post):
+def fetch_posts(last_sync):
+
+    posts = []
+    page = 1
+
+    while True:
+
+        url = f"{POST_API}?per_page={PER_PAGE}&page={page}&modified_after={last_sync}"
+
+        r = requests.get(url)
+
+        if r.status_code != 200:
+            break
+
+        data = r.json()
+
+        if not data:
+            break
+
+        posts.extend(data)
+
+        page += 1
+
+    return posts
+
+
+def convert_post(post, categories):
 
     slug = post["slug"]
 
@@ -145,21 +178,20 @@ def convert_post(post):
     content = post["content"]["rendered"]
 
     date = post["date"]
-    modified = post["modified"]
-
-    categories = post["categories"]
-
-    category = "general"
-    subcategory = ""
-
-    if categories:
-        category = str(categories[0])
 
     content = process_images(content)
 
-    markdown = sanitize_markdown(md(content))
+    markdown = md(content)
 
-    folder = f"{POST_DIR}/{category}/{subcategory}"
+    markdown = sanitize(markdown)
+
+    cat_path = ["general"]
+
+    if post["categories"]:
+
+        cat_path = resolve_category(post["categories"][0], categories)
+
+    folder = os.path.join(POST_DIR, *cat_path)
 
     Path(folder).mkdir(parents=True, exist_ok=True)
 
@@ -169,48 +201,29 @@ def convert_post(post):
 layout: post
 title: "{title}"
 date: {date}
-categories: [{category}]
+categories: {cat_path}
 original_url: {SITE}/{slug}
 ---
 
 """
 
-    final = frontmatter + markdown
+    with open(os.path.join(folder, filename), "w", encoding="utf-8") as f:
 
-    with open(f"{folder}/{filename}", "w", encoding="utf-8") as f:
-        f.write(final)
-
-    index[slug] = modified
-
-    print("saved", slug)
-
-
-def process_post(post):
-
-    slug = post["slug"]
-    modified = post["modified"]
-
-    if slug in index and index[slug] == modified:
-        return
-
-    convert_post(post)
-
-
-def git_commit():
-
-    subprocess.run(["git", "add", "."])
-
-    result = subprocess.run(["git", "status", "--porcelain"], capture_output=True)
-
-    if result.stdout:
-
-        subprocess.run(["git", "commit", "-m", "wordpress sync"])
-        subprocess.run(["git", "push"])
+        f.write(frontmatter + markdown)
 
 
 def main():
 
-    last_sync = get_last_sync()
+    if os.path.exists(SYNC_FILE):
+
+        with open(SYNC_FILE) as f:
+            last_sync = json.load(f)["last_sync"]
+
+    else:
+
+        last_sync = "2000-01-01T00:00:00"
+
+    categories = fetch_categories()
 
     posts = fetch_posts(last_sync)
 
@@ -218,14 +231,19 @@ def main():
 
     with ThreadPoolExecutor(max_workers=THREADS) as executor:
 
-        executor.map(process_post, posts)
+        executor.map(lambda p: convert_post(p, categories), posts)
 
-    with open(INDEX_FILE, "w") as f:
-        json.dump(index, f, indent=2)
+    with open(SYNC_FILE, "w") as f:
 
-    save_sync()
+        json.dump({"last_sync": datetime.utcnow().isoformat()}, f)
 
-    git_commit()
+    subprocess.run(["git", "add", "."])
+
+    subprocess.run(["git", "commit", "-m", "wordpress sync"])
+
+    subprocess.run(["git", "pull", "--rebase"])
+
+    subprocess.run(["git", "push"])
 
 
 if __name__ == "__main__":
