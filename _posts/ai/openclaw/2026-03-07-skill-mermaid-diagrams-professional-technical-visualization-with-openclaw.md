@@ -60,7 +60,7 @@ The recommended approach uses a subagent to handle the complete workflow:
 3. Analyze content and select 3 appropriate diagram templates
 4. For each template:
    * Read template from assets directory
-   * Extract placeholders (``{{PLACEHOLDER\_NAME}}`` format)
+   * Extract placeholders (``{% raw %}{{PLACEHOLDER\_NAME}}{% endraw %}`` format)
    * Generate concise labels (max 8 words each) based on chapter content
 5. Create content.json with structure:
 

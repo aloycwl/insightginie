@@ -6,7 +6,7 @@ categories: [24854]
 original_url: https://insightginie.com/backtest-expert-skill-professional-systematic-backtesting-methodology
 ---
 
-``{% include 'header.html' with {'title': 'Backtest Expert Skill: Professional Systematic Backtesting Methodology', 'description': 'Learn how the Backtest Expert skill helps systematic traders develop robust strategies through professional backtesting methodology. Discover stress testing techniques, parameter robustness analysis, and bias prevention methods for quantitative trading success.'} %}``
+``{% raw %}{% include 'header.html' with {'title': 'Backtest Expert Skill: Professional Systematic Backtesting Methodology', 'description': 'Learn how the Backtest Expert skill helps systematic traders develop robust strategies through professional backtesting methodology. Discover stress testing techniques, parameter robustness analysis, and bias prevention methods for quantitative trading success.'} %}{% endraw %}``
 
 What is the Backtest Expert Skill?
 ----------------------------------
@@ -220,12 +220,12 @@ The methodology's emphasis on “beating ideas to death” rather than seeking o
 
 For any trader serious about systematic trading, the Backtest Expert skill provides an invaluable framework for developing, testing, and validating trading strategies with professional rigor and discipline.
 
-``{% include 'author.html' with {'author': 'John Smith', 'bio': 'Quantitative trading expert with 15+ years of experience in systematic strategy development and backtesting methodology.'} %}``
+``{% raw %}{% include 'author.html' with {'author': 'John Smith', 'bio': 'Quantitative trading expert with 15+ years of experience in systematic strategy development and backtesting methodology.'} %}{% endraw %}``
 
-``{% include 'related-posts.html' with {'tags': ['backtesting', 'trading strategy', 'systematic trading']} %}``
+``{% raw %}{% include 'related-posts.html' with {'tags': ['backtesting', 'trading strategy', 'systematic trading']} %}{% endraw %}``
 
-``{% include 'comments.html' %}``
+``{% raw %}{% include 'comments.html' %}{% endraw %}``
 
-``{% include 'footer.html' %}``
+``{% raw %}{% include 'footer.html' %}{% endraw %}``
 
 Skill can be found at: <https://github.com/openclaw/skills/tree/main/skills/itsjustfred/backtest-expert-0-1-0/SKILL.md>

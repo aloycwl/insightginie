@@ -11,7 +11,7 @@ Calling external APIs securely is one of the biggest challenges for AI agents. H
 How Keychains Works
 -------------------
 
-Instead of using actual API keys and tokens, you use placeholders like ``{{OAUTH2\_ACCESS\_TOKEN}}`` or ``{{STRIPE\_SECRET\_KEY}}``. Keychains intercepts these requests, replaces the placeholders with real credentials from the user's vault, and forwards the request to the API. The agent never sees the actual credentials.
+Instead of using actual API keys and tokens, you use placeholders like ``{% raw %}{{OAUTH2\_ACCESS\_TOKEN}}{% endraw %}`` or ``{% raw %}{{STRIPE\_SECRET\_KEY}}{% endraw %}``. Keychains intercepts these requests, replaces the placeholders with real credentials from the user's vault, and forwards the request to the API. The agent never sees the actual credentials.
 
 ### Installation
 
@@ -29,7 +29,7 @@ Replace your regular curl commands with keychains curl:
 
 ```
 keychains curl https://api.github.com/user/repos \
--H "Authorization: Bearer ``{{OAUTH2_ACCESS_TOKEN}}``"
+-H "Authorization: Bearer ``{% raw %}{{OAUTH2_ACCESS_TOKEN}}{% endraw %}``"
 ```
 
 The first time you use a placeholder, Keychains will return an approval link instead of the API response. This is normal – you need to show this link to the user for them to approve the credential usage via FaceID or Passkey.
@@ -43,7 +43,7 @@ Here are some common API calls you can make with Keychains:
 
 ```
 # List repositories
-keychains curl https://api.github.com/user/repos -H 'Authorization: Bearer ``{{OAUTH2_ACCESS_TOKEN}}``'
+keychains curl https://api.github.com/user/repos -H 'Authorization: Bearer ``{% raw %}{{OAUTH2_ACCESS_TOKEN}}{% endraw %}``'
 ```
 
 ### Slack API
@@ -51,7 +51,7 @@ keychains curl https://api.github.com/user/repos -H 'Authorization: Bearer ``{{O
 ```
 # Send a message to Slack
 keychains curl https://slack.com/api/chat.postMessage -X POST \
--H 'Authorization: Bearer ``{{OAUTH2_ACCESS_TOKEN}}``' \
+-H 'Authorization: Bearer ``{% raw %}{{OAUTH2_ACCESS_TOKEN}}{% endraw %}``' \
 -H 'Content-Type: application/json' \
 -d '{"channel":"#general","text":"Hello!"}'
 ```
@@ -61,7 +61,7 @@ keychains curl https://slack.com/api/chat.postMessage -X POST \
 ```
 # List customers
 keychains curl https://api.stripe.com/v1/customers?limit=5 \
--H 'Authorization: Bearer ``{{STRIPE_SECRET_KEY}}``'
+-H 'Authorization: Bearer ``{% raw %}{{STRIPE_SECRET_KEY}}{% endraw %}``'
 ```
 
 ### Gmail API
@@ -69,7 +69,7 @@ keychains curl https://api.stripe.com/v1/customers?limit=5 \
 ```
 # Read emails
 keychains curl 'https://gmail.googleapis.com/gmail/v1/users/me/messages?maxResults=10' \
--H 'Authorization: Bearer ``{{OAUTH2_ACCESS_TOKEN}}``'
+-H 'Authorization: Bearer ``{% raw %}{{OAUTH2_ACCESS_TOKEN}}{% endraw %}``'
 ```
 
 Waiting for User Approval
@@ -79,13 +79,13 @@ When Keychains returns an approval link, you need to handle it properly:
 
 ```
 keychains curl https://api.github.com/user/repos \
--H "Authorization: Bearer ``{{OAUTH2_ACCESS_TOKEN}}``"
+-H "Authorization: Bearer ``{% raw %}{{OAUTH2_ACCESS_TOKEN}}{% endraw %}``"
 # → "Authorize at: https://keychains.dev/approve/abc123xyz"
 
 keychains wait https://keychains.dev/approve/abc123xyz --timeout 800
 
 keychains curl https://api.github.com/user/repos \
--H "Authorization: Bearer ``{{OAUTH2_ACCESS_TOKEN}}``"
+-H "Authorization: Bearer ``{% raw %}{{OAUTH2_ACCESS_TOKEN}}{% endraw %}``"
 # → works now
 ```
 
@@ -104,7 +104,7 @@ import { keychainsFetch, KeychainsError } from '@keychains/machine-sdk';
 try {
   const res = await keychainsFetch('https://api.github.com/user/repos', {
     headers: {
-      Authorization: 'Bearer ``{{OAUTH2_ACCESS_TOKEN}}``'
+      Authorization: 'Bearer ``{% raw %}{{OAUTH2_ACCESS_TOKEN}}{% endraw %}``'
     }
   });
   console.log(await res.json());

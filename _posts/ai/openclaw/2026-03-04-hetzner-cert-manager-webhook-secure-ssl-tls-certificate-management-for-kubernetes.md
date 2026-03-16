@@ -6,7 +6,7 @@ categories: [24854]
 original_url: https://insightginie.com/hetzner-cert-manager-webhook-secure-ssl-tls-certificate-management-for-kubernetes
 ---
 
-``{% include 'header.html' %}``
+``{% raw %}{% include 'header.html' %}{% endraw %}``
 
 What is Hetzner Cert-Manager Webhook?
 -------------------------------------
@@ -222,6 +222,6 @@ For more information, consult:
 * Kubernetes security best practices
 * Community forums and support channels
 
-``{% include 'footer.html' %}``
+``{% raw %}{% include 'footer.html' %}{% endraw %}``
 
 Skill can be found at: <https://github.com/hetzner>
