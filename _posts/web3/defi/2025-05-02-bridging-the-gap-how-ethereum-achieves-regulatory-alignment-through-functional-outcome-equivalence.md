@@ -2,7 +2,7 @@
 layout: post
 title: 'Bridging the Gap: How Ethereum Achieves Regulatory Alignment Through Functional
   Outcome Equivalence'
-date: '2025-05-02T12:46:40'
+date: '2025-05-02T04:46:40'
 categories:
 - web3
 - defi

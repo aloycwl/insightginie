@@ -2,7 +2,7 @@
 layout: post
 title: 'InSaiAI Intelligent Editing: Professional Video and Audio Manipulation with
   FFmpeg'
-date: '2026-03-05T23:02:54'
+date: '2026-03-05T15:02:54'
 categories:
 - ai
 - openclaw

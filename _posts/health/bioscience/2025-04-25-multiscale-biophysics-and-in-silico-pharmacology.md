@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multiscale Biophysics and In Silico Pharmacology
-date: '2025-04-25T10:53:54'
+date: '2025-04-25T02:53:54'
 categories:
 - health
 - bioscience

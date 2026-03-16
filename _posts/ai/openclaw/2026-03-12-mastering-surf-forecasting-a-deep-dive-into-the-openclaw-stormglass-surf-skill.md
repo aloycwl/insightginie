@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Surf Forecasting: A Deep Dive into the OpenClaw Stormglass Surf
   Skill'
-date: '2026-03-12T17:30:28'
+date: '2026-03-12T09:30:28'
 categories:
 - ai
 - openclaw

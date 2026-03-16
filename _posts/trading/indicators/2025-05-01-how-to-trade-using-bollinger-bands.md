@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Using Bollinger Bands
-date: '2025-05-01T19:16:51'
+date: '2025-05-01T11:16:51'
 categories:
 - trading
 - indicators

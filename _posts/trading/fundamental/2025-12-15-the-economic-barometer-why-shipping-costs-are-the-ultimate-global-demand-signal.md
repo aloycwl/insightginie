@@ -2,7 +2,7 @@
 layout: post
 title: 'The Economic Barometer: Why Shipping Costs Are the Ultimate Global Demand
   Signal'
-date: '2025-12-15T13:40:17'
+date: '2025-12-15T05:40:17'
 categories:
 - trading
 - fundamental

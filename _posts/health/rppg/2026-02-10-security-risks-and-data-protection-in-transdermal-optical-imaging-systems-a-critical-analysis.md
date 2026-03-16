@@ -2,7 +2,7 @@
 layout: post
 title: 'Security Risks and Data Protection in Transdermal Optical Imaging Systems:
   A Critical Analysis'
-date: '2026-02-10T14:10:29'
+date: '2026-02-10T06:10:29'
 categories:
 - health
 - rppg

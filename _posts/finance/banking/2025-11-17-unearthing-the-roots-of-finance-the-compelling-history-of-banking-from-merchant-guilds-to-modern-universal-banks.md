@@ -2,7 +2,7 @@
 layout: post
 title: 'Unearthing the Roots of Finance: The Compelling History of Banking, From Merchant
   Guilds to Modern Universal Banks'
-date: '2025-11-17T12:52:58'
+date: '2025-11-17T04:52:58'
 categories:
 - finance
 - banking

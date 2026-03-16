@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Catholic Grounding: An SEO Guide to Accurate, Catechism-First Catholic Answers'
-date: '2026-03-06T05:20:50'
+date: '2026-03-05T21:20:50'
 categories:
 - ai
 - openclaw

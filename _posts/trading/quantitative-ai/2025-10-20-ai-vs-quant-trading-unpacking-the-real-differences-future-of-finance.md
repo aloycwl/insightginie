@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI vs. Quant Trading: Unpacking the Real Differences &#038; Future of Finance'
-date: '2025-10-20T11:38:26'
+date: '2025-10-20T03:38:26'
 categories:
 - trading
 - quantitative-ai

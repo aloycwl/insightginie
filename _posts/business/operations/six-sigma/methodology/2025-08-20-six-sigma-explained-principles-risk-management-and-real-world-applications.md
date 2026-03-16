@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Six Sigma Explained: Principles, Risk Management, and Real-World Applications'
-date: '2025-08-20T15:23:12'
+date: '2025-08-20T07:23:12'
 categories:
 - business
 - operations

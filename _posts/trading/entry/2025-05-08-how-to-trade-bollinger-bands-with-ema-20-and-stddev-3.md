@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Bollinger Bands with EMA-20 and StdDev-3
-date: '2025-05-08T20:56:04'
+date: '2025-05-08T12:56:04'
 categories:
 - trading
 - entry

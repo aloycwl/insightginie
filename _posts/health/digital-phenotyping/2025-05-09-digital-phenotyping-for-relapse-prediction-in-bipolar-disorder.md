@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Phenotyping for Relapse Prediction in Bipolar Disorder
-date: '2025-05-09T22:28:04'
+date: '2025-05-09T14:28:04'
 categories:
 - health
 - digital-phenotyping

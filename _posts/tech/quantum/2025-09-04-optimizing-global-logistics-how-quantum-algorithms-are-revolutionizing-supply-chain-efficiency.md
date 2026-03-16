@@ -2,7 +2,7 @@
 layout: post
 title: 'Optimizing Global Logistics: How Quantum Algorithms Are Revolutionizing Supply
   Chain Efficiency'
-date: '2025-09-04T13:34:40'
+date: '2025-09-04T05:34:40'
 categories:
 - tech
 - quantum

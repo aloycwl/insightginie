@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Collaterals Are Used in Crypto Loans? A Deep Dive into DeFi Lending Security
-date: '2025-04-28T20:36:53'
+date: '2025-04-28T12:36:53'
 categories:
 - web3
 - defi

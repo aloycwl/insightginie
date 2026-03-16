@@ -2,7 +2,7 @@
 layout: post
 title: 'Implementing Business Systemisation: How to Build Scalable, Predictable, and
   Profitable Operations'
-date: '2025-05-02T19:03:42'
+date: '2025-05-02T11:03:42'
 categories:
 - business
 - management

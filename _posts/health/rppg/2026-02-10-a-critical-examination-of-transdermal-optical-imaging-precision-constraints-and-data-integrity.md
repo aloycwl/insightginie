@@ -2,7 +2,7 @@
 layout: post
 title: 'A Critical Examination of Transdermal Optical Imaging: Precision, Constraints,
   and Data Integrity'
-date: '2026-02-10T13:49:29'
+date: '2026-02-10T05:49:29'
 categories:
 - health
 - rppg

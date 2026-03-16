@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unmasking the Shadows: Market Manipulation in Thinly Traded Tokenized Assets'
-date: '2025-11-15T10:20:32'
+date: '2025-11-15T02:20:32'
 categories:
 - finance
 - real-world-asset-rwa

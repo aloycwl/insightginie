@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Tech Legacy of COVID: How the Pandemic Changed Health Apps'
-date: '2025-04-27T22:00:35'
+date: '2025-04-27T14:00:35'
 categories:
 - health
 - healthtech

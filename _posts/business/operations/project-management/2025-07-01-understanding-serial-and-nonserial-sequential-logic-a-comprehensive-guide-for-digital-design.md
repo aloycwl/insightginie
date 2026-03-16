@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Serial and Nonserial Sequential Logic: A Comprehensive Guide
   for Digital Design'
-date: '2025-07-01T16:47:56'
+date: '2025-07-01T08:47:56'
 categories:
 - business
 - operations

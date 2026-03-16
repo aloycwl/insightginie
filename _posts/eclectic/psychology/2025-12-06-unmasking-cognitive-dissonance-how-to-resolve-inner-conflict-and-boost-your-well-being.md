@@ -2,7 +2,7 @@
 layout: post
 title: 'Unmasking Cognitive Dissonance: How to Resolve Inner Conflict and Boost Your
   Well-being'
-date: '2025-12-06T13:45:54'
+date: '2025-12-06T05:45:54'
 categories:
 - eclectic
 - psychology

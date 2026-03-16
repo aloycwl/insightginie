@@ -2,7 +2,7 @@
 layout: post
 title: 'Blockchain &#038; Smart Contracts: Revolutionizing Banking&#8217;s Future
   (Use Cases &#038; Challenges)'
-date: '2025-11-17T19:35:00'
+date: '2025-11-17T11:35:00'
 categories:
 - finance
 - banking

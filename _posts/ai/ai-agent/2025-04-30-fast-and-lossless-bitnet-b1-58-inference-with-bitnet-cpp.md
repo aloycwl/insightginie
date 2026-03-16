@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fast and Lossless BitNet b1.58 Inference with bitnet.cpp
-date: '2025-04-30T09:54:28'
+date: '2025-04-30T01:54:28'
 categories:
 - ai
 - ai-agent

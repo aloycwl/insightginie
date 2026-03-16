@@ -2,7 +2,7 @@
 layout: post
 title: 'Plant-Based Antibacterial Power: Natural Extracts That Inhibit Fusobacterium
   nucleatum and Their Role in Infection Control and Cancer Prevention'
-date: '2025-05-06T09:33:33'
+date: '2025-05-06T01:33:33'
 categories:
 - health
 - healthtech

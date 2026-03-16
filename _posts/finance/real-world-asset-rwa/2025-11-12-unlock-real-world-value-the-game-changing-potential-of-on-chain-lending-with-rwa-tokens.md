@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Real-World Value: The Game-Changing Potential of On-Chain Lending with
   RWA Tokens'
-date: '2025-11-12T11:05:12'
+date: '2025-11-12T03:05:12'
 categories:
 - finance
 - real-world-asset-rwa

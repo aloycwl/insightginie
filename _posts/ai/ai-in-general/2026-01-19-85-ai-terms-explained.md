@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 85 AI Terms Explained
-date: '2026-01-19T13:04:47'
+date: '2026-01-19T05:04:47'
 categories:
 - ai
 - ai-in-general

@@ -2,7 +2,7 @@
 layout: post
 title: 'Minimum Viable Product (MVP): The Ultimate Guide to Launching Fast and Failing
   Less'
-date: '2025-12-08T12:24:38'
+date: '2025-12-08T04:24:38'
 categories:
 - business
 - business-plan

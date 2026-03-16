@@ -2,7 +2,7 @@
 layout: post
 title: Are Proofs Just Data Compression? Unpacking the Misconception and Understanding
   the True Purpose of Proofs in Cryptography
-date: '2025-05-05T21:36:07'
+date: '2025-05-05T13:36:07'
 categories:
 - web3
 - zero-knowledge

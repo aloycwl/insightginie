@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the Skulk Skill Scanner: Your OpenClaw Agent Security Tool'
-date: '2026-03-16T06:45:56'
+date: '2026-03-15T22:45:56'
 categories:
 - ai
 - openclaw

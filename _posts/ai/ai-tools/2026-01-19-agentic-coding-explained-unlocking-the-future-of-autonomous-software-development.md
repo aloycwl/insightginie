@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agentic Coding Explained: Unlocking the Future of Autonomous Software Development'
-date: '2026-01-19T13:56:58'
+date: '2026-01-19T05:56:58'
 categories:
 - ai
 - ai-tools

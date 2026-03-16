@@ -2,7 +2,7 @@
 layout: post
 title: 'CMMI Proposes Mandatory Ambulatory Specialty Model in 2026 PFS Proposed Rule:
   Key Considerations for Health Care Organizations with Specialists'
-date: '2026-03-04T03:01:26'
+date: '2026-03-03T19:01:26'
 categories:
 - business
 - operations

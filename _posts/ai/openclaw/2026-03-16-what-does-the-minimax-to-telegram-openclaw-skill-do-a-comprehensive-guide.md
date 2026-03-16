@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does the MiniMax-to-Telegram OpenClaw Skill Do? A Comprehensive Guide
-date: '2026-03-16T07:46:28'
+date: '2026-03-15T23:46:28'
 categories:
 - ai
 - openclaw

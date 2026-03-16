@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SeaLegs AI Marine Forecast Skill: AI-Powered Marine Weather Forecasting'
-date: '2026-03-16T11:18:02'
+date: '2026-03-16T03:18:02'
 categories:
 - ai
 - openclaw

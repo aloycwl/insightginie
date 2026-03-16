@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Latest rPPG Trends Matters in 2026
-date: '2026-02-24T12:58:16'
+date: '2026-02-24T04:58:16'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering OpenClaw with Whisper Context: A Cost Optimization Guide'
-date: '2026-03-10T18:46:33'
+date: '2026-03-10T10:46:33'
 categories:
 - ai
 - openclaw

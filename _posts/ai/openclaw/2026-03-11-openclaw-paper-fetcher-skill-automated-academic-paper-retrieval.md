@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Paper Fetcher Skill: Automated Academic Paper Retrieval'
-date: '2026-03-11T23:16:18'
+date: '2026-03-11T15:16:18'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Innovation with TRIZ Methodology: The Ultimate Guide to Systematic
   Problem Solving'
-date: '2025-07-01T17:10:11'
+date: '2025-07-01T09:10:11'
 categories:
 - business
 - operations

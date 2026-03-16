@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantinuum Unveils Guppy Language and Selene Emulator: A New Era in Quantum
   Programming'
-date: '2025-09-03T10:35:18'
+date: '2025-09-03T02:35:18'
 categories:
 - tech
 - quantum

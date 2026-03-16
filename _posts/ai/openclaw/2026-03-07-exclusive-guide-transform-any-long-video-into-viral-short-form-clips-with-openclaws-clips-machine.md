@@ -2,7 +2,7 @@
 layout: post
 title: 'Exclusive Guide: Transform Any Long Video into Viral Short-Form Clips with
   OpenClaw&#8217;s Clips Machine'
-date: '2026-03-07T06:45:58'
+date: '2026-03-06T22:45:58'
 categories:
 - ai
 - openclaw

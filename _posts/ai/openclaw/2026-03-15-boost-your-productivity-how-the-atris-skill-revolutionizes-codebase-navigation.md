@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Boost Your Productivity: How the Atris Skill Revolutionizes Codebase Navigation'
-date: '2026-03-15T21:30:28'
+date: '2026-03-15T13:30:28'
 categories:
 - ai
 - openclaw

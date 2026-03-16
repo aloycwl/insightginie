@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Allais Paradox Explained: Why Your Brain Fails at Risk and Reward'
-date: '2025-12-07T10:47:17'
+date: '2025-12-07T02:47:17'
 categories:
 - eclectic
 - paradoxes

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Securing Your AI: Understanding the Eridian Carapace Skill for OpenClaw'
-date: '2026-03-09T10:01:07'
+date: '2026-03-09T02:01:07'
 categories:
 - ai
 - openclaw

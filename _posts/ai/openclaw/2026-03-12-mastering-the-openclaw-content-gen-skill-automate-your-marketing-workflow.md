@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the OpenClaw /content-gen Skill: Automate Your Marketing Workflow'
-date: '2026-03-12T10:00:29'
+date: '2026-03-12T02:00:29'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Rise of Recursive zk-zKRollups: Transforming Blockchain Scalability and
   Adoption'
-date: '2025-05-05T21:39:57'
+date: '2025-05-05T13:39:57'
 categories:
 - web3
 - zero-knowledge

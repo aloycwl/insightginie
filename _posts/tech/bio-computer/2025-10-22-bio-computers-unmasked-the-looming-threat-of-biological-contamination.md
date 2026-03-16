@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bio-Computers Unmasked: The Looming Threat of Biological Contamination'
-date: '2025-10-22T13:28:58'
+date: '2025-10-22T05:28:58'
 categories:
 - tech
 - bio-computer

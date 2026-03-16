@@ -2,7 +2,7 @@
 layout: post
 title: 'Shodan Device Search: Because Who Needs Privacy When You Can Have a Digital
   Peep Show?'
-date: '2026-02-04T15:03:56'
+date: '2026-02-04T07:03:56'
 categories:
 - tech
 - cybersec

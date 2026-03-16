@@ -2,7 +2,7 @@
 layout: post
 title: 'Profit from the Drift: Mastering Earnings Surprises and Post-Earnings Announcement
   Drift (PEAD)'
-date: '2025-12-15T13:25:33'
+date: '2025-12-15T05:25:33'
 categories:
 - trading
 - fundamental

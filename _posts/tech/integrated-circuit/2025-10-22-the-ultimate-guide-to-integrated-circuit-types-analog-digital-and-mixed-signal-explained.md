@@ -2,7 +2,7 @@
 layout: post
 title: 'The Ultimate Guide to Integrated Circuit Types: Analog, Digital, and Mixed-Signal
   Explained'
-date: '2025-10-22T14:15:53'
+date: '2025-10-22T06:15:53'
 categories:
 - tech
 - integrated-circuit

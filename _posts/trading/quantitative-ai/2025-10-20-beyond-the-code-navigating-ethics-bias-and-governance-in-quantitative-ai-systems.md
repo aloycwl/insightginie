@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Code: Navigating Ethics, Bias, and Governance in Quantitative AI
   Systems'
-date: '2025-10-20T12:22:26'
+date: '2025-10-20T04:22:26'
 categories:
 - trading
 - quantitative-ai

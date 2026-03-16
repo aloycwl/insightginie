@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Metaheuristics Trends: A Comprehensive Overview'
-date: '2026-02-24T16:59:06'
+date: '2026-02-24T08:59:06'
 categories:
 - eclectic
 - metaheuristics

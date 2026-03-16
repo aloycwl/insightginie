@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Leadership Prompts: A Battle-Tested Library for Engineering Leaders'
-date: '2026-03-15T10:16:46'
+date: '2026-03-15T02:16:46'
 categories:
 - ai
 - openclaw

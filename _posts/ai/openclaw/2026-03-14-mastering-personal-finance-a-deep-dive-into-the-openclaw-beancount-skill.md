@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Personal Finance: A Deep Dive into the OpenClaw Beancount Skill'
-date: '2026-03-14T02:00:33'
+date: '2026-03-13T18:00:33'
 categories:
 - ai
 - openclaw

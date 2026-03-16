@@ -2,7 +2,7 @@
 layout: post
 title: 'Business Strategy 2026: A Complete Guide to Strategic Planning and Competitive
   Advantage'
-date: '2026-02-18T14:18:28'
+date: '2026-02-18T06:18:28'
 categories:
 - business
 - strategy

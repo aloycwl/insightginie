@@ -2,7 +2,7 @@
 layout: post
 title: 'Revolutionizing Diagnostics: A Critical Look at The Use of Transdermal Optical
   Imaging in Early Disease Detection'
-date: '2026-02-10T13:48:03'
+date: '2026-02-10T05:48:03'
 categories:
 - health
 - rppg

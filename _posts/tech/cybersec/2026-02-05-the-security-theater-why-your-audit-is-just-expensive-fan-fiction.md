@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Security Theater: Why Your Audit is Just Expensive Fan Fiction'
-date: '2026-02-05T13:14:16'
+date: '2026-02-05T05:14:16'
 categories:
 - tech
 - cybersec

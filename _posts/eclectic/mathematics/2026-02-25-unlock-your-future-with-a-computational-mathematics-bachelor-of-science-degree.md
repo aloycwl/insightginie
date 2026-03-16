@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unlock Your Future with a Computational Mathematics Bachelor of Science Degree
-date: '2026-02-25T17:31:56'
+date: '2026-02-25T09:31:56'
 categories:
 - eclectic
 - mathematics

@@ -2,7 +2,7 @@
 layout: post
 title: 'Green Banking Revolution: How ESG &#038; Green Finance are Reshaping the Future
   of Banking'
-date: '2025-11-17T20:15:00'
+date: '2025-11-17T12:15:00'
 categories:
 - finance
 - banking

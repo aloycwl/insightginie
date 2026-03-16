@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the SpecKit Workflow Skill for OpenClaw
-date: '2026-03-10T01:46:02'
+date: '2026-03-09T17:46:02'
 categories:
 - ai
 - openclaw

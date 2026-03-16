@@ -2,7 +2,7 @@
 layout: post
 title: "Microsoft\u2019s Majorana 1: Pioneering Topological Qubits for Scalable Quantum\
   \ Computing"
-date: '2025-09-03T10:55:57'
+date: '2025-09-03T02:55:57'
 categories:
 - tech
 - quantum

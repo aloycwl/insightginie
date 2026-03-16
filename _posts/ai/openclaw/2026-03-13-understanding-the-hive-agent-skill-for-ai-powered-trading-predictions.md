@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Hive Agent Skill for AI-Powered Trading Predictions
-date: '2026-03-13T02:16:07'
+date: '2026-03-12T18:16:07'
 categories:
 - ai
 - openclaw

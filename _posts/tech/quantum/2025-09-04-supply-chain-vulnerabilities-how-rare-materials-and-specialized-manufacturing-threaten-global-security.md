@@ -2,7 +2,7 @@
 layout: post
 title: 'Supply Chain Vulnerabilities: How Rare Materials and Specialized Manufacturing
   Threaten Global Security'
-date: '2025-09-04T12:49:59'
+date: '2025-09-04T04:49:59'
 categories:
 - tech
 - quantum

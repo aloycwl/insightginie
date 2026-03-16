@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Better Cryptocurrency to Buy With $4,000 and Hold for a Decade: XRP vs. Solana'
-date: '2026-02-26T01:32:27'
+date: '2026-02-25T17:32:27'
 categories:
 - web3
 - cryptocurrency

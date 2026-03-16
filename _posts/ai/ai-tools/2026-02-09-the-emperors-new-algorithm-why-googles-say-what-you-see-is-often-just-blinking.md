@@ -2,7 +2,7 @@
 layout: post
 title: 'The Emperor&#8217;s New Algorithm: Why Google&#8217;s &#8216;Say What You
   See&#8217; is Often Just Blinking'
-date: '2026-02-09T10:26:32'
+date: '2026-02-09T02:26:32'
 categories:
 - ai
 - ai-tools

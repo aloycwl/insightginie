@@ -2,7 +2,7 @@
 layout: post
 title: New Study Sassily States That Password Managers Have &#8216;Zero Knowledge
   (About Your Passwords)&#8217;
-date: '2026-03-01T13:00:43'
+date: '2026-03-01T05:00:43'
 categories:
 - web3
 - zero-knowledge

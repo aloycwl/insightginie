@@ -2,7 +2,7 @@
 layout: post
 title: 'Uncovering Survival Disparities in Adenocarcinoma Arising from Adenomatous
   Polyps: The Influence of Race, Socioeconomics, and Histology'
-date: '2025-05-26T09:25:50'
+date: '2025-05-26T01:25:50'
 categories:
 - health
 - healthtech

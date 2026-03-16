@@ -2,7 +2,7 @@
 layout: post
 title: 'Project Management in 2026: How AI and Data Analytics Are Revolutionizing
   the Industry'
-date: '2026-02-19T03:47:50'
+date: '2026-02-18T19:47:50'
 categories:
 - business
 - operations

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ransomware in 2026: Navigating the AI-Powered Cyberstorm'
-date: '2026-02-02T19:06:35'
+date: '2026-02-02T11:06:35'
 categories:
 - tech
 - cybersec

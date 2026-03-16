@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Decoding Human Feelings: Emotion and Stress Detection through rPPG Technology'
-date: '2025-05-02T09:33:17'
+date: '2025-05-02T01:33:17'
 categories:
 - health
 - rppg

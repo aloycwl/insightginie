@@ -2,7 +2,7 @@
 layout: post
 title: Unlocking the Power of Emotional Directional Sort in Neuro-Linguistic Programming
   (NLP)
-date: '2025-05-13T12:06:41'
+date: '2025-05-13T04:06:41'
 categories:
 - sales
 - nlp

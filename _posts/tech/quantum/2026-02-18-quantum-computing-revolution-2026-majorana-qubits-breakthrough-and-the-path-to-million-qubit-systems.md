@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Computing Revolution 2026: Majorana Qubits Breakthrough and the Path
   to Million-Qubit Systems'
-date: '2026-02-18T03:17:08'
+date: '2026-02-17T19:17:08'
 categories:
 - tech
 - quantum

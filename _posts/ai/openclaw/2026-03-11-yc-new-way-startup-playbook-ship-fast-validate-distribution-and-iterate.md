@@ -2,7 +2,7 @@
 layout: post
 title: "YC \u201CNew Way\u201D Startup Playbook: Ship Fast, Validate Distribution,\
   \ and Iterate"
-date: '2026-03-11T22:15:52'
+date: '2026-03-11T14:15:52'
 categories:
 - ai
 - openclaw

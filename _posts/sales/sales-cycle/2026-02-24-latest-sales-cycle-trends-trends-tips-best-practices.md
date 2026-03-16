@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Sales Cycle Trends: Trends, Tips &#038; Best Practices'
-date: '2026-02-24T04:35:44'
+date: '2026-02-23T20:35:44'
 categories:
 - sales
 - sales-cycle

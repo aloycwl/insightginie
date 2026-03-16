@@ -2,7 +2,7 @@
 layout: post
 title: 'Regulatory Approaches to Crypto Fraud: How Governments and Institutions Are
   Fighting Back'
-date: '2025-04-28T21:23:36'
+date: '2025-04-28T13:23:36'
 categories:
 - web3
 - crypto-security

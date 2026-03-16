@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill: Comprehensive Startup Idea Validation and PRD Generation'
-date: '2026-03-10T17:16:54'
+date: '2026-03-10T09:16:54'
 categories:
 - ai
 - openclaw

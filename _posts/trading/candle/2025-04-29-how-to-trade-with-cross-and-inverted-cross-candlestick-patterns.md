@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Cross and Inverted Cross Candlestick Patterns
-date: '2025-04-29T16:56:31'
+date: '2025-04-29T08:56:31'
 categories:
 - trading
 - candle

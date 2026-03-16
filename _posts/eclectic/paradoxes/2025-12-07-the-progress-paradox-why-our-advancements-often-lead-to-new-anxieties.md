@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Progress Paradox: Why Our Advancements Often Lead to New Anxieties'
-date: '2025-12-07T17:46:10'
+date: '2025-12-07T09:46:10'
 categories:
 - eclectic
 - paradoxes

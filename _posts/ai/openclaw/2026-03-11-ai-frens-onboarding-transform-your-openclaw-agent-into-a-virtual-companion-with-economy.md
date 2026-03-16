@@ -2,7 +2,7 @@
 layout: post
 title: 'AI Frens Onboarding: Transform Your OpenClaw Agent into a Virtual Companion
   with Economy'
-date: '2026-03-11T12:20:49'
+date: '2026-03-11T04:20:49'
 categories:
 - ai
 - openclaw

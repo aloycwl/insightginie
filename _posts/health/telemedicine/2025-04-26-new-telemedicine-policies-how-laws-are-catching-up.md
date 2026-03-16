@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Telemedicine Policies: How Laws Are Catching Up'
-date: '2025-04-26T13:20:27'
+date: '2025-04-26T05:20:27'
 categories:
 - health
 - telemedicine

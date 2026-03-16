@@ -2,7 +2,7 @@
 layout: post
 title: 'Choosing Your E-commerce Payment Gateway Integration: Direct-Post, Tokenization,
   iFrame, or Hosted Checkout?'
-date: '2025-11-05T15:12:56'
+date: '2025-11-05T07:12:56'
 categories:
 - finance
 - payment

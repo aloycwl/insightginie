@@ -2,7 +2,7 @@
 layout: post
 title: 'Geothermal Energy: Unlocking Earth&#8217;s Hidden Power for a Sustainable
   Future'
-date: '2025-10-28T11:18:40'
+date: '2025-10-28T03:18:40'
 categories:
 - tech
 - energy

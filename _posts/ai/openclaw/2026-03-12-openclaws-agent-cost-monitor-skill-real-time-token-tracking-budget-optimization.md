@@ -2,7 +2,7 @@
 layout: post
 title: 'OpenClaw&#8217;s Agent Cost Monitor Skill: Real-Time Token Tracking &#038;
   Budget Optimization'
-date: '2026-03-12T00:46:32'
+date: '2026-03-11T16:46:32'
 categories:
 - ai
 - openclaw

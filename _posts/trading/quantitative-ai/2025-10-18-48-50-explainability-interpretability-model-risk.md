@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (48/50) Explainability, interpretability &amp; model risk
-date: '2025-10-18T23:13:12'
+date: '2025-10-18T15:13:12'
 categories:
 - trading
 - quantitative-ai

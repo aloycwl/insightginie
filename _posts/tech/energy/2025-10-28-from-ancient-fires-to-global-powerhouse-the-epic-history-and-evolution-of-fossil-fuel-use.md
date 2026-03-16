@@ -2,7 +2,7 @@
 layout: post
 title: 'From Ancient Fires to Global Powerhouse: The Epic History and Evolution of
   Fossil Fuel Use'
-date: '2025-10-28T11:13:09'
+date: '2025-10-28T03:13:09'
 categories:
 - tech
 - energy

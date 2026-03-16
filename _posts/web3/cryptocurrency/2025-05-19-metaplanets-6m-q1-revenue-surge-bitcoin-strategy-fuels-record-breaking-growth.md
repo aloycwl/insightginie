@@ -2,7 +2,7 @@
 layout: post
 title: 'Metaplanet&#8217;s $6M Q1 Revenue Surge: Bitcoin Strategy Fuels Record-Breaking
   Growth'
-date: '2025-05-19T09:53:26'
+date: '2025-05-19T01:53:26'
 categories:
 - web3
 - cryptocurrency

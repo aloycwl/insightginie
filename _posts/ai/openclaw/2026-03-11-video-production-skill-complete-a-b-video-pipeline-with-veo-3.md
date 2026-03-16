@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Video Production Skill: Complete A/B Video Pipeline with Veo 3'
-date: '2026-03-11T13:16:44'
+date: '2026-03-11T05:16:44'
 categories:
 - ai
 - openclaw

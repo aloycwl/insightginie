@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Inverted Hammer and Shooting Star Candlesticks
-date: '2025-04-29T17:00:36'
+date: '2025-04-29T09:00:36'
 categories:
 - trading
 - candle

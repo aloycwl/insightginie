@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Using the Hindenburg Ome
-date: '2025-05-01T19:46:01'
+date: '2025-05-01T11:46:01'
 categories:
 - trading
 - indicators

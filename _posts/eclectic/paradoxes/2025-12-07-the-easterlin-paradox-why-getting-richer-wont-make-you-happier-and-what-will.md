@@ -2,7 +2,7 @@
 layout: post
 title: "The Easterlin Paradox: Why Getting Richer Won\u2019t Make You Happier (And\
   \ What Will)"
-date: '2025-12-07T10:56:00'
+date: '2025-12-07T02:56:00'
 categories:
 - eclectic
 - paradoxes

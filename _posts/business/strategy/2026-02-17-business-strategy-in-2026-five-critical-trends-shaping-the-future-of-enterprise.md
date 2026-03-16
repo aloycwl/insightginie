@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Business Strategy in 2026: Five Critical Trends Shaping the Future of Enterprise'
-date: '2026-02-17T10:34:21'
+date: '2026-02-17T02:34:21'
 categories:
 - business
 - strategy

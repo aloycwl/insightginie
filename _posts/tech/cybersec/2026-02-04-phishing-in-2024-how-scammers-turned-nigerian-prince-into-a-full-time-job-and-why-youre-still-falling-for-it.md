@@ -2,7 +2,7 @@
 layout: post
 title: "Phishing in 2024: How Scammers Turned \u2018Nigerian Prince\u2019 into a Full-Time\
   \ Job (And Why You\u2019re Still Falling for It)"
-date: '2026-02-04T14:39:21'
+date: '2026-02-04T06:39:21'
 categories:
 - tech
 - cybersec

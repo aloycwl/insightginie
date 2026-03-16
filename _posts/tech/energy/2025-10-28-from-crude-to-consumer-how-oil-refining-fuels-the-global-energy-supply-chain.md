@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'From Crude to Consumer: How Oil Refining Fuels the Global Energy Supply Chain'
-date: '2025-10-28T11:14:56'
+date: '2025-10-28T03:14:56'
 categories:
 - tech
 - energy

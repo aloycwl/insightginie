@@ -2,7 +2,7 @@
 layout: post
 title: 'AI in Manufacturing 2025: The Smart Industrial Revolution Transforming Production
   and Innovation'
-date: '2025-04-25T10:41:14'
+date: '2025-04-25T02:41:14'
 categories:
 - ai
 - ai-in-general

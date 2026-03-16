@@ -2,7 +2,7 @@
 layout: post
 title: 'OpenClaw Odoo 19 ERP Connector: Automate 80+ Business Processes with Natural
   Language Commands'
-date: '2026-03-05T09:46:44'
+date: '2026-03-05T01:46:44'
 categories:
 - ai
 - openclaw

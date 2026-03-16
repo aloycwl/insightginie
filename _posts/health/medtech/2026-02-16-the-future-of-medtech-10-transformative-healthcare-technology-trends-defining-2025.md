@@ -2,7 +2,7 @@
 layout: post
 title: 'The Future of Medtech: 10 Transformative Healthcare Technology Trends Defining
   2025'
-date: '2026-02-16T06:33:11'
+date: '2026-02-15T22:33:11'
 categories:
 - health
 - medtech

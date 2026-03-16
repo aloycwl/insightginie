@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the Critical Path Method: How Forward &amp; Backward Passes Optimize
   Project Scheduling'
-date: '2025-07-01T16:50:39'
+date: '2025-07-01T08:50:39'
 categories:
 - business
 - operations

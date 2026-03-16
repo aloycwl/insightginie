@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'rPPG in Wearable Technology: The Heartbeat of Innovation'
-date: '2025-04-22T12:17:35'
+date: '2025-04-22T04:17:35'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Local File Searches with OpenClaw&#8217;s Spotlight Skill
-date: '2026-03-15T21:00:32'
+date: '2026-03-15T13:00:32'
 categories:
 - ai
 - openclaw

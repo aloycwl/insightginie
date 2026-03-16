@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking the Lobster AI Skill: How to Turn Your AI Agent Into a Live2D VTuber'
-date: '2026-03-09T08:00:21'
+date: '2026-03-09T00:00:21'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Revolutionary Invention of the Integrated Circuit by Jack Kilby
-date: '2026-02-26T06:01:10'
+date: '2026-02-25T22:01:10'
 categories:
 - tech
 - integrated-circuit

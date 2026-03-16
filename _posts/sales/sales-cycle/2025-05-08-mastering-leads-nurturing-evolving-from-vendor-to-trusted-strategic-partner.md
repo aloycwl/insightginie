@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Leads Nurturing: Evolving from Vendor to Trusted Strategic Partner'
-date: '2025-05-08T13:30:28'
+date: '2025-05-08T05:30:28'
 categories:
 - sales
 - sales-cycle

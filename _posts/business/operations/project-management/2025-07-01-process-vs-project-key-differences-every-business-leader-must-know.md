@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Process vs. Project: Key Differences Every Business Leader Must Know'
-date: '2025-07-01T16:15:07'
+date: '2025-07-01T08:15:07'
 categories:
 - business
 - operations

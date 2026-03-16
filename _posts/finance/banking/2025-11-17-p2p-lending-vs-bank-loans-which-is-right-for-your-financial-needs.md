@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'P2P Lending vs. Bank Loans: Which is Right for Your Financial Needs?'
-date: '2025-11-17T20:05:00'
+date: '2025-11-17T12:05:00'
 categories:
 - finance
 - banking

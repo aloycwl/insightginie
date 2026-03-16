@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Luminous Link: How Light is Revolutionizing Human-Machine Interaction'
-date: '2026-01-01T12:12:13'
+date: '2026-01-01T04:12:13'
 categories:
 - tech
 - optical-computing

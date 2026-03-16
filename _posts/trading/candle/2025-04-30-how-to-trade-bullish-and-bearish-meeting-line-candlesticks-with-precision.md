@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Bullish and Bearish Meeting Line Candlesticks with Precision
-date: '2025-04-30T09:29:09'
+date: '2025-04-30T01:29:09'
 categories:
 - trading
 - candle

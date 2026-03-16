@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IBM vs Google: Racing Toward Practical, Scalable Quantum Computers'
-date: '2025-09-03T10:49:59'
+date: '2025-09-03T02:49:59'
 categories:
 - tech
 - quantum

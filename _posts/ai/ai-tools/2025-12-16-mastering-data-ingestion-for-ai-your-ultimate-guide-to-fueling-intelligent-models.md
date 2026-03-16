@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Data Ingestion for AI: Your Ultimate Guide to Fueling Intelligent
   Models'
-date: '2025-12-16T14:42:41'
+date: '2025-12-16T06:42:41'
 categories:
 - ai
 - ai-tools

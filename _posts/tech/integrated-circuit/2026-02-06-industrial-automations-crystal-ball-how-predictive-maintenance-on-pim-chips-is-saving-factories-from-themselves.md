@@ -2,7 +2,7 @@
 layout: post
 title: "Industrial Automation\u2019s Crystal Ball: How Predictive Maintenance on PIM\
   \ Chips is Saving Factories from Themselves"
-date: '2026-02-06T13:56:54'
+date: '2026-02-06T05:56:54'
 categories:
 - tech
 - integrated-circuit

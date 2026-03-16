@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Six Sigma with Iterative Development and Model-Driven Engineering:
   A Step-by-Step Guide to Quality and Efficiency'
-date: '2025-07-08T14:07:31'
+date: '2025-07-08T06:07:31'
 categories:
 - business
 - operations

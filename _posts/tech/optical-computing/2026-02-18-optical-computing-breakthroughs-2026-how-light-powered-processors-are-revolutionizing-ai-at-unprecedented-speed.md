@@ -2,7 +2,7 @@
 layout: post
 title: 'Optical Computing Breakthroughs 2026: How Light-Powered Processors Are Revolutionizing
   AI at Unprecedented Speed'
-date: '2026-02-18T22:49:39'
+date: '2026-02-18T14:49:39'
 categories:
 - tech
 - optical-computing

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Skill Soup: The Autonomous Skill Generation Agent by OpenClaw'
-date: '2026-03-15T09:45:51'
+date: '2026-03-15T01:45:51'
 categories:
 - ai
 - openclaw

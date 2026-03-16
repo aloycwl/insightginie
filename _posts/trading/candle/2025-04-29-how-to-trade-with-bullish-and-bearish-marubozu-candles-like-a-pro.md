@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Bullish and Bearish Marubozu Candles Like a Pro
-date: '2025-04-29T16:43:10'
+date: '2025-04-29T08:43:10'
 categories:
 - trading
 - candle

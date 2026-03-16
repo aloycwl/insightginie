@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Latest Agile Trends is Transforming Agile
-date: '2026-02-22T07:27:38'
+date: '2026-02-21T23:27:38'
 categories:
 - business
 - operations

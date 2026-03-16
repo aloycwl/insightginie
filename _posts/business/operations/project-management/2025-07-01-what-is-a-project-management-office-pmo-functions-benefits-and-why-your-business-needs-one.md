@@ -2,7 +2,7 @@
 layout: post
 title: What Is a Project Management Office (PMO)? Functions, Benefits, and Why Your
   Business Needs One
-date: '2025-07-01T16:26:27'
+date: '2025-07-01T08:26:27'
 categories:
 - business
 - operations

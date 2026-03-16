@@ -2,7 +2,7 @@
 layout: post
 title: 'Accelerate Your Bitcoin Treasury Strategy: Why Forward-Thinking Companies
   Are Betting on BTC in 2025'
-date: '2025-05-13T14:15:47'
+date: '2025-05-13T06:15:47'
 categories:
 - web3
 - cryptocurrency

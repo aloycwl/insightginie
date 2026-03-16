@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XION Blockchain: Revolutionizing Web3 with Walletless, User-Centric Infrastructure'
-date: '2025-05-02T13:13:34'
+date: '2025-05-02T05:13:34'
 categories:
 - web3
 - network

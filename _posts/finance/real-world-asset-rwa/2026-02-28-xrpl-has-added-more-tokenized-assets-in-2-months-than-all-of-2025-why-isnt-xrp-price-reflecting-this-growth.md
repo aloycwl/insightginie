@@ -2,7 +2,7 @@
 layout: post
 title: "XRPL Has Added More Tokenized Assets in 2 Months Than All of 2025: Why Isn\u2019\
   t XRP Price Reflecting This Growth?"
-date: '2026-02-28T21:31:34'
+date: '2026-02-28T13:31:34'
 categories:
 - finance
 - real-world-asset-rwa

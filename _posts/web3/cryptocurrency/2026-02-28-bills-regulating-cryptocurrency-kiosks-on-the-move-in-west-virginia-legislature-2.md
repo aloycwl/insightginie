@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bills Regulating Cryptocurrency Kiosks on the Move in West Virginia Legislature
-date: '2026-02-28T00:32:07'
+date: '2026-02-27T16:32:07'
 categories:
 - web3
 - cryptocurrency

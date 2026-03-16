@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Illusory Truth Effect: Why Repeated Lies Feel True (And How to Fight Back)'
-date: '2025-12-06T14:10:13'
+date: '2025-12-06T06:10:13'
 categories:
 - eclectic
 - psychology

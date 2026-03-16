@@ -2,7 +2,7 @@
 layout: post
 title: CyberSec Announces Exciting Expansion into the Middle East, Bridging the Cybersecurity
   Talent Gap
-date: '2026-02-26T18:01:35'
+date: '2026-02-26T10:01:35'
 categories:
 - tech
 - cybersec

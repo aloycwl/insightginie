@@ -2,7 +2,7 @@
 layout: post
 title: "Decoding RWA Success: Centrifuge, RealT, Ondo \u2013 Strategies That Win in\
   \ Real-World Asset Tokenization"
-date: '2025-11-15T10:22:00'
+date: '2025-11-15T02:22:00'
 categories:
 - finance
 - real-world-asset-rwa

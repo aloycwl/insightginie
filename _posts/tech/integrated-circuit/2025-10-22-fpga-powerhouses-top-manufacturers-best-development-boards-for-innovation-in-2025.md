@@ -2,7 +2,7 @@
 layout: post
 title: 'FPGA Powerhouses: Top Manufacturers &#038; Best Development Boards for Innovation
   in 2025'
-date: '2025-10-22T14:23:58'
+date: '2025-10-22T06:23:58'
 categories:
 - tech
 - integrated-circuit

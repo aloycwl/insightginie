@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma and Organic Structures: How Flexible Organisational Design Drives
   Problem-Solving and Growth'
-date: '2025-08-25T09:41:25'
+date: '2025-08-25T01:41:25'
 categories:
 - business
 - operations

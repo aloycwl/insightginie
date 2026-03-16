@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Memories Are Made of This: The Sarcastic Guide to Advanced Memory Forensics'
-date: '2026-02-05T13:15:01'
+date: '2026-02-05T05:15:01'
 categories:
 - tech
 - cybersec

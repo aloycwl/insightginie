@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Integrated Circuit Trends
-date: '2026-02-24T17:01:29'
+date: '2026-02-24T09:01:29'
 categories:
 - tech
 - integrated-circuit

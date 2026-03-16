@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crypto Scam Detector Skill &#8211; Real-Time Cryptocurrency Fraud Prevention
-date: '2026-03-09T11:19:15'
+date: '2026-03-09T03:19:15'
 categories:
 - ai
 - openclaw

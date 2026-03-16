@@ -2,7 +2,7 @@
 layout: post
 title: 'Meta-Learning&#8217;s Quantum Leap: Teaching AI Models to Master Financial
   Markets Faster'
-date: '2025-10-20T12:15:36'
+date: '2025-10-20T04:15:36'
 categories:
 - trading
 - quantitative-ai

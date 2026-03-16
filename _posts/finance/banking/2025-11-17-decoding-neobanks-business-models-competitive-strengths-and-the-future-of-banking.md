@@ -2,7 +2,7 @@
 layout: post
 title: 'Decoding Neobanks: Business Models, Competitive Strengths, and the Future
   of Banking'
-date: '2025-11-17T13:45:00'
+date: '2025-11-17T05:45:00'
 categories:
 - finance
 - banking

@@ -2,7 +2,7 @@
 layout: post
 title: 'FATF 40 Recommendations Explained: Your Essential Guide to Global AML/CFT
   Compliance'
-date: '2025-11-20T10:55:32'
+date: '2025-11-20T02:55:32'
 categories:
 - finance
 - verification

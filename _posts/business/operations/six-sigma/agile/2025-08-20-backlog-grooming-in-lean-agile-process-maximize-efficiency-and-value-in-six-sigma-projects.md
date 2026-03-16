@@ -2,7 +2,7 @@
 layout: post
 title: 'Backlog Grooming in Lean Agile Process: Maximize Efficiency and Value in Six
   Sigma Projects'
-date: '2025-08-20T11:15:02'
+date: '2025-08-20T03:15:02'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: Arizona State University Promotes Diversity in Psychology Education by Encouraging
   Use of Research by Non-White Authors
-date: '2026-02-27T04:02:34'
+date: '2026-02-26T20:02:34'
 categories:
 - eclectic
 - psychology

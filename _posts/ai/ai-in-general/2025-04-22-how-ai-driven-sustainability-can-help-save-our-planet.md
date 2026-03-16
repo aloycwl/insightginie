@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How AI-Driven Sustainability Can Help Save Our Planet
-date: '2025-04-22T14:10:04'
+date: '2025-04-22T06:10:04'
 categories:
 - ai
 - ai-in-general

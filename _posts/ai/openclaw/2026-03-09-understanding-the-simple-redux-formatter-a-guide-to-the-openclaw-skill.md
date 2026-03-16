@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the Simple Redux Formatter: A Guide to the OpenClaw Skill'
-date: '2026-03-09T04:30:21'
+date: '2026-03-08T20:30:21'
 categories:
 - ai
 - openclaw

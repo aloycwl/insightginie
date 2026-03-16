@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Data Movement Optimization Techniques for Peak Performance
-date: '2026-02-06T13:17:42'
+date: '2026-02-06T05:17:42'
 categories:
 - tech
 - integrated-circuit

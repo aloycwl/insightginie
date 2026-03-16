@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw PR Code Reviewer Skill: Automating Pull Request Reviews'
-date: '2026-03-16T04:15:30'
+date: '2026-03-15T20:15:30'
 categories:
 - ai
 - openclaw

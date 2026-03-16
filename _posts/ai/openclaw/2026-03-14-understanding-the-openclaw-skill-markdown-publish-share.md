@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Skill: markdown-publish-share'
-date: '2026-03-14T05:16:29'
+date: '2026-03-13T21:16:29'
 categories:
 - ai
 - openclaw

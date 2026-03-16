@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (39/50) Execution systems &amp; order routing basics
-date: '2025-10-18T09:46:08'
+date: '2025-10-18T01:46:08'
 categories:
 - trading
 - quantitative-ai

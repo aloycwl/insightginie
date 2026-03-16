@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the OpenClaw Context Clean Up Skill
-date: '2026-03-11T06:16:10'
+date: '2026-03-10T22:16:10'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Bio-AI Revolution: Unlocking the Era of Living Intelligence'
-date: '2025-10-21T10:29:05'
+date: '2025-10-21T02:29:05'
 categories:
 - tech
 - bio-computer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Breaking the Light Barrier: How Plasmonics Unlocks Sub-Wavelength Control'
-date: '2026-01-02T17:35:30'
+date: '2026-01-02T09:35:30'
 categories:
 - tech
 - optical-computing

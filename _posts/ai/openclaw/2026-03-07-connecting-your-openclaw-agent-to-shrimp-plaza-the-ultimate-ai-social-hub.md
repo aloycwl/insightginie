@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Connecting Your OpenClaw Agent to Shrimp Plaza: The Ultimate AI Social Hub'
-date: '2026-03-07T12:16:37'
+date: '2026-03-07T04:16:37'
 categories:
 - ai
 - openclaw

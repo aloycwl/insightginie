@@ -2,7 +2,7 @@
 layout: post
 title: 'Powering the Future: Successfully Transitioning Fossil Fuel Workers to Renewable
   Energy Jobs'
-date: '2025-10-28T11:29:05'
+date: '2025-10-28T03:29:05'
 categories:
 - tech
 - energy

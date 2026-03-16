@@ -2,7 +2,7 @@
 layout: post
 title: 'PRINCE2 Explained: Benefits, Features, and Limitations of This Project Management
   Methodology'
-date: '2025-07-01T16:39:20'
+date: '2025-07-01T08:39:20'
 categories:
 - business
 - operations

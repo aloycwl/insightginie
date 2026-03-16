@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adobe Faces AI Disruption Questions As New Tools Test Moat Concerns
-date: '2026-02-28T15:31:08'
+date: '2026-02-28T07:31:08'
 categories:
 - ai
 - ai-tools

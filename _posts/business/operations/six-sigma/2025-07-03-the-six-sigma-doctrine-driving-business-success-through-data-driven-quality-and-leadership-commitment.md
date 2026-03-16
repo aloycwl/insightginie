@@ -2,7 +2,7 @@
 layout: post
 title: 'The Six Sigma Doctrine: Driving Business Success Through Data-Driven Quality
   and Leadership Commitment'
-date: '2025-07-03T16:00:05'
+date: '2025-07-03T08:00:05'
 categories:
 - business
 - operations

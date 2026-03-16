@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the OpenClaw Miro Workshop Assistant Skill: Simplifying Workshops
   with Miro'
-date: '2026-03-14T02:46:14'
+date: '2026-03-13T18:46:14'
 categories:
 - ai
 - openclaw

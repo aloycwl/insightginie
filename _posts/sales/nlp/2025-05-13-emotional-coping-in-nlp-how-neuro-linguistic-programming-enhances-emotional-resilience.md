@@ -2,7 +2,7 @@
 layout: post
 title: 'Emotional Coping in NLP: How Neuro-Linguistic Programming Enhances Emotional
   Resilience'
-date: '2025-05-13T12:01:57'
+date: '2025-05-13T04:01:57'
 categories:
 - sales
 - nlp

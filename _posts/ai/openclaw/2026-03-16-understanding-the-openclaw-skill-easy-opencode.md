@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Skill: Easy OpenCode'
-date: '2026-03-16T19:16:00'
+date: '2026-03-16T11:16:00'
 categories:
 - ai
 - openclaw

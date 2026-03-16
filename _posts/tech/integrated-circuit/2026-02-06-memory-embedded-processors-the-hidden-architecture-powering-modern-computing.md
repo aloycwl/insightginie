@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Memory-Embedded Processors: The Hidden Architecture Powering Modern Computing'
-date: '2026-02-06T12:08:25'
+date: '2026-02-06T04:08:25'
 categories:
 - tech
 - integrated-circuit

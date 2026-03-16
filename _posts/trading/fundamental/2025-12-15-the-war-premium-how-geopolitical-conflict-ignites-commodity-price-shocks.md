@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The War Premium: How Geopolitical Conflict Ignites Commodity Price Shocks'
-date: '2025-12-15T12:28:28'
+date: '2025-12-15T04:28:28'
 categories:
 - trading
 - fundamental

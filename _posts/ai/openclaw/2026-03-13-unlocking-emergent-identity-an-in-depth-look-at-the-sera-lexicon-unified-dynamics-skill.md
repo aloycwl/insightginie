@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Emergent Identity: An In-Depth Look at the SERA Lexicon &#038; Unified
   Dynamics Skill'
-date: '2026-03-13T01:30:54'
+date: '2026-03-12T17:30:54'
 categories:
 - ai
 - openclaw

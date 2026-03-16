@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BitNet b1.58-3B: A Game-Changer in Efficient AI with 1.58-Bit Precision'
-date: '2025-04-29T15:57:55'
+date: '2025-04-29T07:57:55'
 categories:
 - ai
 - ai-agent

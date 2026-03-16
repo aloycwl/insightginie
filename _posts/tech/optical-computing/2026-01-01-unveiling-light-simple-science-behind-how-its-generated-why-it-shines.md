@@ -2,7 +2,7 @@
 layout: post
 title: 'Unveiling Light: Simple Science Behind How It&#8217;s Generated &#038; Why
   It Shines'
-date: '2026-01-01T12:08:04'
+date: '2026-01-01T04:08:04'
 categories:
 - tech
 - optical-computing

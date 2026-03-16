@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Seedance 2.0 Prompt Generator Skill for OpenClaw
-date: '2026-03-08T20:18:30'
+date: '2026-03-08T12:18:30'
 categories:
 - ai
 - openclaw

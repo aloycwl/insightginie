@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Testing: Formal Verification of WOTS+ and FORS in Post-Quantum Cryptography'
-date: '2025-12-18T13:12:55'
+date: '2025-12-18T05:12:55'
 categories:
 - tech
 - quantum

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trump is Authoring His Own Version of &#8216;The Art of War&#8217;
-date: '2026-03-01T02:32:25'
+date: '2026-02-28T18:32:25'
 categories:
 - sales
 - art-of-war

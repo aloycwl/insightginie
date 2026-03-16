@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering CMMI Causal Analysis and Resolution (CAR): Specific Practices to
   Identify and Eliminate Defects'
-date: '2025-07-01T17:49:13'
+date: '2025-07-01T09:49:13'
 categories:
 - business
 - operations

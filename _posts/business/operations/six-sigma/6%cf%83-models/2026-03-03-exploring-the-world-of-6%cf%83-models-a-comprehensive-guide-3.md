@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring the World of 6\u03A3 Models: A Comprehensive Guide"
-date: '2026-03-03T09:31:24'
+date: '2026-03-03T01:31:24'
 categories:
 - business
 - operations

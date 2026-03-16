@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Instructional Design with ADDIE: The Framework for Effective Learning
   and Development'
-date: '2025-05-02T14:48:26'
+date: '2025-05-02T06:48:26'
 categories:
 - business
 - management

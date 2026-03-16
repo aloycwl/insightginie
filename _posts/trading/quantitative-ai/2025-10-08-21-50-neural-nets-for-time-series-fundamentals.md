@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '(21/50) Neural nets for time series: fundamentals'
-date: '2025-10-08T22:21:51'
+date: '2025-10-08T14:21:51'
 categories:
 - trading
 - quantitative-ai

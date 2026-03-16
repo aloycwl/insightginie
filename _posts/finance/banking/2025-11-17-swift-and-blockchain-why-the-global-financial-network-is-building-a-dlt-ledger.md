@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SWIFT and Blockchain: Why the Global Financial Network is Building a DLT Ledger'
-date: '2025-11-17T16:00:00'
+date: '2025-11-17T08:00:00'
 categories:
 - finance
 - banking

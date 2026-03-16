@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Amazon Data: An In-Depth Guide to the OpenClaw Amazon ASIN Lookup
   API Skill'
-date: '2026-03-14T15:30:35'
+date: '2026-03-14T07:30:35'
 categories:
 - ai
 - openclaw

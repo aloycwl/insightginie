@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Blue Screens: Can Bio-Computers Crash Like Your Laptop?'
-date: '2025-10-22T13:28:33'
+date: '2025-10-22T05:28:33'
 categories:
 - tech
 - bio-computer

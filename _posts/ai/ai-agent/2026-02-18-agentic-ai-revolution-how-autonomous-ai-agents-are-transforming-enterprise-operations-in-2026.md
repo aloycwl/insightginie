@@ -2,7 +2,7 @@
 layout: post
 title: 'Agentic AI Revolution: How Autonomous AI Agents Are Transforming Enterprise
   Operations in 2026'
-date: '2026-02-18T16:32:19'
+date: '2026-02-18T08:32:19'
 categories:
 - ai
 - ai-agent

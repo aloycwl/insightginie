@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Ichimoku Cloud Signals: Strong vs. Weak Buy and Sell Setups Based
   on Cloud and Price Line Positions'
-date: '2025-05-08T21:08:02'
+date: '2025-05-08T13:08:02'
 categories:
 - trading
 - entry

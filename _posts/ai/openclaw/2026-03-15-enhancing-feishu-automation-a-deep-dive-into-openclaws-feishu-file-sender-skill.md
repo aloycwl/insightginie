@@ -2,7 +2,7 @@
 layout: post
 title: 'Enhancing Feishu Automation: A Deep Dive into OpenClaw&#8217;s Feishu File
   Sender Skill'
-date: '2026-03-15T09:00:31'
+date: '2026-03-15T01:00:31'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'Productivity Growth and Long-Term Valuations: Why This Economic Indicator
   Predicts Market Returns'
-date: '2025-12-15T15:03:17'
+date: '2025-12-15T07:03:17'
 categories:
 - trading
 - fundamental

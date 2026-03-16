@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (18/50) Classical ML models for quant tasks
-date: '2025-10-08T22:10:18'
+date: '2025-10-08T14:10:18'
 categories:
 - trading
 - quantitative-ai

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RGB Video Health Monitoring: The Future of Contactless Vital Sign Detection'
-date: '2025-04-22T13:36:31'
+date: '2025-04-22T05:36:31'
 categories:
 - health
 - rppg

@@ -2,7 +2,7 @@
 layout: post
 title: "Securing Decentralization: How TEEs and Collaborative Builder Networks Transform\
   \ Ethereum\u2019s Block Construction"
-date: '2025-05-02T12:41:16'
+date: '2025-05-02T04:41:16'
 categories:
 - web3
 - defi

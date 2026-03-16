@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 99% of the Scams Thrived due to Self-greed
-date: '2025-11-22T12:16:27'
+date: '2025-11-22T04:16:27'
 categories:
 - finance
 - tracing

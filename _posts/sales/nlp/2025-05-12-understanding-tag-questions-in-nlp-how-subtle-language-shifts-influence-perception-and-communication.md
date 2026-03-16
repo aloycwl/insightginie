@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Tag Questions in NLP: How Subtle Language Shifts Influence Perception
   and Communication'
-date: '2025-05-12T11:08:25'
+date: '2025-05-12T03:08:25'
 categories:
 - sales
 - nlp

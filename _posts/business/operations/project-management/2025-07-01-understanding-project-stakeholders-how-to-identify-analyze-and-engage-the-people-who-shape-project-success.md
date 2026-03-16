@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Project Stakeholders: How to Identify, Analyze, and Engage the
   People Who Shape Project Success'
-date: '2025-07-01T16:29:41'
+date: '2025-07-01T08:29:41'
 categories:
 - business
 - operations

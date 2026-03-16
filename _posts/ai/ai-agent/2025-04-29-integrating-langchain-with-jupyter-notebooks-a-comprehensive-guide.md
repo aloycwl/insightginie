@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Integrating LangChain with Jupyter Notebooks: A Comprehensive Guide'
-date: '2025-04-29T17:18:49'
+date: '2025-04-29T09:18:49'
 categories:
 - ai
 - ai-agent

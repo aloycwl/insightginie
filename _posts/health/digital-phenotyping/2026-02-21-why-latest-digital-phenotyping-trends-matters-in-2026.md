@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Latest Digital phenotyping Trends Matters in 2026
-date: '2026-02-21T17:57:38'
+date: '2026-02-21T09:57:38'
 categories:
 - health
 - digital-phenotyping

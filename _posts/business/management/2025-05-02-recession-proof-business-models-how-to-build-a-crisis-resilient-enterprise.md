@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Recession-Proof Business Models: How to Build a Crisis-Resilient Enterprise'
-date: '2025-05-02T18:50:10'
+date: '2025-05-02T10:50:10'
 categories:
 - business
 - management

@@ -2,7 +2,7 @@
 layout: post
 title: 'Neutral Atom Quantum Computing: 2026 Marks the Dawn of Error-Corrected Quantum
   Machines'
-date: '2026-02-16T00:46:28'
+date: '2026-02-15T16:46:28'
 categories:
 - tech
 - quantum

@@ -2,7 +2,7 @@
 layout: post
 title: "Debug and Test Challenges on PIM Chip: Because Who Doesn\u2019t Love a Good\
   \ Hardware Nightmare?"
-date: '2026-02-06T13:48:15'
+date: '2026-02-06T05:48:15'
 categories:
 - tech
 - integrated-circuit

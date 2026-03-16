@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Evolve Your AI: The Power of Genetic Programming Explained'
-date: '2025-12-07T18:23:22'
+date: '2025-12-07T10:23:22'
 categories:
 - eclectic
 - metaheuristics

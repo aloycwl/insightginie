@@ -2,7 +2,7 @@
 layout: post
 title: 'Deceptive Defenses: Unpacking the Purpose of Honeypots and Their Attacker
   Deterrence Capabilities'
-date: '2026-02-26T15:20:06'
+date: '2026-02-26T07:20:06'
 categories:
 - tech
 - cybersec

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering AI Media Generation: A Deep Dive into the OpenClaw MuleRouter Skill'
-date: '2026-03-07T00:00:36'
+date: '2026-03-06T16:00:36'
 categories:
 - ai
 - openclaw

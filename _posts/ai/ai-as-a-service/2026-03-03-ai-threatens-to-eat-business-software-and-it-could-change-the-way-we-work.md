@@ -2,7 +2,7 @@
 layout: post
 title: "AI Threatens to Eat Business Software \u2013 And It Could Change the Way We\
   \ Work"
-date: '2026-03-03T06:32:29'
+date: '2026-03-02T22:32:29'
 categories:
 - ai
 - ai-as-a-service

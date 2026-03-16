@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Computing 2026: Majorana Qubits Breakthrough and the Road to Fault-Tolerant
   Systems'
-date: '2026-02-18T23:17:49'
+date: '2026-02-18T15:17:49'
 categories:
 - tech
 - quantum

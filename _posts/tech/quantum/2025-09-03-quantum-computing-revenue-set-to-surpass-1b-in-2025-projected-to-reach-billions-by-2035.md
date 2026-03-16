@@ -2,7 +2,7 @@
 layout: post
 title: Quantum Computing Revenue Set to Surpass $1B in 2025, Projected to Reach Billions
   by 2035
-date: '2025-09-03T10:54:27'
+date: '2025-09-03T02:54:27'
 categories:
 - tech
 - quantum

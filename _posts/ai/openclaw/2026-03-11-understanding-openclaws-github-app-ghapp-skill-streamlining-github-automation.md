@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding OpenClaw&#8217;s GitHub App (ghapp) Skill: Streamlining GitHub
   Automation'
-date: '2026-03-11T02:45:49'
+date: '2026-03-10T18:45:49'
 categories:
 - ai
 - openclaw

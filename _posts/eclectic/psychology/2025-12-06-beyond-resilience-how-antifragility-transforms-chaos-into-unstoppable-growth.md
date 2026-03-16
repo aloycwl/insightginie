@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Resilience: How Antifragility Transforms Chaos into Unstoppable Growth'
-date: '2025-12-06T13:42:35'
+date: '2025-12-06T05:42:35'
 categories:
 - eclectic
 - psychology

@@ -2,7 +2,7 @@
 layout: post
 title: 'Inflation-Linked Bonds and Hedging Strategies: Protecting Your Portfolio from
   Rising Prices'
-date: '2025-12-15T14:44:39'
+date: '2025-12-15T06:44:39'
 categories:
 - trading
 - fundamental

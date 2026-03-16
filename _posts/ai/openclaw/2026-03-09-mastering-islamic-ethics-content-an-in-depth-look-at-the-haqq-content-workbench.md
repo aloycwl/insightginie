@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Islamic Ethics Content: An In-Depth Look at the Haqq Content Workbench'
-date: '2026-03-09T02:30:25'
+date: '2026-03-08T18:30:25'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Hidden Risk: Why Lean Type 2 Diabetics Face Higher Mortality Rates'
-date: '2026-01-07T12:11:07'
+date: '2026-01-07T04:11:07'
 categories:
 - health
 - healthtech

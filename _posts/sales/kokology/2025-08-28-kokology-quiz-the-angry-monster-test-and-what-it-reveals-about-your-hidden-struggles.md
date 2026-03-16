@@ -2,7 +2,7 @@
 layout: post
 title: 'Kokology Quiz: The Angry Monster Test and What It Reveals About Your Hidden
   Struggles'
-date: '2025-08-28T10:05:03'
+date: '2025-08-28T02:05:03'
 categories:
 - sales
 - kokology

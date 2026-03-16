@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discord&#8217;s Age Verification: 269 Hidden Checks Match Faces to Databases'
-date: '2026-02-25T20:31:33'
+date: '2026-02-25T12:31:33'
 categories:
 - finance
 - verification

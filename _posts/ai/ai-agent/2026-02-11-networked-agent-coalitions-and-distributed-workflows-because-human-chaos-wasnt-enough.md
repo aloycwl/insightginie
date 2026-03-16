@@ -2,7 +2,7 @@
 layout: post
 title: "Networked Agent Coalitions and Distributed Workflows: Because Human Chaos\
   \ Wasn\u2019t Enough"
-date: '2026-02-11T12:51:58'
+date: '2026-02-11T04:51:58'
 categories:
 - ai
 - ai-agent

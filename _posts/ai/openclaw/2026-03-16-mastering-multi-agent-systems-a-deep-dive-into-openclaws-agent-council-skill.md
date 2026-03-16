@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Multi-Agent Systems: A Deep Dive into OpenClaw&#8217;s Agent-Council
   Skill'
-date: '2026-03-16T00:30:37'
+date: '2026-03-15T16:30:37'
 categories:
 - ai
 - openclaw

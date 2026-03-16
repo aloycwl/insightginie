@@ -2,7 +2,7 @@
 layout: post
 title: 'Soft Eugenics in the MAGA Era: Public Health, Genetics, and the Rise of a
   Dangerous Ideology'
-date: '2025-05-05T13:35:58'
+date: '2025-05-05T05:35:58'
 categories:
 - health
 - bioscience

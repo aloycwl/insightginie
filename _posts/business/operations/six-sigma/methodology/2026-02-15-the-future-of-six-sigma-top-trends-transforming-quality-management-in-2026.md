@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future of Six Sigma: Top Trends Transforming Quality Management in 2026'
-date: '2026-02-15T23:18:51'
+date: '2026-02-15T15:18:51'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: 'Exploring the Four Key Elements in Neuro-Linguistic Programming: Things, System,
   People, and Information'
-date: '2025-05-13T12:30:36'
+date: '2025-05-13T04:30:36'
 categories:
 - sales
 - nlp

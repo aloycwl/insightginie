@@ -2,7 +2,7 @@
 layout: post
 title: 'Telemedicine Surge Fails to Bridge Rural Mental Health Care Gap: A New Study
   Reveals Why'
-date: '2026-03-15T14:00:34'
+date: '2026-03-15T06:00:34'
 categories:
 - health
 - telemedicine

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Global Deposit Insurance: Safeguarding Your Savings from Bank Failure'
-date: '2025-11-17T20:30:00'
+date: '2025-11-17T12:30:00'
 categories:
 - finance
 - banking

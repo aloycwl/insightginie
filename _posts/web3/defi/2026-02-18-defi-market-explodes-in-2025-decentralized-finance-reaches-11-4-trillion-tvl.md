@@ -2,7 +2,7 @@
 layout: post
 title: 'DeFi Market Explodes in 2025: Decentralized Finance Reaches 11.4 Trillion
   TVL'
-date: '2026-02-18T04:01:38'
+date: '2026-02-17T20:01:38'
 categories:
 - web3
 - defi

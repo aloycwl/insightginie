@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Bullish and Bearish Tri-Star Candlestick Patterns
-date: '2025-04-30T09:16:19'
+date: '2025-04-30T01:16:19'
 categories:
 - trading
 - candle

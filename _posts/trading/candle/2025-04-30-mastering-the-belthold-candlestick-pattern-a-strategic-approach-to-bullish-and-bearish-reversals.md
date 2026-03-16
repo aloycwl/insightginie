@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the Belthold Candlestick Pattern: A Strategic Approach to Bullish
   and Bearish Reversals'
-date: '2025-04-30T10:16:44'
+date: '2025-04-30T02:16:44'
 categories:
 - trading
 - candle

@@ -2,7 +2,7 @@
 layout: post
 title: 'ASIC vs. FPGA vs. SoC vs. ASSP: The Ultimate Guide to Choosing Your Perfect
   Chip'
-date: '2025-10-22T14:24:41'
+date: '2025-10-22T06:24:41'
 categories:
 - tech
 - integrated-circuit

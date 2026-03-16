@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Fall For Psychology&#8217;s Biggest Myths? Here Are 10 Ways To Know
-date: '2026-02-26T02:31:29'
+date: '2026-02-25T18:31:29'
 categories:
 - eclectic
 - psychology

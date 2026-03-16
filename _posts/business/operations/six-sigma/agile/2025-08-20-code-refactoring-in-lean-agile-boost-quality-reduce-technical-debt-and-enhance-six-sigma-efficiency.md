@@ -2,7 +2,7 @@
 layout: post
 title: 'Code Refactoring in Lean Agile: Boost Quality, Reduce Technical Debt, and
   Enhance Six Sigma Efficiency'
-date: '2025-08-20T11:16:56'
+date: '2025-08-20T03:16:56'
 categories:
 - business
 - operations

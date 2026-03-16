@@ -2,7 +2,7 @@
 layout: post
 title: 'Full Automation in Biomanufacturing: Transforming Pharma Production in the
   Future'
-date: '2025-04-22T17:28:19'
+date: '2025-04-22T09:28:19'
 categories:
 - health
 - bioscience

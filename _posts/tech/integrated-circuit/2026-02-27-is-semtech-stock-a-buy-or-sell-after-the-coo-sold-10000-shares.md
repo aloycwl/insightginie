@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Semtech Stock a Buy or Sell After the COO Sold 10,000 Shares?
-date: '2026-02-27T05:31:36'
+date: '2026-02-26T21:31:36'
 categories:
 - tech
 - integrated-circuit

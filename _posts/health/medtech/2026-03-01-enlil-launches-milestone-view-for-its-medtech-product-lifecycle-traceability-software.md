@@ -2,7 +2,7 @@
 layout: post
 title: Enlil Launches Milestone View for Its Medtech Product Lifecycle Traceability
   Software
-date: '2026-03-01T23:32:13'
+date: '2026-03-01T15:32:13'
 categories:
 - health
 - medtech

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Uncovering Systemic Risk: What is the Economic Incentive Misalignment Detector?'
-date: '2026-03-16T05:30:28'
+date: '2026-03-15T21:30:28'
 categories:
 - ai
 - openclaw

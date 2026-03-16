@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Code Quality with the Simplify &#038; Harden Skill for OpenClaw
-date: '2026-03-08T14:30:20'
+date: '2026-03-08T06:30:20'
 categories:
 - ai
 - openclaw

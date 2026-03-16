@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Development Workflow: Guide to Finishing a Development Branch'
-date: '2026-03-16T16:46:17'
+date: '2026-03-16T08:46:17'
 categories:
 - ai
 - openclaw

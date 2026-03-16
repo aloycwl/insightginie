@@ -2,7 +2,7 @@
 layout: post
 title: 'Transdermal Optical Imaging vs. Photoplethysmography (PPG): A Critical Comparison
   of Non-Invasive Health Monitoring Technologies'
-date: '2026-02-10T14:00:40'
+date: '2026-02-10T06:00:40'
 categories:
 - health
 - rppg

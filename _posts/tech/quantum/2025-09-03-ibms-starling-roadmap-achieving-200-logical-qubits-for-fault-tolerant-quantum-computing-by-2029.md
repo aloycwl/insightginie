@@ -2,7 +2,7 @@
 layout: post
 title: "IBM\u2019s Starling Roadmap: Achieving 200 Logical Qubits for Fault-Tolerant\
   \ Quantum Computing by 2029"
-date: '2025-09-03T10:56:53'
+date: '2025-09-03T02:56:53'
 categories:
 - tech
 - quantum

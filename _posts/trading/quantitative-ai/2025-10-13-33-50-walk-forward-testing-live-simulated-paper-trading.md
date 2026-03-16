@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (33/50) Walk-forward testing &amp; live-simulated (paper) trading
-date: '2025-10-13T20:16:40'
+date: '2025-10-13T12:16:40'
 categories:
 - trading
 - quantitative-ai

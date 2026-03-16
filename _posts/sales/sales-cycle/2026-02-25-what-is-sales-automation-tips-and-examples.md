@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Sales Automation? Tips and Examples
-date: '2026-02-25T18:31:00'
+date: '2026-02-25T10:31:00'
 categories:
 - sales
 - sales-cycle

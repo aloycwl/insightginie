@@ -2,7 +2,7 @@
 layout: post
 title: 'OGT Docs &#8211; Create Task: Complete Guide for Managing Tasks in Docs-First
   Workflow'
-date: '2026-03-05T12:03:20'
+date: '2026-03-05T04:03:20'
 categories:
 - ai
 - openclaw

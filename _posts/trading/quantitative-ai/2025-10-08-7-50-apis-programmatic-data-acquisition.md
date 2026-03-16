@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (7/50) APIs &amp; programmatic data acquisition
-date: '2025-10-08T10:18:52'
+date: '2025-10-08T02:18:52'
 categories:
 - trading
 - quantitative-ai

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Prompting with OpenAI o1: Strategies for Optimal Results'
-date: '2025-04-25T12:53:20'
+date: '2025-04-25T04:53:20'
 categories:
 - ai
 - ai-agent

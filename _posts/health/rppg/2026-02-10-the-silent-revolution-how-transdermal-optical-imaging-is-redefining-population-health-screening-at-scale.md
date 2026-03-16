@@ -2,7 +2,7 @@
 layout: post
 title: 'The Silent Revolution: How Transdermal Optical Imaging is Redefining Population
   Health Screening at Scale'
-date: '2026-02-10T14:05:16'
+date: '2026-02-10T06:05:16'
 categories:
 - health
 - rppg

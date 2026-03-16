@@ -2,7 +2,7 @@
 layout: post
 title: 'Securing Patient Trust: The Imperative of Data Breach Prevention in the Medical
   Community'
-date: '2025-04-30T16:05:17'
+date: '2025-04-30T08:05:17'
 categories:
 - health
 - healthtech

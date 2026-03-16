@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kokology Quiz: The Empty Doughnut Test Reveals Your True Role Among Friends'
-date: '2025-08-28T10:09:05'
+date: '2025-08-28T02:09:05'
 categories:
 - sales
 - kokology

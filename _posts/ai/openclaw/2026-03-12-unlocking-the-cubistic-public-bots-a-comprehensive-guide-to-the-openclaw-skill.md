@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking the Cubistic Public Bots: A Comprehensive Guide to the OpenClaw
   Skill'
-date: '2026-03-12T06:00:24'
+date: '2026-03-11T22:00:24'
 categories:
 - ai
 - openclaw

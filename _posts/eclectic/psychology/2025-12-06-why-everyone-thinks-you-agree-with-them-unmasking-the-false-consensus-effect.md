@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Why Everyone Thinks You Agree With Them: Unmasking the False Consensus Effect'
-date: '2025-12-06T13:55:07'
+date: '2025-12-06T05:55:07'
 categories:
 - eclectic
 - psychology

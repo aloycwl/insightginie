@@ -2,7 +2,7 @@
 layout: post
 title: 'Y-Flash Based In-Memory Processing for ML Inference: The Next Frontier in
   AI Efficiency'
-date: '2026-02-06T12:13:53'
+date: '2026-02-06T04:13:53'
 categories:
 - tech
 - integrated-circuit

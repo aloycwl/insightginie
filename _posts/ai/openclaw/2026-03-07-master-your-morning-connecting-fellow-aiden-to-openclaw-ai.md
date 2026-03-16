@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Master Your Morning: Connecting Fellow Aiden to OpenClaw AI'
-date: '2026-03-07T14:00:28'
+date: '2026-03-07T06:00:28'
 categories:
 - ai
 - openclaw

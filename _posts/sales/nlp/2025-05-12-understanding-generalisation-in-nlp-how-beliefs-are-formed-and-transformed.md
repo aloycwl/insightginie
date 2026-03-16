@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Generalisation in NLP: How Beliefs Are Formed and Transformed'
-date: '2025-05-12T10:35:19'
+date: '2025-05-12T02:35:19'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: "How \u4EC0\u4E48\u662F Agile Software Development\uFF08\u654F\u6377\u8F6F\u4EF6\
   \u5F00\u53D1\uFF09\uFF1F &#8211; \u77E5\u4E4E is Transforming Agile"
-date: '2026-02-23T18:58:11'
+date: '2026-02-23T10:58:11'
 categories:
 - business
 - operations

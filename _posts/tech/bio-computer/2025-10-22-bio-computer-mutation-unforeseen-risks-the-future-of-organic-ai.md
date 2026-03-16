@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bio-Computer Mutation: Unforeseen Risks &#038; The Future of Organic AI'
-date: '2025-10-22T13:30:13'
+date: '2025-10-22T05:30:13'
 categories:
 - tech
 - bio-computer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Art of War Series: Weak &amp; Strong Points'
-date: '2025-05-27T14:46:15'
+date: '2025-05-27T06:46:15'
 categories:
 - sales
 - art-of-war

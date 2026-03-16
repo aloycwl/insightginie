@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating Professional Travel Route Videos with OpenClaw Terrain Route Video
-date: '2026-03-15T15:00:26'
+date: '2026-03-15T07:00:26'
 categories:
 - ai
 - openclaw

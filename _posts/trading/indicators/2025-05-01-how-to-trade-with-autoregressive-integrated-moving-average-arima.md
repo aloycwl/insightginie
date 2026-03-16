@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Autoregressive Integrated Moving Average (ARIMA)
-date: '2025-05-01T19:44:28'
+date: '2025-05-01T11:44:28'
 categories:
 - trading
 - indicators

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum Computing in 2026: The Breakthroughs Transforming the Future of Technology'
-date: '2026-02-15T14:16:49'
+date: '2026-02-15T06:16:49'
 categories:
 - tech
 - quantum

@@ -2,7 +2,7 @@
 layout: post
 title: 'Commodity Currencies and Terms of Trade: How Resource Prices Shape Exchange
   Rates and Global Capital Flows'
-date: '2025-12-15T14:27:19'
+date: '2025-12-15T06:27:19'
 categories:
 - trading
 - fundamental

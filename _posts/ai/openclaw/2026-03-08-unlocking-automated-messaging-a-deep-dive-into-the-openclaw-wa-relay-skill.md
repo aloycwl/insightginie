@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Automated Messaging: A Deep Dive into the OpenClaw WA-Relay Skill'
-date: '2026-03-08T16:00:24'
+date: '2026-03-08T08:00:24'
 categories:
 - ai
 - openclaw

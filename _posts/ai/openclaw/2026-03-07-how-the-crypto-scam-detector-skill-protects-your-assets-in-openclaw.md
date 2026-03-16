@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Crypto Scam Detector Skill Protects Your Assets in OpenClaw
-date: '2026-03-07T10:00:22'
+date: '2026-03-07T02:00:22'
 categories:
 - ai
 - openclaw

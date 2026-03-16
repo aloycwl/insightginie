@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Reality: VR and AR Revolutionizing Medicine'
-date: '2025-04-26T12:40:17'
+date: '2025-04-26T04:40:17'
 categories:
 - health
 - medtech

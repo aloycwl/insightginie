@@ -2,7 +2,7 @@
 layout: post
 title: 'Revolutionizing Healthcare: The Role of VR, AR, and MR in Shaping Digital
   Healthcare Trends'
-date: '2025-04-30T16:45:35'
+date: '2025-04-30T08:45:35'
 categories:
 - health
 - healthtech

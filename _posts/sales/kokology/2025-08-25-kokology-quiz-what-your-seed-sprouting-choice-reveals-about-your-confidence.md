@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kokology Quiz: What Your Seed Sprouting Choice Reveals About Your Confidence'
-date: '2025-08-25T22:34:04'
+date: '2025-08-25T14:34:04'
 categories:
 - sales
 - kokology

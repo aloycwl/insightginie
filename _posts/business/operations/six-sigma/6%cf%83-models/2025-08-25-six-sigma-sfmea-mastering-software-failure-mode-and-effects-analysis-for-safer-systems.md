@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma &amp; SFMEA: Mastering Software Failure Mode and Effects Analysis
   for Safer Systems'
-date: '2025-08-25T11:15:41'
+date: '2025-08-25T03:15:41'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: "Unlocking Token Launch Freedom: A Deep Dive into OpenClaw\u2019s Tator Launch\
   \ Pad Skill"
-date: '2026-03-09T07:00:25'
+date: '2026-03-08T23:00:25'
 categories:
 - ai
 - openclaw

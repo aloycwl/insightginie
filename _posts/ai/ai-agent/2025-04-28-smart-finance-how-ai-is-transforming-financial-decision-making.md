@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smart Finance: How AI is Transforming Financial Decision-Making'
-date: '2025-04-28T20:21:48'
+date: '2025-04-28T12:21:48'
 categories:
 - ai
 - ai-agent

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Proven Strategies for Securing Commitments and Micro-Commitments in Sales
-date: '2025-05-08T14:14:13'
+date: '2025-05-08T06:14:13'
 categories:
 - sales
 - sales-cycle

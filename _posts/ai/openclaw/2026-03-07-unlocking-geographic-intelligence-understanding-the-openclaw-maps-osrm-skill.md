@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Geographic Intelligence: Understanding the OpenClaw Maps/OSRM Skill'
-date: '2026-03-07T21:00:27'
+date: '2026-03-07T13:00:27'
 categories:
 - ai
 - openclaw

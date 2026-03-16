@@ -2,7 +2,7 @@
 layout: post
 title: 'Harnessing the Power of Apposition in Neuro-Linguistic Programming: Transform
   Your Mindset with Opposites'
-date: '2025-05-13T14:30:29'
+date: '2025-05-13T06:30:29'
 categories:
 - sales
 - nlp

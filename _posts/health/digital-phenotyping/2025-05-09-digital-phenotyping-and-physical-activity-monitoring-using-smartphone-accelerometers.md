@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Phenotyping and Physical Activity Monitoring Using Smartphone Accelerometers
-date: '2025-05-09T21:23:35'
+date: '2025-05-09T13:23:35'
 categories:
 - health
 - digital-phenotyping

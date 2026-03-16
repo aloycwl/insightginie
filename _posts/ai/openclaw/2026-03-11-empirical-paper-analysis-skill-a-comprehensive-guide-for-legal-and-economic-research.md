@@ -2,7 +2,7 @@
 layout: post
 title: 'Empirical Paper Analysis Skill: A Comprehensive Guide for Legal and Economic
   Research'
-date: '2026-03-11T19:16:53'
+date: '2026-03-11T11:16:53'
 categories:
 - ai
 - openclaw

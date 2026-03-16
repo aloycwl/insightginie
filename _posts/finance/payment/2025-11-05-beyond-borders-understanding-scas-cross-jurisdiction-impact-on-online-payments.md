@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Borders: Understanding SCA&#8217;s Cross-Jurisdiction Impact on Online
   Payments'
-date: '2025-11-05T15:18:34'
+date: '2025-11-05T07:18:34'
 categories:
 - finance
 - payment

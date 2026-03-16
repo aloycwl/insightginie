@@ -2,7 +2,7 @@
 layout: post
 title: 'Project Wolbachia: How Tiny Bacteria Are Revolutionizing Global Health &#038;
   Mosquito Control'
-date: '2026-01-13T12:16:27'
+date: '2026-01-13T04:16:27'
 categories:
 - health
 - bioscience

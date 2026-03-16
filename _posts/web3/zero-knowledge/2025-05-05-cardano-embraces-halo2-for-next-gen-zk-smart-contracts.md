@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cardano Embraces Halo2 for Next-Gen ZK Smart Contracts
-date: '2025-05-05T20:52:51'
+date: '2025-05-05T12:52:51'
 categories:
 - web3
 - zero-knowledge

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nvidia Commits $4B to Lumentum and Coherent for AI Optical Technology Expansion
-date: '2026-03-02T23:01:28'
+date: '2026-03-02T15:01:28'
 categories:
 - tech
 - optical-computing

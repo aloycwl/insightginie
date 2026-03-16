@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Embedded KYC: Powering Secure Real-Time Payments &#038; Instant Identity Verification'
-date: '2025-11-18T15:30:00'
+date: '2025-11-18T07:30:00'
 categories:
 - finance
 - banking

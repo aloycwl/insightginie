@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Six Sigma Project Examples Driving Business Excellence in 2026
-date: '2026-02-16T09:17:39'
+date: '2026-02-16T01:17:39'
 categories:
 - business
 - operations

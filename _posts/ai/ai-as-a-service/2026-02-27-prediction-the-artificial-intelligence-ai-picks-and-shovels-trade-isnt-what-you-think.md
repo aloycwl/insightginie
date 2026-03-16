@@ -2,7 +2,7 @@
 layout: post
 title: 'Prediction: The Artificial Intelligence (AI) &#8216;Picks and Shovels&#8217;
   Trade Isn&#8217;t What You Think'
-date: '2026-02-27T19:32:09'
+date: '2026-02-27T11:32:09'
 categories:
 - ai
 - ai-as-a-service

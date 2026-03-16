@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Partnerships Replacing Sales Teams? A New Framework For Growth
-date: '2026-03-11T21:00:36'
+date: '2026-03-11T13:00:36'
 categories:
 - sales
 - sales-cycle

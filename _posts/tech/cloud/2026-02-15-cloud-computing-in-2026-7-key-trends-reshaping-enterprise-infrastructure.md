@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cloud Computing in 2026: 7 Key Trends Reshaping Enterprise Infrastructure'
-date: '2026-02-15T15:47:15'
+date: '2026-02-15T07:47:15'
 categories:
 - tech
 - cloud

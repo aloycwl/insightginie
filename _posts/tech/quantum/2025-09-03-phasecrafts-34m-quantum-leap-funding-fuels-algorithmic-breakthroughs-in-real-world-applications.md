@@ -2,7 +2,7 @@
 layout: post
 title: "Phasecraft\u2019s $34M Quantum Leap: Funding Fuels Algorithmic Breakthroughs\
   \ in Real-World Applications"
-date: '2025-09-03T10:13:55'
+date: '2025-09-03T02:13:55'
 categories:
 - tech
 - quantum

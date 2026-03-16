@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Candle Trends: Complete Guide 2026'
-date: '2026-02-21T18:27:46'
+date: '2026-02-21T10:27:46'
 categories:
 - trading
 - candle

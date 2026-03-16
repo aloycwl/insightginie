@@ -2,7 +2,7 @@
 layout: post
 title: Mastering the Tweezer Top and Tweezer Bottom Candlestick Patterns for Profitable
   Trades
-date: '2025-04-30T17:27:25'
+date: '2025-04-30T09:27:25'
 categories:
 - trading
 - candle

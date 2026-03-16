@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Critical Role of Supplier Location in Business Optimization
-date: '2025-05-05T10:16:55'
+date: '2025-05-05T02:16:55'
 categories:
 - business
 - business-plan

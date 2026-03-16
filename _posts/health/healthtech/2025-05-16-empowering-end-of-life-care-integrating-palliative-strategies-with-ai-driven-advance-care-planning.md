@@ -2,7 +2,7 @@
 layout: post
 title: 'Empowering End-of-Life Care: Integrating Palliative Strategies with AI-Driven
   Advance Care Planning'
-date: '2025-05-16T09:13:59'
+date: '2025-05-16T01:13:59'
 categories:
 - health
 - healthtech

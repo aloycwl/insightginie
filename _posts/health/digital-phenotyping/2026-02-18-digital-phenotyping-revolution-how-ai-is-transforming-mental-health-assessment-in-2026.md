@@ -2,7 +2,7 @@
 layout: post
 title: 'Digital Phenotyping Revolution: How AI is Transforming Mental Health Assessment
   in 2026'
-date: '2026-02-18T16:47:21'
+date: '2026-02-18T08:47:21'
 categories:
 - health
 - digital-phenotyping

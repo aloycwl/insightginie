@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A New Creative Era Powered by Generative AI
-date: '2025-05-05T10:03:37'
+date: '2025-05-05T02:03:37'
 categories:
 - ai
 - ai-agent

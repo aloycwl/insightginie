@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Green Belt vs. Black Belt: Salary Comparisons and Career Path Insights'
-date: '2026-03-02T19:01:28'
+date: '2026-03-02T11:01:28'
 categories:
 - business
 - operations

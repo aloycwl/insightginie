@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Qwen3-TTS VoiceDesign: Text-to-Speech with Custom Voice Descriptions'
-date: '2026-03-11T18:17:12'
+date: '2026-03-11T10:17:12'
 categories:
 - ai
 - openclaw

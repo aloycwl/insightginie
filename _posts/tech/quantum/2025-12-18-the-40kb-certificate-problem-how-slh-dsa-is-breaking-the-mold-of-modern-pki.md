@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The 40KB Certificate Problem: How SLH-DSA is Breaking the Mold of Modern PKI'
-date: '2025-12-18T13:17:26'
+date: '2025-12-18T05:17:26'
 categories:
 - tech
 - quantum

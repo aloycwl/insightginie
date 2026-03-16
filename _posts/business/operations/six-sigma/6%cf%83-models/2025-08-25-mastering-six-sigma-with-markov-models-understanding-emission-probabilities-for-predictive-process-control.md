@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Six Sigma with Markov Models: Understanding Emission Probabilities
   for Predictive Process Control'
-date: '2025-08-25T09:51:43'
+date: '2025-08-25T01:51:43'
 categories:
 - business
 - operations

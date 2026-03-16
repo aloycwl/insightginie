@@ -2,7 +2,7 @@
 layout: post
 title: "How Six Sigma Enhances Catalyst\u2019s Process Architecture: A Strategic Guide\
   \ to Operational Excellence"
-date: '2025-07-03T15:45:13'
+date: '2025-07-03T07:45:13'
 categories:
 - business
 - operations

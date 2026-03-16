@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Pattern Trends
-date: '2026-02-24T16:59:34'
+date: '2026-02-24T08:59:34'
 categories:
 - trading
 - pattern

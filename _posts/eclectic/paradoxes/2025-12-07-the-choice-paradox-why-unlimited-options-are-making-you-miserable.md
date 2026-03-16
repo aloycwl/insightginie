@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Choice Paradox: Why Unlimited Options Are Making You Miserable'
-date: '2025-12-07T10:54:35'
+date: '2025-12-07T02:54:35'
 categories:
 - eclectic
 - paradoxes

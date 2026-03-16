@@ -2,7 +2,7 @@
 layout: post
 title: Sanara MedTech Inc. Announces Fourth Quarter and Full Year 2025 Financial Results
   Release Date
-date: '2026-03-07T15:46:27'
+date: '2026-03-07T07:46:27'
 categories:
 - health
 - medtech

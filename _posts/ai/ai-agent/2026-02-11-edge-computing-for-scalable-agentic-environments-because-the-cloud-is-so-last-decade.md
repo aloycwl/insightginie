@@ -2,7 +2,7 @@
 layout: post
 title: 'Edge Computing for Scalable Agentic Environments: Because the Cloud is So
   Last Decade'
-date: '2026-02-11T12:22:04'
+date: '2026-02-11T04:22:04'
 categories:
 - ai
 - ai-agent

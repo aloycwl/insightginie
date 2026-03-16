@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wire Network: Revolutionizing Blockchain for the AI Agent Economy'
-date: '2025-05-02T13:15:38'
+date: '2025-05-02T05:15:38'
 categories:
 - web3
 - network

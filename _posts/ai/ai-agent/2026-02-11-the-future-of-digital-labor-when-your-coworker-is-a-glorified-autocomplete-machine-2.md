@@ -2,7 +2,7 @@
 layout: post
 title: 'The Future of Digital Labor: When Your Coworker is a Glorified Autocomplete
   Machine'
-date: '2026-02-11T12:47:02'
+date: '2026-02-11T04:47:02'
 categories:
 - ai
 - ai-agent

@@ -2,7 +2,7 @@
 layout: post
 title: 'Transdermal Optical Imaging: The Next Frontier in Consumer Electronics and
   Biometric Sensing'
-date: '2026-02-10T14:07:59'
+date: '2026-02-10T06:07:59'
 categories:
 - health
 - rppg

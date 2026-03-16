@@ -2,7 +2,7 @@
 layout: post
 title: 'The Promise and Pitfalls of Zero-Knowledge Proofs (ZKPs): Core Definitions
   of Completeness, Soundness, and Zero-Knowledge'
-date: '2025-05-05T21:09:02'
+date: '2025-05-05T13:09:02'
 categories:
 - web3
 - zero-knowledge

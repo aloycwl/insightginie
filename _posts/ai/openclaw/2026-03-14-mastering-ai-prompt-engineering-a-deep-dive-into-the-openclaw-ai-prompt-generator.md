@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering AI Prompt Engineering: A Deep Dive into the OpenClaw AI Prompt Generator'
-date: '2026-03-14T09:00:23'
+date: '2026-03-14T01:00:23'
 categories:
 - ai
 - openclaw

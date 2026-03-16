@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use the VLM Run CLI Skill for Advanced Image and Video Processing
-date: '2026-03-10T06:45:53'
+date: '2026-03-09T22:45:53'
 categories:
 - ai
 - openclaw

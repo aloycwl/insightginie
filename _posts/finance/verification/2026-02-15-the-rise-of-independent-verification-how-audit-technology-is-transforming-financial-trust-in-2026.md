@@ -2,7 +2,7 @@
 layout: post
 title: 'The Rise of Independent Verification: How Audit Technology is Transforming
   Financial Trust in 2026'
-date: '2026-02-15T18:31:59'
+date: '2026-02-15T10:31:59'
 categories:
 - finance
 - verification

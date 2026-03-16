@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Master Your Productivity: A Guide to the OpenClaw Things 3 Skill for macOS'
-date: '2026-03-07T08:00:36'
+date: '2026-03-07T00:00:36'
 categories:
 - ai
 - openclaw

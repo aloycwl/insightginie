@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Candlestick Patterns: The Complete Trading Guide for 2026'
-date: '2026-02-17T11:34:11'
+date: '2026-02-17T03:34:11'
 categories:
 - trading
 - candle

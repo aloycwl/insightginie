@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest AI as a Service Trends &#8211; Everything You Need to Know
-date: '2026-02-21T06:27:40'
+date: '2026-02-20T22:27:40'
 categories:
 - ai
 - ai-as-a-service

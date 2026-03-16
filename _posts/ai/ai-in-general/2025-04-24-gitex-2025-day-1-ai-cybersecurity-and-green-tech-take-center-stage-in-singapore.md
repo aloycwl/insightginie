@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GITEX 2025 Day 1: AI, Cybersecurity, and Green Tech Take Center Stage in Singapore'
-date: '2025-04-24T09:14:37'
+date: '2025-04-24T01:14:37'
 categories:
 - ai
 - ai-in-general

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw PR Triage Skill: Automate GitHub Pull Request Management'
-date: '2026-03-12T16:15:39'
+date: '2026-03-12T08:15:39'
 categories:
 - ai
 - openclaw

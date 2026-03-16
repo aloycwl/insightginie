@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agentic AI vs. Traditional AI: The Silent Revolution in Intelligence Design'
-date: '2026-02-11T11:45:29'
+date: '2026-02-11T03:45:29'
 categories:
 - ai
 - ai-agent

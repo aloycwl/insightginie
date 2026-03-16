@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Wires: How Optical Processing is Revolutionizing Brain-Computer Interfaces'
-date: '2026-01-02T17:40:07'
+date: '2026-01-02T09:40:07'
 categories:
 - tech
 - optical-computing

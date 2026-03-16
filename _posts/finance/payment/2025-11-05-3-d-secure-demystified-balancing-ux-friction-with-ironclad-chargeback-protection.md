@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3-D Secure Demystified: Balancing UX Friction with Ironclad Chargeback Protection'
-date: '2025-11-05T15:18:08'
+date: '2025-11-05T07:18:08'
 categories:
 - finance
 - payment

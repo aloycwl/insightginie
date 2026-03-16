@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Digital Security: Polynomial Arithmetic in Finite Fields Explained'
-date: '2025-12-18T10:09:06'
+date: '2025-12-18T02:09:06'
 categories:
 - tech
 - quantum

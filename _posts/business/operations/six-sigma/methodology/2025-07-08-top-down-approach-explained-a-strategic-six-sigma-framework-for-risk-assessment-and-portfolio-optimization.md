@@ -2,7 +2,7 @@
 layout: post
 title: 'Top-Down Approach Explained: A Strategic Six Sigma Framework for Risk Assessment
   and Portfolio Optimization'
-date: '2025-07-08T13:59:34'
+date: '2025-07-08T05:59:34'
 categories:
 - business
 - operations

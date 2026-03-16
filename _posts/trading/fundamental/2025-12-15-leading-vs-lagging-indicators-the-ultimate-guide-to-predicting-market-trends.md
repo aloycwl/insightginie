@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Leading vs. Lagging Indicators: The Ultimate Guide to Predicting Market Trends'
-date: '2025-12-15T13:44:10'
+date: '2025-12-15T05:44:10'
 categories:
 - trading
 - fundamental

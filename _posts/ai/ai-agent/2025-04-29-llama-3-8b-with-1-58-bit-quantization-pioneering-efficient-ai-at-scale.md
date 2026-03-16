@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Llama 3 8B with 1.58-Bit Quantization: Pioneering Efficient AI at Scale'
-date: '2025-04-29T15:59:37'
+date: '2025-04-29T07:59:37'
 categories:
 - ai
 - ai-agent

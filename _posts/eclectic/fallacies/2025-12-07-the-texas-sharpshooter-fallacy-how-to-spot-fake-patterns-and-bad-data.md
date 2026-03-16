@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Texas Sharpshooter Fallacy: How to Spot Fake Patterns and Bad Data'
-date: '2025-12-07T22:26:55'
+date: '2025-12-07T14:26:55'
 categories:
 - eclectic
 - fallacies

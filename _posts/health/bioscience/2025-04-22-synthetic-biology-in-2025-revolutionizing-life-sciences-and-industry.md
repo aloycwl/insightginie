@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Synthetic Biology in 2025: Revolutionizing Life Sciences and Industry'
-date: '2025-04-22T17:25:20'
+date: '2025-04-22T09:25:20'
 categories:
 - health
 - bioscience

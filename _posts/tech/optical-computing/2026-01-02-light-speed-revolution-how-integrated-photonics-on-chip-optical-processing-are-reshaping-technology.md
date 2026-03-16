@@ -2,7 +2,7 @@
 layout: post
 title: 'Light-Speed Revolution: How Integrated Photonics &#038; On-Chip Optical Processing
   Are Reshaping Technology'
-date: '2026-01-02T17:35:06'
+date: '2026-01-02T09:35:06'
 categories:
 - tech
 - optical-computing

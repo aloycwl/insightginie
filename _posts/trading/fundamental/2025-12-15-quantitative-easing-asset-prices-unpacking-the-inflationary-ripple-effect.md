@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantitative Easing &#038; Asset Prices: Unpacking the Inflationary Ripple
   Effect'
-date: '2025-12-15T12:05:22'
+date: '2025-12-15T04:05:22'
 categories:
 - trading
 - fundamental

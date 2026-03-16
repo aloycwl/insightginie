@@ -2,7 +2,7 @@
 layout: post
 title: 'Extreme Programming (XP) Explained: How Six Sigma Enhances Agility and Software
   Quality'
-date: '2025-08-20T11:00:19'
+date: '2025-08-20T03:00:19'
 categories:
 - business
 - operations

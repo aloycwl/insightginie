@@ -2,7 +2,7 @@
 layout: post
 title: 'Cross-Chain RWA Bridges: Your Gateway to Tokenized Real-World Assets &#038;
   DeFi Liquidity'
-date: '2025-11-13T10:47:19'
+date: '2025-11-13T02:47:19'
 categories:
 - finance
 - real-world-asset-rwa

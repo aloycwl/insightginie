@@ -2,7 +2,7 @@
 layout: post
 title: 'SWIFT Unlocked: The Essential Guide to Securities &#038; Trade Finance Beyond
   Payments'
-date: '2025-11-18T20:45:00'
+date: '2025-11-18T12:45:00'
 categories:
 - finance
 - banking

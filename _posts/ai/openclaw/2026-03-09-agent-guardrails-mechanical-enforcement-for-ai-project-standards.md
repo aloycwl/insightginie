@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agent Guardrails: Mechanical Enforcement for AI Project Standards'
-date: '2026-03-09T21:45:53'
+date: '2026-03-09T13:45:53'
 categories:
 - ai
 - openclaw

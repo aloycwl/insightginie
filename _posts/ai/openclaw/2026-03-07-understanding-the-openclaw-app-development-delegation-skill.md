@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the OpenClaw App Development Delegation Skill
-date: '2026-03-07T14:45:32'
+date: '2026-03-07T06:45:32'
 categories:
 - ai
 - openclaw

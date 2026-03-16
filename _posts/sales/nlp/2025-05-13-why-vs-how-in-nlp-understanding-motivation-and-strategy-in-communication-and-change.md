@@ -2,7 +2,7 @@
 layout: post
 title: 'Why vs. How in NLP: Understanding Motivation and Strategy in Communication
   and Change'
-date: '2025-05-13T11:57:18'
+date: '2025-05-13T03:57:18'
 categories:
 - sales
 - nlp

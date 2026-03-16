@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Ambient Intelligence: A Deep Dive into the OpenClaw Percept-Listen
   Skill'
-date: '2026-03-13T16:30:29'
+date: '2026-03-13T08:30:29'
 categories:
 - ai
 - openclaw

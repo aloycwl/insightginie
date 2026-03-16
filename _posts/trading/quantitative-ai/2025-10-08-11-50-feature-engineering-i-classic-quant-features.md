@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(11/50) Feature engineering I \u2014 classic quant features"
-date: '2025-10-08T13:27:11'
+date: '2025-10-08T05:27:11'
 categories:
 - trading
 - quantitative-ai

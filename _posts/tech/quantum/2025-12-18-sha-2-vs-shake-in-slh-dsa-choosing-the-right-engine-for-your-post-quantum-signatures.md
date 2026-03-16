@@ -2,7 +2,7 @@
 layout: post
 title: 'SHA-2 vs. SHAKE in SLH-DSA: Choosing the Right Engine for Your Post-Quantum
   Signatures'
-date: '2025-12-18T12:19:36'
+date: '2025-12-18T04:19:36'
 categories:
 - tech
 - quantum

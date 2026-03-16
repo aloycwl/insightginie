@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enhancing Remote Heart Rate Estimation
-date: '2025-04-25T13:06:29'
+date: '2025-04-25T05:06:29'
 categories:
 - health
 - rppg

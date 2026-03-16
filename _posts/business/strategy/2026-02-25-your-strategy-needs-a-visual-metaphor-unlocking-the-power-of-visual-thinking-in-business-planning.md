@@ -2,7 +2,7 @@
 layout: post
 title: 'Your Strategy Needs a Visual Metaphor: Unlocking the Power of Visual Thinking
   in Business Planning'
-date: '2026-02-25T23:02:59'
+date: '2026-02-25T15:02:59'
 categories:
 - business
 - strategy

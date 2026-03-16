@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Turing Pyramid: Psychological Hierarchy for AI Agents'
-date: '2026-03-05T17:01:47'
+date: '2026-03-05T09:01:47'
 categories:
 - ai
 - openclaw

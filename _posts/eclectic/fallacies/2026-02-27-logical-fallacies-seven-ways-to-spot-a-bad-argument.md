@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logical Fallacies: Seven Ways to Spot a Bad Argument'
-date: '2026-02-27T20:31:53'
+date: '2026-02-27T12:31:53'
 categories:
 - eclectic
 - fallacies

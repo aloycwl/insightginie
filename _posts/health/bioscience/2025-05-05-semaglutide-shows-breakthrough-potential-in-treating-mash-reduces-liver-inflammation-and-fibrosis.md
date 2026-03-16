@@ -2,7 +2,7 @@
 layout: post
 title: 'Semaglutide Shows Breakthrough Potential in Treating MASH: Reduces Liver Inflammation
   and Fibrosis'
-date: '2025-05-05T13:34:28'
+date: '2025-05-05T05:34:28'
 categories:
 - health
 - bioscience

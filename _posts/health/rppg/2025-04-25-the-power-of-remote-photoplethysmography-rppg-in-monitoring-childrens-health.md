@@ -2,7 +2,7 @@
 layout: post
 title: "The Power of Remote Photoplethysmography (rPPG) in Monitoring Children\u2019\
   s Health"
-date: '2025-04-25T12:25:02'
+date: '2025-04-25T04:25:02'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Model Context Protocol (MCP): Shaping the Future of AI Communication'
-date: '2025-04-29T10:24:44'
+date: '2025-04-29T02:24:44'
 categories:
 - ai
 - ai-agent

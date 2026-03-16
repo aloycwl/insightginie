@@ -2,7 +2,7 @@
 layout: post
 title: 'Majorana Qubits Decoded: Scientists Unlock the Secret of Topological Quantum
   Computing'
-date: '2026-02-17T22:17:37'
+date: '2026-02-17T14:17:37'
 categories:
 - tech
 - quantum

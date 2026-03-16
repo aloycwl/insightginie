@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Cobra Effect: How Good Intentions Backfire Spectacularly'
-date: '2025-12-06T13:45:23'
+date: '2025-12-06T05:45:23'
 categories:
 - eclectic
 - psychology

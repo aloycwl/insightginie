@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enhancing rPPG Accuracy Across Skin Tones and Lighting Variations
-date: '2025-04-25T13:01:13'
+date: '2025-04-25T05:01:13'
 categories:
 - health
 - rppg

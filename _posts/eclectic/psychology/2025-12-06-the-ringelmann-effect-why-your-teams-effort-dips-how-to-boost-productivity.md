@@ -2,7 +2,7 @@
 layout: post
 title: 'The Ringelmann Effect: Why Your Team&#8217;s Effort Dips &#038; How to Boost
   Productivity'
-date: '2025-12-06T14:19:09'
+date: '2025-12-06T06:19:09'
 categories:
 - eclectic
 - psychology

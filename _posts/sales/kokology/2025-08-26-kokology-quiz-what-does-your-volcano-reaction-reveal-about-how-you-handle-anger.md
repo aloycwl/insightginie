@@ -2,7 +2,7 @@
 layout: post
 title: 'Kokology Quiz: What Does Your Volcano Reaction Reveal About How You Handle
   Anger?'
-date: '2025-08-26T12:02:30'
+date: '2025-08-26T04:02:30'
 categories:
 - sales
 - kokology

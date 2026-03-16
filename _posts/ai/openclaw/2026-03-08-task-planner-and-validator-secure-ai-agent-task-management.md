@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Task Planner and Validator &#8211; Secure AI Agent Task Management
-date: '2026-03-08T10:18:19'
+date: '2026-03-08T02:18:19'
 categories:
 - ai
 - openclaw

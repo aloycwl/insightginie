@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seamless EHR: Integrating Records for Smooth Telehealth'
-date: '2025-04-26T13:41:12'
+date: '2025-04-26T05:41:12'
 categories:
 - health
 - telemedicine

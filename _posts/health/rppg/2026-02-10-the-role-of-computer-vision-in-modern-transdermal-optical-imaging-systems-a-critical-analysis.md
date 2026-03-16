@@ -2,7 +2,7 @@
 layout: post
 title: 'The Role of Computer Vision in Modern Transdermal Optical Imaging Systems:
   A Critical Analysis'
-date: '2026-02-10T13:57:05'
+date: '2026-02-10T05:57:05'
 categories:
 - health
 - rppg

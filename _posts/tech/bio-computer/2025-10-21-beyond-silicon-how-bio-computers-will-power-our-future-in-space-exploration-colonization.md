@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Silicon: How Bio-Computers Will Power Our Future in Space Exploration
   &#038; Colonization'
-date: '2025-10-21T20:52:22'
+date: '2025-10-21T12:52:22'
 categories:
 - tech
 - bio-computer

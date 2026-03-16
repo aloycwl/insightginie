@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zero Knowledge Proofs in 2026: How ZKP is Revolutionizing AI Privacy and Blockchain'
-date: '2026-02-17T01:02:10'
+date: '2026-02-16T17:02:10'
 categories:
 - web3
 - zero-knowledge

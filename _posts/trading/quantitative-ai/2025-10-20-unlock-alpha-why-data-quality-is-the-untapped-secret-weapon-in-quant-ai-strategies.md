@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Alpha: Why Data Quality is the Untapped Secret Weapon in Quant AI Strategies'
-date: '2025-10-20T11:42:12'
+date: '2025-10-20T03:42:12'
 categories:
 - trading
 - quantitative-ai

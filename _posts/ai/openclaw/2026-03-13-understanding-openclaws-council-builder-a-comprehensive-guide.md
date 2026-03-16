@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding OpenClaw&#8217;s Council Builder: A Comprehensive Guide'
-date: '2026-03-13T23:46:01'
+date: '2026-03-13T15:46:01'
 categories:
 - ai
 - openclaw

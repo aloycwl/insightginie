@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the Parakeet Local ASR Skill for OpenClaw: A Complete Guide'
-date: '2026-03-12T06:30:30'
+date: '2026-03-11T22:30:30'
 categories:
 - ai
 - openclaw

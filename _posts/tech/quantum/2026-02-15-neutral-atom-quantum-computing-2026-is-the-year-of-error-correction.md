@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neutral Atom Quantum Computing: 2026 is the Year of Error Correction'
-date: '2026-02-15T21:31:54'
+date: '2026-02-15T13:31:54'
 categories:
 - tech
 - quantum

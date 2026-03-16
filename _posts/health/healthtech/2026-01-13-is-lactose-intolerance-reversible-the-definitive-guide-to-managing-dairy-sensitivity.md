@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Lactose Intolerance Reversible? The Definitive Guide to Managing Dairy Sensitivity
-date: '2026-01-13T12:20:48'
+date: '2026-01-13T04:20:48'
 categories:
 - health
 - healthtech

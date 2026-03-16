@@ -1,7 +1,7 @@
 ---
 layout: post
 title: THE ART OF WAR By Sun Tzu, Adapted By Dave Pierini is Coming to B Street Theatre
-date: '2026-02-28T18:01:34'
+date: '2026-02-28T10:01:34'
 categories:
 - sales
 - art-of-war

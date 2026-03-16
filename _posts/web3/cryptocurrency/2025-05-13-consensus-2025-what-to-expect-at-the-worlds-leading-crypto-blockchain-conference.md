@@ -2,7 +2,7 @@
 layout: post
 title: "Consensus 2025: What to Expect at the World\u2019s Leading Crypto &amp; Blockchain\
   \ Conference"
-date: '2025-05-13T14:10:04'
+date: '2025-05-13T06:10:04'
 categories:
 - web3
 - cryptocurrency

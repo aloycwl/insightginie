@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Hunter, Farmer, Technician, and Consultant Roles
-date: '2025-05-08T12:49:38'
+date: '2025-05-08T04:49:38'
 categories:
 - sales
 - sales-cycle

@@ -2,7 +2,7 @@
 layout: post
 title: 'The AI Boom and Its Ripple Effect: How Surging Demand Reshapes the Memory
   Chip Industry'
-date: '2026-02-06T13:06:11'
+date: '2026-02-06T05:06:11'
 categories:
 - tech
 - integrated-circuit

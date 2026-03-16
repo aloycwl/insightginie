@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the &#8216;Distracter&#8217; in NLP: Navigating Cognitive Distractions
   and Enhancing Focus'
-date: '2025-05-12T11:16:23'
+date: '2025-05-12T03:16:23'
 categories:
 - sales
 - nlp

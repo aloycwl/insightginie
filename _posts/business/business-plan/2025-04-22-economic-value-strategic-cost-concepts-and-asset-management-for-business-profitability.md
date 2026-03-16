@@ -2,7 +2,7 @@
 layout: post
 title: 'Economic Value: Strategic Cost Concepts and Asset Management for Business
   Profitability'
-date: '2025-04-22T13:10:44'
+date: '2025-04-22T05:10:44'
 categories:
 - business
 - business-plan

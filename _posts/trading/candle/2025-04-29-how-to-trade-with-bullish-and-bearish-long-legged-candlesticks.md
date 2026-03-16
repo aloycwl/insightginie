@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Bullish and Bearish Long-Legged Candlesticks
-date: '2025-04-29T17:05:00'
+date: '2025-04-29T09:05:00'
 categories:
 - trading
 - candle

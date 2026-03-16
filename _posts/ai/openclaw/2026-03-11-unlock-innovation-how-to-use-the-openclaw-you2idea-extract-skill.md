@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Innovation: How to Use the OpenClaw you2idea-extract Skill'
-date: '2026-03-11T06:00:23'
+date: '2026-03-10T22:00:23'
 categories:
 - ai
 - openclaw

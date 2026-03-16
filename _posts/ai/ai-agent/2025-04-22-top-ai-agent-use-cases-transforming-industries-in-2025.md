@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top AI Agent Use Cases Transforming Industries in 2025
-date: '2025-04-22T17:12:14'
+date: '2025-04-22T09:12:14'
 categories:
 - ai
 - ai-agent

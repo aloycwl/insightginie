@@ -2,7 +2,7 @@
 layout: post
 title: 'SQL Injection in 2026: Why Your Database is Still Begging for a Security Upgrade
   (Yes, Really)'
-date: '2026-02-05T12:16:54'
+date: '2026-02-05T04:16:54'
 categories:
 - tech
 - cybersec

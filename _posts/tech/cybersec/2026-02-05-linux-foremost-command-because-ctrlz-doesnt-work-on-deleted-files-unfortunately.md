@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Foremost Command: Because &#8216;Ctrl+Z&#8217; Doesn\u2019t Work on\
   \ Deleted Files (Unfortunately)"
-date: '2026-02-05T13:53:43'
+date: '2026-02-05T05:53:43'
 categories:
 - tech
 - cybersec

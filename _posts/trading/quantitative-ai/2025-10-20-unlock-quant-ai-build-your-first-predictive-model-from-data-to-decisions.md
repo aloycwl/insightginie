@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Quant AI: Build Your First Predictive Model from Data to Decisions'
-date: '2025-10-20T11:40:30'
+date: '2025-10-20T03:40:30'
 categories:
 - trading
 - quantitative-ai

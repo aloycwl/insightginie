@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Nature&#8217;s Glow: How Biological Light Generation &#038; Bio-Photonic
   Processing Are Revolutionizing Our World'
-date: '2026-01-02T17:40:26'
+date: '2026-01-02T09:40:26'
 categories:
 - tech
 - optical-computing

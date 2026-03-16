@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Personalization: A Deep Dive into OpenClaw&#8217;s OS Activity Skill'
-date: '2026-03-15T11:00:27'
+date: '2026-03-15T03:00:27'
 categories:
 - ai
 - openclaw

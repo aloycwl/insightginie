@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Solo Pipeline Skill: Automating Multi-Skill Workflows'
-date: '2026-03-07T22:16:53'
+date: '2026-03-07T14:16:53'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ISO 20022 Explained: Why Banks Are Migrating to the Future of Payments'
-date: '2025-11-05T15:30:17'
+date: '2025-11-05T07:30:17'
 categories:
 - finance
 - payment

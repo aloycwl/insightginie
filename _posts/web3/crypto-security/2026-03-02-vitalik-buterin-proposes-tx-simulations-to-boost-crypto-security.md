@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vitalik Buterin Proposes TX &#8216;Simulations&#8217; to Boost Crypto Security
-date: '2026-03-02T08:31:04'
+date: '2026-03-02T00:31:04'
 categories:
 - web3
 - crypto-security

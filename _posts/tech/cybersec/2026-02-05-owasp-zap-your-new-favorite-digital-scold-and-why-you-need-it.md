@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OWASP ZAP: Your New Favorite Digital Scold (and Why You Need It)'
-date: '2026-02-05T13:21:43'
+date: '2026-02-05T05:21:43'
 categories:
 - tech
 - cybersec

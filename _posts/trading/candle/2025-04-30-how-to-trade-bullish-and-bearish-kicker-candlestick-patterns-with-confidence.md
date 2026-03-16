@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Bullish and Bearish Kicker Candlestick Patterns with Confidence
-date: '2025-04-30T09:27:09'
+date: '2025-04-30T01:27:09'
 categories:
 - trading
 - candle

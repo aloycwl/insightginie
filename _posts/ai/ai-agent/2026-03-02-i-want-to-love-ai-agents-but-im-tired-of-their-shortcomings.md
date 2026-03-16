@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Want to Love AI Agents, But I&#8217;m Tired of Their Shortcomings
-date: '2026-03-02T10:31:30'
+date: '2026-03-02T02:31:30'
 categories:
 - ai
 - ai-agent

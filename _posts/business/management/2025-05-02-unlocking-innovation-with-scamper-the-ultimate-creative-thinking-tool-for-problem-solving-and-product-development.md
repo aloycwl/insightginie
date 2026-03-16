@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Innovation with SCAMPER: The Ultimate Creative Thinking Tool for
   Problem Solving and Product Development'
-date: '2025-05-02T14:40:44'
+date: '2025-05-02T06:40:44'
 categories:
 - business
 - management

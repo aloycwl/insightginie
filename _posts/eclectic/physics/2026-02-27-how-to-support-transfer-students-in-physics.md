@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Support Transfer Students in Physics
-date: '2026-02-27T15:01:52'
+date: '2026-02-27T07:01:52'
 categories:
 - eclectic
 - physics

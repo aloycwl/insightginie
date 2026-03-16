@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Exponential Moving Averages (EMA) Like a Pro
-date: '2025-05-01T19:10:45'
+date: '2025-05-01T11:10:45'
 categories:
 - trading
 - indicators

@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma in Agile Software Development: How to Manage Unpredictability with
   Process Adaptability'
-date: '2025-08-20T10:54:20'
+date: '2025-08-20T02:54:20'
 categories:
 - business
 - operations

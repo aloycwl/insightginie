@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking the Human Mind: How AI is Revolutionizing Behavioral Insights'
-date: '2025-04-27T19:19:48'
+date: '2025-04-27T11:19:48'
 categories:
 - ai
 - machine-learning

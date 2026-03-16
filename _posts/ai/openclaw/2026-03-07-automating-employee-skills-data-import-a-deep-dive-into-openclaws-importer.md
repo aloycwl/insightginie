@@ -2,7 +2,7 @@
 layout: post
 title: 'Automating Employee Skills Data Import: A Deep Dive into OpenClaw&#8217;s
   Importer'
-date: '2026-03-07T01:00:36'
+date: '2026-03-06T17:00:36'
 categories:
 - ai
 - openclaw

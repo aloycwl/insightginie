@@ -2,7 +2,7 @@
 layout: post
 title: "Taguchi\u2019s Loss Function Explained: How Small Deviations Create Big Costs\
   \ in Quality Management"
-date: '2025-08-20T15:17:53'
+date: '2025-08-20T07:17:53'
 categories:
 - business
 - operations

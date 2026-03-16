@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'From Fire to Quantum: The Dazzling Evolution of Light Sources'
-date: '2026-01-01T12:08:57'
+date: '2026-01-01T04:08:57'
 categories:
 - tech
 - optical-computing

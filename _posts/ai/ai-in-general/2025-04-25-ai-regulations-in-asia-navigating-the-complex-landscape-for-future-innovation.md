@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Regulations in Asia: Navigating the Complex Landscape for Future Innovation'
-date: '2025-04-25T19:40:37'
+date: '2025-04-25T11:40:37'
 categories:
 - ai
 - ai-in-general

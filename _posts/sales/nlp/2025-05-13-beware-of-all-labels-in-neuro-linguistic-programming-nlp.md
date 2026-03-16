@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beware of All Labels in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:25:56'
+date: '2025-05-13T04:25:56'
 categories:
 - sales
 - nlp

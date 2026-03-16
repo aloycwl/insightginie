@@ -2,7 +2,7 @@
 layout: post
 title: 'Interest-Free vs. Conventional Banking: Unpacking the Digital Islamic Finance
   Revolution'
-date: '2025-11-18T17:30:00'
+date: '2025-11-18T09:30:00'
 categories:
 - finance
 - banking

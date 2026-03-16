@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Humanity 2.0: Bio-Computers, Transhumanism, and the Blurring Lines'
-date: '2025-10-21T21:39:12'
+date: '2025-10-21T13:39:12'
 categories:
 - tech
 - bio-computer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GitHub: How People Build Software'
-date: '2026-03-04T16:21:00'
+date: '2026-03-04T08:21:00'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'Stripe vs. Adyen vs. PayPal vs. Worldpay vs. Square: The Ultimate Global Payment
   Provider Comparison'
-date: '2025-11-05T15:31:23'
+date: '2025-11-05T07:31:23'
 categories:
 - finance
 - payment

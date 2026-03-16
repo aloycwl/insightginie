@@ -2,7 +2,7 @@
 layout: post
 title: 'The $4.45 Million Mistake: How to Mitigate the Catastrophic Risk of a Data
   Breach'
-date: '2025-12-08T20:40:26'
+date: '2025-12-08T12:40:26'
 categories:
 - business
 - business-plan

@@ -2,7 +2,7 @@
 layout: post
 title: 'AI as a Service Market to Reach $91.20 Billion by 2030: The Complete 2025
   Guide'
-date: '2026-02-15T18:19:02'
+date: '2026-02-15T10:19:02'
 categories:
 - ai
 - ai-as-a-service

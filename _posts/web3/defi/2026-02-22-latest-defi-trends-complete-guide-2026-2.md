@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Defi Trends: Complete Guide 2026'
-date: '2026-02-22T00:27:39'
+date: '2026-02-21T16:27:39'
 categories:
 - web3
 - defi

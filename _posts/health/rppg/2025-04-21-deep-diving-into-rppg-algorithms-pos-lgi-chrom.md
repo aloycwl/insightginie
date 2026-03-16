@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deep Diving into rPPG Algorithms: POS, LGI, CHROM'
-date: '2025-04-21T22:19:11'
+date: '2025-04-21T14:19:11'
 categories:
 - health
 - rppg

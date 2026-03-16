@@ -2,7 +2,7 @@
 layout: post
 title: 'Falkland Islands Law: Navigating Sovereignty, Self-Determination, and Modern
   Governance'
-date: '2025-12-06T13:54:13'
+date: '2025-12-06T05:54:13'
 categories:
 - eclectic
 - psychology

@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Complex Equivalence in NLP: How Language Shapes Meaning and
   Perceptio'
-date: '2025-05-12T11:06:16'
+date: '2025-05-12T03:06:16'
 categories:
 - sales
 - nlp

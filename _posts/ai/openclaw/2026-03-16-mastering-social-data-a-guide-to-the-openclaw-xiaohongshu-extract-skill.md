@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Social Data: A Guide to the OpenClaw Xiaohongshu-Extract Skill'
-date: '2026-03-16T21:00:28'
+date: '2026-03-16T13:00:28'
 categories:
 - ai
 - openclaw

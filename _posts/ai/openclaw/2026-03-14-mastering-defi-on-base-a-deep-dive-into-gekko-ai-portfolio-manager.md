@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering DeFi on Base: A Deep Dive into Gekko AI Portfolio Manager'
-date: '2026-03-14T07:00:33'
+date: '2026-03-13T23:00:33'
 categories:
 - ai
 - openclaw

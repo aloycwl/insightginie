@@ -2,7 +2,7 @@
 layout: post
 title: 'SWIFT/BIC Code Explained: Your Ultimate Guide to Secure International Bank
   Transfers'
-date: '2025-11-17T16:30:00'
+date: '2025-11-17T08:30:00'
 categories:
 - finance
 - banking

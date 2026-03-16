@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Universal Installer: A Comprehensive Guide'
-date: '2026-03-10T09:46:02'
+date: '2026-03-10T01:46:02'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Efficiency: How the OpenClaw YouTube Transcript Skill Works'
-date: '2026-03-16T10:32:02'
+date: '2026-03-16T02:32:02'
 categories:
 - ai
 - openclaw

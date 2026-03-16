@@ -2,7 +2,7 @@
 layout: post
 title: 'The Tu Quoque Fallacy: Why &#8220;Look Who&#8217;s Talking&#8221; Is a Logical
   Trap'
-date: '2025-12-07T22:34:04'
+date: '2025-12-07T14:34:04'
 categories:
 - eclectic
 - fallacies

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest rPPG Trends: Trends, Tips &#038; Best Practices'
-date: '2026-02-22T23:24:43'
+date: '2026-02-22T15:24:43'
 categories:
 - health
 - rppg

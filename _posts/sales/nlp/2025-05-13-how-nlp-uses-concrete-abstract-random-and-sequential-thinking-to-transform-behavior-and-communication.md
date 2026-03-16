@@ -2,7 +2,7 @@
 layout: post
 title: How NLP Uses Concrete, Abstract, Random, and Sequential Thinking to Transform
   Behavior and Communication
-date: '2025-05-13T14:21:46'
+date: '2025-05-13T06:21:46'
 categories:
 - sales
 - nlp

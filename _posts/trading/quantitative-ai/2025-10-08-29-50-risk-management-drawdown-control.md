@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (29/50) Risk management &amp; drawdown control
-date: '2025-10-08T23:04:58'
+date: '2025-10-08T15:04:58'
 categories:
 - trading
 - quantitative-ai

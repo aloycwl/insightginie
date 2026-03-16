@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Cures: How Bio-Computers Are Revolutionizing Human Disease Modeling'
-date: '2025-10-21T20:49:44'
+date: '2025-10-21T12:49:44'
 categories:
 - tech
 - bio-computer

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Power of Play: How Digital Banking Sandboxes Drive FinTech Innovation
   &#038; Regulatory Evolution'
-date: '2025-11-18T20:00:00'
+date: '2025-11-18T12:00:00'
 categories:
 - finance
 - banking

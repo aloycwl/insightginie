@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Dark Side of Agreement: Navigating the Unanimity Paradox'
-date: '2025-12-07T17:50:20'
+date: '2025-12-07T09:50:20'
 categories:
 - eclectic
 - paradoxes

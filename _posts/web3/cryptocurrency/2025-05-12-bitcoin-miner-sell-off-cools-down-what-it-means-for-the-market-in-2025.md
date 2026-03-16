@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bitcoin Miner Sell-Off Cools Down: What It Means for the Market in 2025'
-date: '2025-05-12T10:51:55'
+date: '2025-05-12T02:51:55'
 categories:
 - web3
 - cryptocurrency

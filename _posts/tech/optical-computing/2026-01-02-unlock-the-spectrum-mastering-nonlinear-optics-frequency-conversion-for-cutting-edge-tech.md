@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock the Spectrum: Mastering Nonlinear Optics &#038; Frequency Conversion
   for Cutting-Edge Tech'
-date: '2026-01-02T17:34:31'
+date: '2026-01-02T09:34:31'
 categories:
 - tech
 - optical-computing

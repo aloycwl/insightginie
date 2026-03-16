@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tokenized Gold: Unlocking the Digital Future of Your Gold Investments'
-date: '2025-11-12T10:50:42'
+date: '2025-11-12T02:50:42'
 categories:
 - finance
 - real-world-asset-rwa

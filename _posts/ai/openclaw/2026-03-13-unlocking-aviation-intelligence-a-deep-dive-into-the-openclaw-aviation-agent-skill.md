@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Aviation Intelligence: A Deep Dive into the OpenClaw Aviation Agent
   Skill'
-date: '2026-03-13T11:30:31'
+date: '2026-03-13T03:30:31'
 categories:
 - ai
 - openclaw

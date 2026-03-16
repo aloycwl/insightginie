@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bear Blog Publisher Skill &#8211; OpenClaw Integration
-date: '2026-03-14T13:15:56'
+date: '2026-03-14T05:15:56'
 categories:
 - ai
 - openclaw

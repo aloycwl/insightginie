@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Healthtech Trends: Trends, Tips &#038; Best Practices'
-date: '2026-02-21T15:58:22'
+date: '2026-02-21T07:58:22'
 categories:
 - health
 - healthtech

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Real-Time Monitoring Platforms and Mobile Apps in Digital Phenotyping
-date: '2025-05-09T22:56:58'
+date: '2025-05-09T14:56:58'
 categories:
 - health
 - digital-phenotyping

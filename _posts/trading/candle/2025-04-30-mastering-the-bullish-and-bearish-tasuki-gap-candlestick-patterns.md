@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering the Bullish and Bearish Tasuki Gap Candlestick Patterns
-date: '2025-04-30T17:22:17'
+date: '2025-04-30T09:22:17'
 categories:
 - trading
 - candle

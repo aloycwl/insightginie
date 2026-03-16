@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Extreme Performance: Master AVX2 &#038; AVX-512 Vectorization for Intel/AMD
   CPUs'
-date: '2025-12-18T11:33:33'
+date: '2025-12-18T03:33:33'
 categories:
 - tech
 - quantum

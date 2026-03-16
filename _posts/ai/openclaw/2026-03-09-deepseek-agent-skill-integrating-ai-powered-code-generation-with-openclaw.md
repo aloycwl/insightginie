@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DeepSeek Agent Skill: Integrating AI-Powered Code Generation with OpenClaw'
-date: '2026-03-09T07:17:16'
+date: '2026-03-08T23:17:16'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Silent Alarm: How Credit Spreads Predict Market Crashes Before They Happen'
-date: '2025-12-15T12:39:36'
+date: '2025-12-15T04:39:36'
 categories:
 - trading
 - fundamental

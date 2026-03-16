@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Manually Approve OpenClaw Pairing Requests Without the CLI
-date: '2026-03-08T21:30:29'
+date: '2026-03-08T13:30:29'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: A Critical Examination of Transdermal Optical Imaging for Stress and Emotional
   State Detection
-date: '2026-02-10T13:44:59'
+date: '2026-02-10T05:44:59'
 categories:
 - health
 - rppg

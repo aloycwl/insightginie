@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Your Inner Strength: How Neuro-Linguistic Programming (NLP) Activates
   the Inner Hero Pattern'
-date: '2025-05-13T14:52:56'
+date: '2025-05-13T06:52:56'
 categories:
 - sales
 - nlp

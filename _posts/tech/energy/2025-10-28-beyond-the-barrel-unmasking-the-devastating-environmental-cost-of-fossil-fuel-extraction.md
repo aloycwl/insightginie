@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Barrel: Unmasking the Devastating Environmental Cost of Fossil
   Fuel Extraction'
-date: '2025-10-28T11:15:19'
+date: '2025-10-28T03:15:19'
 categories:
 - tech
 - energy

@@ -2,7 +2,7 @@
 layout: post
 title: "CMMI\u2019s Fowler Predicts More Mandatory Payment Models \u2013 What It Means\
   \ for Value\u2011Based Care"
-date: '2026-03-05T21:40:53'
+date: '2026-03-05T13:40:53'
 categories:
 - business
 - operations

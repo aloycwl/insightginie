@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Human Behavior: A Deep Dive into the OpenClaw Psychology Master
   Skill'
-date: '2026-03-06T19:03:02'
+date: '2026-03-06T11:03:02'
 categories:
 - ai
 - openclaw

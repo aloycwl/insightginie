@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Economic Crystal Ball: How Manufacturing PMIs Predict Market Momentum'
-date: '2025-12-15T13:41:42'
+date: '2025-12-15T05:41:42'
 categories:
 - trading
 - fundamental

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Critical Importance of Verification Before Completion
-date: '2026-03-14T22:15:55'
+date: '2026-03-14T14:15:55'
 categories:
 - ai
 - openclaw

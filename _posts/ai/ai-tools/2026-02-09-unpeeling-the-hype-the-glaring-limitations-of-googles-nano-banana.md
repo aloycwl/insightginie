@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unpeeling the Hype: The Glaring Limitations of Google&#8217;s Nano Banana'
-date: '2026-02-09T10:20:51'
+date: '2026-02-09T02:20:51'
 categories:
 - ai
 - ai-tools

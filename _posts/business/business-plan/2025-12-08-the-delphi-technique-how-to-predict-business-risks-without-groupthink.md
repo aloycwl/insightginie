@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Delphi Technique: How to Predict Business Risks Without Groupthink'
-date: '2025-12-08T20:41:33'
+date: '2025-12-08T12:41:33'
 categories:
 - business
 - business-plan

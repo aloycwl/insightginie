@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum Light Sources: Revolutionizing Industries from Computing to Healthcare'
-date: '2026-01-01T12:16:00'
+date: '2026-01-01T04:16:00'
 categories:
 - tech
 - optical-computing

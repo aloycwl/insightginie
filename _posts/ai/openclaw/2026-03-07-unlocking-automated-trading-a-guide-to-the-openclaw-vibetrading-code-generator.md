@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Automated Trading: A Guide to the OpenClaw VibeTrading Code Generator'
-date: '2026-03-07T23:30:33'
+date: '2026-03-07T15:30:33'
 categories:
 - ai
 - openclaw

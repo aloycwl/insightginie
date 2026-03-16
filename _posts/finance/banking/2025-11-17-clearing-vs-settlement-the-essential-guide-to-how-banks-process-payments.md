@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clearing vs. Settlement: The Essential Guide to How Banks Process Payments'
-date: '2025-11-17T16:45:00'
+date: '2025-11-17T08:45:00'
 categories:
 - finance
 - banking

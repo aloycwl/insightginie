@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Quantum Attack Surface on Classical Zero-Knowledge Proofs
-date: '2025-05-05T21:22:14'
+date: '2025-05-05T13:22:14'
 categories:
 - web3
 - zero-knowledge

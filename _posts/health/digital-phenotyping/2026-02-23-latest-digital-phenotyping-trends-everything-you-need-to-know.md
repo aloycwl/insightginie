@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Digital phenotyping Trends &#8211; Everything You Need to Know
-date: '2026-02-23T13:57:39'
+date: '2026-02-23T05:57:39'
 categories:
 - health
 - digital-phenotyping

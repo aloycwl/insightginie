@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Protecting Your Workflow: A Deep Dive into the OpenClaw Security Scanner'
-date: '2026-03-08T01:30:32'
+date: '2026-03-07T17:30:32'
 categories:
 - ai
 - openclaw

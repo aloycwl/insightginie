@@ -2,7 +2,7 @@
 layout: post
 title: 'How Margin Calls Are Executed in Crypto Loans: Understanding the Process and
   Risks'
-date: '2025-04-28T21:11:45'
+date: '2025-04-28T13:11:45'
 categories:
 - web3
 - defi

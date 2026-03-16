@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Six Sigma: The Proven Strategy Behind Operational Excellence and
   Billions in Cost Savings'
-date: '2025-07-03T15:28:50'
+date: '2025-07-03T07:28:50'
 categories:
 - business
 - operations

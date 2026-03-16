@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge AI Inference: Why In-Memory Chips Are Redefining Performance and Efficiency'
-date: '2026-02-06T12:27:11'
+date: '2026-02-06T04:27:11'
 categories:
 - tech
 - integrated-circuit

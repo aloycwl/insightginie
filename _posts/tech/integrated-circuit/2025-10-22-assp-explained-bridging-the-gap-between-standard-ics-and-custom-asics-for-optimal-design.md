@@ -2,7 +2,7 @@
 layout: post
 title: 'ASSP Explained: Bridging the Gap Between Standard ICs and Custom ASICs for
   Optimal Design'
-date: '2025-10-22T14:18:53'
+date: '2025-10-22T06:18:53'
 categories:
 - tech
 - integrated-circuit

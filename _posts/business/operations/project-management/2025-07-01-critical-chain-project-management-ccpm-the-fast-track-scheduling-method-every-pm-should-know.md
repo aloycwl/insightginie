@@ -2,7 +2,7 @@
 layout: post
 title: 'Critical Chain Project Management (CCPM): The Fast-Track Scheduling Method
   Every PM Should Know'
-date: '2025-07-01T16:41:32'
+date: '2025-07-01T08:41:32'
 categories:
 - business
 - operations

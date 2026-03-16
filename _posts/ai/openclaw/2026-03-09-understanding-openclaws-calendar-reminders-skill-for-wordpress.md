@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding OpenClaw&#8217;s Calendar Reminders Skill for WordPress
-date: '2026-03-09T12:45:45'
+date: '2026-03-09T04:45:45'
 categories:
 - ai
 - openclaw

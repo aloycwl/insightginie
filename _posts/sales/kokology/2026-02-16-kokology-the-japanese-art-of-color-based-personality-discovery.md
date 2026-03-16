@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kokology: The Japanese Art of Color-Based Personality Discovery'
-date: '2026-02-16T04:31:39'
+date: '2026-02-15T20:31:39'
 categories:
 - sales
 - kokology

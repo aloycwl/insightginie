@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Decoding Payment Rails: Who Profits (And Who Pays) in the Global Payment System'
-date: '2025-11-18T18:00:00'
+date: '2025-11-18T10:00:00'
 categories:
 - finance
 - banking

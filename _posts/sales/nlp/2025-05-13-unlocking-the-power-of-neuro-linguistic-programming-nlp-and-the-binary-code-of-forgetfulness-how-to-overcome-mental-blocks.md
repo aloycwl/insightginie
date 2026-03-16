@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking the Power of Neuro-Linguistic Programming (NLP) and the Binary Code
   of Forgetfulness: How to Overcome Mental Blocks'
-date: '2025-05-13T15:08:39'
+date: '2025-05-13T07:08:39'
 categories:
 - sales
 - nlp

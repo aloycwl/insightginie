@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Terminal Helper: A Runbook for Safe OpenClaw exec Usage'
-date: '2026-03-16T17:15:36'
+date: '2026-03-16T09:15:36'
 categories:
 - ai
 - openclaw

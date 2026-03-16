@@ -2,7 +2,7 @@
 layout: post
 title: 'Revolutionizing Contactless Health Monitoring: Advanced Learning Paradigms
   in rPPG Technology'
-date: '2025-05-02T09:27:05'
+date: '2025-05-02T01:27:05'
 categories:
 - health
 - rppg

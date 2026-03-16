@@ -2,7 +2,7 @@
 layout: post
 title: 'Clinical Validation of Transdermal Optical Imaging: A Critical Examination
   of the Evidence'
-date: '2026-02-10T13:48:40'
+date: '2026-02-10T05:48:40'
 categories:
 - health
 - rppg

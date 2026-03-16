@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can We Patent Life? The Bio-Computer IP Dilemma Unpacked
-date: '2025-10-21T21:41:31'
+date: '2025-10-21T13:41:31'
 categories:
 - tech
 - bio-computer

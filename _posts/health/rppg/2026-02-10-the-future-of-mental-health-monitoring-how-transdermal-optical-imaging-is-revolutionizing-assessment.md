@@ -2,7 +2,7 @@
 layout: post
 title: 'The Future of Mental Health Monitoring: How Transdermal Optical Imaging is
   Revolutionizing Assessment'
-date: '2026-02-10T14:00:02'
+date: '2026-02-10T06:00:02'
 categories:
 - health
 - rppg

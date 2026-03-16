@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Fluent DataModel Generation with FOSMVVM Architecture
-date: '2026-03-09T00:46:15'
+date: '2026-03-08T16:46:15'
 categories:
 - ai
 - openclaw

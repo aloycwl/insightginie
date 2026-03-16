@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering the Ascending Triangle Chart Pattern
-date: '2025-05-05T12:44:49'
+date: '2025-05-05T04:44:49'
 categories:
 - trading
 - pattern

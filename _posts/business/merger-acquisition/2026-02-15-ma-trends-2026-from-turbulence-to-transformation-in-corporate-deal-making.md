@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'M&#038;A Trends 2026: From Turbulence to Transformation in Corporate Deal-Making'
-date: '2026-02-15T22:48:01'
+date: '2026-02-15T14:48:01'
 categories:
 - business
 - merger-acquisition

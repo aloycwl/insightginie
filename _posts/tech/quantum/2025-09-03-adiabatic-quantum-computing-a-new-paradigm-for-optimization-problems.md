@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adiabatic Quantum Computing: A New Paradigm for Optimization Problems'
-date: '2025-09-03T19:00:39'
+date: '2025-09-03T11:00:39'
 categories:
 - tech
 - quantum

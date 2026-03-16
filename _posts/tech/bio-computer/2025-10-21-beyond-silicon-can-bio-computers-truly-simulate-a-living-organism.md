@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Silicon: Can Bio-Computers Truly Simulate a Living Organism?'
-date: '2025-10-21T21:40:47'
+date: '2025-10-21T13:40:47'
 categories:
 - tech
 - bio-computer

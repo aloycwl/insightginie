@@ -2,7 +2,7 @@
 layout: post
 title: "Agentic Commerce: How Mastercard\u2019s Trust Standards Are Turning Us All\
   \ Into Lab Rats (But in a Good Way?)"
-date: '2026-02-11T12:35:12'
+date: '2026-02-11T04:35:12'
 categories:
 - ai
 - ai-agent

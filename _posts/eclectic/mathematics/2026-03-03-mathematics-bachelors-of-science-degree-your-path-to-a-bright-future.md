@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mathematics Bachelor&#8217;s of Science Degree: Your Path to a Bright Future'
-date: '2026-03-03T18:31:10'
+date: '2026-03-03T10:31:10'
 categories:
 - eclectic
 - mathematics

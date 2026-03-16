@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Persistent Memory System for OpenClaw: Three-Layer Agent Recall'
-date: '2026-03-13T19:15:43'
+date: '2026-03-13T11:15:43'
 categories:
 - ai
 - openclaw

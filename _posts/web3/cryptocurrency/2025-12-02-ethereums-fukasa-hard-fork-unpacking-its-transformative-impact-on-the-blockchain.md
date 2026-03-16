@@ -2,7 +2,7 @@
 layout: post
 title: 'Ethereum&#8217;s Fukasa Hard Fork: Unpacking Its Transformative Impact on
   the Blockchain'
-date: '2025-12-02T12:09:44'
+date: '2025-12-02T04:09:44'
 categories:
 - web3
 - cryptocurrency

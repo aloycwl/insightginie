@@ -2,7 +2,7 @@
 layout: post
 title: 'Origin vs. Solution in NLP: Transforming Conversations and Outcomes Through
   Focus Filters'
-date: '2025-05-13T11:58:23'
+date: '2025-05-13T03:58:23'
 categories:
 - sales
 - nlp

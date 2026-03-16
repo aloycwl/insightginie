@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stop Losing Sales: 7 UX Patterns Proven to Slash Checkout Abandonment'
-date: '2025-11-11T09:49:39'
+date: '2025-11-11T01:49:39'
 categories:
 - finance
 - payment

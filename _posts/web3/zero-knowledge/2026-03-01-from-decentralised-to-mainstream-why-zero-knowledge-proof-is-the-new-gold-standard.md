@@ -2,7 +2,7 @@
 layout: post
 title: 'From Decentralised to Mainstream: Why Zero-Knowledge Proof is the New Gold
   Standard'
-date: '2026-03-01T20:01:54'
+date: '2026-03-01T12:01:54'
 categories:
 - web3
 - zero-knowledge

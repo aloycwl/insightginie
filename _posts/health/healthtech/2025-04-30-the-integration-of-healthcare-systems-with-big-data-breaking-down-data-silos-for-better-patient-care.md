@@ -2,7 +2,7 @@
 layout: post
 title: 'The Integration of Healthcare Systems with Big Data: Breaking Down Data Silos
   for Better Patient Care'
-date: '2025-04-30T16:30:25'
+date: '2025-04-30T08:30:25'
 categories:
 - health
 - healthtech

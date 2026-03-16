@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the Adizes Corporate Lifecycle: A Strategic Guide for Growth, Stability,
   and Renewal'
-date: '2025-05-05T19:36:08'
+date: '2025-05-05T11:36:08'
 categories:
 - business
 - management

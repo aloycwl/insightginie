@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Universal Quantifiers in NLP: How Absolute Language Impacts
   Our Perception and Communication'
-date: '2025-05-12T10:36:03'
+date: '2025-05-12T02:36:03'
 categories:
 - sales
 - nlp

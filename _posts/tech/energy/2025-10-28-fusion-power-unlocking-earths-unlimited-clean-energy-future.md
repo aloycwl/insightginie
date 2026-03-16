@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fusion Power: Unlocking Earth&#8217;s Unlimited, Clean Energy Future'
-date: '2025-10-28T12:01:09'
+date: '2025-10-28T04:01:09'
 categories:
 - tech
 - energy

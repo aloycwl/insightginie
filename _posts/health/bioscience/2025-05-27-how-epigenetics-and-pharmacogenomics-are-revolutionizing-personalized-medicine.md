@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Epigenetics and Pharmacogenomics Are Revolutionizing Personalized Medicine
-date: '2025-05-27T10:57:09'
+date: '2025-05-27T02:57:09'
 categories:
 - health
 - bioscience

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revenue Growth vs. Margin Expansion: Which Drives Higher Stock Returns?'
-date: '2025-12-15T13:26:40'
+date: '2025-12-15T05:26:40'
 categories:
 - trading
 - fundamental

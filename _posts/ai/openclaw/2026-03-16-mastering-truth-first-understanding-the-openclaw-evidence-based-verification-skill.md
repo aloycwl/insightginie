@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Truth-First: Understanding the OpenClaw Evidence-Based Verification
   Skill'
-date: '2026-03-16T17:30:29'
+date: '2026-03-16T09:30:29'
 categories:
 - ai
 - openclaw

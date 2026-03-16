@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the Senior Django Architect Skill: A Guide to OpenClaw'
-date: '2026-03-11T20:00:24'
+date: '2026-03-11T12:00:24'
 categories:
 - ai
 - openclaw

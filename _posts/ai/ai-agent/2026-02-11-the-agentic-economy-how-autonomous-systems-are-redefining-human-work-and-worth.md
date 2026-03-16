@@ -2,7 +2,7 @@
 layout: post
 title: 'The Agentic Economy: How Autonomous Systems Are Redefining Human Work and
   Worth'
-date: '2026-02-11T11:44:07'
+date: '2026-02-11T03:44:07'
 categories:
 - ai
 - ai-agent

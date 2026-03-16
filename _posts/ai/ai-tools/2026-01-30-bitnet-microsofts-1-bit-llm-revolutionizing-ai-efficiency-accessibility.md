@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BitNet: Microsoft&#8217;s 1-Bit LLM Revolutionizing AI Efficiency &#038; Accessibility'
-date: '2026-01-30T21:39:44'
+date: '2026-01-30T13:39:44'
 categories:
 - ai
 - ai-tools

@@ -2,7 +2,7 @@
 layout: post
 title: 'M&#038;A Trends 2026: Private Equity Revival and AI-Driven Deal Making Reshape
   Corporate Finance'
-date: '2026-02-16T02:02:18'
+date: '2026-02-15T18:02:18'
 categories:
 - business
 - merger-acquisition

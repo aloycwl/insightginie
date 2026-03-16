@@ -2,7 +2,7 @@
 layout: post
 title: 'Surge: The Ultimate MetaLayer to Scale Bitcoin for the Next Generation of
   dApps'
-date: '2025-05-02T09:47:55'
+date: '2025-05-02T01:47:55'
 categories:
 - web3
 - network

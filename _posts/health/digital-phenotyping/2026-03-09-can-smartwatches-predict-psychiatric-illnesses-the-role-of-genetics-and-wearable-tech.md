@@ -2,7 +2,7 @@
 layout: post
 title: Can Smartwatches Predict Psychiatric Illnesses? The Role of Genetics and Wearable
   Tech
-date: '2026-03-09T09:30:50'
+date: '2026-03-09T01:30:50'
 categories:
 - health
 - digital-phenotyping

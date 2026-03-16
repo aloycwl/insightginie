@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stablecoins &#038; Banking 2.0: How Digital Dollars Are Reshaping Global Finance'
-date: '2025-11-17T15:00:00'
+date: '2025-11-17T07:00:00'
 categories:
 - finance
 - banking

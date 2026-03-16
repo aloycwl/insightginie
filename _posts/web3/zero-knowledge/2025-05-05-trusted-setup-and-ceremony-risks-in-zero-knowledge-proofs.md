@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trusted Setup and Ceremony Risks in Zero-Knowledge Proofs
-date: '2025-05-05T21:14:30'
+date: '2025-05-05T13:14:30'
 categories:
 - web3
 - zero-knowledge

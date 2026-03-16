@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nostr Identity Setup and Health-Check CLI: A Comprehensive Guide'
-date: '2026-03-14T11:17:14'
+date: '2026-03-14T03:17:14'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Semantic Search: How semfind Enhances Your Text Search Capabilities'
-date: '2026-03-14T13:45:48'
+date: '2026-03-14T05:45:48'
 categories:
 - ai
 - openclaw

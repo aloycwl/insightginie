@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Implementation in the US: Transforming Industries and Shaping the Future'
-date: '2025-04-25T19:37:45'
+date: '2025-04-25T11:37:45'
 categories:
 - ai
 - ai-in-general

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Latest Real World Asset (RWA) Trends Matters in 2026
-date: '2026-02-21T12:27:38'
+date: '2026-02-21T04:27:38'
 categories:
 - finance
 - real-world-asset-rwa

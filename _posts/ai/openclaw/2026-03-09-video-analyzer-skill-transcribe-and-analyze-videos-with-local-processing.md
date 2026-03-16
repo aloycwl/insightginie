@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Video Analyzer Skill: Transcribe and Analyze Videos with Local Processing'
-date: '2026-03-09T13:17:15'
+date: '2026-03-09T05:17:15'
 categories:
 - ai
 - openclaw

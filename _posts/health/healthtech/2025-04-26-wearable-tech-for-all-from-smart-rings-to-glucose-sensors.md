@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wearable Tech for All: From Smart Rings to Glucose Sensors'
-date: '2025-04-26T13:07:07'
+date: '2025-04-26T05:07:07'
 categories:
 - health
 - healthtech

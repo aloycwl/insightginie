@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill: AppDeploy &#8211; Streamline Your Application Deployment Process'
-date: '2026-03-04T16:01:36'
+date: '2026-03-04T08:01:36'
 categories:
 - ai
 - openclaw

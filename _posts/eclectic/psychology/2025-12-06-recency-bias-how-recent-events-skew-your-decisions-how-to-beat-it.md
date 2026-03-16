@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Recency Bias: How Recent Events Skew Your Decisions &#038; How to Beat It'
-date: '2025-12-06T14:18:00'
+date: '2025-12-06T06:18:00'
 categories:
 - eclectic
 - psychology

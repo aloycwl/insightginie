@@ -2,7 +2,7 @@
 layout: post
 title: 'Revolutionizing Biometrics: The Multi-Scale Facial Videos Pulse Extraction
   Network'
-date: '2026-03-02T09:01:59'
+date: '2026-03-02T01:01:59'
 categories:
 - health
 - rppg

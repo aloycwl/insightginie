@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MedTech Industry Report 2025: Record Growth, Mega-M&#038;A, and AI Revolution'
-date: '2026-02-16T05:02:33'
+date: '2026-02-15T21:02:33'
 categories:
 - health
 - medtech

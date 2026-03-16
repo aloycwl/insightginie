@@ -2,7 +2,7 @@
 layout: post
 title: 'Claims and Disputes in Project Management: Types, Resolution, and Protection
   Strategies'
-date: '2025-07-01T17:06:17'
+date: '2025-07-01T09:06:17'
 categories:
 - business
 - operations

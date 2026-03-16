@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Dead Horse Theory: Why Knowing When to Quit is Your Superpower for Success'
-date: '2025-12-06T13:50:50'
+date: '2025-12-06T05:50:50'
 categories:
 - eclectic
 - psychology

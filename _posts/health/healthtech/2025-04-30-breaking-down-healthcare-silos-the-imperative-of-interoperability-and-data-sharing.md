@@ -2,7 +2,7 @@
 layout: post
 title: 'Breaking Down Healthcare Silos: The Imperative of Interoperability and Data
   Sharing'
-date: '2025-04-30T17:08:20'
+date: '2025-04-30T09:08:20'
 categories:
 - health
 - healthtech

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Distributed Tracing in 2025: The Ultimate Guide to Modern Observability'
-date: '2026-02-15T16:05:23'
+date: '2026-02-15T08:05:23'
 categories:
 - finance
 - tracing

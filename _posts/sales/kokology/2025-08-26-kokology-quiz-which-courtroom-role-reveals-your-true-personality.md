@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kokology Quiz: Which Courtroom Role Reveals Your True Personality?'
-date: '2025-08-26T11:58:38'
+date: '2025-08-26T03:58:38'
 categories:
 - sales
 - kokology

@@ -2,7 +2,7 @@
 layout: post
 title: 'Computer Run on Human Brain Cells Learned to Play &#8216;Doom&#8217;: A New
   Frontier in AI and Neuroscience'
-date: '2026-03-04T01:31:21'
+date: '2026-03-03T17:31:21'
 categories:
 - tech
 - bio-computer

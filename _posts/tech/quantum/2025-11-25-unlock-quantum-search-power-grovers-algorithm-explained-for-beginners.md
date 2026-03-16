@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Quantum Search Power: Grover&#8217;s Algorithm Explained for Beginners'
-date: '2025-11-25T10:13:14'
+date: '2025-11-25T02:13:14'
 categories:
 - tech
 - quantum

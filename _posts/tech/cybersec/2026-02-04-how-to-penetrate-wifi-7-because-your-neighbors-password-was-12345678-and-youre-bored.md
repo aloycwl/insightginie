@@ -2,7 +2,7 @@
 layout: post
 title: "How to Penetrate WiFi 7: Because Your Neighbor\u2019s Password Was \u2018\
   12345678\u2019 and You\u2019re Bored"
-date: '2026-02-04T15:15:22'
+date: '2026-02-04T07:15:22'
 categories:
 - tech
 - cybersec

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the Art of Inversion: How to Use the Inversion Strategist Skill'
-date: '2026-03-07T19:00:27'
+date: '2026-03-07T11:00:27'
 categories:
 - ai
 - openclaw

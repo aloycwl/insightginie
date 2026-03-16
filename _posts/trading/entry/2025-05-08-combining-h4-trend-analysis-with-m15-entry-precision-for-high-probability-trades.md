@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Combining H4 Trend Analysis with M15 Entry Precision for High-Probability Trades
-date: '2025-05-08T21:10:25'
+date: '2025-05-08T13:10:25'
 categories:
 - trading
 - entry

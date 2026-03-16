@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RAYMOND ATKINS: Spotting Logical Fallacies &#8211; A Guide to Critical Thinking'
-date: '2026-03-01T14:02:26'
+date: '2026-03-01T06:02:26'
 categories:
 - eclectic
 - fallacies

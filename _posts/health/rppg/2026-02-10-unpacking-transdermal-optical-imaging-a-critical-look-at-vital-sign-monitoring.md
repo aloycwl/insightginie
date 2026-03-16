@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unpacking Transdermal Optical Imaging: A Critical Look at Vital Sign Monitoring'
-date: '2026-02-10T13:42:34'
+date: '2026-02-10T05:42:34'
 categories:
 - health
 - rppg

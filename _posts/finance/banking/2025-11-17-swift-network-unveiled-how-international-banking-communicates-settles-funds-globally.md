@@ -2,7 +2,7 @@
 layout: post
 title: 'SWIFT Network Unveiled: How International Banking Communicates &#038; Settles
   Funds Globally'
-date: '2025-11-17T15:15:00'
+date: '2025-11-17T07:15:00'
 categories:
 - finance
 - banking

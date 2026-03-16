@@ -2,7 +2,7 @@
 layout: post
 title: 'Ann Arbor Doctor Arrested on Child Sex Abuse Material Charges: A Shocking
   Case That Raises Questions'
-date: '2026-03-01T10:31:51'
+date: '2026-03-01T02:31:51'
 categories:
 - tech
 - bio-computer

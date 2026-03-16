@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Didit Phone Verification Skill for OpenClaw
-date: '2026-03-12T01:16:22'
+date: '2026-03-11T17:16:22'
 categories:
 - ai
 - openclaw

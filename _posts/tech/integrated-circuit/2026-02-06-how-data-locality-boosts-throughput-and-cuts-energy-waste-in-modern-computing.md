@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Data Locality Boosts Throughput and Cuts Energy Waste in Modern Computing
-date: '2026-02-06T12:07:20'
+date: '2026-02-06T04:07:20'
 categories:
 - tech
 - integrated-circuit

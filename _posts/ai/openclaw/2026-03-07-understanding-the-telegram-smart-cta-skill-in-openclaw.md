@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Telegram Smart CTA Skill in OpenClaw
-date: '2026-03-07T11:45:40'
+date: '2026-03-07T03:45:40'
 categories:
 - ai
 - openclaw

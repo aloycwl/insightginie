@@ -2,7 +2,7 @@
 layout: post
 title: "Emotions on the Green: Scottie Scheffler\u2019s Evolution Into a Fan-Favorite\
   \ Icon"
-date: '2026-03-09T13:30:38'
+date: '2026-03-09T05:30:38'
 categories:
 - eclectic
 - paradoxes

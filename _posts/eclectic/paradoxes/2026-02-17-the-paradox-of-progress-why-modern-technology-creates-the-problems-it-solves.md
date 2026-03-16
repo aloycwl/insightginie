@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Paradox of Progress: Why Modern Technology Creates the Problems It Solves'
-date: '2026-02-17T01:33:31'
+date: '2026-02-16T17:33:31'
 categories:
 - eclectic
 - paradoxes

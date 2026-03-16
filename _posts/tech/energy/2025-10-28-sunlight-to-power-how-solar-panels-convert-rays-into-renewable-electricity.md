@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sunlight to Power: How Solar Panels Convert Rays into Renewable Electricity'
-date: '2025-10-28T11:17:40'
+date: '2025-10-28T03:17:40'
 categories:
 - tech
 - energy

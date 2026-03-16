@@ -2,7 +2,7 @@
 layout: post
 title: 'Wheel and Spoke Model in Software Development: Accelerating Prototyping &amp;
   Scaling Teams in Lean Six Sigma'
-date: '2025-08-20T11:20:29'
+date: '2025-08-20T03:20:29'
 categories:
 - business
 - operations

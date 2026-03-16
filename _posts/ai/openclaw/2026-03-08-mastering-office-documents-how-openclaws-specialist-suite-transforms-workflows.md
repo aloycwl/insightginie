@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Office Documents: How OpenClaw&#8217;s Specialist Suite Transforms
   Workflows'
-date: '2026-03-08T17:45:21'
+date: '2026-03-08T09:45:21'
 categories:
 - ai
 - openclaw

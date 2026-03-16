@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revolutionizing Precision: How LightGen Transforms Manufacturing &#038; Lithography'
-date: '2026-01-01T12:15:10'
+date: '2026-01-01T04:15:10'
 categories:
 - tech
 - optical-computing

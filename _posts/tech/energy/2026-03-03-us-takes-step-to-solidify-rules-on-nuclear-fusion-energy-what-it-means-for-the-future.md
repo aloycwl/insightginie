@@ -2,7 +2,7 @@
 layout: post
 title: 'US Takes Step to Solidify Rules on Nuclear Fusion Energy: What It Means for
   the Future'
-date: '2026-03-03T06:01:10'
+date: '2026-03-02T22:01:10'
 categories:
 - tech
 - energy

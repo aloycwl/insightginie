@@ -2,7 +2,7 @@
 layout: post
 title: 'GDPR &#038; Verification: Navigating the Privacy Tightrope for Secure &#038;
   Compliant Processes'
-date: '2025-11-20T10:59:37'
+date: '2025-11-20T02:59:37'
 categories:
 - finance
 - verification

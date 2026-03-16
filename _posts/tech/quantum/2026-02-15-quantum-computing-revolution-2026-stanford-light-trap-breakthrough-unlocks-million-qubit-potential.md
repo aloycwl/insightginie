@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Computing Revolution 2026: Stanford Light Trap Breakthrough Unlocks
   Million Qubit Potential'
-date: '2026-02-15T19:02:03'
+date: '2026-02-15T11:02:03'
 categories:
 - tech
 - quantum

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fitness &amp; Wellness Apps: Your Personal Health on the Go'
-date: '2025-04-26T12:52:51'
+date: '2025-04-26T04:52:51'
 categories:
 - health
 - healthtech

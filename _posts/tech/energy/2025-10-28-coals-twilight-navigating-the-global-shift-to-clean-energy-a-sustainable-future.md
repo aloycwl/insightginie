@@ -2,7 +2,7 @@
 layout: post
 title: 'Coal&#8217;s Twilight: Navigating the Global Shift to Clean Energy &#038;
   a Sustainable Future'
-date: '2025-10-28T11:16:58'
+date: '2025-10-28T03:16:58'
 categories:
 - tech
 - energy

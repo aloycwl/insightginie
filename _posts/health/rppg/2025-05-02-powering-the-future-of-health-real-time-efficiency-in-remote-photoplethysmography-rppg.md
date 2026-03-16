@@ -2,7 +2,7 @@
 layout: post
 title: 'Powering the Future of Health: Real-Time Efficiency in Remote Photoplethysmography
   (rPPG)'
-date: '2025-05-02T09:24:37'
+date: '2025-05-02T01:24:37'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Importance of Customer Experience: Insights from Brian Solis (Wiley, 2015)'
-date: '2025-05-08T14:24:13'
+date: '2025-05-08T06:24:13'
 categories:
 - sales
 - sales-cycle

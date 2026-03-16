@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Candle Industry: Market Size, Trends, and Growth in 2023'
-date: '2026-03-15T15:45:43'
+date: '2026-03-15T07:45:43'
 categories:
 - trading
 - candle

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (35/50) Stress testing &amp; scenario analysis
-date: '2025-10-14T10:37:14'
+date: '2025-10-14T02:37:14'
 categories:
 - trading
 - quantitative-ai

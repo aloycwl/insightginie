@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIP-177: The Proposal to Redefine Bitcoin Units and Eliminate &#8216;Satoshis&#8217;'
-date: '2025-05-20T09:07:47'
+date: '2025-05-20T01:07:47'
 categories:
 - web3
 - cryptocurrency

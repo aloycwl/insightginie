@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Secure Banking: The Power of Digital Identity Verification with
   Biometrics &#038; e-KYC'
-date: '2025-11-18T17:45:00'
+date: '2025-11-18T09:45:00'
 categories:
 - finance
 - banking

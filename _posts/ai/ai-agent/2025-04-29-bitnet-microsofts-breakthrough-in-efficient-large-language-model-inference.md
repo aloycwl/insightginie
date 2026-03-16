@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BitNet: Microsoft\u2019s Breakthrough in Efficient Large Language Model Inference\u200B"
-date: '2025-04-29T15:51:56'
+date: '2025-04-29T07:51:56'
 categories:
 - ai
 - ai-agent

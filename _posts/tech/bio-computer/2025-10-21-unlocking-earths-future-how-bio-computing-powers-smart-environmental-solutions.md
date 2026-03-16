@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Earth&#8217;s Future: How Bio-Computing Powers Smart Environmental
   Solutions'
-date: '2025-10-21T20:50:22'
+date: '2025-10-21T12:50:22'
 categories:
 - tech
 - bio-computer

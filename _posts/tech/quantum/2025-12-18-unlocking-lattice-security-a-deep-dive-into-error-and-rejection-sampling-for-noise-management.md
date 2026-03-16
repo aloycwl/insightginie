@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Lattice Security: A Deep Dive into Error and Rejection Sampling
   for Noise Management'
-date: '2025-12-18T10:09:39'
+date: '2025-12-18T02:09:39'
 categories:
 - tech
 - quantum

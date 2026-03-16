@@ -2,7 +2,7 @@
 layout: post
 title: The Importance of &#8220;Judging&#8221; and &#8220;Perceiving&#8221; in Neuro-Linguistic
   Programming
-date: '2025-05-13T12:11:58'
+date: '2025-05-13T04:11:58'
 categories:
 - sales
 - nlp

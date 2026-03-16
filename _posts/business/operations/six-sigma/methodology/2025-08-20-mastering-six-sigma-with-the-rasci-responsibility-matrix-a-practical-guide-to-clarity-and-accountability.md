@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Six Sigma with the RASCI Responsibility Matrix: A Practical Guide
   to Clarity and Accountability'
-date: '2025-08-20T15:35:16'
+date: '2025-08-20T07:35:16'
 categories:
 - business
 - operations

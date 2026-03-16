@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Demystifying Quant AI: 5 Core Concepts Every Beginner Must Master'
-date: '2025-10-20T11:39:15'
+date: '2025-10-20T03:39:15'
 categories:
 - trading
 - quantitative-ai

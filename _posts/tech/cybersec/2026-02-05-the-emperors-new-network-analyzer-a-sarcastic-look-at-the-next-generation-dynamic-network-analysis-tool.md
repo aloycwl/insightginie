@@ -2,7 +2,7 @@
 layout: post
 title: 'The Emperor&#8217;s New Network Analyzer: A Sarcastic Look at the &#8216;Next
   Generation Dynamic Network Analysis Tool&#8217;'
-date: '2026-02-05T13:36:12'
+date: '2026-02-05T05:36:12'
 categories:
 - tech
 - cybersec

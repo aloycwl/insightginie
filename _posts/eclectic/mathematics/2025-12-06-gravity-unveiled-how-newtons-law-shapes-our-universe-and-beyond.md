@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gravity Unveiled: How Newton&#8217;s Law Shapes Our Universe (And Beyond)'
-date: '2025-12-06T23:32:53'
+date: '2025-12-06T15:32:53'
 categories:
 - eclectic
 - mathematics

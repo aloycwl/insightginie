@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Six Sigma Models in 2026: Transform Your Business with Data-Driven Excellence'
-date: '2026-02-18T20:31:54'
+date: '2026-02-18T12:31:54'
 categories:
 - business
 - operations

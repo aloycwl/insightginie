@@ -2,7 +2,7 @@
 layout: post
 title: 'Automate Your Video Production: Understanding the Video Editing Agent (VEA)
   OpenClaw Skill'
-date: '2026-03-15T03:30:27'
+date: '2026-03-14T19:30:27'
 categories:
 - ai
 - openclaw

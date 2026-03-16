@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Silicon: How Optical Processing is Simulating Entire Universes'
-date: '2026-01-02T17:47:42'
+date: '2026-01-02T09:47:42'
 categories:
 - tech
 - optical-computing

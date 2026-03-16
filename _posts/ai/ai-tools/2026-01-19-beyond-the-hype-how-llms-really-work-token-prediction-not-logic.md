@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond the Hype: How LLMs Really Work (Token Prediction, Not Logic)'
-date: '2026-01-19T13:58:04'
+date: '2026-01-19T05:58:04'
 categories:
 - ai
 - ai-tools

@@ -2,7 +2,7 @@
 layout: post
 title: 'CMMI Continuous vs. Staged Structure: Key Differences and Which One Is Right
   for You'
-date: '2025-07-01T17:44:18'
+date: '2025-07-01T09:44:18'
 categories:
 - business
 - operations

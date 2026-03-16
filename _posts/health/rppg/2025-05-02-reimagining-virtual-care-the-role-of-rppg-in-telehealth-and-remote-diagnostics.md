@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reimagining Virtual Care: The Role of rPPG in Telehealth and Remote Diagnostics'
-date: '2025-05-02T09:37:00'
+date: '2025-05-02T01:37:00'
 categories:
 - health
 - rppg

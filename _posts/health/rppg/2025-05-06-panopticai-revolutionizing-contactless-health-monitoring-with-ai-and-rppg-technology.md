@@ -2,7 +2,7 @@
 layout: post
 title: 'PanopticAI: Revolutionizing Contactless Health Monitoring with AI and rPPG
   Technology'
-date: '2025-05-06T20:25:22'
+date: '2025-05-06T12:25:22'
 categories:
 - health
 - rppg

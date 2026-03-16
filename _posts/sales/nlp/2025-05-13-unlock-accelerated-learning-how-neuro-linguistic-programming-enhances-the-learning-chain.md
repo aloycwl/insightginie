@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Accelerated Learning: How Neuro-Linguistic Programming Enhances the
   Learning Chain'
-date: '2025-05-13T14:28:53'
+date: '2025-05-13T06:28:53'
 categories:
 - sales
 - nlp

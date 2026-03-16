@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding &#8216;The Placater&#8217; in NLP
-date: '2025-05-12T11:14:42'
+date: '2025-05-12T03:14:42'
 categories:
 - sales
 - nlp

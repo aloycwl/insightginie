@@ -2,7 +2,7 @@
 layout: post
 title: "Autonomous Financial Agents: The DeFi Revolution That\u2019s Either Genius\
   \ or a Glitch Waiting to Happen"
-date: '2026-02-11T12:06:00'
+date: '2026-02-11T04:06:00'
 categories:
 - ai
 - ai-agent

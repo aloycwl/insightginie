@@ -2,7 +2,7 @@
 layout: post
 title: 'Computational Mathematics Bachelor of Science Degree: Your Gateway to a High-Tech
   Career'
-date: '2026-02-27T23:31:44'
+date: '2026-02-27T15:31:44'
 categories:
 - eclectic
 - mathematics

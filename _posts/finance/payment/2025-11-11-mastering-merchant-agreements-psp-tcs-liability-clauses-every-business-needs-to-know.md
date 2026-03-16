@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Merchant Agreements: PSP T&#038;Cs &#038; Liability Clauses Every
   Business Needs to Know'
-date: '2025-11-11T09:52:42'
+date: '2025-11-11T01:52:42'
 categories:
 - finance
 - payment

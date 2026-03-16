@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Safely Rotate Your OpenRouter API Key in OpenClaw
-date: '2026-03-11T14:17:03'
+date: '2026-03-11T06:17:03'
 categories:
 - ai
 - openclaw

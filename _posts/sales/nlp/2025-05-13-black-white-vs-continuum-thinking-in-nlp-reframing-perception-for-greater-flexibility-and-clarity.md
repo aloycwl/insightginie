@@ -2,7 +2,7 @@
 layout: post
 title: 'Black &amp; White vs. Continuum Thinking in NLP: Reframing Perception for
   Greater Flexibility and Clarity'
-date: '2025-05-13T11:52:59'
+date: '2025-05-13T03:52:59'
 categories:
 - sales
 - nlp

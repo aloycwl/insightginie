@@ -2,7 +2,7 @@
 layout: post
 title: How PCR Revolutionizes the Detection and Identification of Elizabethkingia
   Infections
-date: '2025-07-03T13:07:21'
+date: '2025-07-03T05:07:21'
 categories:
 - health
 - medtech

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DeFi in 2026: The Decentralization Paradox and the Future of Finance'
-date: '2026-02-16T18:02:56'
+date: '2026-02-16T10:02:56'
 categories:
 - web3
 - defi

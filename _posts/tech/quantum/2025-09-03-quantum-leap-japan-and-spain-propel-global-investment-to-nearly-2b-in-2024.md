@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum Leap: Japan and Spain Propel Global Investment to Nearly $2B in 2024'
-date: '2025-09-03T10:51:48'
+date: '2025-09-03T02:51:48'
 categories:
 - tech
 - quantum

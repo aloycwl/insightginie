@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Demystifying Forward Edge AI: The Next Frontier in Real-time Intelligence'
-date: '2025-11-22T11:50:32'
+date: '2025-11-22T03:50:32'
 categories:
 - tech
 - quantum

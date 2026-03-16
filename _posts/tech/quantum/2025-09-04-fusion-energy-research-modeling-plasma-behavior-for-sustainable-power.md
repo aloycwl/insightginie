@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fusion Energy Research: Modeling Plasma Behavior for Sustainable Power'
-date: '2025-09-04T14:48:06'
+date: '2025-09-04T06:48:06'
 categories:
 - tech
 - quantum

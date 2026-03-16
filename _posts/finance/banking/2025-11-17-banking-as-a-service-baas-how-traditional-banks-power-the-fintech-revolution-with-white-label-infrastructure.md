@@ -2,7 +2,7 @@
 layout: post
 title: 'Banking-as-a-Service (BaaS): How Traditional Banks Power the Fintech Revolution
   with White-Label Infrastructure'
-date: '2025-11-17T14:30:00'
+date: '2025-11-17T06:30:00'
 categories:
 - finance
 - banking

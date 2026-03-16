@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uncovering the Running Double Top Pattern in Modern Trading
-date: '2025-05-05T12:20:33'
+date: '2025-05-05T04:20:33'
 categories:
 - trading
 - pattern

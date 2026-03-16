@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Real-World Value: Your Guide to Tokenized Commodities &#038; Fungible
   Assets'
-date: '2025-11-12T10:51:06'
+date: '2025-11-12T02:51:06'
 categories:
 - finance
 - real-world-asset-rwa

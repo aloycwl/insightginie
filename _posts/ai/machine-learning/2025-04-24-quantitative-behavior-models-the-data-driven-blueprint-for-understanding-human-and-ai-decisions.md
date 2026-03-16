@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantitative Behavior Models: The Data-Driven Blueprint for Understanding
   Human and AI Decisions'
-date: '2025-04-24T09:07:32'
+date: '2025-04-24T01:07:32'
 categories:
 - ai
 - machine-learning

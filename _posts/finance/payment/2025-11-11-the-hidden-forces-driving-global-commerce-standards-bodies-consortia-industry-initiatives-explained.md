@@ -2,7 +2,7 @@
 layout: post
 title: 'The Hidden Forces Driving Global Commerce: Standards Bodies, Consortia &#038;
   Industry Initiatives Explained'
-date: '2025-11-11T10:25:28'
+date: '2025-11-11T02:25:28'
 categories:
 - finance
 - payment

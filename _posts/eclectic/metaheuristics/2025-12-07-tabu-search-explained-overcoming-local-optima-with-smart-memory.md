@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tabu Search Explained: Overcoming Local Optima with Smart Memory'
-date: '2025-12-07T22:11:50'
+date: '2025-12-07T14:11:50'
 categories:
 - eclectic
 - metaheuristics

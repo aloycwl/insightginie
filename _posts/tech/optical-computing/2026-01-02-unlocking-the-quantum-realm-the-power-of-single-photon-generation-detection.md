@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking the Quantum Realm: The Power of Single-Photon Generation &#038;
   Detection'
-date: '2026-01-02T17:36:38'
+date: '2026-01-02T09:36:38'
 categories:
 - tech
 - optical-computing

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Anecdotal Evidence Fallacy: Why Personal Stories Are Not Proof'
-date: '2025-12-07T22:25:54'
+date: '2025-12-07T14:25:54'
 categories:
 - eclectic
 - fallacies

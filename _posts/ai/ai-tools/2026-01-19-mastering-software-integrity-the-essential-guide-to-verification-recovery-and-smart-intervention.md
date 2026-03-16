@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Software Integrity: The Essential Guide to Verification, Recovery,
   and Smart Intervention'
-date: '2026-01-19T14:08:23'
+date: '2026-01-19T06:08:23'
 categories:
 - ai
 - ai-tools

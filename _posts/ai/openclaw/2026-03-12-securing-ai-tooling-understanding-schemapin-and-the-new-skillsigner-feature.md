@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Securing AI Tooling: Understanding SchemaPin and the New SkillSigner Feature'
-date: '2026-03-12T00:00:37'
+date: '2026-03-11T16:00:37'
 categories:
 - ai
 - openclaw

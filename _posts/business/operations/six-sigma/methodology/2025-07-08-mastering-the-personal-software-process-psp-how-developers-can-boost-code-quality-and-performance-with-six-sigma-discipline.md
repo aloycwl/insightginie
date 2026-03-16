@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the Personal Software Process (PSP): How Developers Can Boost Code
   Quality and Performance with Six Sigma Discipline'
-date: '2025-07-08T13:48:51'
+date: '2025-07-08T05:48:51'
 categories:
 - business
 - operations

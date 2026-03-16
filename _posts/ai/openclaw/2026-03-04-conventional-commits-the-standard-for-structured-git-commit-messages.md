@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conventional Commits: The Standard for Structured Git Commit Messages'
-date: '2026-03-04T17:41:01'
+date: '2026-03-04T09:41:01'
 categories:
 - ai
 - openclaw

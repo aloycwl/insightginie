@@ -2,7 +2,7 @@
 layout: post
 title: What is Agile Software Development? Everything You Need to Know About Delivering
   Better Code, Faster
-date: '2026-03-01T02:05:04'
+date: '2026-02-28T18:05:04'
 categories:
 - business
 - operations

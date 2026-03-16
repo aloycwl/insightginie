@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Independent, Team Player, and Manager in Neuro-Linguistic Programming
-date: '2025-05-13T12:26:47'
+date: '2025-05-13T04:26:47'
 categories:
 - sales
 - nlp

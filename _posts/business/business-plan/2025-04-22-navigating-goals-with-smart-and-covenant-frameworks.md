@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navigating Goals with SMART and COVENANT Frameworks
-date: '2025-04-22T12:39:02'
+date: '2025-04-22T04:39:02'
 categories:
 - business
 - business-plan

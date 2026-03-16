@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Othello Error: Unmasking Pathological Jealousy and Protecting Your Relationships'
-date: '2025-12-06T14:13:29'
+date: '2025-12-06T06:13:29'
 categories:
 - eclectic
 - psychology

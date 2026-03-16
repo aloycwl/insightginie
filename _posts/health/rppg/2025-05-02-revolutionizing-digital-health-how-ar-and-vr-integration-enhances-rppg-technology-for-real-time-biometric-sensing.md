@@ -2,7 +2,7 @@
 layout: post
 title: 'Revolutionizing Digital Health: How AR and VR Integration Enhances rPPG Technology
   for Real-Time Biometric Sensing'
-date: '2025-05-02T12:51:27'
+date: '2025-05-02T04:51:27'
 categories:
 - health
 - rppg

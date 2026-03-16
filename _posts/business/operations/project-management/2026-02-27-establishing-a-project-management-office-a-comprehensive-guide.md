@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Establishing A Project Management Office: A Comprehensive Guide'
-date: '2026-02-27T09:02:22'
+date: '2026-02-27T01:02:22'
 categories:
 - business
 - operations

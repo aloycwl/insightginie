@@ -2,7 +2,7 @@
 layout: post
 title: Exploring &#8220;Past Assurance&#8221; and &#8220;Future Possibility&#8221;
   in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:10:41'
+date: '2025-05-13T04:10:41'
 categories:
 - sales
 - nlp

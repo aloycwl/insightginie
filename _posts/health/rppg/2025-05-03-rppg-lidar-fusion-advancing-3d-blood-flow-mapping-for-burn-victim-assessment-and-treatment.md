@@ -2,7 +2,7 @@
 layout: post
 title: 'rPPG + LiDAR Fusion: Advancing 3D Blood Flow Mapping for Burn Victim Assessment
   and Treatment'
-date: '2025-05-03T14:43:40'
+date: '2025-05-03T06:43:40'
 categories:
 - health
 - rppg

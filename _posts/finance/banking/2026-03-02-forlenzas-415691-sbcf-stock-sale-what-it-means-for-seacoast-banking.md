@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Forlenza&#8217;s $415,691 SBCF Stock Sale: What It Means for Seacoast Banking'
-date: '2026-03-02T04:02:17'
+date: '2026-03-01T20:02:17'
 categories:
 - finance
 - banking

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade the Cup and Handle Pattern
-date: '2025-05-05T12:33:22'
+date: '2025-05-05T04:33:22'
 categories:
 - trading
 - pattern

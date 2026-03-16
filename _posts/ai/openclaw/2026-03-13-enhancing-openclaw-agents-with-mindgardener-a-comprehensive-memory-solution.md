@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enhancing OpenClaw Agents with MindGardener: A Comprehensive Memory Solution'
-date: '2026-03-13T19:45:46'
+date: '2026-03-13T11:45:46'
 categories:
 - ai
 - openclaw

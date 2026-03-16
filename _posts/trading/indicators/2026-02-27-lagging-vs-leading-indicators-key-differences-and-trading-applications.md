@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lagging vs Leading Indicators: Key Differences and Trading Applications'
-date: '2026-02-27T12:31:13'
+date: '2026-02-27T04:31:13'
 categories:
 - trading
 - indicators

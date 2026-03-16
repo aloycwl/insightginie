@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (20/50) Statistical models &amp; econometrics
-date: '2025-10-08T22:10:38'
+date: '2025-10-08T14:10:38'
 categories:
 - trading
 - quantitative-ai

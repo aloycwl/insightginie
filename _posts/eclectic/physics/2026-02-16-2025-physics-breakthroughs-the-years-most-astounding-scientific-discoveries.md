@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2025 Physics Breakthroughs: The Year&#8217;s Most Astounding Scientific Discoveries'
-date: '2026-02-16T11:47:13'
+date: '2026-02-16T03:47:13'
 categories:
 - eclectic
 - physics

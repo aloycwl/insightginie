@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Alpha: How Quantum-Enhanced AI is Reshaping Quantitative Finance'
-date: '2025-10-20T12:28:53'
+date: '2025-10-20T04:28:53'
 categories:
 - trading
 - quantitative-ai

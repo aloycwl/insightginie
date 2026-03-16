@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (41/50) Latency, concurrency &amp; microservices for execution
-date: '2025-10-18T09:55:49'
+date: '2025-10-18T01:55:49'
 categories:
 - trading
 - quantitative-ai

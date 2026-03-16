@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smarter Market Timing: Leverage Machine Learning for Advanced Regime Detection'
-date: '2025-10-20T12:14:39'
+date: '2025-10-20T04:14:39'
 categories:
 - trading
 - quantitative-ai

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Latest CMMI Trends Matters in 2026
-date: '2026-02-24T00:31:39'
+date: '2026-02-23T16:31:39'
 categories:
 - business
 - operations

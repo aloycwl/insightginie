@@ -3,7 +3,7 @@ layout: post
 title: 'Ismael Hishon-Rezaizadeh: Zero Knowledge Proofs Enhance AI Privacy, Lagrange&#8217;s
   Deep Proof Library is a Game Changer, and Current Privacy Methods are Inadequate
   | Epicenter'
-date: '2026-03-02T12:31:59'
+date: '2026-03-02T04:31:59'
 categories:
 - web3
 - zero-knowledge

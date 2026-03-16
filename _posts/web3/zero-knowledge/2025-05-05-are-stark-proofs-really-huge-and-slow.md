@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are STARK Proofs Really Huge and Slow?
-date: '2025-05-05T21:38:31'
+date: '2025-05-05T13:38:31'
 categories:
 - web3
 - zero-knowledge

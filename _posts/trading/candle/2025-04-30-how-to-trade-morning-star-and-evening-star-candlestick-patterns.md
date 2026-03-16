@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Morning Star and Evening Star Candlestick Patterns
-date: '2025-04-30T08:59:28'
+date: '2025-04-30T00:59:28'
 categories:
 - trading
 - candle

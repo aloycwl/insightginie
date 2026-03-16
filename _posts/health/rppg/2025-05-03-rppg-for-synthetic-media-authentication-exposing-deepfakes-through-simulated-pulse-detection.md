@@ -2,7 +2,7 @@
 layout: post
 title: 'rPPG for Synthetic Media Authentication: Exposing Deepfakes Through Simulated
   Pulse Detection'
-date: '2025-05-03T14:51:38'
+date: '2025-05-03T06:51:38'
 categories:
 - health
 - rppg

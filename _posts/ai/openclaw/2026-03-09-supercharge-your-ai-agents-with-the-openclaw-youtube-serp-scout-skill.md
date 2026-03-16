@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supercharge Your AI Agents with the OpenClaw YouTube SERP Scout Skill
-date: '2026-03-09T07:30:48'
+date: '2026-03-08T23:30:48'
 categories:
 - ai
 - openclaw

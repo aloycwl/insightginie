@@ -2,7 +2,7 @@
 layout: post
 title: 'The Director of Operations vs. the Chief Operating Officer: Understanding
   the Key Differences'
-date: '2026-02-28T00:03:15'
+date: '2026-02-27T16:03:15'
 categories:
 - business
 - operations

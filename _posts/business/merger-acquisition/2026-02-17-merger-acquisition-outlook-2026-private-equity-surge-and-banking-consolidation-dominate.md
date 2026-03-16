@@ -2,7 +2,7 @@
 layout: post
 title: 'Merger &#038; Acquisition Outlook 2026: Private Equity Surge and Banking Consolidation
   Dominate'
-date: '2026-02-17T22:03:15'
+date: '2026-02-17T14:03:15'
 categories:
 - business
 - merger-acquisition

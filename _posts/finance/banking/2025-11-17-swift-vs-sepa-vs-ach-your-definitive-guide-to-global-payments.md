@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SWIFT vs. SEPA vs. ACH: Your Definitive Guide to Global Payments'
-date: '2025-11-17T15:30:00'
+date: '2025-11-17T07:30:00'
 categories:
 - finance
 - banking

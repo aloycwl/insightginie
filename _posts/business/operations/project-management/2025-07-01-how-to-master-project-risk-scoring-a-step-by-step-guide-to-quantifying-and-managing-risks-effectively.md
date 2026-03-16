@@ -2,7 +2,7 @@
 layout: post
 title: 'How to Master Project Risk Scoring: A Step-by-Step Guide to Quantifying and
   Managing Risks Effectively'
-date: '2025-07-01T16:54:37'
+date: '2025-07-01T08:54:37'
 categories:
 - business
 - operations

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Marketing Renaissance Powered by Generative AI
-date: '2025-05-05T09:58:38'
+date: '2025-05-05T01:58:38'
 categories:
 - ai
 - ai-agent

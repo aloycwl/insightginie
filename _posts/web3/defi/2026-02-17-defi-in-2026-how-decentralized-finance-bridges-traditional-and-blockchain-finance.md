@@ -2,7 +2,7 @@
 layout: post
 title: 'DeFi in 2026: How Decentralized Finance Bridges Traditional and Blockchain
   Finance'
-date: '2026-02-17T17:02:12'
+date: '2026-02-17T09:02:12'
 categories:
 - web3
 - defi

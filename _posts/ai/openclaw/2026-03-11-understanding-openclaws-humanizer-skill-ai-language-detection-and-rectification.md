@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding OpenClaw&#8217;s Humanizer Skill: AI-Language Detection and
   Rectification'
-date: '2026-03-11T20:45:51'
+date: '2026-03-11T12:45:51'
 categories:
 - ai
 - openclaw

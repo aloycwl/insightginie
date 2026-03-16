@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock High-Frequency Profits: Designing Scalable Quant AI for Real-Time Trading'
-date: '2025-10-20T12:16:03'
+date: '2025-10-20T04:16:03'
 categories:
 - trading
 - quantitative-ai

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Latest Strategy Trends is Transforming Strategy
-date: '2026-02-22T06:57:37'
+date: '2026-02-21T22:57:37'
 categories:
 - business
 - strategy

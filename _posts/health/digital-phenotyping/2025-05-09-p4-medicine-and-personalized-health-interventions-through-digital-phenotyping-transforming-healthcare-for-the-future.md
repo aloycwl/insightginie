@@ -2,7 +2,7 @@
 layout: post
 title: 'P4 Medicine and Personalized Health Interventions through Digital Phenotyping:
   Transforming Healthcare for the Future'
-date: '2025-05-09T22:55:00'
+date: '2025-05-09T14:55:00'
 categories:
 - health
 - digital-phenotyping

@@ -2,7 +2,7 @@
 layout: post
 title: 'Drastically Reduce PCI Scope: The Ultimate Guide to Hosted Fields, Tokenization
   &#038; SaaS'
-date: '2025-11-11T09:06:38'
+date: '2025-11-11T01:06:38'
 categories:
 - finance
 - payment

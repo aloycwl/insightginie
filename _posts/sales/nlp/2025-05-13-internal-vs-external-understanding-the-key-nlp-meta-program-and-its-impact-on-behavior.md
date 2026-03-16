@@ -2,7 +2,7 @@
 layout: post
 title: 'Internal vs External: Understanding the Key NLP Meta-Program and Its Impact
   on Behavior'
-date: '2025-05-13T12:02:51'
+date: '2025-05-13T04:02:51'
 categories:
 - sales
 - nlp

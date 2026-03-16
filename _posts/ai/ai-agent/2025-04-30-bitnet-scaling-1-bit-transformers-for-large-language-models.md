@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BitNet: Scaling 1-Bit Transformers for Large Language Models'
-date: '2025-04-30T09:37:52'
+date: '2025-04-30T01:37:52'
 categories:
 - ai
 - ai-agent

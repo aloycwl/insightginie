@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Double Bottom (Running) Pattern
-date: '2025-05-05T12:26:06'
+date: '2025-05-05T04:26:06'
 categories:
 - trading
 - pattern

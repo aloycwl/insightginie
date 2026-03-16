@@ -2,7 +2,7 @@
 layout: post
 title: 'The Hidden Flaws: Why Transdermal Optical Imaging Struggles in Real-World
   Diversity'
-date: '2026-02-10T14:06:29'
+date: '2026-02-10T06:06:29'
 categories:
 - health
 - rppg

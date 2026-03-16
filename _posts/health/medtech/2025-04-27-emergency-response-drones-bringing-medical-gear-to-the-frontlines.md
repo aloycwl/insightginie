@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Emergency Response Drones: Bringing Medical Gear to the Frontlines'
-date: '2025-04-27T22:07:14'
+date: '2025-04-27T14:07:14'
 categories:
 - health
 - medtech

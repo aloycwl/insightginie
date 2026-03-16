@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Transdermal Optical Imaging Could Revolutionize Home Healthcare Monitoring
-date: '2026-02-10T14:18:53'
+date: '2026-02-10T06:18:53'
 categories:
 - health
 - rppg

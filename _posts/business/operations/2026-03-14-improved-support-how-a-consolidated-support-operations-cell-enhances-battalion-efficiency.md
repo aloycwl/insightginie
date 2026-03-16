@@ -2,7 +2,7 @@
 layout: post
 title: 'Improved Support: How a Consolidated Support Operations Cell Enhances Battalion
   Efficiency'
-date: '2026-03-14T06:00:38'
+date: '2026-03-13T22:00:38'
 categories:
 - business
 - operations

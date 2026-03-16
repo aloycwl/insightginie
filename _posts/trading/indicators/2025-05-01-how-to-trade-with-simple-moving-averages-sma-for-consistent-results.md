@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Simple Moving Averages (SMA) for Consistent Results
-date: '2025-05-01T19:08:40'
+date: '2025-05-01T11:08:40'
 categories:
 - trading
 - indicators

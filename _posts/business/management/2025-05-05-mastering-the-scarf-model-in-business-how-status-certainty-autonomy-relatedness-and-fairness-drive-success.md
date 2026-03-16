@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the SCARF Model in Business: How Status, Certainty, Autonomy, Relatedness,
   and Fairness Drive Success'
-date: '2025-05-05T19:25:52'
+date: '2025-05-05T11:25:52'
 categories:
 - business
 - management

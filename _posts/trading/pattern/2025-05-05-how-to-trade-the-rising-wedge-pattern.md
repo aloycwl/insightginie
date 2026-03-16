@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade the Rising Wedge Pattern
-date: '2025-05-05T12:39:22'
+date: '2025-05-05T04:39:22'
 categories:
 - trading
 - pattern

@@ -2,7 +2,7 @@
 layout: post
 title: 'Babel Epistemic Convention: Preventing Metacognitive Poisoning in Multi-Agent
   Handoffs'
-date: '2026-03-05T11:41:11'
+date: '2026-03-05T03:41:11'
 categories:
 - ai
 - openclaw

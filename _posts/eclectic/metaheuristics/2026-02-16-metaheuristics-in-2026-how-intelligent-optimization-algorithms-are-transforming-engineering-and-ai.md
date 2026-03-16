@@ -2,7 +2,7 @@
 layout: post
 title: 'Metaheuristics in 2026: How Intelligent Optimization Algorithms Are Transforming
   Engineering and AI'
-date: '2026-02-16T03:31:55'
+date: '2026-02-15T19:31:55'
 categories:
 - eclectic
 - metaheuristics

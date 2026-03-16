@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum rPPG: Unlocking the Future of Subdermal Imaging with Entanglement-Based
   Photon Detection'
-date: '2025-05-03T14:53:22'
+date: '2025-05-03T06:53:22'
 categories:
 - health
 - rppg

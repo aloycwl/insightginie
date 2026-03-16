@@ -2,7 +2,7 @@
 layout: post
 title: 'The Web Application Attack &#038; Audit Framework: Your Digital Fortress (or
   Just a Fancy Sieve?)'
-date: '2026-02-05T13:35:35'
+date: '2026-02-05T05:35:35'
 categories:
 - tech
 - cybersec

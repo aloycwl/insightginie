@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Copilot: Your AI companion &#8211; Everything You Need to Know'
-date: '2026-02-20T18:21:15'
+date: '2026-02-20T10:21:15'
 categories:
 - business
 - operations

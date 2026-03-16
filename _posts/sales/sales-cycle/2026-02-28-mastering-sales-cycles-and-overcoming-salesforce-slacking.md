@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Sales Cycles and Overcoming Salesforce Slacking
-date: '2026-02-28T17:02:21'
+date: '2026-02-28T09:02:21'
 categories:
 - sales
 - sales-cycle

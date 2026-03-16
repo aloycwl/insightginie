@@ -2,7 +2,7 @@
 layout: post
 title: 'Winning the Inner Battle: How Neuro-Linguistic Programming (NLP) Transforms
   Your Internal War Zone into Personal Power'
-date: '2025-05-13T15:05:25'
+date: '2025-05-13T07:05:25'
 categories:
 - sales
 - nlp

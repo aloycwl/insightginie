@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Radiant Mind: Exploring Post-Human Intelligence as Pure Light'
-date: '2026-01-02T17:49:48'
+date: '2026-01-02T09:49:48'
 categories:
 - tech
 - optical-computing

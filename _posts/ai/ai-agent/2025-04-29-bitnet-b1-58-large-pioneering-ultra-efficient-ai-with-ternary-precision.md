@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BitNet b1.58-Large: Pioneering Ultra-Efficient AI with Ternary Precision'
-date: '2025-04-29T15:55:24'
+date: '2025-04-29T07:55:24'
 categories:
 - ai
 - ai-agent

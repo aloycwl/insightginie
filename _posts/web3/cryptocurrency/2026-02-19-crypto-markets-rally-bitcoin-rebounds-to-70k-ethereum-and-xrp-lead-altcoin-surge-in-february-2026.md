@@ -2,7 +2,7 @@
 layout: post
 title: 'Crypto Markets Rally: Bitcoin Rebounds to $70K, Ethereum and XRP Lead Altcoin
   Surge in February 2026'
-date: '2026-02-19T05:03:05'
+date: '2026-02-18T21:03:05'
 categories:
 - web3
 - cryptocurrency

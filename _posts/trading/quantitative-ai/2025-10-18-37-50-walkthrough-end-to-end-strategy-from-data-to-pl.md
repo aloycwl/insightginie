@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '(37/50) Walkthrough: end-to-end strategy (from data to P&amp;L)'
-date: '2025-10-18T09:44:28'
+date: '2025-10-18T01:44:28'
 categories:
 - trading
 - quantitative-ai

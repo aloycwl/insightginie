@@ -2,7 +2,7 @@
 layout: post
 title: 'Transdermal Optical Imaging: The Next Frontier in Personalized Medicine and
   Remote Health Monitoring'
-date: '2026-02-10T14:09:48'
+date: '2026-02-10T06:09:48'
 categories:
 - health
 - rppg

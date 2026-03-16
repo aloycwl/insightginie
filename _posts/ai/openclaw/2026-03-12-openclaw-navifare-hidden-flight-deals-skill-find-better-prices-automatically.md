@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Navifare Hidden Flight Deals Skill: Find Better Prices Automatically'
-date: '2026-03-12T07:16:13'
+date: '2026-03-11T23:16:13'
 categories:
 - ai
 - openclaw

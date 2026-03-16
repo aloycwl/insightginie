@@ -2,7 +2,7 @@
 layout: post
 title: 'Social Trust Manipulation Detector: Identifying Coordinated Reputation Gaming
   in Agent Marketplaces'
-date: '2026-03-13T09:17:42'
+date: '2026-03-13T01:17:42'
 categories:
 - ai
 - openclaw

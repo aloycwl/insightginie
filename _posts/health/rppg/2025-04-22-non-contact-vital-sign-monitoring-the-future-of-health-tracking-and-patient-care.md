@@ -2,7 +2,7 @@
 layout: post
 title: 'Non-Contact Vital Sign Monitoring: The Future of Health Tracking and Patient
   Care'
-date: '2025-04-22T14:00:55'
+date: '2025-04-22T06:00:55'
 categories:
 - health
 - rppg

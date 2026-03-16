@@ -2,7 +2,7 @@
 layout: post
 title: 'B2B Sales Cycle Optimization in 2026: The Complete Guide to Shorter Cycles
   and Bigger Deals'
-date: '2026-02-19T04:48:20'
+date: '2026-02-18T20:48:20'
 categories:
 - sales
 - sales-cycle

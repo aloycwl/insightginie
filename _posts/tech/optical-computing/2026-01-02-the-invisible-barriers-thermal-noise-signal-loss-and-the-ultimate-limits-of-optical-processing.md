@@ -2,7 +2,7 @@
 layout: post
 title: 'The Invisible Barriers: Thermal Noise, Signal Loss, and the Ultimate Limits
   of Optical Processing'
-date: '2026-01-02T17:37:47'
+date: '2026-01-02T09:37:47'
 categories:
 - tech
 - optical-computing

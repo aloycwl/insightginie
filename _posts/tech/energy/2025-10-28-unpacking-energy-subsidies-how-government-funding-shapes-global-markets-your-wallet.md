@@ -2,7 +2,7 @@
 layout: post
 title: 'Unpacking Energy Subsidies: How Government Funding Shapes Global Markets &#038;
   Your Wallet'
-date: '2025-10-28T11:25:27'
+date: '2025-10-28T03:25:27'
 categories:
 - tech
 - energy

@@ -2,7 +2,7 @@
 layout: post
 title: 'Global Entry vs. TSA PreCheck: Which Prescreen Will Get You Through Airport
   Security the Fastest?'
-date: '2026-03-12T20:00:34'
+date: '2026-03-12T12:00:34'
 categories:
 - trading
 - entry

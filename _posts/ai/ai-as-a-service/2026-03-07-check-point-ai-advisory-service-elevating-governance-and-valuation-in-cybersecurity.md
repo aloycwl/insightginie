@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Check Point AI Advisory Service: Elevating Governance and Valuation in Cybersecurity'
-date: '2026-03-07T16:00:25'
+date: '2026-03-07T08:00:25'
 categories:
 - ai
 - ai-as-a-service

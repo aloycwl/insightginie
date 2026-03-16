@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cybersecurity in 2026: The Top Trends Shaping Digital Defense'
-date: '2026-02-17T10:49:27'
+date: '2026-02-17T02:49:27'
 categories:
 - tech
 - cybersec

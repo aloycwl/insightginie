@@ -1,7 +1,7 @@
 ---
 layout: post
 title: YouTube Long Video Transcript &#038; Translation Skill Explained
-date: '2026-03-13T03:15:48'
+date: '2026-03-12T19:15:48'
 categories:
 - ai
 - openclaw

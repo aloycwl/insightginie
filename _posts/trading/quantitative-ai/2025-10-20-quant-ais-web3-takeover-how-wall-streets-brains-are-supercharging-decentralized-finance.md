@@ -2,7 +2,7 @@
 layout: post
 title: 'Quant AI&#8217;s Web3 Takeover: How Wall Street&#8217;s Brains Are Supercharging
   Decentralized Finance'
-date: '2025-10-20T12:27:05'
+date: '2025-10-20T04:27:05'
 categories:
 - trading
 - quantitative-ai

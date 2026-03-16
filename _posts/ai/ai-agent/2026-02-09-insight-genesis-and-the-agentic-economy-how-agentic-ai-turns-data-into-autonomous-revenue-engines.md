@@ -2,7 +2,7 @@
 layout: post
 title: 'Insight Genesis and the Agentic Economy: How Agentic AI Turns Data Into Autonomous
   Revenue Engines'
-date: '2026-02-09T20:59:53'
+date: '2026-02-09T12:59:53'
 categories:
 - ai
 - ai-agent

@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Computing in 2026: The Year Neutral Atoms and Fault-Tolerance Transform
   the Industry'
-date: '2026-02-16T16:03:47'
+date: '2026-02-16T08:03:47'
 categories:
 - tech
 - quantum

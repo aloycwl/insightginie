@@ -2,7 +2,7 @@
 layout: post
 title: "Sniffing Wi-Fi Like a Pro: Because Your Neighbor\u2019s Password Was \u2018\
   12345678\u2019 Anyway"
-date: '2026-02-04T15:16:40'
+date: '2026-02-04T07:16:40'
 categories:
 - tech
 - cybersec

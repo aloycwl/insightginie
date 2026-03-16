@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can Your DNA Be Hacked? Unpacking the Cybersecurity Risks of Bio-Computing
-date: '2025-10-22T13:23:47'
+date: '2025-10-22T05:23:47'
 categories:
 - tech
 - bio-computer

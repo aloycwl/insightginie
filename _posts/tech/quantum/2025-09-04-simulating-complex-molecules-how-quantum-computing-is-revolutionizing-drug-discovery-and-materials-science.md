@@ -2,7 +2,7 @@
 layout: post
 title: 'Simulating Complex Molecules: How Quantum Computing is Revolutionizing Drug
   Discovery and Materials Science'
-date: '2025-09-04T13:33:22'
+date: '2025-09-04T05:33:22'
 categories:
 - tech
 - quantum

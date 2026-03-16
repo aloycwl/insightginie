@@ -2,7 +2,7 @@
 layout: post
 title: "Run-Time Libraries &#038; Runtimes for Memory Compute: Because Who Doesn\u2019\
   t Love a Good Memory Leak?"
-date: '2026-02-06T13:39:05'
+date: '2026-02-06T05:39:05'
 categories:
 - tech
 - integrated-circuit

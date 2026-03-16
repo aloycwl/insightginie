@@ -2,7 +2,7 @@
 layout: post
 title: 'Static vs. Process Thinking in NLP: Understanding How People Perceive Change
   and Stability'
-date: '2025-05-13T11:59:36'
+date: '2025-05-13T03:59:36'
 categories:
 - sales
 - nlp

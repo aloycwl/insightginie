@@ -2,7 +2,7 @@
 layout: post
 title: 'Seeing Faces in the Clouds? Unmasking Pareidolia: The Brain&#8217;s Pattern-Seeking
   Trick'
-date: '2025-12-06T14:17:09'
+date: '2025-12-06T06:17:09'
 categories:
 - eclectic
 - psychology

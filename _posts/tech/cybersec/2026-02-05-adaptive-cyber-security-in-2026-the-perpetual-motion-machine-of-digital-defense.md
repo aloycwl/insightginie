@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adaptive Cyber Security in 2026: The Perpetual Motion Machine of Digital Defense'
-date: '2026-02-05T13:38:13'
+date: '2026-02-05T05:38:13'
 categories:
 - tech
 - cybersec

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Banking&#8217;s Last Frontier: Solutions for Low-Connectivity Regions'
-date: '2025-11-18T19:30:00'
+date: '2025-11-18T11:30:00'
 categories:
 - finance
 - banking

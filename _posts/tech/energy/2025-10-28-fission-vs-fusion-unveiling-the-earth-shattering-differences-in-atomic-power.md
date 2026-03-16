@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fission vs. Fusion: Unveiling the Earth-Shattering Differences in Atomic Power'
-date: '2025-10-28T12:38:35'
+date: '2025-10-28T04:38:35'
 categories:
 - tech
 - energy

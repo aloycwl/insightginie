@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Why Your Memories Fade: Unpacking the Science of Decay Theory'
-date: '2025-12-06T13:51:13'
+date: '2025-12-06T05:51:13'
 categories:
 - eclectic
 - psychology

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Investing in MedTech: Why Venture Capitalists Are Betting Big on Health Startups'
-date: '2025-04-27T22:20:52'
+date: '2025-04-27T14:20:52'
 categories:
 - health
 - medtech

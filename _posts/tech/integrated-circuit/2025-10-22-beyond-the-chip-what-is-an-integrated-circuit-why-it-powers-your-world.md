@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond the Chip: What is an Integrated Circuit &#038; Why It Powers Your World'
-date: '2025-10-22T14:26:44'
+date: '2025-10-22T06:26:44'
 categories:
 - tech
 - integrated-circuit

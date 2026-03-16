@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Enigmatic 402 Status Code: What We All *Really* Don&#8217;t Know'
-date: '2026-02-09T17:39:22'
+date: '2026-02-09T09:39:22'
 categories:
 - web3
 - crypto-security

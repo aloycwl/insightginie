@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Art of War Trends &#8211; Everything You Need to Know
-date: '2026-02-24T15:27:36'
+date: '2026-02-24T07:27:36'
 categories:
 - sales
 - art-of-war

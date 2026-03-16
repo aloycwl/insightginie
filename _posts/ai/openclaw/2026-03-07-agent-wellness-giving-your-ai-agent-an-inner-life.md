@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agent Wellness: Giving Your AI Agent an Inner Life'
-date: '2026-03-07T18:16:27'
+date: '2026-03-07T10:16:27'
 categories:
 - ai
 - openclaw

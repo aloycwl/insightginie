@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Majorana Qubits Breakthrough: A New Era for Quantum Computing in 2026'
-date: '2026-02-19T07:02:07'
+date: '2026-02-18T23:02:07'
 categories:
 - tech
 - quantum

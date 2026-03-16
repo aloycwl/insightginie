@@ -2,7 +2,7 @@
 layout: post
 title: 'Imperialist Competitive Algorithm: Solving Complex Problems Through Socio-Political
   Evolution'
-date: '2025-12-07T22:06:50'
+date: '2025-12-07T14:06:50'
 categories:
 - eclectic
 - metaheuristics

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Contractor Payment Timing That Puts Homeowners at Risk
-date: '2026-02-26T19:00:54'
+date: '2026-02-26T11:00:54'
 categories:
 - finance
 - payment

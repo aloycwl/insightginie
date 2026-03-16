@@ -2,7 +2,7 @@
 layout: post
 title: 'Variable Neighborhood Search (VNS): The Art of Systematically Escaping Local
   Optima'
-date: '2025-12-07T22:13:10'
+date: '2025-12-07T14:13:10'
 categories:
 - eclectic
 - metaheuristics

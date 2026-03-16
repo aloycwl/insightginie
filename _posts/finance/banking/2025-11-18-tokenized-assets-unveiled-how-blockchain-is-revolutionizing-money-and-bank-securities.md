@@ -2,7 +2,7 @@
 layout: post
 title: 'Tokenized Assets Unveiled: How Blockchain is Revolutionizing Money and Bank
   Securities'
-date: '2025-11-18T13:00:00'
+date: '2025-11-18T05:00:00'
 categories:
 - finance
 - banking

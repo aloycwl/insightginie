@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the Carry Trade: How Interest Rate Differentials Power Passive FX
   Income'
-date: '2025-12-15T12:47:29'
+date: '2025-12-15T04:47:29'
 categories:
 - trading
 - fundamental

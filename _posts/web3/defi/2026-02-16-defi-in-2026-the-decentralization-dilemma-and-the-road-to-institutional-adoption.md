@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DeFi in 2026: The Decentralization Dilemma and the Road to Institutional Adoption'
-date: '2026-02-16T05:16:24'
+date: '2026-02-15T21:16:24'
 categories:
 - web3
 - defi

@@ -2,7 +2,7 @@
 layout: post
 title: 'GHK-Cu Peptide: The Science-Backed Tripeptide for Anti-Aging, Skin Repair
   &amp; Hair Growth'
-date: '2025-08-24T10:03:09'
+date: '2025-08-24T02:03:09'
 categories:
 - health
 - medtech

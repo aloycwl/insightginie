@@ -2,7 +2,7 @@
 layout: post
 title: 'From Qubits to Code: How the Quantum Era Is Shifting from Hardware to Software
   and Algorithms'
-date: '2025-09-03T10:10:18'
+date: '2025-09-03T02:10:18'
 categories:
 - tech
 - quantum

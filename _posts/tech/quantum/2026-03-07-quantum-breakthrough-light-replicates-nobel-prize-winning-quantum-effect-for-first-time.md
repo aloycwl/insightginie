@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Breakthrough: Light Replicates Nobel Prize-Winning Quantum Effect
   for First Time'
-date: '2026-03-07T07:46:24'
+date: '2026-03-06T23:46:24'
 categories:
 - tech
 - quantum

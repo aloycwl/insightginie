@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the Chaos Model in Software Development: Bridging the Gap Between
   Technical Challenges and Project Management'
-date: '2025-07-08T13:56:19'
+date: '2025-07-08T05:56:19'
 categories:
 - business
 - operations

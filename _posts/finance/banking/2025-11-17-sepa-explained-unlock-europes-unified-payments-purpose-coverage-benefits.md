@@ -2,7 +2,7 @@
 layout: post
 title: "SEPA Explained: Unlock Europe&#8217;s Unified Payments \u2013 Purpose, Coverage\
   \ &#038; Benefits"
-date: '2025-11-17T18:00:00'
+date: '2025-11-17T10:00:00'
 categories:
 - finance
 - banking

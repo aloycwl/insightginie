@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IBM Exec Warns Business Leaders: Prepare Now for the Quantum Revolution'
-date: '2025-09-03T10:39:56'
+date: '2025-09-03T02:39:56'
 categories:
 - tech
 - quantum

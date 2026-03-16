@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Enigma of 3n+1: Why the Collatz Conjecture Still Baffles Mathematicians'
-date: '2025-12-06T22:56:05'
+date: '2025-12-06T14:56:05'
 categories:
 - eclectic
 - mathematics

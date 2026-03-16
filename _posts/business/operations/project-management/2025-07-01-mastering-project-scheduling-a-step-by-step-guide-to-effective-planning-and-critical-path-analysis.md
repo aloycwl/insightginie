@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Project Scheduling: A Step-by-Step Guide to Effective Planning and
   Critical Path Analysis'
-date: '2025-07-01T16:46:43'
+date: '2025-07-01T08:46:43'
 categories:
 - business
 - operations

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Floating Solar Technology: The New Frontier of Renewable Energy in the US'
-date: '2026-03-06T17:00:47'
+date: '2026-03-06T09:00:47'
 categories:
 - web3
 - zero-knowledge

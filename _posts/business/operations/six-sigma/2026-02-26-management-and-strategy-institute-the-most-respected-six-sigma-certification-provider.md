@@ -2,7 +2,7 @@
 layout: post
 title: 'Management and Strategy Institute: The Most Respected Six Sigma Certification
   Provider'
-date: '2026-02-26T23:32:25'
+date: '2026-02-26T15:32:25'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma and Organizational Structure: Choosing Between Divisional and Functional
   Models for Maximum Impact'
-date: '2025-07-03T15:56:08'
+date: '2025-07-03T07:56:08'
 categories:
 - business
 - operations

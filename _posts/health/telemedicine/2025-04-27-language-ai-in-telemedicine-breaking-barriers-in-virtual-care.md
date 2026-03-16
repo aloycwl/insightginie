@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Language AI in Telemedicine: Breaking Barriers in Virtual Care'
-date: '2025-04-27T21:56:08'
+date: '2025-04-27T13:56:08'
 categories:
 - health
 - telemedicine

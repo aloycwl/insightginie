@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EMV, Magstripe, &#038; Contactless: Unpacking the Mechanics of Modern Payments'
-date: '2025-11-05T15:17:51'
+date: '2025-11-05T07:17:51'
 categories:
 - finance
 - payment

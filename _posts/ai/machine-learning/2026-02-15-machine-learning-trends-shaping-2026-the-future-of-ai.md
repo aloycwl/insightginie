@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Machine Learning Trends Shaping 2026: The Future of AI'
-date: '2026-02-15T17:07:40'
+date: '2026-02-15T09:07:40'
 categories:
 - ai
 - machine-learning

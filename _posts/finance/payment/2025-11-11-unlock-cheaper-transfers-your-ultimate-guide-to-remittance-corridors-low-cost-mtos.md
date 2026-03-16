@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Cheaper Transfers: Your Ultimate Guide to Remittance Corridors &#038;
   Low-Cost MTOs'
-date: '2025-11-11T10:07:05'
+date: '2025-11-11T02:07:05'
 categories:
 - finance
 - payment

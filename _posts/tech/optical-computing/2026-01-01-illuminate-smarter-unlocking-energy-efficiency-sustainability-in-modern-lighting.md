@@ -2,7 +2,7 @@
 layout: post
 title: 'Illuminate Smarter: Unlocking Energy Efficiency &#038; Sustainability in Modern
   Lighting'
-date: '2026-01-01T12:11:40'
+date: '2026-01-01T04:11:40'
 categories:
 - tech
 - optical-computing

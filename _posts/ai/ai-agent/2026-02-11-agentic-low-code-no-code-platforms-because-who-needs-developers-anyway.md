@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agentic Low-Code/No-Code Platforms: Because Who Needs Developers Anyway?'
-date: '2026-02-11T12:14:13'
+date: '2026-02-11T04:14:13'
 categories:
 - ai
 - ai-agent

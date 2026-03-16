@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the Average Sales Price Reimbursement Methodology: Key Observations
   and Insights'
-date: '2026-02-26T19:31:41'
+date: '2026-02-26T11:31:41'
 categories:
 - business
 - operations

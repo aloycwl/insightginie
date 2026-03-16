@@ -2,7 +2,7 @@
 layout: post
 title: 'The Invisible Revolution: How Ultrafast Lasers &#038; Femtosecond Processing
   Are Changing Everything'
-date: '2026-01-02T17:36:21'
+date: '2026-01-02T09:36:21'
 categories:
 - tech
 - optical-computing

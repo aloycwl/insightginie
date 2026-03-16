@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Business Plan Trends: Trends, Tips &#038; Best Practices'
-date: '2026-02-23T23:30:43'
+date: '2026-02-23T15:30:43'
 categories:
 - business
 - business-plan

@@ -2,7 +2,7 @@
 layout: post
 title: 'Powering Tomorrow: Quantum Computing&#8217;s Transformative Role in Energy
   Systems'
-date: '2025-10-28T12:04:52'
+date: '2025-10-28T04:04:52'
 categories:
 - tech
 - energy

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agile Is Getting Us Nowhere Fast: The Hidden Pitfalls of Modern Software Development'
-date: '2026-02-27T12:02:04'
+date: '2026-02-27T04:02:04'
 categories:
 - business
 - operations

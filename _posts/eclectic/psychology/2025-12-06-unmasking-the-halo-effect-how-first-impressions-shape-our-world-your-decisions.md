@@ -2,7 +2,7 @@
 layout: post
 title: 'Unmasking the Halo Effect: How First Impressions Shape Our World &#038; Your
   Decisions'
-date: '2025-12-06T14:08:41'
+date: '2025-12-06T06:08:41'
 categories:
 - eclectic
 - psychology

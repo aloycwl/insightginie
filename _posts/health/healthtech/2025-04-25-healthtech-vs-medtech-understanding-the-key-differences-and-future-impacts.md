@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HealthTech vs MedTech: Understanding the Key Differences and Future Impacts'
-date: '2025-04-25T14:20:24'
+date: '2025-04-25T06:20:24'
 categories:
 - health
 - healthtech

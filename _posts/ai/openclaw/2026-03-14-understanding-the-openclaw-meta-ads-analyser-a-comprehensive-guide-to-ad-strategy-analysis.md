@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the OpenClaw Meta Ads Analyser: A Comprehensive Guide to Ad
   Strategy Analysis'
-date: '2026-03-14T08:46:00'
+date: '2026-03-14T00:46:00'
 categories:
 - ai
 - openclaw

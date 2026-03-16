@@ -2,7 +2,7 @@
 layout: post
 title: 'Business Model Innovation and Corporate Responsibility: Integrating Profitability
   with Sustainability'
-date: '2025-05-06T14:24:17'
+date: '2025-05-06T06:24:17'
 categories:
 - business
 - strategy

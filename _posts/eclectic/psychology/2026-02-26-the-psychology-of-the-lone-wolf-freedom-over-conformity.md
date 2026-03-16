@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Psychology of the &#8216;Lone Wolf&#8217;: Freedom Over Conformity'
-date: '2026-02-26T16:32:00'
+date: '2026-02-26T08:32:00'
 categories:
 - eclectic
 - psychology

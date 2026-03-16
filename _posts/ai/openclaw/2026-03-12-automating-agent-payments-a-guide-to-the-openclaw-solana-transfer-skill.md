@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Automating Agent Payments: A Guide to the OpenClaw Solana Transfer Skill'
-date: '2026-03-12T13:30:27'
+date: '2026-03-12T05:30:27'
 categories:
 - ai
 - openclaw

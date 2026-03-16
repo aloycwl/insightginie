@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Hidden Toll of AI Brain Fry: Why AI Fatigue Is Driving Employees to Quit'
-date: '2026-03-10T17:00:30'
+date: '2026-03-10T09:00:30'
 categories:
 - ai
 - ai-tools

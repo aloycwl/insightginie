@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agentic AI: The New Era of Automation and Human Collaboration'
-date: '2025-04-30T16:01:42'
+date: '2025-04-30T08:01:42'
 categories:
 - ai
 - ai-agent

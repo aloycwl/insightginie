@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discord Delays Global Age Verification Rollout After Criticism
-date: '2026-02-28T14:01:29'
+date: '2026-02-28T06:01:29'
 categories:
 - finance
 - verification

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Strategic Business Planning for 2026: Navigating AI-Driven Transformation'
-date: '2026-02-16T14:02:08'
+date: '2026-02-16T06:02:08'
 categories:
 - business
 - strategy

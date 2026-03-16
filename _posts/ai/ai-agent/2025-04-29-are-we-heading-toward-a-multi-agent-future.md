@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are We Heading Toward a Multi-Agent Future?
-date: '2025-04-29T10:28:58'
+date: '2025-04-29T02:28:58'
 categories:
 - ai
 - ai-agent

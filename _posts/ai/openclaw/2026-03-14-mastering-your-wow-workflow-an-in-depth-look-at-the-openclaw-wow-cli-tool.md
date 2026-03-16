@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Your WoW Workflow: An In-Depth Look at the OpenClaw WoW CLI Tool'
-date: '2026-03-14T15:00:27'
+date: '2026-03-14T07:00:27'
 categories:
 - ai
 - openclaw

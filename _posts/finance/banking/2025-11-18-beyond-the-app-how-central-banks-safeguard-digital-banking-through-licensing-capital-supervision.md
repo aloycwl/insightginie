@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the App: How Central Banks Safeguard Digital Banking Through Licensing,
   Capital &#038; Supervision'
-date: '2025-11-18T21:00:00'
+date: '2025-11-18T13:00:00'
 categories:
 - finance
 - banking

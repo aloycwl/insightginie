@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill: macOS Notes Management via AppleScript'
-date: '2026-03-16T09:16:40'
+date: '2026-03-16T01:16:40'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring the 6\u03A3 Models: Revolutionizing Statistical Process Control"
-date: '2026-03-03T19:31:38'
+date: '2026-03-03T11:31:38'
 categories:
 - business
 - operations

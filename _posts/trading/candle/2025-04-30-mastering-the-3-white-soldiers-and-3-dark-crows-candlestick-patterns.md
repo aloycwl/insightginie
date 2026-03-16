@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering the 3 White Soldiers and 3 Dark Crows Candlestick Patterns
-date: '2025-04-30T17:19:29'
+date: '2025-04-30T09:19:29'
 categories:
 - trading
 - candle

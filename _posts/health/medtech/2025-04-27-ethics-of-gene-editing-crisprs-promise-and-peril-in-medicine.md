@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ethics of Gene Editing: CRISPR\u2019s Promise and Peril in Medicine"
-date: '2025-04-27T22:27:19'
+date: '2025-04-27T14:27:19'
 categories:
 - health
 - medtech

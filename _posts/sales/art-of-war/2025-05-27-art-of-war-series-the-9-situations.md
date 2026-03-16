@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Art of War Series: The 9 Situations'
-date: '2025-05-27T15:10:19'
+date: '2025-05-27T07:10:19'
 categories:
 - sales
 - art-of-war

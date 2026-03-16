@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Skills Assessment: Shaping the Future of Talent Evaluation'
-date: '2025-04-29T10:38:02'
+date: '2025-04-29T02:38:02'
 categories:
 - ai
 - ai-in-general

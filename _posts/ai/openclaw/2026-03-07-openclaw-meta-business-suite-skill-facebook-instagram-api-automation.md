@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Meta Business Suite Skill: Facebook &#038; Instagram API Automation'
-date: '2026-03-07T13:17:05'
+date: '2026-03-07T05:17:05'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automate Your Server Reliability with OpenClaw Auto-Watchdog
-date: '2026-03-08T20:00:20'
+date: '2026-03-08T12:00:20'
 categories:
 - ai
 - openclaw

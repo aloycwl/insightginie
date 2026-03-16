@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Repo Analyzer Skill: GitHub Trust Scoring and Due Diligence Tool'
-date: '2026-03-14T08:16:29'
+date: '2026-03-14T00:16:29'
 categories:
 - ai
 - openclaw

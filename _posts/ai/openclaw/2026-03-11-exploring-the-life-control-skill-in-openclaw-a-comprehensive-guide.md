@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploring the Life Control Skill in OpenClaw: A Comprehensive Guide'
-date: '2026-03-11T12:45:37'
+date: '2026-03-11T04:45:37'
 categories:
 - ai
 - openclaw

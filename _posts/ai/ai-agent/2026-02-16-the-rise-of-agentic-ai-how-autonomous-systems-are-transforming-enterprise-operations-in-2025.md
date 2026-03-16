@@ -2,7 +2,7 @@
 layout: post
 title: 'The Rise of Agentic AI: How Autonomous Systems Are Transforming Enterprise
   Operations in 2025'
-date: '2026-02-16T17:02:40'
+date: '2026-02-16T09:02:40'
 categories:
 - ai
 - ai-agent

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the Nano-Banana-Kling Ad Workflow: Create Cinematic Ads in Hours'
-date: '2026-03-13T19:30:37'
+date: '2026-03-13T11:30:37'
 categories:
 - ai
 - openclaw

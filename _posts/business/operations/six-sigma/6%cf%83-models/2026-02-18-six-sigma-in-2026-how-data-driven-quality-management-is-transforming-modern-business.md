@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma in 2026: How Data-Driven Quality Management is Transforming Modern
   Business'
-date: '2026-02-18T18:02:28'
+date: '2026-02-18T10:02:28'
 categories:
 - business
 - operations

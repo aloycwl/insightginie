@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering the Two Crows and Upside Gap Two Crows Candlestick Patterns in Trading
-date: '2025-04-30T10:07:03'
+date: '2025-04-30T02:07:03'
 categories:
 - trading
 - candle

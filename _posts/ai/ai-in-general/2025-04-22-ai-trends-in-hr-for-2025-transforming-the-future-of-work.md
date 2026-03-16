@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Trends in HR for 2025: Transforming the Future of Work'
-date: '2025-04-22T17:15:04'
+date: '2025-04-22T09:15:04'
 categories:
 - ai
 - ai-in-general

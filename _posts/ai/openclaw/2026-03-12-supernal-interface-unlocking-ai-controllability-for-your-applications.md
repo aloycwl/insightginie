@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Supernal Interface: Unlocking AI Controllability for Your Applications'
-date: '2026-03-12T22:00:41'
+date: '2026-03-12T14:00:41'
 categories:
 - ai
 - openclaw

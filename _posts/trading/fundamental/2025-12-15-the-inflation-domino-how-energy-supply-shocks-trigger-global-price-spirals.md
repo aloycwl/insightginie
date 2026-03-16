@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Inflation Domino: How Energy Supply Shocks Trigger Global Price Spirals'
-date: '2025-12-15T12:53:20'
+date: '2025-12-15T04:53:20'
 categories:
 - trading
 - fundamental

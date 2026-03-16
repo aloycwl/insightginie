@@ -2,7 +2,7 @@
 layout: post
 title: Harness the Power of Somatic Leading with Neuro-Linguistic Programming (NLP)
   for Transformational Leadership
-date: '2025-05-13T15:01:01'
+date: '2025-05-13T07:01:01'
 categories:
 - sales
 - nlp

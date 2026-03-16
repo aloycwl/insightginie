@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Identity Verification Trends 2026: The Future of Secure Authentication'
-date: '2026-02-18T05:02:01'
+date: '2026-02-17T21:02:01'
 categories:
 - finance
 - verification

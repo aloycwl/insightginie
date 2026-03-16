@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Elite Wealth: The Future of Luxury Goods Investment Through Tokenization'
-date: '2025-11-12T10:53:09'
+date: '2025-11-12T02:53:09'
 categories:
 - finance
 - real-world-asset-rwa

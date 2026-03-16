@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Claude Code: How to Optimize Your CLAUDE.md for Peak Performance'
-date: '2026-03-07T18:30:21'
+date: '2026-03-07T10:30:21'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Personal Interest in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:14:07'
+date: '2025-05-13T04:14:07'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Sky Dictates the Price: How Extreme Weather Shocks Drive Agricultural
   Commodity Markets'
-date: '2025-12-15T12:52:28'
+date: '2025-12-15T04:52:28'
 categories:
 - trading
 - fundamental

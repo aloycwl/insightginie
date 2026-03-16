@@ -2,7 +2,7 @@
 layout: post
 title: 'NFL Network Host on the Chopping Block: What It Means for the Future of Sports
   Broadcasting'
-date: '2026-02-27T13:30:49'
+date: '2026-02-27T05:30:49'
 categories:
 - web3
 - network

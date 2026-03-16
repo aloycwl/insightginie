@@ -2,7 +2,7 @@
 layout: post
 title: 'Lean Agile Process Explained: Best Practices to Boost Efficiency and Reduce
   Waste in Six Sigma Projects'
-date: '2025-08-20T11:13:51'
+date: '2025-08-20T03:13:51'
 categories:
 - business
 - operations

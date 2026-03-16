@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Psilocybin vs. Escitalopram: A Comparative Analysis of Depression Treatments'
-date: '2025-05-26T09:47:37'
+date: '2025-05-26T01:47:37'
 categories:
 - health
 - medtech

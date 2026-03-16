@@ -2,7 +2,7 @@
 layout: post
 title: 'Energy Security and Geopolitical Premiums: How Global Tensions Are Reshaping
   Oil, Gas, and Power Markets'
-date: '2025-12-15T15:15:41'
+date: '2025-12-15T07:15:41'
 categories:
 - trading
 - fundamental

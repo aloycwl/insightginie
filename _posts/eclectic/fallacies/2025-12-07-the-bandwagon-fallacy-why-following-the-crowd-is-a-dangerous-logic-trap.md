@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Bandwagon Fallacy: Why Following the Crowd Is a Dangerous Logic Trap'
-date: '2025-12-07T22:18:33'
+date: '2025-12-07T14:18:33'
 categories:
 - eclectic
 - fallacies

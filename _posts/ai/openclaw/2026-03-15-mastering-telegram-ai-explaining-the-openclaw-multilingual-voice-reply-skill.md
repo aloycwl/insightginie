@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Telegram AI: Explaining the OpenClaw Multilingual Voice Reply Skill'
-date: '2026-03-15T13:00:26'
+date: '2026-03-15T05:00:26'
 categories:
 - ai
 - openclaw

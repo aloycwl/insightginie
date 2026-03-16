@@ -1,7 +1,7 @@
 ---
 layout: post
 title: General Mills Is Down 20% and Betting Promotions Can Win Back Shoppers
-date: '2026-03-01T18:01:17'
+date: '2026-03-01T10:01:17'
 categories:
 - ai
 - ai-in-general

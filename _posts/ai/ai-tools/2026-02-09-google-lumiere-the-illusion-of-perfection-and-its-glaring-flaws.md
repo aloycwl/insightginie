@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Lumiere: The Illusion of Perfection and Its Glaring Flaws'
-date: '2026-02-09T10:22:12'
+date: '2026-02-09T02:22:12'
 categories:
 - ai
 - ai-tools

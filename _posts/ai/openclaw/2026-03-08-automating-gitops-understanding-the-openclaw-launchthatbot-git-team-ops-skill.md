@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Automating GitOps: Understanding the OpenClaw launchthatbot/git-team-ops Skill'
-date: '2026-03-08T09:00:34'
+date: '2026-03-08T01:00:34'
 categories:
 - ai
 - openclaw

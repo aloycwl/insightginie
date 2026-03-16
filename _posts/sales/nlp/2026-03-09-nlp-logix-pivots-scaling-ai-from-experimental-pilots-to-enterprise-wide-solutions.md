@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NLP Logix Pivots: Scaling AI from Experimental Pilots to Enterprise-Wide Solutions'
-date: '2026-03-09T17:30:29'
+date: '2026-03-09T09:30:29'
 categories:
 - sales
 - nlp

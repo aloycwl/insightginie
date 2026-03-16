@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond the Branch: How Regulators Are Shaping the Future of Digital Banking'
-date: '2025-11-17T18:45:00'
+date: '2025-11-17T10:45:00'
 categories:
 - finance
 - banking

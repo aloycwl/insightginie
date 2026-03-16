@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Regulation: Why the Debate is Urgent &#038; What&#8217;s at Stake for Humanity'
-date: '2025-12-10T10:59:19'
+date: '2025-12-10T02:59:19'
 categories:
 - ai
 - ai-in-general

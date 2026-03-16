@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Value: The Interplay of Bank Tokenization and DeFi Composability'
-date: '2025-11-15T10:23:08'
+date: '2025-11-15T02:23:08'
 categories:
 - finance
 - real-world-asset-rwa

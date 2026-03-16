@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Zero-Knowledge Proofs (ZKPs) Cannot Work Effectively with Medical Records
-date: '2025-05-05T21:24:08'
+date: '2025-05-05T13:24:08'
 categories:
 - web3
 - zero-knowledge

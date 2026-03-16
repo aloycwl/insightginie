@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giraffe Guard &#8211; OpenClaw Supply Chain Security Scanner
-date: '2026-03-13T22:18:15'
+date: '2026-03-13T14:18:15'
 categories:
 - ai
 - openclaw

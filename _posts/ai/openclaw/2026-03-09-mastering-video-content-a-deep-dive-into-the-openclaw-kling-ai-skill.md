@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Video Content: A Deep Dive into the OpenClaw Kling AI Skill'
-date: '2026-03-09T08:30:38'
+date: '2026-03-09T00:30:38'
 categories:
 - ai
 - openclaw

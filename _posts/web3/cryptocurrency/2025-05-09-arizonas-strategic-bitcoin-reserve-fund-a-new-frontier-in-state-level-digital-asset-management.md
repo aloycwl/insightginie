@@ -2,7 +2,7 @@
 layout: post
 title: 'Arizona&#8217;s Strategic Bitcoin Reserve Fund: A New Frontier in State-Level
   Digital Asset Management'
-date: '2025-05-09T15:59:28'
+date: '2025-05-09T07:59:28'
 categories:
 - web3
 - cryptocurrency

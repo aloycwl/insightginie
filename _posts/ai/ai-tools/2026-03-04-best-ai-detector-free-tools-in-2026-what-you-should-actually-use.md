@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Best AI Detector Free Tools in 2026: What You Should Actually Use'
-date: '2026-03-04T08:01:07'
+date: '2026-03-04T00:01:07'
 categories:
 - ai
 - ai-tools

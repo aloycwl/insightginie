@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Risk Investigations: A Step-by-Step Guide to MORT Analysis in Six
   Sigma'
-date: '2025-08-25T11:22:34'
+date: '2025-08-25T03:22:34'
 categories:
 - business
 - operations

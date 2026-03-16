@@ -2,7 +2,7 @@
 layout: post
 title: 'Master Your Merchant Fees: Interchange++ vs. Blended Pricing Explained &#038;
   Negotiation Secrets'
-date: '2025-11-11T10:09:41'
+date: '2025-11-11T02:09:41'
 categories:
 - finance
 - payment

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill Scanner: Protect Yourself from Malicious AI Skills'
-date: '2026-03-10T00:17:59'
+date: '2026-03-09T16:17:59'
 categories:
 - ai
 - openclaw

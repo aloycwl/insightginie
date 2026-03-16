@@ -2,7 +2,7 @@
 layout: post
 title: 'The Dzhanibekov Effect: Unraveling the Bizarre Space Phenomenon That Flips
   Spinning Objects'
-date: '2025-12-06T22:15:51'
+date: '2025-12-06T14:15:51'
 categories:
 - eclectic
 - physics

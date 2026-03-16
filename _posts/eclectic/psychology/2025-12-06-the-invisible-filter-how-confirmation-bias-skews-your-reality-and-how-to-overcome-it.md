@@ -2,7 +2,7 @@
 layout: post
 title: 'The Invisible Filter: How Confirmation Bias Skews Your Reality (And How to
   Overcome It)'
-date: '2025-12-06T13:50:00'
+date: '2025-12-06T05:50:00'
 categories:
 - eclectic
 - psychology

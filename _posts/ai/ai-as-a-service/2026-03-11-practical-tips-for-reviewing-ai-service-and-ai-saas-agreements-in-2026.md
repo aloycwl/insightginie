@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Practical Tips for Reviewing AI Service and AI-SaaS Agreements in 2026
-date: '2026-03-11T00:01:31'
+date: '2026-03-10T16:01:31'
 categories:
 - ai
 - ai-as-a-service

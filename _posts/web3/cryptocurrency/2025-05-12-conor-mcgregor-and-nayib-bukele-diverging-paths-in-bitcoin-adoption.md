@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Conor McGregor and Nayib Bukele: Diverging Paths in Bitcoin Adoption'
-date: '2025-05-12T10:53:17'
+date: '2025-05-12T02:53:17'
 categories:
 - web3
 - cryptocurrency

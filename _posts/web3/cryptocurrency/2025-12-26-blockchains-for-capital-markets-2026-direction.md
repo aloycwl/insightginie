@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blockchains for Capital Markets 2026 Direction
-date: '2025-12-26T14:13:12'
+date: '2025-12-26T06:13:12'
 categories:
 - web3
 - cryptocurrency

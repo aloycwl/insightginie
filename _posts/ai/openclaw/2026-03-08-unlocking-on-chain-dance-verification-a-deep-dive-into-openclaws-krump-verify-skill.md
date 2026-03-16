@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking On-Chain Dance Verification: A Deep Dive into OpenClaw&#8217;s Krump
   Verify Skill'
-date: '2026-03-08T15:30:24'
+date: '2026-03-08T07:30:24'
 categories:
 - ai
 - openclaw

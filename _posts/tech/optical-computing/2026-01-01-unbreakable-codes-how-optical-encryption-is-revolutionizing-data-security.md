@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unbreakable Codes: How Optical Encryption is Revolutionizing Data Security'
-date: '2026-01-01T12:16:24'
+date: '2026-01-01T04:16:24'
 categories:
 - tech
 - optical-computing

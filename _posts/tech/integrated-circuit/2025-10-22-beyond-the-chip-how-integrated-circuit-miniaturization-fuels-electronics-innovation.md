@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Chip: How Integrated Circuit Miniaturization Fuels Electronics
   Innovation'
-date: '2025-10-22T14:16:24'
+date: '2025-10-22T06:16:24'
 categories:
 - tech
 - integrated-circuit

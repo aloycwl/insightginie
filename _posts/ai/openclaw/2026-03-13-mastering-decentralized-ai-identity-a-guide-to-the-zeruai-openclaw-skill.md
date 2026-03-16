@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Decentralized AI Identity: A Guide to the ZeruAI OpenClaw Skill'
-date: '2026-03-13T05:00:25'
+date: '2026-03-12T21:00:25'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: "Singapore\u2019s Bold Journey into AI Adoption: Leading the Future of Intelligent\
   \ Innovation"
-date: '2025-04-29T09:49:54'
+date: '2025-04-29T01:49:54'
 categories:
 - ai
 - ai-in-general

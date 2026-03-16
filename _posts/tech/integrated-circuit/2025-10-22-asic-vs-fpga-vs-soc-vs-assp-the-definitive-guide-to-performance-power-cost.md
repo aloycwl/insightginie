@@ -2,7 +2,7 @@
 layout: post
 title: 'ASIC vs. FPGA vs. SoC vs. ASSP: The Definitive Guide to Performance, Power
   &#038; Cost'
-date: '2025-10-22T14:25:04'
+date: '2025-10-22T06:25:04'
 categories:
 - tech
 - integrated-circuit

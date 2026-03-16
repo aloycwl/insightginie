@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Big Tech vs. MedTech Giants: A Battle for Healthcare Innovation'
-date: '2025-04-27T21:43:12'
+date: '2025-04-27T13:43:12'
 categories:
 - health
 - medtech

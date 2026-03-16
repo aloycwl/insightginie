@@ -2,7 +2,7 @@
 layout: post
 title: "Master Academic Research with OpenClaw\u2019s Academic Research Skill: A Complete\
   \ Guide"
-date: '2026-03-06T01:40:34'
+date: '2026-03-05T17:40:34'
 categories:
 - ai
 - openclaw

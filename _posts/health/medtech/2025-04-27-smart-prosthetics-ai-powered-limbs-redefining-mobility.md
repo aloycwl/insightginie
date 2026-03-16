@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smart Prosthetics: AI-Powered Limbs Redefining Mobility'
-date: '2025-04-27T22:13:37'
+date: '2025-04-27T14:13:37'
 categories:
 - health
 - medtech

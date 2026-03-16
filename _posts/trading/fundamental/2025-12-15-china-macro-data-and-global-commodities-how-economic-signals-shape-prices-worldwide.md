@@ -2,7 +2,7 @@
 layout: post
 title: 'China Macro Data and Global Commodities: How Economic Signals Shape Prices
   Worldwide'
-date: '2025-12-15T14:37:43'
+date: '2025-12-15T06:37:43'
 categories:
 - trading
 - fundamental

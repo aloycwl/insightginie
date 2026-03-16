@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (24/50) Loss functions &amp; tailor-made objectives
-date: '2025-10-08T22:41:04'
+date: '2025-10-08T14:41:04'
 categories:
 - trading
 - quantitative-ai

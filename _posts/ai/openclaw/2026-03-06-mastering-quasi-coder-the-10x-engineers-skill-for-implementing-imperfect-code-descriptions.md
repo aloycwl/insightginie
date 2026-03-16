@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Quasi-Coder: The 10x Engineer&#8217;s Skill for Implementing Imperfect
   Code Descriptions'
-date: '2026-03-06T15:46:23'
+date: '2026-03-06T07:46:23'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge AI: Revolutionizing Data Processing Beyond the Cloud'
-date: '2026-03-01T00:02:32'
+date: '2026-02-28T16:02:32'
 categories:
 - tech
 - cloud

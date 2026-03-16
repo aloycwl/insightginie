@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Carapace: The Ultimate Runtime Security Hardening for OpenClaw
   Agents'
-date: '2026-03-09T11:00:26'
+date: '2026-03-09T03:00:26'
 categories:
 - ai
 - openclaw

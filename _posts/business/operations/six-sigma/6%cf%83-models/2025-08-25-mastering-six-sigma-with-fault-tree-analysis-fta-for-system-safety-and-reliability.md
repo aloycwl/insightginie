@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Six Sigma with Fault Tree Analysis (FTA) for System Safety and Reliability
-date: '2025-08-25T11:16:49'
+date: '2025-08-25T03:16:49'
 categories:
 - business
 - operations

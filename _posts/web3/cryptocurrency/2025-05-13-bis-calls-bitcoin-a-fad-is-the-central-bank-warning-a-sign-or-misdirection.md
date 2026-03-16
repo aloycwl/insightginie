@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIS Calls Bitcoin a Fad: Is the Central Bank Warning a Sign or Misdirection?'
-date: '2025-05-13T14:08:29'
+date: '2025-05-13T06:08:29'
 categories:
 - web3
 - cryptocurrency

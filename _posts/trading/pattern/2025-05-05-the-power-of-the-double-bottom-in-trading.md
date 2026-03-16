@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of the Double Bottom in Trading
-date: '2025-05-05T12:21:59'
+date: '2025-05-05T04:21:59'
 categories:
 - trading
 - pattern

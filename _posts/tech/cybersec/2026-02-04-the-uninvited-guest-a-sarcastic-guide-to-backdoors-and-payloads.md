@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Uninvited Guest: A Sarcastic Guide to Backdoors and Payloads'
-date: '2026-02-04T14:05:57'
+date: '2026-02-04T06:05:57'
 categories:
 - tech
 - cybersec

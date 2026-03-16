@@ -2,7 +2,7 @@
 layout: post
 title: Understanding the Quantitative and Qualitative Aspects of Neuro-Linguistic
   Programming (NLP)
-date: '2025-05-13T12:31:09'
+date: '2025-05-13T04:31:09'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Operational Excellence: A Roadmap for Building High-Performance
   Businesses'
-date: '2025-05-02T19:09:45'
+date: '2025-05-02T11:09:45'
 categories:
 - business
 - management

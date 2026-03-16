@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Master Your Daily Routine with HabitChat: The Ultimate OpenClaw Habit Coach'
-date: '2026-03-10T09:00:24'
+date: '2026-03-10T01:00:24'
 categories:
 - ai
 - openclaw

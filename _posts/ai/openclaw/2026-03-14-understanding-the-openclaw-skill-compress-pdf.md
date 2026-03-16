@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Skill: Compress PDF'
-date: '2026-03-14T17:16:27'
+date: '2026-03-14T09:16:27'
 categories:
 - ai
 - openclaw

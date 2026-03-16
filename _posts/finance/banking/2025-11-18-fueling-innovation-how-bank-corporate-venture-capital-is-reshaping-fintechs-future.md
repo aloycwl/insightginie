@@ -2,7 +2,7 @@
 layout: post
 title: 'Fueling Innovation: How Bank Corporate Venture Capital is Reshaping Fintech&#8217;s
   Future'
-date: '2025-11-18T19:45:00'
+date: '2025-11-18T11:45:00'
 categories:
 - finance
 - banking

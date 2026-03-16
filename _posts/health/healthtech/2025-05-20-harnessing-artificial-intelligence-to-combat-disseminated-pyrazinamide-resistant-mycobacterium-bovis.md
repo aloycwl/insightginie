@@ -2,7 +2,7 @@
 layout: post
 title: Harnessing Artificial Intelligence to Combat Disseminated Pyrazinamide-Resistant
   Mycobacterium bovis
-date: '2025-05-20T09:22:34'
+date: '2025-05-20T01:22:34'
 categories:
 - health
 - healthtech

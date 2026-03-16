@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma vs. Taylorism: Critiques of Scientific Management and Its Modern
   Relevance'
-date: '2025-08-25T09:45:02'
+date: '2025-08-25T01:45:02'
 categories:
 - business
 - operations

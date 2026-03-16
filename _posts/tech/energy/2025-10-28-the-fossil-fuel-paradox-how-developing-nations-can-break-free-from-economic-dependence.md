@@ -2,7 +2,7 @@
 layout: post
 title: 'The Fossil Fuel Paradox: How Developing Nations Can Break Free from Economic
   Dependence'
-date: '2025-10-28T11:15:36'
+date: '2025-10-28T03:15:36'
 categories:
 - tech
 - energy

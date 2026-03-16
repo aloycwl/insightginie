@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is SkillFence? The Essential Runtime Security Monitor for OpenClaw Users
-date: '2026-03-11T15:30:23'
+date: '2026-03-11T07:30:23'
 categories:
 - ai
 - openclaw

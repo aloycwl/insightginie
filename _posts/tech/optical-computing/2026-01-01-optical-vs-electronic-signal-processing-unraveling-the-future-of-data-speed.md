@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Optical vs. Electronic Signal Processing: Unraveling the Future of Data Speed'
-date: '2026-01-01T12:11:06'
+date: '2026-01-01T04:11:06'
 categories:
 - tech
 - optical-computing

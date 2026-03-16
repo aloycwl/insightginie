@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Video Content: A Deep Dive into the OpenClaw YouTube Summary Skill'
-date: '2026-03-06T23:00:27'
+date: '2026-03-06T15:00:27'
 categories:
 - ai
 - openclaw

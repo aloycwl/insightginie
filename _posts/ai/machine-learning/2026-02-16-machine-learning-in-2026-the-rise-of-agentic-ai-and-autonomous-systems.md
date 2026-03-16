@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Machine Learning in 2026: The Rise of Agentic AI and Autonomous Systems'
-date: '2026-02-16T14:17:01'
+date: '2026-02-16T06:17:01'
 categories:
 - ai
 - machine-learning

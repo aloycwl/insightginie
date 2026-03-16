@@ -3,7 +3,7 @@ layout: post
 title: "The Future of \uB137\uD50C\uB9AD\uC2A4 \uB300\uD55C\uBBFC\uAD6D &#8211; \uC778\
   \uD130\uB137\uC73C\uB85C \uC2DC\uB9AC\uC988\uC640 \uC601\uD654\uB97C \uC2DC\uCCAD\
   \uD558\uC138\uC694: 2026 Insights"
-date: '2026-02-21T19:27:42'
+date: '2026-02-21T11:27:42'
 categories:
 - business
 - operations

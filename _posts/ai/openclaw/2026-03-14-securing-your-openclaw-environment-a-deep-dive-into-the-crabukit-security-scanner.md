@@ -2,7 +2,7 @@
 layout: post
 title: 'Securing Your OpenClaw Environment: A Deep Dive into the Crabukit Security
   Scanner'
-date: '2026-03-14T13:00:23'
+date: '2026-03-14T05:00:23'
 categories:
 - ai
 - openclaw

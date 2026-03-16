@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Man in Car Paradox: Unmasking the Mind-Bending Illusion of Relative Motion'
-date: '2025-12-07T17:45:47'
+date: '2025-12-07T09:45:47'
 categories:
 - eclectic
 - paradoxes

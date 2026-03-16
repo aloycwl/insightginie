@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Subfeed AI: AI Entities with Full Agentic Backend for Your OpenClaw Project'
-date: '2026-03-10T01:19:15'
+date: '2026-03-09T17:19:15'
 categories:
 - ai
 - openclaw

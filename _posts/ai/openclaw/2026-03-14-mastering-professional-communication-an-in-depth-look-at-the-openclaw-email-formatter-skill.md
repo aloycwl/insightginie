@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Professional Communication: An In-Depth Look at the OpenClaw Email
   Formatter Skill'
-date: '2026-03-14T16:30:28'
+date: '2026-03-14T08:30:28'
 categories:
 - ai
 - openclaw

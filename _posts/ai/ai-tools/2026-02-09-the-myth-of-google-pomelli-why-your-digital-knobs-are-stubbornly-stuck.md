@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Myth of Google Pomelli: Why Your Digital Knobs Are Stubbornly Stuck'
-date: '2026-02-09T10:25:50'
+date: '2026-02-09T02:25:50'
 categories:
 - ai
 - ai-tools

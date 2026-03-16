@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'White-Label vs. Direct PSP: The Ultimate Guide to Payment Gateway Integration'
-date: '2025-11-11T09:12:37'
+date: '2025-11-11T01:12:37'
 categories:
 - finance
 - payment

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More Than 40 Organizations Urge Congress to Eliminate Failed CMMI Program
-date: '2026-03-02T15:31:54'
+date: '2026-03-02T07:31:54'
 categories:
 - business
 - operations

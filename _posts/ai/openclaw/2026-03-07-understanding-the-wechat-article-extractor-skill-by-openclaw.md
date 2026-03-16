@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the WeChat Article Extractor Skill by OpenClaw
-date: '2026-03-07T09:16:57'
+date: '2026-03-07T01:16:57'
 categories:
 - ai
 - openclaw

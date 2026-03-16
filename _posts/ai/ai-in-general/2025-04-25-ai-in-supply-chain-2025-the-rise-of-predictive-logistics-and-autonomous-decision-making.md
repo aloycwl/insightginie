@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI in Supply Chain 2025: The Rise of Predictive Logistics and Autonomous Decision-Making'
-date: '2025-04-25T10:46:35'
+date: '2025-04-25T02:46:35'
 categories:
 - ai
 - ai-in-general

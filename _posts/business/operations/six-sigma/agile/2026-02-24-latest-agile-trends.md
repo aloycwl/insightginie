@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Agile Trends
-date: '2026-02-24T16:57:39'
+date: '2026-02-24T08:57:39'
 categories:
 - business
 - operations

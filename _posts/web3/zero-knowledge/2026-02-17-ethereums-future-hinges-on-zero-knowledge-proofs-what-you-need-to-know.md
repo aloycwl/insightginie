@@ -2,7 +2,7 @@
 layout: post
 title: 'Ethereum&#8217;s Future Hinges on Zero-Knowledge Proofs: What You Need to
   Know'
-date: '2026-02-17T06:32:02'
+date: '2026-02-16T22:32:02'
 categories:
 - web3
 - zero-knowledge

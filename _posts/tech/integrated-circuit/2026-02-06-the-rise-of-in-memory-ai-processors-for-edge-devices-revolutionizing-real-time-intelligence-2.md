@@ -2,7 +2,7 @@
 layout: post
 title: 'The Rise of In-Memory AI Processors for Edge Devices: Revolutionizing Real-Time
   Intelligence'
-date: '2026-02-06T12:19:14'
+date: '2026-02-06T04:19:14'
 categories:
 - tech
 - integrated-circuit

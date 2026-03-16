@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Six Sigma and the Taguchi Philosophy: Bridging Quality, Cost, and Robust Design'
-date: '2025-08-20T15:14:26'
+date: '2025-08-20T07:14:26'
 categories:
 - business
 - operations

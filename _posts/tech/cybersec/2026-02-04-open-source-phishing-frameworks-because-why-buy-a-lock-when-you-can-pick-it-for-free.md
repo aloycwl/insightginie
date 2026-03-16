@@ -2,7 +2,7 @@
 layout: post
 title: 'Open-Source Phishing Frameworks: Because Why Buy a Lock When You Can Pick
   It for Free?'
-date: '2026-02-04T14:44:35'
+date: '2026-02-04T06:44:35'
 categories:
 - tech
 - cybersec

@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking the Power of BORT AI Agents: A Deep Dive into OpenClaw&#8217;s BORT
   Agent Skill'
-date: '2026-03-09T02:00:38'
+date: '2026-03-08T18:00:38'
 categories:
 - ai
 - openclaw

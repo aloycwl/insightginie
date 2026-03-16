@@ -2,7 +2,7 @@
 layout: post
 title: 'Bridging the Gaps: Multi-Domain and Cross-Dataset Adaptation in Remote Photoplethysmography
   (rPPG)'
-date: '2025-05-02T09:28:18'
+date: '2025-05-02T01:28:18'
 categories:
 - health
 - rppg

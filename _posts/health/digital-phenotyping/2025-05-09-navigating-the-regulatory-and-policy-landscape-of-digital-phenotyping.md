@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navigating the Regulatory and Policy Landscape of Digital Phenotyping
-date: '2025-05-09T23:00:21'
+date: '2025-05-09T15:00:21'
 categories:
 - health
 - digital-phenotyping

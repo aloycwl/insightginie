@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Latest CMMI Trends is Transforming CMMI
-date: '2026-02-24T06:37:01'
+date: '2026-02-23T22:37:01'
 categories:
 - business
 - operations

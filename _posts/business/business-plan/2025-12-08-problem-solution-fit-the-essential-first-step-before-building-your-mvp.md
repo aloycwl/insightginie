@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Problem-Solution Fit: The Essential First Step Before Building Your MVP'
-date: '2025-12-08T12:16:12'
+date: '2025-12-08T04:16:12'
 categories:
 - business
 - business-plan

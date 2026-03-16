@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Bullish and Bearish Abandoned Baby Candlestick Patterns
-date: '2025-04-30T09:13:47'
+date: '2025-04-30T01:13:47'
 categories:
 - trading
 - candle

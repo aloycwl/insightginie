@@ -2,7 +2,7 @@
 layout: post
 title: 'Powering Tomorrow: Singapore&#8217;s Bold Quest for Energy Resilience and
   Diversification'
-date: '2025-10-28T12:07:03'
+date: '2025-10-28T04:07:03'
 categories:
 - tech
 - energy

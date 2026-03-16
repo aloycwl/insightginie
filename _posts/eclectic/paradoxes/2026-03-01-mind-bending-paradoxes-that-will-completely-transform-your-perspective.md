@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mind-Bending Paradoxes That Will Completely Transform Your Perspective
-date: '2026-03-01T03:04:25'
+date: '2026-02-28T19:04:25'
 categories:
 - eclectic
 - paradoxes

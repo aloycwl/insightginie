@@ -2,7 +2,7 @@
 layout: post
 title: Master Development Workflows with OpenClaw&#8217;s Incident Timeline Writer
   Skill
-date: '2026-03-15T14:45:44'
+date: '2026-03-15T06:45:44'
 categories:
 - ai
 - openclaw

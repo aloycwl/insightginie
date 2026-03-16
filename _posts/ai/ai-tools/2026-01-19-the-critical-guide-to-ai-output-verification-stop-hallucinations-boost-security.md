@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Critical Guide to AI Output Verification: Stop Hallucinations, Boost Security'
-date: '2026-01-19T14:01:24'
+date: '2026-01-19T06:01:24'
 categories:
 - ai
 - ai-tools

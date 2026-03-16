@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum Computing Breakthroughs 2026: The Era of Scalable Technology Arrives'
-date: '2026-02-16T21:47:53'
+date: '2026-02-16T13:47:53'
 categories:
 - tech
 - quantum

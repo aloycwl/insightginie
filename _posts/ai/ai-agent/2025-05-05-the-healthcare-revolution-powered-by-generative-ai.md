@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Healthcare Revolution Powered by Generative AI
-date: '2025-05-05T10:00:12'
+date: '2025-05-05T02:00:12'
 categories:
 - ai
 - ai-agent

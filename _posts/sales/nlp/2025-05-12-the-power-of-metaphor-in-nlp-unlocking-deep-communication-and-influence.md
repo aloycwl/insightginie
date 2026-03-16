@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Power of Metaphor in NLP: Unlocking Deep Communication and Influence'
-date: '2025-05-12T11:13:08'
+date: '2025-05-12T03:13:08'
 categories:
 - sales
 - nlp

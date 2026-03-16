@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Skill Review Registry: A Guide for AI Agents'
-date: '2026-03-15T20:30:25'
+date: '2026-03-15T12:30:25'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: What Is a Value Pitch? The Secret to Closing Deals by Selling Outcomes, Not
   Features
-date: '2025-12-08T19:53:29'
+date: '2025-12-08T11:53:29'
 categories:
 - business
 - business-plan

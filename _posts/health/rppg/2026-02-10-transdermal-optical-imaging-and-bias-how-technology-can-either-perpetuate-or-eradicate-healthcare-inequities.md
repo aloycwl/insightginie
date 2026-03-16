@@ -2,7 +2,7 @@
 layout: post
 title: 'Transdermal Optical Imaging and Bias: How Technology Can Either Perpetuate
   or Eradicate Healthcare Inequities'
-date: '2026-02-10T14:17:12'
+date: '2026-02-10T06:17:12'
 categories:
 - health
 - rppg

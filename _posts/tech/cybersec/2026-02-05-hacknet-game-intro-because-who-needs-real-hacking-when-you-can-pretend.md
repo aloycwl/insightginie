@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hacknet Game Intro: Because Who Needs Real Hacking When You Can Pretend?'
-date: '2026-02-05T13:58:10'
+date: '2026-02-05T05:58:10'
 categories:
 - tech
 - cybersec

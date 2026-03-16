@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Project Management with the OpenClaw Board Manager Skill
-date: '2026-03-11T18:00:23'
+date: '2026-03-11T10:00:23'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the WIR Identity Registry Skill in OpenClaw
-date: '2026-03-07T21:17:50'
+date: '2026-03-07T13:17:50'
 categories:
 - ai
 - openclaw

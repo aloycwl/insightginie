@@ -2,7 +2,7 @@
 layout: post
 title: 'OpenAI Frontier: The Enterprise AI Agent Platform Transforming Business Operations
   in 2026'
-date: '2026-02-17T15:47:52'
+date: '2026-02-17T07:47:52'
 categories:
 - ai
 - ai-agent

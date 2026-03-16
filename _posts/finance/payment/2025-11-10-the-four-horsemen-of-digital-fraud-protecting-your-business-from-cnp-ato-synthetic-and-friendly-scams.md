@@ -2,7 +2,7 @@
 layout: post
 title: 'The Four Horsemen of Digital Fraud: Protecting Your Business from CNP, ATO,
   Synthetic, and Friendly Scams'
-date: '2025-11-10T09:30:18'
+date: '2025-11-10T01:30:18'
 categories:
 - finance
 - payment

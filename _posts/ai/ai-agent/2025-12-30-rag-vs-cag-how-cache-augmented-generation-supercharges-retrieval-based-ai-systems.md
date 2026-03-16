@@ -2,7 +2,7 @@
 layout: post
 title: 'RAG vs CAG: How Cache-Augmented Generation Supercharges Retrieval-Based AI
   Systems'
-date: '2025-12-30T09:37:55'
+date: '2025-12-30T01:37:55'
 categories:
 - ai
 - ai-agent

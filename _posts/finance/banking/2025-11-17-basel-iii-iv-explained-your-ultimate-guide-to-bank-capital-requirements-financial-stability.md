@@ -2,7 +2,7 @@
 layout: post
 title: 'Basel III &#038; IV Explained: Your Ultimate Guide to Bank Capital Requirements
   &#038; Financial Stability'
-date: '2025-11-17T20:20:00'
+date: '2025-11-17T12:20:00'
 categories:
 - finance
 - banking

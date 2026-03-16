@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the Warden Messari Agent: A Guide to Decentralized AI Research'
-date: '2026-03-08T03:30:24'
+date: '2026-03-07T19:30:24'
 categories:
 - ai
 - openclaw

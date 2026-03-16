@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering the DIA Model, Open Innovation, and Hybrid Business Creation
-date: '2025-05-06T14:05:56'
+date: '2025-05-06T06:05:56'
 categories:
 - business
 - strategy

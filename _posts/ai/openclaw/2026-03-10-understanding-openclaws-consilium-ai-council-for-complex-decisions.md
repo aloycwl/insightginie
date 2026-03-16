@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding OpenClaw&#8217;s Consilium: AI Council for Complex Decisions'
-date: '2026-03-10T15:45:40'
+date: '2026-03-10T07:45:40'
 categories:
 - ai
 - openclaw

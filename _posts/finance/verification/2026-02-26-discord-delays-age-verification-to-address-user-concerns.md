@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discord Delays Age Verification to Address User Concerns
-date: '2026-02-26T04:31:07'
+date: '2026-02-25T20:31:07'
 categories:
 - finance
 - verification

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Secret to Superior AI: Engineering Prompts with Context, Constraints,
   and Examples'
-date: '2026-01-19T13:58:49'
+date: '2026-01-19T05:58:49'
 categories:
 - ai
 - ai-tools

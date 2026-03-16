@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cryptocurrency in 2025: How Digital Assets Went Mainstream'
-date: '2026-02-18T06:17:54'
+date: '2026-02-17T22:17:54'
 categories:
 - web3
 - cryptocurrency

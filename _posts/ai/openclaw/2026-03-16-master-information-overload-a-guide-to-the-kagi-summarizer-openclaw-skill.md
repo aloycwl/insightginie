@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Master Information Overload: A Guide to the Kagi-Summarizer OpenClaw Skill'
-date: '2026-03-16T16:00:28'
+date: '2026-03-16T08:00:28'
 categories:
 - ai
 - openclaw

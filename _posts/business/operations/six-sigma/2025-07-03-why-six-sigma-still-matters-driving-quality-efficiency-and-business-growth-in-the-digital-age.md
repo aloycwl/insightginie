@@ -2,7 +2,7 @@
 layout: post
 title: 'Why Six Sigma Still Matters: Driving Quality, Efficiency, and Business Growth
   in the Digital Age'
-date: '2025-07-03T15:31:36'
+date: '2025-07-03T07:31:36'
 categories:
 - business
 - operations

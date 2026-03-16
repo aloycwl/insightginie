@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Project Communication: How Effective Meetings Drive Clarity, Commitment,
   and Success'
-date: '2025-07-01T16:35:14'
+date: '2025-07-01T08:35:14'
 categories:
 - business
 - operations

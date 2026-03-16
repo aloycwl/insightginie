@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring the ArXiv GameDevBench Skill in OpenClaw
-date: '2026-03-10T20:15:37'
+date: '2026-03-10T12:15:37'
 categories:
 - ai
 - openclaw

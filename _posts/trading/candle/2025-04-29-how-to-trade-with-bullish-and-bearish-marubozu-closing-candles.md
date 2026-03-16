@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Bullish and Bearish Marubozu Closing Candles
-date: '2025-04-29T16:45:36'
+date: '2025-04-29T08:45:36'
 categories:
 - trading
 - candle

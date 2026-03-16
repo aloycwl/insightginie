@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Business Strategy: Timeless Wisdom from Sun Tzu Art of War'
-date: '2026-02-17T11:04:37'
+date: '2026-02-17T03:04:37'
 categories:
 - sales
 - art-of-war

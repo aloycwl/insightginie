@@ -2,7 +2,7 @@
 layout: post
 title: 'Why zkRollups Always Need a Settlement Layer: Unpacking the Importance of
   Base Layer Security in zkRollups'
-date: '2025-05-05T21:33:39'
+date: '2025-05-05T13:33:39'
 categories:
 - web3
 - zero-knowledge

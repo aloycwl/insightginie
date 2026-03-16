@@ -2,7 +2,7 @@
 layout: post
 title: 'RugCheck: How to Analyze Solana Tokens for Rug Pull Risks &#8211; A Comprehensive
   Guide'
-date: '2026-03-08T21:45:58'
+date: '2026-03-08T13:45:58'
 categories:
 - ai
 - openclaw

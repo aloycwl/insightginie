@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Computing in 2025-2026: The Year Usable Quantum Computers Finally
   Arrive'
-date: '2026-02-19T06:18:14'
+date: '2026-02-18T22:18:14'
 categories:
 - tech
 - quantum

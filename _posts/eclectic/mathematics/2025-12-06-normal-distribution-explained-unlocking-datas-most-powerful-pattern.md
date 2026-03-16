@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Normal Distribution Explained: Unlocking Data&#8217;s Most Powerful Pattern'
-date: '2025-12-06T23:33:53'
+date: '2025-12-06T15:33:53'
 categories:
 - eclectic
 - mathematics

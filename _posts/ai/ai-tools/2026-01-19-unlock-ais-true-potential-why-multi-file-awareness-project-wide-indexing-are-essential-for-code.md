@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock AI&#8217;s True Potential: Why Multi-File Awareness &#038; Project-Wide
   Indexing Are Essential for Code'
-date: '2026-01-19T14:03:31'
+date: '2026-01-19T06:03:31'
 categories:
 - ai
 - ai-tools

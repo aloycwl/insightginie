@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bills Regulating Cryptocurrency Kiosks on the Move: What You Need to Know'
-date: '2026-02-27T10:00:35'
+date: '2026-02-27T02:00:35'
 categories:
 - web3
 - cryptocurrency

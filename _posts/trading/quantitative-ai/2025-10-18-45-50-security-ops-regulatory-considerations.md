@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (45/50) Security, ops &amp; regulatory considerations
-date: '2025-10-18T10:00:30'
+date: '2025-10-18T02:00:30'
 categories:
 - trading
 - quantitative-ai

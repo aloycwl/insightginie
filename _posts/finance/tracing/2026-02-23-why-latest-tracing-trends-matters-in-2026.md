@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Latest Tracing Trends Matters in 2026
-date: '2026-02-23T10:27:35'
+date: '2026-02-23T02:27:35'
 categories:
 - finance
 - tracing

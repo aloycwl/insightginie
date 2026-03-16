@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw YouTube Downloader Skill: Automate Video Downloads'
-date: '2026-03-09T17:16:35'
+date: '2026-03-09T09:16:35'
 categories:
 - ai
 - openclaw

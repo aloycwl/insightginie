@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '(42/50) Deployment: model serialization, containerization &amp; CI/CD'
-date: '2025-10-18T09:56:50'
+date: '2025-10-18T01:56:50'
 categories:
 - trading
 - quantitative-ai

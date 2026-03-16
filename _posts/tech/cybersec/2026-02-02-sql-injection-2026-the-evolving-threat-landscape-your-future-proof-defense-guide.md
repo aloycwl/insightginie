@@ -2,7 +2,7 @@
 layout: post
 title: 'SQL Injection 2026: The Evolving Threat Landscape &#038; Your Future-Proof
   Defense Guide'
-date: '2026-02-02T19:07:39'
+date: '2026-02-02T11:07:39'
 categories:
 - tech
 - cybersec

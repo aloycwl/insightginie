@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Crypto Tax: Your Essential Guide to Tokenized Asset Taxation &#038;
   Investor Reporting'
-date: '2025-11-13T11:14:05'
+date: '2025-11-13T03:14:05'
 categories:
 - finance
 - real-world-asset-rwa

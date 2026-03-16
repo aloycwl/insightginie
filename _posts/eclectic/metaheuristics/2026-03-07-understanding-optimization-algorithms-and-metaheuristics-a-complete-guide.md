@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Optimization Algorithms and Metaheuristics: A Complete Guide'
-date: '2026-03-07T05:30:28'
+date: '2026-03-06T21:30:28'
 categories:
 - eclectic
 - metaheuristics

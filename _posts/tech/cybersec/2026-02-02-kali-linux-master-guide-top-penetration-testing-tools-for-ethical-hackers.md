@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kali Linux Master Guide: Top Penetration Testing Tools for Ethical Hackers'
-date: '2026-02-02T21:59:54'
+date: '2026-02-02T13:59:54'
 categories:
 - tech
 - cybersec

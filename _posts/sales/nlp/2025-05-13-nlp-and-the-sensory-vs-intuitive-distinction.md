@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NLP and the Sensory vs. Intuitive Distinction
-date: '2025-05-13T11:51:09'
+date: '2025-05-13T03:51:09'
 categories:
 - sales
 - nlp

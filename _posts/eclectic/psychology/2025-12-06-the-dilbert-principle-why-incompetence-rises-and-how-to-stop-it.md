@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Dilbert Principle: Why Incompetence Rises and How to Stop It'
-date: '2025-12-06T13:52:02'
+date: '2025-12-06T05:52:02'
 categories:
 - eclectic
 - psychology

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the OpenClaw Immanent Metaphysics (IM) Framework Skill
-date: '2026-03-11T09:00:30'
+date: '2026-03-11T01:00:30'
 categories:
 - ai
 - openclaw

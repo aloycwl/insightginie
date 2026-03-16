@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Did Workday Help Signal the SaaS Bottom? Analyzing Recent Market Trends
-date: '2026-03-01T22:31:49'
+date: '2026-03-01T14:31:49'
 categories:
 - ai
 - ai-in-general

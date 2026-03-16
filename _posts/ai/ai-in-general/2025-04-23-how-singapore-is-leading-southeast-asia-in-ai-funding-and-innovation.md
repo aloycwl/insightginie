@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Singapore is Leading Southeast Asia in AI Funding and Innovation
-date: '2025-04-23T21:10:35'
+date: '2025-04-23T13:10:35'
 categories:
 - ai
 - ai-in-general

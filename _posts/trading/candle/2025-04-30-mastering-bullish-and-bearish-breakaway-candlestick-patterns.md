@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Bullish and Bearish Breakaway Candlestick Patterns
-date: '2025-04-30T17:17:25'
+date: '2025-04-30T09:17:25'
 categories:
 - trading
 - candle

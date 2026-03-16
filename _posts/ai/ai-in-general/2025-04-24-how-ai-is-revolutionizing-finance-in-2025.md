@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How AI is Revolutionizing Finance in 2025
-date: '2025-04-24T07:56:28'
+date: '2025-04-23T23:56:28'
 categories:
 - ai
 - ai-in-general

@@ -2,7 +2,7 @@
 layout: post
 title: 'How In-Memory Chips Are Revolutionizing Neural Network Performance: Speed,
   Efficiency, and the Future of AI Hardware'
-date: '2026-02-06T12:22:27'
+date: '2026-02-06T04:22:27'
 categories:
 - tech
 - integrated-circuit

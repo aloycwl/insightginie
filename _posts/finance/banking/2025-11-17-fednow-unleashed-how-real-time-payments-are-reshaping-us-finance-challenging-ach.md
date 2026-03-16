@@ -2,7 +2,7 @@
 layout: post
 title: 'FedNow Unleashed: How Real-Time Payments Are Reshaping US Finance &#038; Challenging
   ACH'
-date: '2025-11-17T18:00:00'
+date: '2025-11-17T10:00:00'
 categories:
 - finance
 - banking

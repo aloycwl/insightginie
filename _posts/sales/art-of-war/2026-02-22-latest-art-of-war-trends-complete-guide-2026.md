@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Art of War Trends: Complete Guide 2026'
-date: '2026-02-22T04:57:35'
+date: '2026-02-21T20:57:35'
 categories:
 - sales
 - art-of-war

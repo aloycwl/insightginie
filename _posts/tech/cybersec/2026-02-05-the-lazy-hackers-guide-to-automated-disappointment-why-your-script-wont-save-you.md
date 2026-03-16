@@ -2,7 +2,7 @@
 layout: post
 title: "The Lazy Hacker\u2019s Guide to Automated Disappointment: Why Your Script\
   \ Won&#8217;t Save You"
-date: '2026-02-05T13:11:27'
+date: '2026-02-05T05:11:27'
 categories:
 - tech
 - cybersec

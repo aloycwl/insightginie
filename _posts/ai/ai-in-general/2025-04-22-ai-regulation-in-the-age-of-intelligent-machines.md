@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Regulation in the Age of Intelligent Machines
-date: '2025-04-22T14:28:42'
+date: '2025-04-22T06:28:42'
 categories:
 - ai
 - ai-in-general

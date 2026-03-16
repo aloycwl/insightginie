@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Physics of the Spiral Pass: Unraveling the Mystery'
-date: '2026-02-27T03:31:29'
+date: '2026-02-26T19:31:29'
 categories:
 - eclectic
 - physics

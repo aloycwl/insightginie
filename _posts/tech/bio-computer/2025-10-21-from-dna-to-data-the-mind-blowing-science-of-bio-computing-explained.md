@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'From DNA to Data: The Mind-Blowing Science of Bio-Computing Explained'
-date: '2025-10-21T09:50:45'
+date: '2025-10-21T01:50:45'
 categories:
 - tech
 - bio-computer

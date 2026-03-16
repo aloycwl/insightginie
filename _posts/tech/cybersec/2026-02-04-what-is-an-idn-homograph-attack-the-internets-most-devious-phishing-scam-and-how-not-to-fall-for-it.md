@@ -2,7 +2,7 @@
 layout: post
 title: "What Is an IDN Homograph Attack? The Internet\u2019s Most Devious Phishing\
   \ Scam (And How Not to Fall for It)"
-date: '2026-02-04T14:47:30'
+date: '2026-02-04T06:47:30'
 categories:
 - tech
 - cybersec

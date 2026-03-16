@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Crypto Security Trends &#8211; Everything You Need to Know
-date: '2026-02-21T17:32:47'
+date: '2026-02-21T09:32:47'
 categories:
 - web3
 - crypto-security

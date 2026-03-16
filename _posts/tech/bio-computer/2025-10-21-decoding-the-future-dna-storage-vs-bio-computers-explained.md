@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Decoding the Future: DNA Storage vs. Bio-Computers Explained'
-date: '2025-10-21T10:31:52'
+date: '2025-10-21T02:31:52'
 categories:
 - tech
 - bio-computer

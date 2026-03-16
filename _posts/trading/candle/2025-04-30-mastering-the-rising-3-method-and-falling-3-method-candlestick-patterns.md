@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering the Rising 3 Method and Falling 3 Method Candlestick Patterns
-date: '2025-04-30T17:29:33'
+date: '2025-04-30T09:29:33'
 categories:
 - trading
 - candle

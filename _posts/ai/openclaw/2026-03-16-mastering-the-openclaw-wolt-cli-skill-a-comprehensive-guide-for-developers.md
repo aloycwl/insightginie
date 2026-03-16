@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the OpenClaw Wolt-CLI Skill: A Comprehensive Guide for Developers'
-date: '2026-03-16T20:30:30'
+date: '2026-03-16T12:30:30'
 categories:
 - ai
 - openclaw

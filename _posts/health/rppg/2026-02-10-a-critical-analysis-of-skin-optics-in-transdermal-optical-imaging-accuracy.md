@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Critical Analysis of Skin Optics in Transdermal Optical Imaging Accuracy
-date: '2026-02-10T13:40:46'
+date: '2026-02-10T05:40:46'
 categories:
 - health
 - rppg

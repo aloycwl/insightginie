@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Latest Agile Trends Matters in 2026
-date: '2026-02-24T13:57:38'
+date: '2026-02-24T05:57:38'
 categories:
 - business
 - operations

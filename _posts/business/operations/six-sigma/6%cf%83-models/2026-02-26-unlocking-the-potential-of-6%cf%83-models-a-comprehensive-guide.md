@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unlocking the Potential of 6\u03A3 Models: A Comprehensive Guide"
-date: '2026-02-26T17:01:38'
+date: '2026-02-26T09:01:38'
 categories:
 - business
 - operations

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Conversational Postulates in NLP: A Technique for Influential Communication'
-date: '2025-05-12T11:11:42'
+date: '2025-05-12T03:11:42'
 categories:
 - sales
 - nlp

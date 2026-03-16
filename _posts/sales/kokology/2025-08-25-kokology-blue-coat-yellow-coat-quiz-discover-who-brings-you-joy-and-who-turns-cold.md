@@ -2,7 +2,7 @@
 layout: post
 title: "Kokology \u201CBlue Coat, Yellow Coat\u201D Quiz: Discover Who Brings You\
   \ Joy and Who Turns Cold"
-date: '2025-08-25T14:24:17'
+date: '2025-08-25T06:24:17'
 categories:
 - sales
 - kokology

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Long, Sarcastic Road to Speed: A Witty History of In-Memory Computing'
-date: '2026-02-06T11:46:47'
+date: '2026-02-06T03:46:47'
 categories:
 - tech
 - integrated-circuit

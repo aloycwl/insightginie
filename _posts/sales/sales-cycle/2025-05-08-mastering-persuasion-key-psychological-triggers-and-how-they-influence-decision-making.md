@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Persuasion: Key Psychological Triggers and How They Influence Decision-Making'
-date: '2025-05-08T13:39:35'
+date: '2025-05-08T05:39:35'
 categories:
 - sales
 - sales-cycle

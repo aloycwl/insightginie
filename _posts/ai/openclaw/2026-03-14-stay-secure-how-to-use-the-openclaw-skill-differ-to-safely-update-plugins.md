@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stay Secure: How to Use the OpenClaw Skill Differ to Safely Update Plugins'
-date: '2026-03-14T21:30:31'
+date: '2026-03-14T13:30:31'
 categories:
 - ai
 - openclaw

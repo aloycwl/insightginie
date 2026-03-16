@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Personalized Medicine&#8217;s Next Frontier: Decoding Health with Bio-Computers'
-date: '2025-10-21T20:50:42'
+date: '2025-10-21T12:50:42'
 categories:
 - tech
 - bio-computer

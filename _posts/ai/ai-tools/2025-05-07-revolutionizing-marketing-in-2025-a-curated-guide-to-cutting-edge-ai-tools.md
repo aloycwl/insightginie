@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revolutionizing Marketing in 2025: A Curated Guide to Cutting-Edge AI Tools'
-date: '2025-05-07T10:50:57'
+date: '2025-05-07T02:50:57'
 categories:
 - ai
 - ai-tools

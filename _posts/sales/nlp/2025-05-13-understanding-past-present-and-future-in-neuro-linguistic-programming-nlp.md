@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Past, Present, and Future in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:42:50'
+date: '2025-05-13T04:42:50'
 categories:
 - sales
 - nlp

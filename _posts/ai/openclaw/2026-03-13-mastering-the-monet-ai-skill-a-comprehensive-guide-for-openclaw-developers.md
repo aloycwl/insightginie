@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the Monet AI Skill: A Comprehensive Guide for OpenClaw Developers'
-date: '2026-03-13T21:30:30'
+date: '2026-03-13T13:30:30'
 categories:
 - ai
 - openclaw

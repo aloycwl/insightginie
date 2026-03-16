@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Slash Your OpenClaw API Costs: A Guide to the Token Optimizer'
-date: '2026-03-08T11:30:22'
+date: '2026-03-08T03:30:22'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'US Macro Dominance in Global Markets: How American Economic Signals Drive
   Global Investment and Trade'
-date: '2025-12-15T14:39:04'
+date: '2025-12-15T06:39:04'
 categories:
 - trading
 - fundamental

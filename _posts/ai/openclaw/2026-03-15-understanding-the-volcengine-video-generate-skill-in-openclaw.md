@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Volcengine Video Generate Skill in OpenClaw
-date: '2026-03-15T08:15:54'
+date: '2026-03-15T00:15:54'
 categories:
 - ai
 - openclaw

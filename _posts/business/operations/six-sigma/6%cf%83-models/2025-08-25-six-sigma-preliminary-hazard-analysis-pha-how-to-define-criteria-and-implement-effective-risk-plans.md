@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma &amp; Preliminary Hazard Analysis (PHA): How to Define Criteria
   and Implement Effective Risk Plans'
-date: '2025-08-25T11:10:54'
+date: '2025-08-25T03:10:54'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: 'Closeout Paperwork: Essential Documentation and Reviews for Successful Project
   Completion'
-date: '2025-07-01T17:04:01'
+date: '2025-07-01T09:04:01'
 categories:
 - business
 - operations

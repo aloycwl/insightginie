@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Slothful Induction Fallacy: Why We Deny the Obvious Truth'
-date: '2025-12-07T22:23:42'
+date: '2025-12-07T14:23:42'
 categories:
 - eclectic
 - fallacies

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(12/50) Feature engineering II \u2014 advanced statistical features"
-date: '2025-10-08T13:27:17'
+date: '2025-10-08T05:27:17'
 categories:
 - trading
 - quantitative-ai

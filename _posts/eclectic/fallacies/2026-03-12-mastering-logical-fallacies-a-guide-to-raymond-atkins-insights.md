@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Logical Fallacies: A Guide to Raymond Atkins&#8217; Insights'
-date: '2026-03-12T04:46:56'
+date: '2026-03-11T20:46:56'
 categories:
 - eclectic
 - fallacies

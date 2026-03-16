@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transforming Education with Generative AI
-date: '2025-05-05T10:09:36'
+date: '2025-05-05T02:09:36'
 categories:
 - ai
 - ai-agent

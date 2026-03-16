@@ -2,7 +2,7 @@
 layout: post
 title: 'The Future of Psychology: 9 Transformative Trends Shaping Mental Health in
   2026'
-date: '2026-02-19T07:32:56'
+date: '2026-02-18T23:32:56'
 categories:
 - eclectic
 - psychology

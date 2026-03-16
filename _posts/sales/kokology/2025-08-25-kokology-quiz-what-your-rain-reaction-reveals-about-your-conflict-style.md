@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kokology Quiz: What Your Rain Reaction Reveals About Your Conflict Style'
-date: '2025-08-25T22:39:17'
+date: '2025-08-25T14:39:17'
 categories:
 - sales
 - kokology

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medtech Revolution: How Medical Technology is Transforming Healthcare in 2026'
-date: '2026-02-17T10:04:42'
+date: '2026-02-17T02:04:42'
 categories:
 - health
 - medtech

@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding SiliconFlow Video Generation Skill for OpenClaw: A Complete
   Guide'
-date: '2026-03-10T02:45:50'
+date: '2026-03-09T18:45:50'
 categories:
 - ai
 - openclaw

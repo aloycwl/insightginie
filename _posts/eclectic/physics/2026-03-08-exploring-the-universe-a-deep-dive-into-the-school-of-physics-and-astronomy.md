@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploring the Universe: A Deep Dive into the School of Physics and Astronomy'
-date: '2026-03-08T13:30:26'
+date: '2026-03-08T05:30:26'
 categories:
 - eclectic
 - physics

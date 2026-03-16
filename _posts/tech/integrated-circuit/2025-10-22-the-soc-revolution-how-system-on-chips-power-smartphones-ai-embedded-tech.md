@@ -2,7 +2,7 @@
 layout: post
 title: 'The SoC Revolution: How System-on-Chips Power Smartphones, AI &#038; Embedded
   Tech'
-date: '2025-10-22T14:21:09'
+date: '2025-10-22T06:21:09'
 categories:
 - tech
 - integrated-circuit

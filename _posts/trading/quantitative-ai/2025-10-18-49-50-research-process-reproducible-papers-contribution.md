@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (49/50) Research process, reproducible papers &amp; contribution
-date: '2025-10-18T23:13:51'
+date: '2025-10-18T15:13:51'
 categories:
 - trading
 - quantitative-ai

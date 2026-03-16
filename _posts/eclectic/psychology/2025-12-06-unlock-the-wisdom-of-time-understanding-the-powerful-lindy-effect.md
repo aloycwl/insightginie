@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock the Wisdom of Time: Understanding the Powerful Lindy Effect'
-date: '2025-12-06T14:11:25'
+date: '2025-12-06T06:11:25'
 categories:
 - eclectic
 - psychology

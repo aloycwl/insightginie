@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Computing in 2026: The Majorana Qubit Breakthrough and the Road to
   Practical Quantum Systems'
-date: '2026-02-18T12:17:42'
+date: '2026-02-18T04:17:42'
 categories:
 - tech
 - quantum

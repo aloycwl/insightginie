@@ -2,7 +2,7 @@
 layout: post
 title: "Seedance 2.0 JiMeng Skill Explained: How It Works, Real\u2011World Use Cases,\
   \ and Key Benefits"
-date: '2026-03-06T03:40:36'
+date: '2026-03-05T19:40:36'
 categories:
 - ai
 - openclaw

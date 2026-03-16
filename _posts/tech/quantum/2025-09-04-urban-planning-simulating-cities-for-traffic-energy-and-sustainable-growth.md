@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Urban Planning: Simulating Cities for Traffic, Energy, and Sustainable Growth'
-date: '2025-09-04T14:47:30'
+date: '2025-09-04T06:47:30'
 categories:
 - tech
 - quantum

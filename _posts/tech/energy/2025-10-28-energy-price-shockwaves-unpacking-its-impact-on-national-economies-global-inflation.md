@@ -2,7 +2,7 @@
 layout: post
 title: 'Energy Price Shockwaves: Unpacking Its Impact on National Economies &#038;
   Global Inflation'
-date: '2025-10-28T11:28:18'
+date: '2025-10-28T03:28:18'
 categories:
 - tech
 - energy

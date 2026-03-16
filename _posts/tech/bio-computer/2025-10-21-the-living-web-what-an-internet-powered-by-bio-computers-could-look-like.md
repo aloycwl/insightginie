@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Living Web: What an Internet Powered by Bio-Computers Could Look Like'
-date: '2025-10-21T21:39:51'
+date: '2025-10-21T13:39:51'
 categories:
 - tech
 - bio-computer

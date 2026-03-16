@@ -2,7 +2,7 @@
 layout: post
 title: 'rPPG-Enabled NFTs: Revolutionizing Decentralized Clinical Trials Through Vital
   Sign Tokenization'
-date: '2025-05-03T14:47:24'
+date: '2025-05-03T06:47:24'
 categories:
 - health
 - rppg

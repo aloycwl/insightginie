@@ -2,7 +2,7 @@
 layout: post
 title: 'Clinical Validation and Standardization in rPPG: Ensuring Reliability in Wearable
   Health Monitoring'
-date: '2025-05-02T12:56:47'
+date: '2025-05-02T04:56:47'
 categories:
 - health
 - rppg

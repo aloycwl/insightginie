@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring 6\u03A3 Models: Revolutionizing Data Analysis and Decision Making"
-date: '2026-03-02T11:31:53'
+date: '2026-03-02T03:31:53'
 categories:
 - business
 - operations

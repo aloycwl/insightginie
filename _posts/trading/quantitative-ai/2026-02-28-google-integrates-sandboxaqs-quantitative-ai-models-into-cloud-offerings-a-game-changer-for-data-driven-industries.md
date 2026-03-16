@@ -2,7 +2,7 @@
 layout: post
 title: 'Google Integrates SandboxAQ&#8217;s Quantitative AI Models into Cloud Offerings:
   A Game-Changer for Data-Driven Industries'
-date: '2026-02-28T23:02:23'
+date: '2026-02-28T15:02:23'
 categories:
 - trading
 - quantitative-ai

@@ -2,7 +2,7 @@
 layout: post
 title: 'Unleash Innovation: How FPGA Reconfigurability Revolutionizes Rapid Prototyping
   &#038; Research'
-date: '2025-10-22T14:23:34'
+date: '2025-10-22T06:23:34'
 categories:
 - tech
 - integrated-circuit

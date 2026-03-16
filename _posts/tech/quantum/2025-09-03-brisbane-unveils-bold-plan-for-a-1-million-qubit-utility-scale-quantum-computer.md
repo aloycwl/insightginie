@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brisbane Unveils Bold Plan for a 1-Million-Qubit Utility-Scale Quantum Computer
-date: '2025-09-03T10:45:18'
+date: '2025-09-03T02:45:18'
 categories:
 - tech
 - quantum

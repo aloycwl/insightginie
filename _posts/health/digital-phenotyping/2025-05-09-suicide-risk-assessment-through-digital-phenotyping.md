@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Suicide Risk Assessment through Digital Phenotyping
-date: '2025-05-09T22:30:08'
+date: '2025-05-09T14:30:08'
 categories:
 - health
 - digital-phenotyping

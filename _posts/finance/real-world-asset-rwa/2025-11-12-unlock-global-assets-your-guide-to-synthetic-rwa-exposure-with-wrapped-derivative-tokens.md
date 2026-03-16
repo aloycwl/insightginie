@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Global Assets: Your Guide to Synthetic RWA Exposure with Wrapped &#038;
   Derivative Tokens'
-date: '2025-11-12T11:05:49'
+date: '2025-11-12T03:05:49'
 categories:
 - finance
 - real-world-asset-rwa

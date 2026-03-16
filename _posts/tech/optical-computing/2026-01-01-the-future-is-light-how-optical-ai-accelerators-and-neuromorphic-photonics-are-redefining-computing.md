@@ -2,7 +2,7 @@
 layout: post
 title: 'The Future is Light: How Optical AI Accelerators and Neuromorphic Photonics
   are Redefining Computing'
-date: '2026-01-01T12:14:40'
+date: '2026-01-01T04:14:40'
 categories:
 - tech
 - optical-computing

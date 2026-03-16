@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill: Screenshot Capture &#8211; Automated Content Processing'
-date: '2026-03-09T04:16:58'
+date: '2026-03-08T20:16:58'
 categories:
 - ai
 - openclaw

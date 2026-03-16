@@ -2,7 +2,7 @@
 layout: post
 title: 'Laser Beams to the Stars: Unlocking Interstellar Communication with Directed
   Light Systems'
-date: '2026-01-02T17:41:09'
+date: '2026-01-02T09:41:09'
 categories:
 - tech
 - optical-computing

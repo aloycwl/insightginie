@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use ReelWords Captions API for Video Subtitles
-date: '2026-03-08T18:18:36'
+date: '2026-03-08T10:18:36'
 categories:
 - ai
 - openclaw

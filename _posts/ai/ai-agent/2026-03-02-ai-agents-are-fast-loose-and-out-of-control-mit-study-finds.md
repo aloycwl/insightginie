@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Agents Are Fast, Loose, and Out of Control, MIT Study Finds
-date: '2026-03-02T05:31:00'
+date: '2026-03-01T21:31:00'
 categories:
 - ai
 - ai-agent

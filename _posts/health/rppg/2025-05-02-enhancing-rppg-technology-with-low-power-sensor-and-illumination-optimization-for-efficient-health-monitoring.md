@@ -2,7 +2,7 @@
 layout: post
 title: Enhancing rPPG Technology with Low-Power Sensor and Illumination Optimization
   for Efficient Health Monitoring
-date: '2025-05-02T13:05:29'
+date: '2025-05-02T05:05:29'
 categories:
 - health
 - rppg

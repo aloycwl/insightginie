@@ -2,7 +2,7 @@
 layout: post
 title: 'Achieving Operational Excellence with Six Sigma: A Proven Path to Quality
   and Efficiency'
-date: '2025-05-02T14:46:00'
+date: '2025-05-02T06:46:00'
 categories:
 - business
 - management

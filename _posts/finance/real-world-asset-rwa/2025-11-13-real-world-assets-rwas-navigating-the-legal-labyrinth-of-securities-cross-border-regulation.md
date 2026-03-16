@@ -2,7 +2,7 @@
 layout: post
 title: 'Real-World Assets (RWAs): Navigating the Legal Labyrinth of Securities &#038;
   Cross-Border Regulation'
-date: '2025-11-13T11:13:38'
+date: '2025-11-13T03:13:38'
 categories:
 - finance
 - real-world-asset-rwa

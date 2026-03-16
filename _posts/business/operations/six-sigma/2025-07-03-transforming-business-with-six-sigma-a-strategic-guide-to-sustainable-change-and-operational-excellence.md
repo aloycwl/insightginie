@@ -2,7 +2,7 @@
 layout: post
 title: 'Transforming Business with Six Sigma: A Strategic Guide to Sustainable Change
   and Operational Excellence'
-date: '2025-07-03T15:33:57'
+date: '2025-07-03T07:33:57'
 categories:
 - business
 - operations

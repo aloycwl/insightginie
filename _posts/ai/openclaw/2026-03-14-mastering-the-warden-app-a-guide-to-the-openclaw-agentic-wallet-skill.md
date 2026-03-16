@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the Warden App: A Guide to the OpenClaw Agentic Wallet Skill'
-date: '2026-03-14T05:00:31'
+date: '2026-03-13T21:00:31'
 categories:
 - ai
 - openclaw

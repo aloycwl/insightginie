@@ -2,7 +2,7 @@
 layout: post
 title: "Ethereum Is Moving to &#8216;Real DeFi,&#8217; Vitalik Buterin Says \u2014\
   \ But What Does It Mean?"
-date: '2026-02-28T01:02:26'
+date: '2026-02-27T17:02:26'
 categories:
 - web3
 - defi

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Progressive Web Apps (PWAs): Bridging Web and Mobile Experiences'
-date: '2025-05-01T19:32:07'
+date: '2025-05-01T11:32:07'
 categories:
 - ai
 - ai-agent

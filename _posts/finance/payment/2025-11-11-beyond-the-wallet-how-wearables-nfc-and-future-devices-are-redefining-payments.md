@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond the Wallet: How Wearables, NFC, and Future Devices Are Redefining Payments'
-date: '2025-11-11T09:08:32'
+date: '2025-11-11T01:08:32'
 categories:
 - finance
 - payment

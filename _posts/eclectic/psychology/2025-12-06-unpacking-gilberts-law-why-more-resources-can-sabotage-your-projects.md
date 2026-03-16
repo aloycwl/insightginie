@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unpacking Gilbert&#8217;s Law: Why More Resources Can Sabotage Your Projects'
-date: '2025-12-06T13:57:04'
+date: '2025-12-06T05:57:04'
 categories:
 - eclectic
 - psychology

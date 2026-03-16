@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (38/50) Monitoring model drift &amp; model lifecycle management
-date: '2025-10-18T09:45:19'
+date: '2025-10-18T01:45:19'
 categories:
 - trading
 - quantitative-ai

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BlackRock Enters DeFi Trading: Institutional Adoption Reaches New Milestone'
-date: '2026-02-18T00:03:28'
+date: '2026-02-17T16:03:28'
 categories:
 - web3
 - defi

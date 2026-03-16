@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Real World Asset Tokenization: The Future of Finance in 2026'
-date: '2026-02-17T07:04:45'
+date: '2026-02-16T23:04:45'
 categories:
 - finance
 - real-world-asset-rwa

@@ -2,7 +2,7 @@
 layout: post
 title: 'The New Wave of AI in Healthcare 2026: Transforming Patient Care and Medical
   Diagnostics'
-date: '2026-02-17T11:47:29'
+date: '2026-02-17T03:47:29'
 categories:
 - health
 - healthtech

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Kiro Search Aggregator Skill: A Comprehensive Guide'
-date: '2026-03-08T11:45:59'
+date: '2026-03-08T03:45:59'
 categories:
 - ai
 - openclaw

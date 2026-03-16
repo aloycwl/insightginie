@@ -2,7 +2,7 @@
 layout: post
 title: 'How to Trade with Vector Autoregression (VAR): A Powerful Tool for Financial
   Market Analysis'
-date: '2025-05-01T19:37:43'
+date: '2025-05-01T11:37:43'
 categories:
 - trading
 - indicators

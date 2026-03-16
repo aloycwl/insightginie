@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Code Automation: A Deep Dive into the OpenCode OMO Skill'
-date: '2026-03-08T06:00:27'
+date: '2026-03-07T22:00:27'
 categories:
 - ai
 - openclaw

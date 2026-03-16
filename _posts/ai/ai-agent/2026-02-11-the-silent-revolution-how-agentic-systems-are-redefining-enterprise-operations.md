@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Silent Revolution: How Agentic Systems Are Redefining Enterprise Operations'
-date: '2026-02-11T11:54:21'
+date: '2026-02-11T03:54:21'
 categories:
 - ai
 - ai-agent

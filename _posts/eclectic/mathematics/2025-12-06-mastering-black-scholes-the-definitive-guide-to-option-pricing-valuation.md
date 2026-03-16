@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Black-Scholes: The Definitive Guide to Option Pricing &#038; Valuation'
-date: '2025-12-06T22:54:18'
+date: '2025-12-06T14:54:18'
 categories:
 - eclectic
 - mathematics

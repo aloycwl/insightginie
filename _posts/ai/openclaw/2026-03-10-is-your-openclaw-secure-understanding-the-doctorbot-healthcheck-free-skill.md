@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Your OpenClaw Secure? Understanding the DoctorBot HealthCheck Free Skill
-date: '2026-03-10T07:00:29'
+date: '2026-03-09T23:00:29'
 categories:
 - ai
 - openclaw

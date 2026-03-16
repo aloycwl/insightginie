@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy-Conscious Quantum Research: Key Insights from ICQE 2025'
-date: '2025-09-03T10:57:46'
+date: '2025-09-03T02:57:46'
 categories:
 - tech
 - quantum

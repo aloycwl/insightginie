@@ -2,7 +2,7 @@
 layout: post
 title: "Japan Launches Groundbreaking \u2018Smartphone Dementia\u2019 Clinics to Combat\
   \ Digital Brain Drain"
-date: '2025-07-03T13:11:15'
+date: '2025-07-03T05:11:15'
 categories:
 - health
 - healthtech

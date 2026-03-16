@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Top 10 Signs of IT Project Failure: How to Spot and Avoid Costly Mistakes'
-date: '2025-07-01T17:05:37'
+date: '2025-07-01T09:05:37'
 categories:
 - business
 - operations

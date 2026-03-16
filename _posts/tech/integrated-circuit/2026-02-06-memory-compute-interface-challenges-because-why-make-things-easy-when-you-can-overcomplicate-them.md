@@ -2,7 +2,7 @@
 layout: post
 title: 'Memory-Compute Interface Challenges: Because Why Make Things Easy When You
   Can Overcomplicate Them?'
-date: '2026-02-06T13:44:15'
+date: '2026-02-06T05:44:15'
 categories:
 - tech
 - integrated-circuit

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optimizing Sales Performance Through Effective Coaching Goals
-date: '2025-05-08T13:12:17'
+date: '2025-05-08T05:12:17'
 categories:
 - sales
 - sales-cycle

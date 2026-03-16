@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Master Your Next Job Interview with the OpenClaw Interview Coach AI
-date: '2026-03-07T07:00:26'
+date: '2026-03-06T23:00:26'
 categories:
 - ai
 - openclaw

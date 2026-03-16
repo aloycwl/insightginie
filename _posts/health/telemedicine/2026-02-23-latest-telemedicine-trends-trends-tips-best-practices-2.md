@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Telemedicine Trends: Trends, Tips &#038; Best Practices'
-date: '2026-02-23T13:27:40'
+date: '2026-02-23T05:27:40'
 categories:
 - health
 - telemedicine

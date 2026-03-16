@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auto Shorts Repurposer: Transform Long-Form Content into Engaging Short Clips'
-date: '2026-03-05T14:01:25'
+date: '2026-03-05T06:01:25'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'Exploring the &#8216;Leveler&#8217; in NLP: Understanding Cognitive Calibration
   for Effective Communication'
-date: '2025-05-12T11:17:04'
+date: '2025-05-12T03:17:04'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Sarcastic Guide to Software Reverse Engineering Frameworks: Or, How I
   Learned to Stop Worrying and Love the Binary'
-date: '2026-02-04T14:06:56'
+date: '2026-02-04T06:06:56'
 categories:
 - tech
 - cybersec

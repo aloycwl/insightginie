@@ -2,7 +2,7 @@
 layout: post
 title: Why Small Language Models Might Face Obsolescence and What&#8217;s Poised to
   Take Their Place
-date: '2025-04-21T23:01:02'
+date: '2025-04-21T15:01:02'
 categories:
 - ai
 - machine-learning

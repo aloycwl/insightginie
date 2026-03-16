@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automate Web Browser Interactions with Browse CLI Skill
-date: '2026-03-07T04:19:45'
+date: '2026-03-06T20:19:45'
 categories:
 - ai
 - openclaw

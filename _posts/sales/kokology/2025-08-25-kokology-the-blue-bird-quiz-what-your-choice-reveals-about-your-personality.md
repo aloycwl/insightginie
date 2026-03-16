@@ -2,7 +2,7 @@
 layout: post
 title: "Kokology \u201CThe Blue Bird\u201D Quiz: What Your Choice Reveals About Your\
   \ Personality"
-date: '2025-08-25T14:02:21'
+date: '2025-08-25T06:02:21'
 categories:
 - sales
 - kokology

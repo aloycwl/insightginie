@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unmasking Herd Mentality: Why We Follow the Crowd and How to Think for Yourself'
-date: '2025-12-06T14:09:08'
+date: '2025-12-06T06:09:08'
 categories:
 - eclectic
 - psychology

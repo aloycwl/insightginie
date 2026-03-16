@@ -2,7 +2,7 @@
 layout: post
 title: 'Unraveling Murphy&#8217;s Law: Why Everything That Can Go Wrong, Will (And
   How to Prepare)'
-date: '2025-12-06T14:12:53'
+date: '2025-12-06T06:12:53'
 categories:
 - eclectic
 - psychology

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SWIFT Sanctions: The Ultimate Financial Weapon in Geopolitical Warfare'
-date: '2025-11-18T12:00:00'
+date: '2025-11-18T04:00:00'
 categories:
 - finance
 - banking

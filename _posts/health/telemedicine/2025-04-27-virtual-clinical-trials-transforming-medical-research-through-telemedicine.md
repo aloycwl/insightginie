@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Virtual Clinical Trials: Transforming Medical Research Through Telemedicine'
-date: '2025-04-27T22:18:03'
+date: '2025-04-27T14:18:03'
 categories:
 - health
 - telemedicine

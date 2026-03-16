@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding OpenClaw&#8217;s Traffic Data Skill: Real-Time Road Insights'
-date: '2026-03-12T20:45:54'
+date: '2026-03-12T12:45:54'
 categories:
 - ai
 - openclaw

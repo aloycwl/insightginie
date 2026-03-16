@@ -2,7 +2,7 @@
 layout: post
 title: 'The Intersection of Quantum Information and Thermodynamics: Unlocking the
   Physics of Information'
-date: '2025-09-03T19:01:41'
+date: '2025-09-03T11:01:41'
 categories:
 - tech
 - quantum

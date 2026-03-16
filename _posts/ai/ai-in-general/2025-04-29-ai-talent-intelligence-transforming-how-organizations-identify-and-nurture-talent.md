@@ -2,7 +2,7 @@
 layout: post
 title: 'AI Talent Intelligence: Transforming How Organizations Identify and Nurture
   Talent'
-date: '2025-04-29T10:44:59'
+date: '2025-04-29T02:44:59'
 categories:
 - ai
 - ai-in-general

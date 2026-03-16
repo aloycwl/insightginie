@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Why We Value Today More Than Tomorrow: Understanding Time Discounting'
-date: '2025-12-06T14:21:26'
+date: '2025-12-06T06:21:26'
 categories:
 - eclectic
 - psychology

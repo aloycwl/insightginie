@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Hands-Free Automation: A Guide to the percept-voice-cmd Skill for
   OpenClaw'
-date: '2026-03-14T14:00:29'
+date: '2026-03-14T06:00:29'
 categories:
 - ai
 - openclaw

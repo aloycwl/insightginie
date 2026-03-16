@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond the Lens: Unlocking rPPG Potential through Multi-Modal Fusion'
-date: '2025-05-02T09:31:58'
+date: '2025-05-02T01:31:58'
 categories:
 - health
 - rppg

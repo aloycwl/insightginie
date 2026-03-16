@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Project Management Trends 2026: AI, Agile, and the Future of Team Leadership'
-date: '2026-02-18T19:32:53'
+date: '2026-02-18T11:32:53'
 categories:
 - business
 - operations

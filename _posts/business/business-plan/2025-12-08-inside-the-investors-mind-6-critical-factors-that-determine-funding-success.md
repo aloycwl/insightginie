@@ -2,7 +2,7 @@
 layout: post
 title: "Inside the Investor\u2019s Mind: 6 Critical Factors That Determine Funding\
   \ Success"
-date: '2025-12-08T19:59:20'
+date: '2025-12-08T11:59:20'
 categories:
 - business
 - business-plan

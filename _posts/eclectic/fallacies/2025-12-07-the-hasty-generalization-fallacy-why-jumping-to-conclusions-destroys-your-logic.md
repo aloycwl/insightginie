@@ -2,7 +2,7 @@
 layout: post
 title: 'The Hasty Generalization Fallacy: Why Jumping to Conclusions Destroys Your
   Logic'
-date: '2025-12-07T22:22:40'
+date: '2025-12-07T14:22:40'
 categories:
 - eclectic
 - fallacies

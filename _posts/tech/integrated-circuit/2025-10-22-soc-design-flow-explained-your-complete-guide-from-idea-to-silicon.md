@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SoC Design Flow Explained: Your Complete Guide from Idea to Silicon'
-date: '2025-10-22T14:21:28'
+date: '2025-10-22T06:21:28'
 categories:
 - tech
 - integrated-circuit

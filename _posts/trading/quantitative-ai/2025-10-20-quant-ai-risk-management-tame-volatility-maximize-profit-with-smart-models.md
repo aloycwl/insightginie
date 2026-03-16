@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quant AI Risk Management: Tame Volatility, Maximize Profit with Smart Models'
-date: '2025-10-20T12:13:30'
+date: '2025-10-20T04:13:30'
 categories:
 - trading
 - quantitative-ai

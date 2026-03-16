@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How to Set Up Claude Max/Pro Proxy for Cost-Effective API Usage: Full Guide'
-date: '2026-03-13T12:46:10'
+date: '2026-03-13T04:46:10'
 categories:
 - ai
 - openclaw

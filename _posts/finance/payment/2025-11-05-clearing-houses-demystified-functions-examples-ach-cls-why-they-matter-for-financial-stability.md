@@ -2,7 +2,7 @@
 layout: post
 title: 'Clearing Houses Demystified: Functions, Examples (ACH, CLS) &#038; Why They
   Matter for Financial Stability'
-date: '2025-11-05T15:29:30'
+date: '2025-11-05T07:29:30'
 categories:
 - finance
 - payment

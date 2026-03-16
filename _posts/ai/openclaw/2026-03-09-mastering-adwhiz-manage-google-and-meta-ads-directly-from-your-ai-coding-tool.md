@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering AdWhiz: Manage Google and Meta Ads Directly From Your AI Coding
   Tool'
-date: '2026-03-09T17:00:27'
+date: '2026-03-09T09:00:27'
 categories:
 - ai
 - openclaw

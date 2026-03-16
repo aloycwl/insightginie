@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Virtual Ambulances: Paramedics Connect with Doctors in Real-Time'
-date: '2025-04-27T22:48:35'
+date: '2025-04-27T14:48:35'
 categories:
 - health
 - telemedicine

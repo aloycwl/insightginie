@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma and Hidden Markov Models: Unlocking Predictive Power in Process
   Improvement'
-date: '2025-08-25T09:50:35'
+date: '2025-08-25T01:50:35'
 categories:
 - business
 - operations

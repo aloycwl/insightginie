@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The 95/5 Rule: Why Investors Buy the Story, Not Just the Deal'
-date: '2025-12-08T19:51:25'
+date: '2025-12-08T11:51:25'
 categories:
 - business
 - business-plan

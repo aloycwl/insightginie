@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Hegel Paradox: Why We Are Doomed to Repeat History (And How to Stop)'
-date: '2025-12-07T11:04:35'
+date: '2025-12-07T03:04:35'
 categories:
 - eclectic
 - paradoxes

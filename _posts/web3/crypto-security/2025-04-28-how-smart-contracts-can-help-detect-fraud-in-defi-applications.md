@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Smart Contracts Can Help Detect Fraud in DeFi Applications
-date: '2025-04-28T21:25:38'
+date: '2025-04-28T13:25:38'
 categories:
 - web3
 - crypto-security

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Everything Is About Sales: The Universal Power of Persuasion and Influence'
-date: '2025-05-08T12:14:58'
+date: '2025-05-08T04:14:58'
 categories:
 - sales
 - sales-cycle

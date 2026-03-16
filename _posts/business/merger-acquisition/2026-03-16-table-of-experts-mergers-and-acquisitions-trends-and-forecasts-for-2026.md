@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Table of Experts: Mergers and Acquisitions Trends and Forecasts for 2026'
-date: '2026-03-16T07:30:35'
+date: '2026-03-15T23:30:35'
 categories:
 - business
 - merger-acquisition

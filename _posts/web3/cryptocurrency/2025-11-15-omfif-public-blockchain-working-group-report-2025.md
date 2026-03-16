@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OMFIF Public Blockchain Working Group Report (2025)
-date: '2025-11-15T09:55:19'
+date: '2025-11-15T01:55:19'
 categories:
 - web3
 - cryptocurrency

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Barnum Effect: Unmasking Why Vague Descriptions Feel So Personal &#038;
   True'
-date: '2025-12-06T13:43:19'
+date: '2025-12-06T05:43:19'
 categories:
 - eclectic
 - psychology

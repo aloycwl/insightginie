@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Business Management: How OpenClaw&#8217;s Odoo Connector Transforms
   ERP Operations'
-date: '2026-03-14T11:46:22'
+date: '2026-03-14T03:46:22'
 categories:
 - ai
 - openclaw

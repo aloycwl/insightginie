@@ -2,7 +2,7 @@
 layout: post
 title: 'KYC Unpacked: Navigating Requirements in Traditional Banks &#038; Neobanks
   for Seamless Onboarding'
-date: '2025-11-21T12:21:04'
+date: '2025-11-21T04:21:04'
 categories:
 - finance
 - verification

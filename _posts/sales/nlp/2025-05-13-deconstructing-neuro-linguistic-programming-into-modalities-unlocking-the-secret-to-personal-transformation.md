@@ -2,7 +2,7 @@
 layout: post
 title: 'Deconstructing Neuro-Linguistic Programming into Modalities: Unlocking the
   Secret to Personal Transformation'
-date: '2025-05-13T15:28:40'
+date: '2025-05-13T07:28:40'
 categories:
 - sales
 - nlp

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Productivity: A Deep Dive into OpenClaw&#8217;s AI Video Notes Skill'
-date: '2026-03-16T13:00:26'
+date: '2026-03-16T05:00:26'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma in Software Development: Measuring Program Size and Driving Quality
   Improvement'
-date: '2025-08-20T15:24:47'
+date: '2025-08-20T07:24:47'
 categories:
 - business
 - operations

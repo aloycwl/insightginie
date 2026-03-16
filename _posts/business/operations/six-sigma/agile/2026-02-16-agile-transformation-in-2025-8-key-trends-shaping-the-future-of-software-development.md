@@ -2,7 +2,7 @@
 layout: post
 title: 'Agile Transformation in 2025: 8 Key Trends Shaping the Future of Software
   Development'
-date: '2026-02-16T18:48:19'
+date: '2026-02-16T10:48:19'
 categories:
 - business
 - operations

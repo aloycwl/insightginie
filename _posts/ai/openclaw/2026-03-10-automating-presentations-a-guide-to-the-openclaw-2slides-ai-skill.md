@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Automating Presentations: A Guide to the OpenClaw 2slides AI Skill'
-date: '2026-03-10T19:30:24'
+date: '2026-03-10T11:30:24'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: "Fast and Lightweight Phishing Tools: Because Who Needs Ethics When You\u2019\
   ve Got Speed?"
-date: '2026-02-04T14:50:59'
+date: '2026-02-04T06:50:59'
 categories:
 - tech
 - cybersec

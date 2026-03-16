@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (28/50) Portfolio construction basics
-date: '2025-10-08T22:56:17'
+date: '2025-10-08T14:56:17'
 categories:
 - trading
 - quantitative-ai

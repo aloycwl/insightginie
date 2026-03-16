@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Verification Costs and On-Chain Gas Fees in Zero-Knowledge Proofs
-date: '2025-05-05T21:13:19'
+date: '2025-05-05T13:13:19'
 categories:
 - web3
 - zero-knowledge

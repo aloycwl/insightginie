@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Critical Role of Transdermal Optical Imaging in Next-Gen Health Devices
-date: '2026-02-10T13:46:56'
+date: '2026-02-10T05:46:56'
 categories:
 - health
 - rppg

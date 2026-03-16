@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crypto Real Estate Revolution: Which Countries Lead and What Growth Lies Ahead?'
-date: '2025-07-29T00:27:21'
+date: '2025-07-28T16:27:21'
 categories:
 - web3
 - cryptocurrency

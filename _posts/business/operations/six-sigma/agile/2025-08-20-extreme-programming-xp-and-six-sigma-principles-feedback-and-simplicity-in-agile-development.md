@@ -2,7 +2,7 @@
 layout: post
 title: 'Extreme Programming (XP) and Six Sigma: Principles, Feedback, and Simplicity
   in Agile Development'
-date: '2025-08-20T11:05:07'
+date: '2025-08-20T03:05:07'
 categories:
 - business
 - operations

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade the Traditional Double Top Pattern
-date: '2025-05-05T12:15:58'
+date: '2025-05-05T04:15:58'
 categories:
 - trading
 - pattern

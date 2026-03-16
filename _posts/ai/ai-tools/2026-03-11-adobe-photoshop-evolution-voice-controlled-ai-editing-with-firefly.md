@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adobe Photoshop Evolution: Voice-Controlled AI Editing with Firefly'
-date: '2026-03-11T16:00:32'
+date: '2026-03-11T08:00:32'
 categories:
 - ai
 - ai-tools

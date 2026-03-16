@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Machine Learning in 2026: How AI is Revolutionizing Scientific Discovery'
-date: '2026-02-17T02:02:49'
+date: '2026-02-16T18:02:49'
 categories:
 - ai
 - machine-learning

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Hidden Trade-Offs: Evaluating the Cost, Accessibility, and Scalability
   of Transdermal Optical Imaging Solutions'
-date: '2026-02-10T14:15:02'
+date: '2026-02-10T06:15:02'
 categories:
 - health
 - rppg

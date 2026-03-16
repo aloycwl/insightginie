@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Distortions in Neuro-Linguistic Programming (NLP)
-date: '2025-05-12T11:02:28'
+date: '2025-05-12T03:02:28'
 categories:
 - sales
 - nlp

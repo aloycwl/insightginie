@@ -2,7 +2,7 @@
 layout: post
 title: 'Light-Speed AI: How Optical Neural Networks &#038; Backpropagation with Light
   Will Revolutionize Machine Learning'
-date: '2026-01-02T17:36:57'
+date: '2026-01-02T09:36:57'
 categories:
 - tech
 - optical-computing

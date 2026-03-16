@@ -2,7 +2,7 @@
 layout: post
 title: 'Vibe vs. AI-Assisted vs. Agentic Coding: Navigating the Future of Software
   Development'
-date: '2026-01-19T13:57:33'
+date: '2026-01-19T05:57:33'
 categories:
 - ai
 - ai-tools

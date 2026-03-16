@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the Neuro-Linguistic Programming (NLP) Terms: Active, Reflective,
   and Inactive States'
-date: '2025-05-13T12:05:29'
+date: '2025-05-13T04:05:29'
 categories:
 - sales
 - nlp

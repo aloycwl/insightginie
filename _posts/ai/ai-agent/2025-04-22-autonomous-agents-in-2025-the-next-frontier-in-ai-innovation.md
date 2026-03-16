@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Autonomous Agents in 2025: The Next Frontier in AI Innovation'
-date: '2025-04-22T17:18:18'
+date: '2025-04-22T09:18:18'
 categories:
 - ai
 - ai-agent

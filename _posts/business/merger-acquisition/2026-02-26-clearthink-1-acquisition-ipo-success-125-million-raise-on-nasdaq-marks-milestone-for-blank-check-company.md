@@ -2,7 +2,7 @@
 layout: post
 title: 'ClearThink 1 Acquisition IPO Success: $125 Million Raise on NASDAQ Marks Milestone
   for Blank Check Company'
-date: '2026-02-26T13:00:52'
+date: '2026-02-26T05:00:52'
 categories:
 - business
 - merger-acquisition

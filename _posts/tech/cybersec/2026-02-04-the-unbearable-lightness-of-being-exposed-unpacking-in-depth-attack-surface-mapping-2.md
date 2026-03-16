@@ -2,7 +2,7 @@
 layout: post
 title: 'The Unbearable Lightness of Being Exposed: Unpacking In-depth Attack Surface
   Mapping'
-date: '2026-02-04T14:17:19'
+date: '2026-02-04T06:17:19'
 categories:
 - tech
 - cybersec

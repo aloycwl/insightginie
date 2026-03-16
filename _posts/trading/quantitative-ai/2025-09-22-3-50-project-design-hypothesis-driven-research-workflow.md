@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(3/50) Project Design \u2014 Hypothesis-Driven Research Workflow"
-date: '2025-09-22T13:26:42'
+date: '2025-09-22T05:26:42'
 categories:
 - trading
 - quantitative-ai

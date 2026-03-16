@@ -2,7 +2,7 @@
 layout: post
 title: 'Living Neurons Integrated into Modern AI Processing: A Breakthrough by SF
   Startup'
-date: '2026-03-01T04:02:32'
+date: '2026-02-28T20:02:32'
 categories:
 - tech
 - bio-computer

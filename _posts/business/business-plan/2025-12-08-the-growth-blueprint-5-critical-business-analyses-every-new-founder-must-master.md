@@ -2,7 +2,7 @@
 layout: post
 title: 'The Growth Blueprint: 5 Critical Business Analyses Every New Founder Must
   Master'
-date: '2025-12-08T20:32:25'
+date: '2025-12-08T12:32:25'
 categories:
 - business
 - business-plan

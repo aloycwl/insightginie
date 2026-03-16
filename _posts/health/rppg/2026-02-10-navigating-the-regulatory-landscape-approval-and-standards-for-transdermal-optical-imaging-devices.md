@@ -2,7 +2,7 @@
 layout: post
 title: 'Navigating the Regulatory Landscape: Approval and Standards for Transdermal
   Optical Imaging Devices'
-date: '2026-02-10T13:59:22'
+date: '2026-02-10T05:59:22'
 categories:
 - health
 - rppg

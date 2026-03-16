@@ -2,7 +2,7 @@
 layout: post
 title: 'DeFi Revolution: How Decentralized Finance is Reshaping the Global Financial
   Landscape in 2025'
-date: '2026-02-19T02:47:57'
+date: '2026-02-18T18:47:57'
 categories:
 - web3
 - defi

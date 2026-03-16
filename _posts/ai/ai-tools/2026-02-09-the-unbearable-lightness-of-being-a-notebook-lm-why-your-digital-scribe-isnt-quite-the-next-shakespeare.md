@@ -2,7 +2,7 @@
 layout: post
 title: 'The Unbearable Lightness of Being a Notebook LM: Why Your Digital Scribe Isn&#8217;t
   Quite the Next Shakespeare'
-date: '2026-02-09T10:15:26'
+date: '2026-02-09T02:15:26'
 categories:
 - ai
 - ai-tools

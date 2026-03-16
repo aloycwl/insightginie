@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Banking in 2026: The Era of Unconstrained Banking and Digital Transformation'
-date: '2026-02-17T00:46:58'
+date: '2026-02-16T16:46:58'
 categories:
 - finance
 - banking

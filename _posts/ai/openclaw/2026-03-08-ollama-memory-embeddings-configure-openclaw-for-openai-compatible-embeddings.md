@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ollama Memory Embeddings: Configure OpenClaw for OpenAI-Compatible Embeddings'
-date: '2026-03-08T16:45:34'
+date: '2026-03-08T08:45:34'
 categories:
 - ai
 - openclaw

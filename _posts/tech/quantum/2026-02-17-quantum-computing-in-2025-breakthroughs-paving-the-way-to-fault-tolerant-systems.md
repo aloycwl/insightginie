@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Computing in 2025: Breakthroughs Paving the Way to Fault-Tolerant
   Systems'
-date: '2026-02-17T12:17:15'
+date: '2026-02-17T04:17:15'
 categories:
 - tech
 - quantum

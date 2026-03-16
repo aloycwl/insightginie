@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Skill: agentcli-go Framework for Go CLI Tools'
-date: '2026-03-13T07:46:18'
+date: '2026-03-12T23:46:18'
 categories:
 - ai
 - openclaw

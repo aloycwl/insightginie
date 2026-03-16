@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clean Energy and Efficiency Upgrades: Kentucky Schools Save Millions'
-date: '2026-02-26T03:01:05'
+date: '2026-02-25T19:01:05'
 categories:
 - tech
 - energy

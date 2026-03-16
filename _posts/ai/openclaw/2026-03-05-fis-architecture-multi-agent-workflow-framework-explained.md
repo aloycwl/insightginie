@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FIS Architecture: Multi\u2011Agent Workflow Framework Explained"
-date: '2026-03-05T13:40:39'
+date: '2026-03-05T05:40:39'
 categories:
 - ai
 - openclaw

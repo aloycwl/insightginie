@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Waterfall Project Management: A Step-by-Step Guide for Structured Success'
-date: '2025-07-01T16:43:48'
+date: '2025-07-01T08:43:48'
 categories:
 - business
 - operations

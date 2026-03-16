@@ -2,7 +2,7 @@
 layout: post
 title: "The 12 Critical Business Metrics You Can\u2019t Afford to Ignore: A Blueprint\
   \ for Sustainable Growth"
-date: '2025-12-08T20:36:53'
+date: '2025-12-08T12:36:53'
 categories:
 - business
 - business-plan

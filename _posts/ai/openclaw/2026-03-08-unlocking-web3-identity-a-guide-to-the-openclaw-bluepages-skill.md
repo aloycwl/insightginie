@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Web3 Identity: A Guide to the OpenClaw Bluepages Skill'
-date: '2026-03-08T05:30:22'
+date: '2026-03-07T21:30:22'
 categories:
 - ai
 - openclaw

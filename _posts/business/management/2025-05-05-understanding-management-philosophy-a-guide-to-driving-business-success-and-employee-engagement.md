@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Management Philosophy: A Guide to Driving Business Success and
   Employee Engagement'
-date: '2025-05-05T19:47:17'
+date: '2025-05-05T11:47:17'
 categories:
 - business
 - management

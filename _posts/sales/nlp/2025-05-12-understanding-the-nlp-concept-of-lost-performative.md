@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the NLP Concept of Lost Performative
-date: '2025-05-12T10:36:53'
+date: '2025-05-12T02:36:53'
 categories:
 - sales
 - nlp

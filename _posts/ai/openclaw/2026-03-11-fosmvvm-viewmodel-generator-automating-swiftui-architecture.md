@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FOSMVVM ViewModel Generator: Automating SwiftUI Architecture'
-date: '2026-03-11T00:16:14'
+date: '2026-03-10T16:16:14'
 categories:
 - ai
 - openclaw

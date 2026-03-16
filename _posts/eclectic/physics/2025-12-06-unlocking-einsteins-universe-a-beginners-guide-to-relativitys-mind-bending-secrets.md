@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Einstein&#8217;s Universe: A Beginner&#8217;s Guide to Relativity&#8217;s
   Mind-Bending Secrets'
-date: '2025-12-06T22:27:06'
+date: '2025-12-06T14:27:06'
 categories:
 - eclectic
 - physics

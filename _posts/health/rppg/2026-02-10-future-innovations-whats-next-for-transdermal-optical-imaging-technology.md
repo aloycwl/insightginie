@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Future Innovations: What\u2019s Next for Transdermal Optical Imaging Technology?"
-date: '2026-02-10T14:19:59'
+date: '2026-02-10T06:19:59'
 categories:
 - health
 - rppg

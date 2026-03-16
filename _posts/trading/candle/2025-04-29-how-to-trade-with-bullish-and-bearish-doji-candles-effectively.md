@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Bullish and Bearish Doji Candles Effectively
-date: '2025-04-29T16:51:39'
+date: '2025-04-29T08:51:39'
 categories:
 - trading
 - candle

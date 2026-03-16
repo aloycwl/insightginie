@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Management Trends &#8211; Everything You Need to Know
-date: '2026-02-22T02:27:42'
+date: '2026-02-21T18:27:42'
 categories:
 - business
 - management

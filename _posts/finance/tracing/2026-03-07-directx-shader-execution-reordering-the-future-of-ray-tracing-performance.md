@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DirectX Shader Execution Reordering: The Future of Ray Tracing Performance'
-date: '2026-03-07T16:30:28'
+date: '2026-03-07T08:30:28'
 categories:
 - finance
 - tracing

@@ -2,7 +2,7 @@
 layout: post
 title: "ALDI&#8217;s $20 West Elm Candle Dupe Is Finally Back\u2014and It&#8217;s\
   \ Still the Best Deal Around"
-date: '2026-03-08T23:00:41'
+date: '2026-03-08T15:00:41'
 categories:
 - trading
 - candle

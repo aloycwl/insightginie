@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the BidClub AI Skill: A Guide for OpenClaw Agents'
-date: '2026-03-08T17:30:29'
+date: '2026-03-08T09:30:29'
 categories:
 - ai
 - openclaw

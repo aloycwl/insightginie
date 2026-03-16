@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Tangible Returns of Thinking Machines: Calculating the ROI of AI Agents'
-date: '2025-04-22T12:10:52'
+date: '2025-04-22T04:10:52'
 categories:
 - ai
 - ai-agent

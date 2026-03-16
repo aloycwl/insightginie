@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Digital Morgue: What is Cyber Autopsy and Why Your Data Might Be Next'
-date: '2026-02-05T13:31:19'
+date: '2026-02-05T05:31:19'
 categories:
 - tech
 - cybersec

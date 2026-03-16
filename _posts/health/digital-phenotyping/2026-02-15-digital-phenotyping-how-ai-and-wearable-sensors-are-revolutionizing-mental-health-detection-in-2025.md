@@ -2,7 +2,7 @@
 layout: post
 title: 'Digital Phenotyping: How AI and Wearable Sensors Are Revolutionizing Mental
   Health Detection in 2025'
-date: '2026-02-15T17:46:29'
+date: '2026-02-15T09:46:29'
 categories:
 - health
 - digital-phenotyping

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Unstoppable Rise of Regional Payment Giants: Alipay, WeChat Pay, GrabPay,
   Paytm &#038; Razorpay'
-date: '2025-11-05T15:31:50'
+date: '2025-11-05T07:31:50'
 categories:
 - finance
 - payment

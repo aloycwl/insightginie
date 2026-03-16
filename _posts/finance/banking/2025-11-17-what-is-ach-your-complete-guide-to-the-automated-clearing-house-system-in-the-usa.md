@@ -2,7 +2,7 @@
 layout: post
 title: What is ACH? Your Complete Guide to the Automated Clearing House System in
   the USA
-date: '2025-11-17T17:30:00'
+date: '2025-11-17T09:30:00'
 categories:
 - finance
 - banking

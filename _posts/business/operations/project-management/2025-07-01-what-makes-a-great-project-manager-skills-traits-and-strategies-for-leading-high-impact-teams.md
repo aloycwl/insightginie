@@ -2,7 +2,7 @@
 layout: post
 title: What Makes a Great Project Manager? Skills, Traits, and Strategies for Leading
   High-Impact Teams
-date: '2025-07-01T16:25:14'
+date: '2025-07-01T08:25:14'
 categories:
 - business
 - operations

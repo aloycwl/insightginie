@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Solar: Is Nuclear Power Singapore&#8217;s Next Big Energy Bet?'
-date: '2025-10-28T12:09:28'
+date: '2025-10-28T04:09:28'
 categories:
 - tech
 - energy

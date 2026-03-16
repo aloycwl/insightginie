@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade the Pennant Pattern
-date: '2025-05-05T12:35:46'
+date: '2025-05-05T04:35:46'
 categories:
 - trading
 - pattern

@@ -2,7 +2,7 @@
 layout: post
 title: 'Unveiling the Doppler Effect: How Moving Objects Change What You Hear (and
   See)'
-date: '2025-12-06T22:14:34'
+date: '2025-12-06T14:14:34'
 categories:
 - eclectic
 - physics

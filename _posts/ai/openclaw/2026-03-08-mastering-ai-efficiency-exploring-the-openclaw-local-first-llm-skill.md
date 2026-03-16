@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering AI Efficiency: Exploring the OpenClaw Local-First LLM Skill'
-date: '2026-03-08T23:30:32'
+date: '2026-03-08T15:30:32'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When and Why to Use the Iterative Development Model in Six Sigma Projects
-date: '2025-07-08T14:08:27'
+date: '2025-07-08T06:08:27'
 categories:
 - business
 - operations

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remote Photoplethysmography: The Future of Contactless Heart Rate Monitoring'
-date: '2026-02-16T02:47:46'
+date: '2026-02-15T18:47:46'
 categories:
 - health
 - rppg

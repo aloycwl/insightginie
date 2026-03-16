@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kokology Quiz: What Your Bubble Choice Reveals About Your Dreams'
-date: '2025-08-25T22:40:59'
+date: '2025-08-25T14:40:59'
 categories:
 - sales
 - kokology

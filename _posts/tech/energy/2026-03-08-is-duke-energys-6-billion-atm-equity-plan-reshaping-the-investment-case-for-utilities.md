@@ -2,7 +2,7 @@
 layout: post
 title: "Is Duke Energy\u2019s $6 Billion ATM Equity Plan Reshaping the Investment\
   \ Case for Utilities?"
-date: '2026-03-08T08:00:30'
+date: '2026-03-08T00:00:30'
 categories:
 - tech
 - energy

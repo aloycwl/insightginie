@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Automatic Design of Metaheuristics: The Future of Optimization?'
-date: '2026-03-03T04:31:20'
+date: '2026-03-02T20:31:20'
 categories:
 - eclectic
 - metaheuristics

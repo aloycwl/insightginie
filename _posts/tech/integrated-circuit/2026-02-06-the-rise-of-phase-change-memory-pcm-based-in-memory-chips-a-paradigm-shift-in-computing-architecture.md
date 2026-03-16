@@ -2,7 +2,7 @@
 layout: post
 title: 'The Rise of Phase-Change Memory (PCM) Based In-Memory Chips: A Paradigm Shift
   in Computing Architecture'
-date: '2026-02-06T12:12:07'
+date: '2026-02-06T04:12:07'
 categories:
 - tech
 - integrated-circuit

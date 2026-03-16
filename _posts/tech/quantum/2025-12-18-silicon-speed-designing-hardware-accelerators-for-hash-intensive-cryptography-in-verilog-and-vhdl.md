@@ -2,7 +2,7 @@
 layout: post
 title: 'Silicon Speed: Designing Hardware Accelerators for Hash-Intensive Cryptography
   in Verilog and VHDL'
-date: '2025-12-18T12:30:49'
+date: '2025-12-18T04:30:49'
 categories:
 - tech
 - quantum

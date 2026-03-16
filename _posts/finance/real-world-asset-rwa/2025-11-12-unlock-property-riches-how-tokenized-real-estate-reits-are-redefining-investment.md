@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Property Riches: How Tokenized Real Estate &#038; REITs Are Redefining
   Investment'
-date: '2025-11-12T10:26:18'
+date: '2025-11-12T02:26:18'
 categories:
 - finance
 - real-world-asset-rwa

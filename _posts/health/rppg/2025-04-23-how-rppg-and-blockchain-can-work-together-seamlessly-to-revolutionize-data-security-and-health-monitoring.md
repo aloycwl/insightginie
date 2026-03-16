@@ -2,7 +2,7 @@
 layout: post
 title: How rPPG and Blockchain Can Work Together Seamlessly to Revolutionize Data
   Security and Health Monitoring
-date: '2025-04-23T22:03:27'
+date: '2025-04-23T14:03:27'
 categories:
 - health
 - rppg

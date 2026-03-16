@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SoC vs. Multi-Chip Systems: Unpacking the Performance &#038; Integration Revolution'
-date: '2025-10-22T14:21:46'
+date: '2025-10-22T06:21:46'
 categories:
 - tech
 - integrated-circuit

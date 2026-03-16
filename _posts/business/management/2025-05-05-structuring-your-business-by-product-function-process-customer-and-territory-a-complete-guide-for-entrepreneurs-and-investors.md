@@ -2,7 +2,7 @@
 layout: post
 title: 'Structuring Your Business by Product, Function, Process, Customer, and Territory:
   A Complete Guide for Entrepreneurs and Investors'
-date: '2025-05-05T19:50:42'
+date: '2025-05-05T11:50:42'
 categories:
 - business
 - management

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frameworks, Playbooks, and Strategic Alignment for High-Performance Organizations
-date: '2025-05-06T14:22:07'
+date: '2025-05-06T06:22:07'
 categories:
 - business
 - strategy

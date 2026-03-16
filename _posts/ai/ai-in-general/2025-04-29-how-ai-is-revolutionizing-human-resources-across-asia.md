@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How AI is Revolutionizing Human Resources Across Asia
-date: '2025-04-29T10:02:39'
+date: '2025-04-29T02:02:39'
 categories:
 - ai
 - ai-in-general

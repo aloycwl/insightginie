@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 ChatGPT Prompts To Write Your Business Plan Like a Pro
-date: '2026-03-15T20:00:33'
+date: '2026-03-15T12:00:33'
 categories:
 - business
 - business-plan

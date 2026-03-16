@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering CMMI Generic Goals and Practices: How to Institutionalize Effective
   Processes for Business Success'
-date: '2025-07-01T17:47:48'
+date: '2025-07-01T09:47:48'
 categories:
 - business
 - operations

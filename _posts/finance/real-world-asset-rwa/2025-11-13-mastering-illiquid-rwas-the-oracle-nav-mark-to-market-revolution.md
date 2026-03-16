@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Illiquid RWAs: The Oracle NAV &#038; Mark-to-Market Revolution'
-date: '2025-11-13T10:55:15'
+date: '2025-11-13T02:55:15'
 categories:
 - finance
 - real-world-asset-rwa

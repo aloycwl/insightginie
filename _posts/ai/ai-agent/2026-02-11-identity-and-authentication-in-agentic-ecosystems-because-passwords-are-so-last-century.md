@@ -2,7 +2,7 @@
 layout: post
 title: 'Identity and Authentication in Agentic Ecosystems: Because Passwords Are So
   Last Century'
-date: '2026-02-11T12:18:36'
+date: '2026-02-11T04:18:36'
 categories:
 - ai
 - ai-agent

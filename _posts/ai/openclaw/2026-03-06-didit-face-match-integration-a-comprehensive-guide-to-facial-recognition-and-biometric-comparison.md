@@ -2,7 +2,7 @@
 layout: post
 title: 'Didit Face Match Integration: A Comprehensive Guide to Facial Recognition
   and Biometric Comparison'
-date: '2026-03-06T16:17:51'
+date: '2026-03-06T08:17:51'
 categories:
 - ai
 - openclaw

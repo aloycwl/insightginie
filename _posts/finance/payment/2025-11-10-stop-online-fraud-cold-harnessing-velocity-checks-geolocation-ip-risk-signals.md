@@ -2,7 +2,7 @@
 layout: post
 title: 'Stop Online Fraud Cold: Harnessing Velocity Checks, Geolocation &#038; IP
   Risk Signals'
-date: '2025-11-10T09:39:21'
+date: '2025-11-10T01:39:21'
 categories:
 - finance
 - payment

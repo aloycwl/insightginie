@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bitnet.cpp: Revolutionizing Edge AI with Efficient Ternary LLM Inference'
-date: '2025-04-30T09:59:34'
+date: '2025-04-30T01:59:34'
 categories:
 - ai
 - ai-agent

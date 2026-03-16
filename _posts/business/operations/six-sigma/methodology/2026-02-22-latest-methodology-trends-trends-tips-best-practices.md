@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Methodology Trends: Trends, Tips &#038; Best Practices'
-date: '2026-02-22T02:57:39'
+date: '2026-02-21T18:57:39'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: 'Crafting a Winning Six Sigma Communication Plan: Strategies to Engage Stakeholders
   &amp; Drive Success'
-date: '2025-07-03T15:53:45'
+date: '2025-07-03T07:53:45'
 categories:
 - business
 - operations

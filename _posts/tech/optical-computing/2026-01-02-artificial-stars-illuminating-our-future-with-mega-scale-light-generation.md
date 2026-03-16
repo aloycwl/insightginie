@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Artificial Stars: Illuminating Our Future with Mega-Scale Light Generation'
-date: '2026-01-02T17:41:39'
+date: '2026-01-02T09:41:39'
 categories:
 - tech
 - optical-computing

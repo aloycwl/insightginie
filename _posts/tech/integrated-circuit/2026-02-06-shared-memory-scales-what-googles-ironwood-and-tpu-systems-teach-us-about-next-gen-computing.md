@@ -2,7 +2,7 @@
 layout: post
 title: "Shared Memory Scales: What Google\u2019s Ironwood and TPU Systems Teach Us\
   \ About Next-Gen Computing"
-date: '2026-02-06T12:38:24'
+date: '2026-02-06T04:38:24'
 categories:
 - tech
 - integrated-circuit

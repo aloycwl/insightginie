@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Bullish and Bearish Spinning Top Candles
-date: '2025-04-29T16:49:44'
+date: '2025-04-29T08:49:44'
 categories:
 - trading
 - candle

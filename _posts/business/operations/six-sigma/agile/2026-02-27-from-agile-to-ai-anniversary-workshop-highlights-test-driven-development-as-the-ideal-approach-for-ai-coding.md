@@ -2,7 +2,7 @@
 layout: post
 title: 'From Agile to AI: Anniversary Workshop Highlights Test-Driven Development
   as the Ideal Approach for AI Coding'
-date: '2026-02-27T14:01:10'
+date: '2026-02-27T06:01:10'
 categories:
 - business
 - operations

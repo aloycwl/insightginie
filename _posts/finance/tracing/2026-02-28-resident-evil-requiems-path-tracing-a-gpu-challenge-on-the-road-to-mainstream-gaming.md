@@ -2,7 +2,7 @@
 layout: post
 title: 'Resident Evil Requiem&#8217;s Path Tracing: A GPU Challenge on the Road to
   Mainstream Gaming'
-date: '2026-02-28T06:02:03'
+date: '2026-02-27T22:02:03'
 categories:
 - finance
 - tracing

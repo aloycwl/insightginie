@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lofy: Personal AI Life Management System for OpenClaw'
-date: '2026-03-14T07:45:54'
+date: '2026-03-13T23:45:54'
 categories:
 - ai
 - openclaw

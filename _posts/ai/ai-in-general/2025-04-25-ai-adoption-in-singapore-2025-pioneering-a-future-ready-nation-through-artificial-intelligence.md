@@ -2,7 +2,7 @@
 layout: post
 title: 'AI Adoption in Singapore 2025: Pioneering a Future-Ready Nation through Artificial
   Intelligence'
-date: '2025-04-25T16:50:50'
+date: '2025-04-25T08:50:50'
 categories:
 - ai
 - ai-in-general

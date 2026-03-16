@@ -2,7 +2,7 @@
 layout: post
 title: 'Decoding Banking Infrastructure: Core Banking, Payment Engines, and Adapters
   Explained'
-date: '2025-11-11T10:12:44'
+date: '2025-11-11T02:12:44'
 categories:
 - finance
 - payment

@@ -2,7 +2,7 @@
 layout: post
 title: 'Total Quality Management (TQM): Building a Culture of Excellence Across the
   Organization'
-date: '2025-05-02T14:46:52'
+date: '2025-05-02T06:46:52'
 categories:
 - business
 - management

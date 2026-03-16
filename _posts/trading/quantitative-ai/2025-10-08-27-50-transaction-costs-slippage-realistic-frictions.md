@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (27/50) Transaction costs, slippage &amp; realistic frictions
-date: '2025-10-08T22:53:42'
+date: '2025-10-08T14:53:42'
 categories:
 - trading
 - quantitative-ai

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navigating Market Corrections with the Double Top (Corrective) Pattern
-date: '2025-05-05T12:17:37'
+date: '2025-05-05T04:17:37'
 categories:
 - trading
 - pattern

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (14/50) Labeling for supervised learning in finance
-date: '2025-10-08T13:27:33'
+date: '2025-10-08T05:27:33'
 categories:
 - trading
 - quantitative-ai

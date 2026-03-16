@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Asia is Rapidly Advancing AI Infrastructure for a New Digital Era
-date: '2025-04-23T21:14:42'
+date: '2025-04-23T13:14:42'
 categories:
 - ai
 - ai-in-general

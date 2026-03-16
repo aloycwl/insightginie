@@ -2,7 +2,7 @@
 layout: post
 title: How to Trade the 3 Inside Up and 3 Inside Down Candlestick Patterns Like a
   Pro
-date: '2025-04-30T10:08:49'
+date: '2025-04-30T02:08:49'
 categories:
 - trading
 - candle

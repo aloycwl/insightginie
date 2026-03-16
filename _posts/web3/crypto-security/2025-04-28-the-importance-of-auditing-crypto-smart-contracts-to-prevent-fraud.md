@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Auditing Crypto Smart Contracts to Prevent Fraud
-date: '2025-04-28T21:27:28'
+date: '2025-04-28T13:27:28'
 categories:
 - web3
 - crypto-security

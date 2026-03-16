@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sun Tzu&#8217;s Art of War: 7 Timeless Strategies for Modern Sales Success'
-date: '2026-02-18T07:05:04'
+date: '2026-02-17T23:05:04'
 categories:
 - sales
 - art-of-war

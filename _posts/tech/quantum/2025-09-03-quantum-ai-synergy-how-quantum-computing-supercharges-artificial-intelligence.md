@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum-AI Synergy: How Quantum Computing Supercharges Artificial Intelligence'
-date: '2025-09-03T19:27:57'
+date: '2025-09-03T11:27:57'
 categories:
 - tech
 - quantum

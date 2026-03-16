@@ -2,7 +2,7 @@
 layout: post
 title: Haemorrhagic Pericardial Effusion After Intrapleural Fibrinolysis with Alteplase/Dornase
   Alfa
-date: '2025-07-03T13:15:35'
+date: '2025-07-03T05:15:35'
 categories:
 - health
 - bioscience

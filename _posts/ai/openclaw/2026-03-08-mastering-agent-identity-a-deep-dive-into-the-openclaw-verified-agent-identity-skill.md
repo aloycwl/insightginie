@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Agent Identity: A Deep Dive into the OpenClaw Verified-Agent-Identity
   Skill'
-date: '2026-03-08T10:00:22'
+date: '2026-03-08T02:00:22'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Climate Economics: Your Deep Dive into Carbon Pricing &#038; Emissions
   Trading'
-date: '2025-10-28T11:26:08'
+date: '2025-10-28T03:26:08'
 categories:
 - tech
 - energy

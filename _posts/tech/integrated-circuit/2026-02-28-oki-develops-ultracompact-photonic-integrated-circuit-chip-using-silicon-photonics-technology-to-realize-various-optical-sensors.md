@@ -2,7 +2,7 @@
 layout: post
 title: OKI Develops Ultracompact Photonic Integrated Circuit Chip Using Silicon Photonics
   Technology to Realize Various Optical Sensors
-date: '2026-02-28T16:31:23'
+date: '2026-02-28T08:31:23'
 categories:
 - tech
 - integrated-circuit

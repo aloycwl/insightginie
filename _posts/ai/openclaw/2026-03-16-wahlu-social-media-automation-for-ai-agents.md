@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wahlu: Social Media Automation for AI Agents'
-date: '2026-03-16T14:17:27'
+date: '2026-03-16T06:17:27'
 categories:
 - ai
 - openclaw

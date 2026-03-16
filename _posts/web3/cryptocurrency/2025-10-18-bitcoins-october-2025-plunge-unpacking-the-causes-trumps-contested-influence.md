@@ -2,7 +2,7 @@
 layout: post
 title: 'Bitcoin&#8217;s October 2025 Plunge: Unpacking the Causes &#038; Trump&#8217;s
   Contested Influence'
-date: '2025-10-18T23:20:33'
+date: '2025-10-18T15:20:33'
 categories:
 - web3
 - cryptocurrency

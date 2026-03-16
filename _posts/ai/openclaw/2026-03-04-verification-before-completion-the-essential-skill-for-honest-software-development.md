@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Verification Before Completion: The Essential Skill for Honest Software Development'
-date: '2026-03-04T22:21:52'
+date: '2026-03-04T14:21:52'
 categories:
 - ai
 - openclaw

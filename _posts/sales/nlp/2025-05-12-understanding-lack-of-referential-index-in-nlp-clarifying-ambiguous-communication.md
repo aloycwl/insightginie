@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Lack of Referential Index in NLP: Clarifying Ambiguous Communication'
-date: '2025-05-12T10:39:14'
+date: '2025-05-12T02:39:14'
 categories:
 - sales
 - nlp

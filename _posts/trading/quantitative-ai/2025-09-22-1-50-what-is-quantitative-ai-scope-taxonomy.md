@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(1/50) What is Quantitative AI? \u2014 Scope &amp; Taxonomy"
-date: '2025-09-22T13:21:54'
+date: '2025-09-22T05:21:54'
 categories:
 - trading
 - quantitative-ai

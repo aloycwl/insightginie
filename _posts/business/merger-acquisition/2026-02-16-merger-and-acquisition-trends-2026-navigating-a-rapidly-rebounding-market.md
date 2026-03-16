@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Merger and Acquisition Trends 2026: Navigating a Rapidly Rebounding Market'
-date: '2026-02-16T17:48:00'
+date: '2026-02-16T09:48:00'
 categories:
 - business
 - merger-acquisition

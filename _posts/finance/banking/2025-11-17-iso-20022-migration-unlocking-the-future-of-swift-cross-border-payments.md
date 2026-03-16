@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ISO 20022 Migration: Unlocking the Future of SWIFT &#038; Cross-Border Payments'
-date: '2025-11-17T15:45:00'
+date: '2025-11-17T07:45:00'
 categories:
 - finance
 - banking

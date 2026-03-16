@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Location Context: A Deep Dive into the OpenClaw Skill'
-date: '2026-03-16T18:45:56'
+date: '2026-03-16T10:45:56'
 categories:
 - ai
 - openclaw

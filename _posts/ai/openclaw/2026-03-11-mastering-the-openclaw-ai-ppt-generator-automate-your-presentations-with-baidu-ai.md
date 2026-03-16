@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the OpenClaw AI PPT Generator: Automate Your Presentations with
   Baidu AI'
-date: '2026-03-11T18:30:26'
+date: '2026-03-11T10:30:26'
 categories:
 - ai
 - openclaw

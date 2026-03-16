@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploring the Short Video Creator Skill on OpenClaw: A Complete Guide'
-date: '2026-03-08T15:46:18'
+date: '2026-03-08T07:46:18'
 categories:
 - ai
 - openclaw

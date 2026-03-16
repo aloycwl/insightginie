@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Atlassian AI Agents In Jira Test Investor Hopes For Workflow Adoption
-date: '2026-02-28T20:01:50'
+date: '2026-02-28T12:01:50'
 categories:
 - ai
 - ai-agent

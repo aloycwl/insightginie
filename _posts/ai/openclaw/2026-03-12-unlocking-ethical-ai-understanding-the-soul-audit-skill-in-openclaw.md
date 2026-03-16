@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Ethical AI: Understanding the Soul Audit Skill in OpenClaw'
-date: '2026-03-12T03:30:23'
+date: '2026-03-11T19:30:23'
 categories:
 - ai
 - openclaw

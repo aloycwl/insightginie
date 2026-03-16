@@ -3,7 +3,7 @@ layout: post
 title: "How \u6FB3\u5927\u5229\u4E9A\u5FC3\u7406\u5B66\uFF08Psychology\uFF09\u8BE6\
   \u89E3\uFF1A\u54EA\u4E9B\u5927\u5B66\u503C\u5F97\u8003\u8651\uFF1F is Transforming\
   \ Psychology"
-date: '2026-02-21T05:27:51'
+date: '2026-02-20T21:27:51'
 categories:
 - eclectic
 - psychology

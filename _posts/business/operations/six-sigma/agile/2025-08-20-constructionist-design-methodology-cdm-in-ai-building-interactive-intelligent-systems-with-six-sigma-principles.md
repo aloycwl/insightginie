@@ -2,7 +2,7 @@
 layout: post
 title: 'Constructionist Design Methodology (CDM) in AI: Building Interactive Intelligent
   Systems with Six Sigma Principles'
-date: '2025-08-20T11:24:05'
+date: '2025-08-20T03:24:05'
 categories:
 - business
 - operations

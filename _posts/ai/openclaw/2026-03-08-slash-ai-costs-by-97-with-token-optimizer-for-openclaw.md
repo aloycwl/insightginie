@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slash AI Costs by 97% with Token Optimizer for OpenClaw
-date: '2026-03-08T02:18:41'
+date: '2026-03-07T18:18:41'
 categories:
 - ai
 - openclaw

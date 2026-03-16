@@ -2,7 +2,7 @@
 layout: post
 title: 'Navigating the Global Maze: Data Residency &#038; Cross-Border Transfers in
   Payments'
-date: '2025-11-05T15:41:09'
+date: '2025-11-05T07:41:09'
 categories:
 - finance
 - payment

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'F3EA: The Tactical Intelligence Cycle That Drives Decisive Action'
-date: '2025-05-02T14:51:50'
+date: '2025-05-02T06:51:50'
 categories:
 - business
 - management

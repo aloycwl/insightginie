@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future of Branch Banking: Are Physical Locations Obsolete, or Just Evolving?'
-date: '2025-11-17T20:40:00'
+date: '2025-11-17T12:40:00'
 categories:
 - finance
 - banking

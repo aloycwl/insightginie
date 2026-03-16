@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Alpha: How Hedge Funds Master Multi-Asset Trading with Quant AI'
-date: '2025-10-20T12:19:19'
+date: '2025-10-20T04:19:19'
 categories:
 - trading
 - quantitative-ai

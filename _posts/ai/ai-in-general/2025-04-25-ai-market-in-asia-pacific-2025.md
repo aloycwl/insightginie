@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Market in Asia Pacific 2025
-date: '2025-04-25T19:30:05'
+date: '2025-04-25T11:30:05'
 categories:
 - ai
 - ai-in-general

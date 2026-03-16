@@ -2,7 +2,7 @@
 layout: post
 title: 'Building High-Performing Project Teams: Traits, Challenges, and the Path to
   Collaboration'
-date: '2025-07-01T16:36:57'
+date: '2025-07-01T08:36:57'
 categories:
 - business
 - operations

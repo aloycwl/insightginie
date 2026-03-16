@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Skill: builder-data'
-date: '2026-03-09T18:17:43'
+date: '2026-03-09T10:17:43'
 categories:
 - ai
 - openclaw

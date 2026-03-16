@@ -2,7 +2,7 @@
 layout: post
 title: 'From Application to Transaction: Demystifying the Card Issuing Process &#038;
   Issuer Processing Flows'
-date: '2025-11-05T15:34:53'
+date: '2025-11-05T07:34:53'
 categories:
 - finance
 - payment

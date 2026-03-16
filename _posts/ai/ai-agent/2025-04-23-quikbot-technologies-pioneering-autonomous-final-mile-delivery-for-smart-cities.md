@@ -2,7 +2,7 @@
 layout: post
 title: 'QuikBot Technologies: Pioneering Autonomous Final-Mile Delivery for Smart
   Cities'
-date: '2025-04-23T22:09:29'
+date: '2025-04-23T14:09:29'
 categories:
 - ai
 - ai-agent

@@ -2,7 +2,7 @@
 layout: post
 title: "Clinical vs Consumer-Grade Transdermal Optical Imaging: What\u2019s the Difference\
   \ and Why It Matters"
-date: '2026-02-10T14:13:30'
+date: '2026-02-10T06:13:30'
 categories:
 - health
 - rppg

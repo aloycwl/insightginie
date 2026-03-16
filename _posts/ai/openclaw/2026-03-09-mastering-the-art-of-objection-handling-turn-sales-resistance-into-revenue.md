@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the Art of Objection Handling: Turn Sales Resistance into Revenue'
-date: '2026-03-09T01:30:28'
+date: '2026-03-08T17:30:28'
 categories:
 - ai
 - openclaw

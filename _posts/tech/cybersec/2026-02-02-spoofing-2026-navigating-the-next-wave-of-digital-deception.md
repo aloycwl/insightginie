@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spoofing 2026: Navigating the Next Wave of Digital Deception'
-date: '2026-02-02T19:12:54'
+date: '2026-02-02T11:12:54'
 categories:
 - tech
 - cybersec

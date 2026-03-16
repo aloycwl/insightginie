@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unlocking the Future of Email Marketing in 2025
-date: '2025-05-06T21:53:59'
+date: '2025-05-06T13:53:59'
 categories:
 - ai
 - ai-tools

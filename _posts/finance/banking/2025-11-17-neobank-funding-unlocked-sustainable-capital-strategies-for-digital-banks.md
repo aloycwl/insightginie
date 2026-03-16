@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Neobank Funding Unlocked: Sustainable Capital Strategies for Digital Banks'
-date: '2025-11-17T19:55:00'
+date: '2025-11-17T11:55:00'
 categories:
 - finance
 - banking

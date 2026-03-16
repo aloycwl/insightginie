@@ -2,7 +2,7 @@
 layout: post
 title: "GhZAT11: Unlocking Plant Regeneration \u2013 The Genetic Key to Rapid Wound\
   \ Healing and Bud Growth"
-date: '2026-01-13T12:19:36'
+date: '2026-01-13T04:19:36'
 categories:
 - health
 - healthtech

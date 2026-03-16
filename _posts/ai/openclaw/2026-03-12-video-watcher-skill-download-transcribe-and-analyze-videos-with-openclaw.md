@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Video Watcher Skill: Download, Transcribe, and Analyze Videos with OpenClaw'
-date: '2026-03-12T14:15:51'
+date: '2026-03-12T06:15:51'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Alpha: How Machine Learning is Revolutionizing Next-Gen Quant Models'
-date: '2025-10-20T11:39:40'
+date: '2025-10-20T03:39:40'
 categories:
 - trading
 - quantitative-ai

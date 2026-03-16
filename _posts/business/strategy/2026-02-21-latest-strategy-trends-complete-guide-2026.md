@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Strategy Trends: Complete Guide 2026'
-date: '2026-02-21T04:27:36'
+date: '2026-02-20T20:27:36'
 categories:
 - business
 - strategy

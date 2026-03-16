@@ -2,7 +2,7 @@
 layout: post
 title: 'Master Your Home Theater: A Deep Dive into the OpenClaw Chromecast with Google
   TV Skill'
-date: '2026-03-16T15:00:32'
+date: '2026-03-16T07:00:32'
 categories:
 - ai
 - openclaw

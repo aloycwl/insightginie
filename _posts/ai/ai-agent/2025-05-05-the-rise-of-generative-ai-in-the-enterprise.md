@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Rise of Generative AI in the Enterprise
-date: '2025-05-05T09:56:50'
+date: '2025-05-05T01:56:50'
 categories:
 - ai
 - ai-agent

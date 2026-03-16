@@ -2,7 +2,7 @@
 layout: post
 title: 'Stellar Cannons &#038; Beyond: The Mind-Bending Reality of Weaponized LightGen
   &#038; Directed Energy'
-date: '2026-01-02T17:48:30'
+date: '2026-01-02T09:48:30'
 categories:
 - tech
 - optical-computing

@@ -2,7 +2,7 @@
 layout: post
 title: 'Automate Your Workflow: How the OpenClaw Scrask-Bot Skill Turns Screenshots
   into Tasks'
-date: '2026-03-16T03:30:37'
+date: '2026-03-15T19:30:37'
 categories:
 - ai
 - openclaw

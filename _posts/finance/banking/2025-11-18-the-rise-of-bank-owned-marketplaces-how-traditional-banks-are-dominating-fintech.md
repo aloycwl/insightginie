@@ -2,7 +2,7 @@
 layout: post
 title: 'The Rise of Bank-Owned Marketplaces: How Traditional Banks Are Dominating
   Fintech'
-date: '2025-11-18T18:30:00'
+date: '2025-11-18T10:30:00'
 categories:
 - finance
 - banking

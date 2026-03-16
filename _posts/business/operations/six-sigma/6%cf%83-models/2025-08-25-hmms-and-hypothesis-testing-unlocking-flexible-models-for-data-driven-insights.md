@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HMMs and Hypothesis Testing: Unlocking Flexible Models for Data-Driven Insights'
-date: '2025-08-25T09:52:37'
+date: '2025-08-25T01:52:37'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: 'Scaling Agentic Workflows vs Headcount Expansion: The Corporate Delusion We
   All Pretend to Believe'
-date: '2026-02-11T11:58:21'
+date: '2026-02-11T03:58:21'
 categories:
 - ai
 - ai-agent

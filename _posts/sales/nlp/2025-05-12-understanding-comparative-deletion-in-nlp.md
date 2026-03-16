@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Comparative Deletion in NLP
-date: '2025-05-12T10:40:29'
+date: '2025-05-12T02:40:29'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: 'Explaining OpenClaw&#8217;s Canary Skill: A Comprehensive Guide to Secret
   Leak Detection'
-date: '2026-03-13T09:47:10'
+date: '2026-03-13T01:47:10'
 categories:
 - ai
 - openclaw

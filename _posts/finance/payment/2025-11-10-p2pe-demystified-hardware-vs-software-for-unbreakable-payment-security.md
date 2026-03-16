@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'P2PE Demystified: Hardware vs. Software for Unbreakable Payment Security'
-date: '2025-11-10T09:27:43'
+date: '2025-11-10T01:27:43'
 categories:
 - finance
 - payment

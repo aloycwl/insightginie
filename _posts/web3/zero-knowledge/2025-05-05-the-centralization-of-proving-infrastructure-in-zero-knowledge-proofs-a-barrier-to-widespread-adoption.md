@@ -2,7 +2,7 @@
 layout: post
 title: 'The Centralization of Proving Infrastructure in Zero-Knowledge Proofs: A Barrier
   to Widespread Adoption'
-date: '2025-05-05T21:20:56'
+date: '2025-05-05T13:20:56'
 categories:
 - web3
 - zero-knowledge

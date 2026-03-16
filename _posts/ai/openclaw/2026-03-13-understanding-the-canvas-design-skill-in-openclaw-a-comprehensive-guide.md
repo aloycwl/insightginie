@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the Canvas Design Skill in OpenClaw: A Comprehensive Guide'
-date: '2026-03-13T17:45:51'
+date: '2026-03-13T09:45:51'
 categories:
 - ai
 - openclaw

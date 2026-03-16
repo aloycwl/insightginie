@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Ways to Make Strategy Resonate with Skeptical Leaders
-date: '2026-02-26T09:00:41'
+date: '2026-02-26T01:00:41'
 categories:
 - business
 - strategy

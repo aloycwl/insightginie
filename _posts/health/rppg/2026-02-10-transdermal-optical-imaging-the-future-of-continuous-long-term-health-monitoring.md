@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Transdermal Optical Imaging: The Future of Continuous, Long-Term Health Monitoring'
-date: '2026-02-10T14:12:31'
+date: '2026-02-10T06:12:31'
 categories:
 - health
 - rppg

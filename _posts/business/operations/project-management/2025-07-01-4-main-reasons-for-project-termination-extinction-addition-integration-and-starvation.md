@@ -2,7 +2,7 @@
 layout: post
 title: '4 Main Reasons for Project Termination: Extinction, Addition, Integration,
   and Starvation'
-date: '2025-07-01T17:02:10'
+date: '2025-07-01T09:02:10'
 categories:
 - business
 - operations

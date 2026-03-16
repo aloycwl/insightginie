@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Camino Places Skill: Flexible Geocoding and Place Lookup'
-date: '2026-03-09T01:19:26'
+date: '2026-03-08T17:19:26'
 categories:
 - ai
 - openclaw

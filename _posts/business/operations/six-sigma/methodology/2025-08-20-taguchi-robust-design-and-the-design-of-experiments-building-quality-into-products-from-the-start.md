@@ -2,7 +2,7 @@
 layout: post
 title: 'Taguchi, Robust Design, and the Design of Experiments: Building Quality into
   Products from the Start'
-date: '2025-08-20T15:19:02'
+date: '2025-08-20T07:19:02'
 categories:
 - business
 - operations

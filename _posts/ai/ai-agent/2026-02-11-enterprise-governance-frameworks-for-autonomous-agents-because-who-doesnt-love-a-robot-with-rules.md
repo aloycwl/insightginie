@@ -2,7 +2,7 @@
 layout: post
 title: "Enterprise Governance Frameworks for Autonomous Agents: Because Who Doesn\u2019\
   t Love a Robot with Rules?"
-date: '2026-02-11T12:00:56'
+date: '2026-02-11T04:00:56'
 categories:
 - ai
 - ai-agent

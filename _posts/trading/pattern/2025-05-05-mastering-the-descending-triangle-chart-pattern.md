@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering the Descending Triangle Chart Pattern
-date: '2025-05-05T12:46:07'
+date: '2025-05-05T04:46:07'
 categories:
 - trading
 - pattern

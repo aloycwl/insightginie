@@ -2,7 +2,7 @@
 layout: post
 title: 'rPPG-Powered Smart Mirrors: Revolutionizing Cardiovascular Crisis Detection
   in Bathrooms'
-date: '2025-05-03T14:41:24'
+date: '2025-05-03T06:41:24'
 categories:
 - health
 - rppg

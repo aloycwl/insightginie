@@ -2,7 +2,7 @@
 layout: post
 title: "Trump Meme Coin Surges as His \u2018Lame Dinner\u2019 Goes Viral: Hype, Humor,\
   \ and the Politics of Crypto"
-date: '2025-05-13T14:06:27'
+date: '2025-05-13T06:06:27'
 categories:
 - web3
 - cryptocurrency

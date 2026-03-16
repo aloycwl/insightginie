@@ -2,7 +2,7 @@
 layout: post
 title: 'Unveiling the Leidenfrost Effect: The Science Behind &#8216;Dancing&#8217;
   Water Drops &#038; Superheated Surfaces'
-date: '2025-12-06T22:25:13'
+date: '2025-12-06T14:25:13'
 categories:
 - eclectic
 - physics

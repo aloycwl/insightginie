@@ -2,7 +2,7 @@
 layout: post
 title: 'Kokology Quiz: What Your Adventure as a Warrior Reveals About Pride, Confidence,
   and Attraction'
-date: '2025-08-28T10:03:08'
+date: '2025-08-28T02:03:08'
 categories:
 - sales
 - kokology

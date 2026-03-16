@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the DISC Framework: A Strategic Approach to Business Clarity and
   Decision-Making'
-date: '2025-05-02T18:53:51'
+date: '2025-05-02T10:53:51'
 categories:
 - business
 - management

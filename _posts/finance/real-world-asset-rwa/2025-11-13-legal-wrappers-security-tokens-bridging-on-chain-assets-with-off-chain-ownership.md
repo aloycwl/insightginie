@@ -2,7 +2,7 @@
 layout: post
 title: 'Legal Wrappers &#038; Security Tokens: Bridging On-Chain Assets with Off-Chain
   Ownership'
-date: '2025-11-13T10:45:51'
+date: '2025-11-13T02:45:51'
 categories:
 - finance
 - real-world-asset-rwa

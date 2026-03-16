@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How \uACF5\uC9C1\uC724\uB9AC\uC2DC\uC2A4\uD15C is Transforming Indicators"
-date: '2026-02-24T10:27:35'
+date: '2026-02-24T02:27:35'
 categories:
 - trading
 - indicators

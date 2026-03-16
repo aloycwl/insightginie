@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ethereum Foundation Doubles Down on DeFi as ETH Faces Bearish Pressure
-date: '2026-02-25T22:30:57'
+date: '2026-02-25T14:30:57'
 categories:
 - web3
 - defi

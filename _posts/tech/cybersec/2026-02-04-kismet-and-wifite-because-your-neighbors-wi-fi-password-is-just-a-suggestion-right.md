@@ -2,7 +2,7 @@
 layout: post
 title: "Kismet and Wifite: Because Your Neighbor\u2019s Wi-Fi Password is Just a Suggestion,\
   \ Right?"
-date: '2026-02-04T14:58:01'
+date: '2026-02-04T06:58:01'
 categories:
 - tech
 - cybersec

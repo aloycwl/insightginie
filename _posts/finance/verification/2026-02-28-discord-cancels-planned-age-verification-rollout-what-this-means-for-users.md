@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discord Cancels Planned Age Verification Rollout: What This Means for Users'
-date: '2026-02-28T22:01:14'
+date: '2026-02-28T14:01:14'
 categories:
 - finance
 - verification

@@ -2,7 +2,7 @@
 layout: post
 title: 'Agentic AI Reaches Tipping Point: 100% of Enterprises Plan to Expand Adoption
   in 2026'
-date: '2026-02-18T08:17:35'
+date: '2026-02-18T00:17:35'
 categories:
 - ai
 - ai-agent

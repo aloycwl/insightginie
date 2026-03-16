@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Perfection, Optimization, and Skepticism in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:17:54'
+date: '2025-05-13T04:17:54'
 categories:
 - sales
 - nlp

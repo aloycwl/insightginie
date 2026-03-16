@@ -2,7 +2,7 @@
 layout: post
 title: 'Automating Software Development: A Deep Dive into the Jules API Skill for
   OpenClaw'
-date: '2026-03-15T12:00:25'
+date: '2026-03-15T04:00:25'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: "Kokology Quiz: On Second Thought \u2013 What Your Coffee Choice Reveals About\
   \ Your Personality"
-date: '2025-08-28T12:44:02'
+date: '2025-08-28T04:44:02'
 categories:
 - sales
 - kokology

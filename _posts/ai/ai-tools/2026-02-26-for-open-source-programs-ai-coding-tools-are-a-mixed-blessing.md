@@ -1,7 +1,7 @@
 ---
 layout: post
 title: For Open-Source Programs, AI Coding Tools Are a Mixed Blessing
-date: '2026-02-26T02:03:09'
+date: '2026-02-25T18:03:09'
 categories:
 - ai
 - ai-tools

@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding CMMI Continuous Representation: From Incomplete to Optimized
   Excellence'
-date: '2025-07-01T17:46:31'
+date: '2025-07-01T09:46:31'
 categories:
 - business
 - operations

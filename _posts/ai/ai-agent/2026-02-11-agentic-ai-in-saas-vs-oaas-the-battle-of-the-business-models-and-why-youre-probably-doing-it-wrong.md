@@ -2,7 +2,7 @@
 layout: post
 title: "Agentic AI in SaaS vs OaaS: The Battle of the Business Models (And Why You\u2019\
   re Probably Doing It Wrong)"
-date: '2026-02-11T11:59:54'
+date: '2026-02-11T03:59:54'
 categories:
 - ai
 - ai-agent

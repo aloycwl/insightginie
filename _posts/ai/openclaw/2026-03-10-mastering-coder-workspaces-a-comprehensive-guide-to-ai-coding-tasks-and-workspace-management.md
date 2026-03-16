@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Coder Workspaces: A Comprehensive Guide to AI Coding Tasks and Workspace
   Management'
-date: '2026-03-10T19:16:31'
+date: '2026-03-10T11:16:31'
 categories:
 - ai
 - openclaw

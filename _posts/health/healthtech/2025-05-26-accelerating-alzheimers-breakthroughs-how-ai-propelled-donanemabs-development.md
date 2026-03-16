@@ -2,7 +2,7 @@
 layout: post
 title: "Accelerating Alzheimer&#8217;s Breakthroughs: How AI Propelled Donanemab\u2019\
   s Development"
-date: '2025-05-26T09:20:08'
+date: '2025-05-26T01:20:08'
 categories:
 - health
 - healthtech

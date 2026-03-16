@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 Ways Generative AI Boosts Your Productivity
-date: '2025-04-21T20:27:47'
+date: '2025-04-21T12:27:47'
 categories:
 - ai
 - ai-agent

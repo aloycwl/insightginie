@@ -2,7 +2,7 @@
 layout: post
 title: 'Tokenizing Trust: On-Chain Accounting, Reporting &#038; Audits Paving the
   Way for Real-World Assets'
-date: '2025-11-13T10:49:22'
+date: '2025-11-13T02:49:22'
 categories:
 - finance
 - real-world-asset-rwa

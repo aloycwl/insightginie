@@ -2,7 +2,7 @@
 layout: post
 title: 'Trading the Harami Candlestick Pattern: A Strategic Guide to Bullish and Bearish
   Reversals'
-date: '2025-04-30T10:13:55'
+date: '2025-04-30T02:13:55'
 categories:
 - trading
 - candle

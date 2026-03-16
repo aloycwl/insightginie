@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future of Business Planning in 2026: Strategies for an Uncertain World'
-date: '2026-02-16T06:03:08'
+date: '2026-02-15T22:03:08'
 categories:
 - business
 - business-plan

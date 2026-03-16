@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding OpenClaw&#8217;s PPTX Skill: A Comprehensive Guide'
-date: '2026-03-13T15:46:13'
+date: '2026-03-13T07:46:13'
 categories:
 - ai
 - openclaw

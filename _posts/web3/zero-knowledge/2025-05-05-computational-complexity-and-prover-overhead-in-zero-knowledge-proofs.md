@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computational Complexity and Prover Overhead in Zero-Knowledge Proofs
-date: '2025-05-05T21:11:58'
+date: '2025-05-05T13:11:58'
 categories:
 - web3
 - zero-knowledge

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Recruitment Tools: Revolutionizing Hiring Processes for a Smarter Workforce'
-date: '2025-04-28T09:36:46'
+date: '2025-04-28T01:36:46'
 categories:
 - ai
 - ai-agent

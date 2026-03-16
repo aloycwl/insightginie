@@ -2,7 +2,7 @@
 layout: post
 title: 'Extreme Programming (XP): Agile&#8217;s Boldest Approach to Rapid, High-Quality
   Software Development'
-date: '2025-07-01T16:44:37'
+date: '2025-07-01T08:44:37'
 categories:
 - business
 - operations

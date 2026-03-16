@@ -2,7 +2,7 @@
 layout: post
 title: 'ARM vs. RISC-V vs. x86: Choosing the Right Chip Architecture for Your Project&#8217;s
   Success'
-date: '2025-10-22T14:25:48'
+date: '2025-10-22T06:25:48'
 categories:
 - tech
 - integrated-circuit

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Generative AI in Combatting Climate Change
-date: '2025-05-05T10:08:13'
+date: '2025-05-05T02:08:13'
 categories:
 - ai
 - ai-agent

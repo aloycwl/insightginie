@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BNPL Deep Dive: Risks, Merchant Economics &#038; The Looming Regulatory Wave'
-date: '2025-11-05T15:20:01'
+date: '2025-11-05T07:20:01'
 categories:
 - finance
 - payment

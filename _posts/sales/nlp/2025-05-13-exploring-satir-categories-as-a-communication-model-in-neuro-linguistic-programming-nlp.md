@@ -2,7 +2,7 @@
 layout: post
 title: Exploring Satir Categories as a Communication Model in Neuro-Linguistic Programming
   (NLP)
-date: '2025-05-13T12:27:41'
+date: '2025-05-13T04:27:41'
 categories:
 - sales
 - nlp

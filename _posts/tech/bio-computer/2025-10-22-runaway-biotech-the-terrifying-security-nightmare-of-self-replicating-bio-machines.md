@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Runaway Biotech: The Terrifying Security Nightmare of Self-Replicating Bio-Machines'
-date: '2025-10-22T13:26:59'
+date: '2025-10-22T05:26:59'
 categories:
 - tech
 - bio-computer

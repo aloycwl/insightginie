@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Electrons: How Light is Revolutionizing the Future of Computing'
-date: '2026-01-01T12:10:38'
+date: '2026-01-01T04:10:38'
 categories:
 - tech
 - optical-computing

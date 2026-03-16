@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding OpenClaw\u2019s Merge Check Skill: Predicting GitHub PR Mergeability"
-date: '2026-03-08T06:46:19'
+date: '2026-03-07T22:46:19'
 categories:
 - ai
 - openclaw

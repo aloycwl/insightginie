@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Behavioral Forecasting AI: Anticipating Human Actions in a Data-Driven World'
-date: '2025-04-25T12:10:00'
+date: '2025-04-25T04:10:00'
 categories:
 - ai
 - machine-learning

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Silicon Sunset: Why DNA Computers Are the Future of Processing'
-date: '2025-10-21T09:49:59'
+date: '2025-10-21T01:49:59'
 categories:
 - tech
 - bio-computer

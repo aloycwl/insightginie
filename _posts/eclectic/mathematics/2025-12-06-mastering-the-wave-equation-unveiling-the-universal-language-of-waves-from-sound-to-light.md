@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the Wave Equation: Unveiling the Universal Language of Waves from
   Sound to Light'
-date: '2025-12-06T23:35:56'
+date: '2025-12-06T15:35:56'
 categories:
 - eclectic
 - mathematics

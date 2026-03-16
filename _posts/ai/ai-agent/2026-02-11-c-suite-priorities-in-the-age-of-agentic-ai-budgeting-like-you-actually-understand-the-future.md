@@ -2,7 +2,7 @@
 layout: post
 title: 'C-Suite Priorities in the Age of Agentic AI: Budgeting Like You Actually Understand
   the Future'
-date: '2026-02-11T12:04:03'
+date: '2026-02-11T04:04:03'
 categories:
 - ai
 - ai-agent

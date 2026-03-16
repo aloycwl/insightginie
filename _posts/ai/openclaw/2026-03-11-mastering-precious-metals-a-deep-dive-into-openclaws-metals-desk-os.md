@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Precious Metals: A Deep Dive into OpenClaw&#8217;s Metals Desk OS'
-date: '2026-03-11T16:30:27'
+date: '2026-03-11T08:30:27'
 categories:
 - ai
 - openclaw

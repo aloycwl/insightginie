@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is the OpenClaw Desktop Sandbox? A Complete Guide
-date: '2026-03-12T12:00:35'
+date: '2026-03-12T04:00:35'
 categories:
 - ai
 - openclaw

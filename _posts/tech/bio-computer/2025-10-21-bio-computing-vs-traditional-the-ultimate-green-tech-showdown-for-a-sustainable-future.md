@@ -2,7 +2,7 @@
 layout: post
 title: 'Bio-Computing vs. Traditional: The Ultimate Green Tech Showdown for a Sustainable
   Future'
-date: '2025-10-21T21:42:50'
+date: '2025-10-21T13:42:50'
 categories:
 - tech
 - bio-computer

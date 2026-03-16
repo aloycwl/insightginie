@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding EvidenceOps: Forensic Media Triage with OpenClaw'
-date: '2026-03-11T08:00:20'
+date: '2026-03-11T00:00:20'
 categories:
 - ai
 - openclaw

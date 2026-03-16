@@ -2,7 +2,7 @@
 layout: post
 title: 'Static vs. Dynamic QR Codes: The Ultimate Merchant&#8217;s Guide to Seamless
   Payments &#038; Higher Sales'
-date: '2025-11-05T15:21:54'
+date: '2025-11-05T07:21:54'
 categories:
 - finance
 - payment

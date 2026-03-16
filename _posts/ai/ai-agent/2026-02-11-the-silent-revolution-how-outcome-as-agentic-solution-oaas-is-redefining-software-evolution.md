@@ -2,7 +2,7 @@
 layout: post
 title: 'The Silent Revolution: How Outcome-as-Agentic-Solution (OaAS) is Redefining
   Software Evolution'
-date: '2026-02-11T11:53:20'
+date: '2026-02-11T03:53:20'
 categories:
 - ai
 - ai-agent

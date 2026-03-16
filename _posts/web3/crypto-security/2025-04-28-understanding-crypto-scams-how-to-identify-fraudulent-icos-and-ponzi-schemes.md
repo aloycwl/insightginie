@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Crypto Scams: How to Identify Fraudulent ICOs and Ponzi Schemes'
-date: '2025-04-28T20:53:48'
+date: '2025-04-28T12:53:48'
 categories:
 - web3
 - crypto-security

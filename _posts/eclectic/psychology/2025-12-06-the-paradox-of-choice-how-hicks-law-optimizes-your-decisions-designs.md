@@ -2,7 +2,7 @@
 layout: post
 title: 'The Paradox of Choice: How Hick&#8217;s Law Optimizes Your Decisions &#038;
   Designs'
-date: '2025-12-06T14:09:31'
+date: '2025-12-06T06:09:31'
 categories:
 - eclectic
 - psychology

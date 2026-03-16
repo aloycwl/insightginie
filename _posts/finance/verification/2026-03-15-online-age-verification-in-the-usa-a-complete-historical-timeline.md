@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Online Age Verification in the USA: A Complete Historical Timeline'
-date: '2026-03-15T09:30:49'
+date: '2026-03-15T01:30:49'
 categories:
 - finance
 - verification

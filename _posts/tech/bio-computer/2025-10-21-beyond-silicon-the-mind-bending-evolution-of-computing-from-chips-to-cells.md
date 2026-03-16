@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Silicon: The Mind-Bending Evolution of Computing From Chips to Cells'
-date: '2025-10-21T09:54:15'
+date: '2025-10-21T01:54:15'
 categories:
 - tech
 - bio-computer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Safety and Risk Insights: Understanding MORT Structure in Six Sigma'
-date: '2025-08-25T11:23:26'
+date: '2025-08-25T03:23:26'
 categories:
 - business
 - operations

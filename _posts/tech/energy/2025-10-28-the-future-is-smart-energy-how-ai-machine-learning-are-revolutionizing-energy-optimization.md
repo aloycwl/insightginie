@@ -2,7 +2,7 @@
 layout: post
 title: 'The Future is Smart Energy: How AI &#038; Machine Learning Are Revolutionizing
   Energy Optimization'
-date: '2025-10-28T12:04:20'
+date: '2025-10-28T04:04:20'
 categories:
 - tech
 - energy

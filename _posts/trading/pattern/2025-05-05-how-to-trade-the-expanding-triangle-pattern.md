@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade the Expanding Triangle Pattern
-date: '2025-05-05T12:31:23'
+date: '2025-05-05T04:31:23'
 categories:
 - trading
 - pattern

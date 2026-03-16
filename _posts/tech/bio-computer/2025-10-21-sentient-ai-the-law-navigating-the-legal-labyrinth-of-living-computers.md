@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sentient AI &#038; The Law: Navigating the Legal Labyrinth of Living Computers'
-date: '2025-10-21T21:41:54'
+date: '2025-10-21T13:41:54'
 categories:
 - tech
 - bio-computer

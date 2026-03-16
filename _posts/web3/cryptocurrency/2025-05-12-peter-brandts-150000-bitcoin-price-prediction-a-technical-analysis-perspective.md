@@ -2,7 +2,7 @@
 layout: post
 title: 'Peter Brandt&#8217;s $150,000 Bitcoin Price Prediction: A Technical Analysis
   Perspective'
-date: '2025-05-12T10:46:15'
+date: '2025-05-12T02:46:15'
 categories:
 - web3
 - cryptocurrency

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Navier-Stokes Equation: Unlocking the Secrets of Fluid Motion'
-date: '2025-12-06T22:26:16'
+date: '2025-12-06T14:26:16'
 categories:
 - eclectic
 - physics

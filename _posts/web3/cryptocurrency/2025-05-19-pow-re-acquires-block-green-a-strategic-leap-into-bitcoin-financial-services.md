@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POW.RE Acquires Block Green: A Strategic Leap into Bitcoin Financial Services'
-date: '2025-05-19T09:49:27'
+date: '2025-05-19T01:49:27'
 categories:
 - web3
 - cryptocurrency

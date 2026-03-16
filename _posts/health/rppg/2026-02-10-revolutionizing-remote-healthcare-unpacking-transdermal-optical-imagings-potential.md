@@ -2,7 +2,7 @@
 layout: post
 title: 'Revolutionizing Remote Healthcare: Unpacking Transdermal Optical Imaging&#8217;s
   Potential'
-date: '2026-02-10T13:46:13'
+date: '2026-02-10T05:46:13'
 categories:
 - health
 - rppg

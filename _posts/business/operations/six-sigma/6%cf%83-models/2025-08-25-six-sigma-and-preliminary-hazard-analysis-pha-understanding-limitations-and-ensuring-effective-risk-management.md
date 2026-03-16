@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma and Preliminary Hazard Analysis (PHA): Understanding Limitations
   and Ensuring Effective Risk Management'
-date: '2025-08-25T11:09:42'
+date: '2025-08-25T03:09:42'
 categories:
 - business
 - operations

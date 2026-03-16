@@ -2,7 +2,7 @@
 layout: post
 title: 'Organizational Agility and Lean Operations: How Modern Businesses Thrive Through
   Speed and Efficiency'
-date: '2025-05-05T19:29:49'
+date: '2025-05-05T11:29:49'
 categories:
 - business
 - management

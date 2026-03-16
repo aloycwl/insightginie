@@ -2,7 +2,7 @@
 layout: post
 title: The Interconnection of Mind, Emotion, Body, and Role in Neuro-Linguistic Programming
   (NLP)
-date: '2025-05-13T12:41:18'
+date: '2025-05-13T04:41:18'
 categories:
 - sales
 - nlp

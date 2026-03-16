@@ -2,7 +2,7 @@
 layout: post
 title: How to Trade Bullish and Bearish Separating Line Candlestick Patterns with
   Precision
-date: '2025-04-30T09:30:57'
+date: '2025-04-30T01:30:57'
 categories:
 - trading
 - candle

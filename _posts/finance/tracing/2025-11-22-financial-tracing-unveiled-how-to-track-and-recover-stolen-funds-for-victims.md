@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Financial Tracing Unveiled: How to Track and Recover Stolen Funds for Victims'
-date: '2025-11-22T12:04:01'
+date: '2025-11-22T04:04:01'
 categories:
 - finance
 - tracing

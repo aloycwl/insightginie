@@ -2,7 +2,7 @@
 layout: post
 title: 'The Fallacy Fallacy: Why Bad Arguments Can Still Be True (The Ultimate Logic
   Trap)'
-date: '2025-12-07T22:35:37'
+date: '2025-12-07T14:35:37'
 categories:
 - eclectic
 - fallacies

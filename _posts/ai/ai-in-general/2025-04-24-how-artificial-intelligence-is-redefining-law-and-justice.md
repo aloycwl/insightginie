@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Artificial Intelligence is Redefining Law and Justice
-date: '2025-04-24T08:00:09'
+date: '2025-04-24T00:00:09'
 categories:
 - ai
 - ai-in-general

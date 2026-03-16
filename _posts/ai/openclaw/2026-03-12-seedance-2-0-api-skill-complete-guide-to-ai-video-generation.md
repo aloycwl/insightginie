@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seedance 2.0 API Skill: Complete Guide to AI Video Generation'
-date: '2026-03-12T03:16:55'
+date: '2026-03-11T19:16:55'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the Tuckman Model: How Teams Evolve from Formation to High Performance'
-date: '2025-07-01T16:38:16'
+date: '2025-07-01T08:38:16'
 categories:
 - business
 - operations

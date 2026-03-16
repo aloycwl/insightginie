@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Slash Your AI Token Costs: A Deep Dive into OpenClaw\u2019s Claw Compactor"
-date: '2026-03-11T05:00:23'
+date: '2026-03-10T21:00:23'
 categories:
 - ai
 - openclaw

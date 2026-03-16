@@ -2,7 +2,7 @@
 layout: post
 title: 'The Future of Silicon: How Chiplets &#038; Heterogeneous Computing Are Revolutionizing
   SoC Design'
-date: '2025-10-22T14:22:12'
+date: '2025-10-22T06:22:12'
 categories:
 - tech
 - integrated-circuit

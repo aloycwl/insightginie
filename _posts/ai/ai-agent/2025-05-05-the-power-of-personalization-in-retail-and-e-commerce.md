@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of Personalization in Retail and E-Commerce
-date: '2025-05-05T10:01:49'
+date: '2025-05-05T02:01:49'
 categories:
 - ai
 - ai-agent

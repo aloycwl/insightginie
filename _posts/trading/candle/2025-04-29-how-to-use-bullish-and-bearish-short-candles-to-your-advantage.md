@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use Bullish and Bearish Short Candles to Your Advantage
-date: '2025-04-29T16:41:20'
+date: '2025-04-29T08:41:20'
 categories:
 - trading
 - candle

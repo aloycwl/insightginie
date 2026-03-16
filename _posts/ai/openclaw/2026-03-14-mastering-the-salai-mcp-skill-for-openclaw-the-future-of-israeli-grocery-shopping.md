@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the Salai MCP Skill for OpenClaw: The Future of Israeli Grocery
   Shopping'
-date: '2026-03-14T17:30:30'
+date: '2026-03-14T09:30:30'
 categories:
 - ai
 - openclaw

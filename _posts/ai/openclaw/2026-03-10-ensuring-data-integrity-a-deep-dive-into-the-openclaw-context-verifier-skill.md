@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ensuring Data Integrity: A Deep Dive into the OpenClaw context-verifier Skill'
-date: '2026-03-10T14:00:20'
+date: '2026-03-10T06:00:20'
 categories:
 - ai
 - openclaw

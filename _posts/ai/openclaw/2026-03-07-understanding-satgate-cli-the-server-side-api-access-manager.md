@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding SatGate CLI: The Server-Side API Access Manager'
-date: '2026-03-07T07:17:19'
+date: '2026-03-06T23:17:19'
 categories:
 - ai
 - openclaw

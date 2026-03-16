@@ -2,7 +2,7 @@
 layout: post
 title: 'Acceptance Criteria-Driven Development (ACDD): Boost Quality and Lean Efficiency
   in Six Sigma Agile Projects'
-date: '2025-08-20T11:16:10'
+date: '2025-08-20T03:16:10'
 categories:
 - business
 - operations

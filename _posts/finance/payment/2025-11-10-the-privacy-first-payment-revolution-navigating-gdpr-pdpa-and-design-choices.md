@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Privacy-First Payment Revolution: Navigating GDPR, PDPA, and Design Choices'
-date: '2025-11-10T09:26:28'
+date: '2025-11-10T01:26:28'
 categories:
 - finance
 - payment

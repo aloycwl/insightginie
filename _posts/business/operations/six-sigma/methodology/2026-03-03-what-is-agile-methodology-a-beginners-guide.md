@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Agile Methodology? A Beginner&#8217;s Guide
-date: '2026-03-03T17:31:54'
+date: '2026-03-03T09:31:54'
 categories:
 - business
 - operations

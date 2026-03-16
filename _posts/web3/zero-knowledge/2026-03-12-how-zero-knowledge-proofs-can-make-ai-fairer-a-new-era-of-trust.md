@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How Zero-Knowledge Proofs Can Make AI Fairer: A New Era of Trust'
-date: '2026-03-12T15:30:33'
+date: '2026-03-12T07:30:33'
 categories:
 - web3
 - zero-knowledge

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering MORT Procedures in Six Sigma: Step-by-Step Guide to Risk Analysis
   and Safety Management'
-date: '2025-08-25T11:24:52'
+date: '2025-08-25T03:24:52'
 categories:
 - business
 - operations

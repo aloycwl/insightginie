@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Nominalisations in Neuro-Linguistic Programming (NLP)
-date: '2025-05-12T11:03:18'
+date: '2025-05-12T03:03:18'
 categories:
 - sales
 - nlp

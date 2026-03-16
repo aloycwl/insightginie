@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill: Model Switcher &#8211; Automatic AI Model Selection'
-date: '2026-03-07T00:18:43'
+date: '2026-03-06T16:18:43'
 categories:
 - ai
 - openclaw

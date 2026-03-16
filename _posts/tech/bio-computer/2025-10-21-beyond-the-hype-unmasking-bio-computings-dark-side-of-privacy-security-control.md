@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Hype: Unmasking Bio-Computing&#8217;s Dark Side of Privacy, Security
   &#038; Control'
-date: '2025-10-21T20:52:56'
+date: '2025-10-21T12:52:56'
 categories:
 - tech
 - bio-computer

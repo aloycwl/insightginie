@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Hidden Influence: Unmasking the Ideomotor Phenomenon &#038; Florida Effect'
-date: '2025-12-06T14:09:51'
+date: '2025-12-06T06:09:51'
 categories:
 - eclectic
 - psychology

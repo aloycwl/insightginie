@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (25/50) Model regularization, ensembling &amp; calibration
-date: '2025-10-08T22:45:07'
+date: '2025-10-08T14:45:07'
 categories:
 - trading
 - quantitative-ai

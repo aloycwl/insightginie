@@ -2,7 +2,7 @@
 layout: post
 title: Could Bio-Computers Be Conscious? Navigating the Ethical Minefield of Life-Based
   AI
-date: '2025-10-21T20:53:12'
+date: '2025-10-21T12:53:12'
 categories:
 - tech
 - bio-computer

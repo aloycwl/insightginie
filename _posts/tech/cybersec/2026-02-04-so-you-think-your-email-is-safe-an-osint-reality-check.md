@@ -1,7 +1,7 @@
 ---
 layout: post
 title: So, You Think Your Email is Safe? An OSINT Reality Check
-date: '2026-02-04T14:15:49'
+date: '2026-02-04T06:15:49'
 categories:
 - tech
 - cybersec

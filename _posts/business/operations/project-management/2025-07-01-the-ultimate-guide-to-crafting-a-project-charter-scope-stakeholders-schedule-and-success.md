@@ -2,7 +2,7 @@
 layout: post
 title: 'The Ultimate Guide to Crafting a Project Charter: Scope, Stakeholders, Schedule,
   and Success'
-date: '2025-07-01T16:18:17'
+date: '2025-07-01T08:18:17'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: "Satellite &#038; Spaceborne Processors: Why Your Laptop\u2019s CPU Would Last\
   \ 5 Minutes in Orbit (And Other PIM Chip Realities)"
-date: '2026-02-06T14:01:34'
+date: '2026-02-06T06:01:34'
 categories:
 - tech
 - integrated-circuit

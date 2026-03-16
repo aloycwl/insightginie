@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'China, Trump, and Bitcoin: Navigating the Geopolitical and Economic Crossroads'
-date: '2025-05-12T10:48:47'
+date: '2025-05-12T02:48:47'
 categories:
 - web3
 - cryptocurrency

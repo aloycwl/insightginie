@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Sui Move Test Coverage: An In-Depth Guide to the OpenClaw Sui-Coverage
   Skill'
-date: '2026-03-10T01:34:17'
+date: '2026-03-09T17:34:17'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'The &#8216;i&#8217; in Imagination: Demystifying Imaginary Numbers &#038;
   Their Real-World Impact'
-date: '2025-12-06T23:00:11'
+date: '2025-12-06T15:00:11'
 categories:
 - eclectic
 - mathematics

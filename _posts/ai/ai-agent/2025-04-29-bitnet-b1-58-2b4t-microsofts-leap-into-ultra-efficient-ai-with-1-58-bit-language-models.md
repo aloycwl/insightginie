@@ -2,7 +2,7 @@
 layout: post
 title: 'BitNet b1.58 2B4T: Microsoft&#8217;s Leap into Ultra-Efficient AI with 1.58-Bit
   Language Models'
-date: '2025-04-29T15:53:52'
+date: '2025-04-29T07:53:52'
 categories:
 - ai
 - ai-agent

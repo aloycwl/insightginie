@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Latest Optical Computing Trends is Transforming Optical Computing
-date: '2026-02-20T18:57:38'
+date: '2026-02-20T10:57:38'
 categories:
 - tech
 - optical-computing

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(46/50) Advanced topics I \u2014 meta-learning &amp; transfer learning"
-date: '2025-10-18T23:12:06'
+date: '2025-10-18T15:12:06'
 categories:
 - trading
 - quantitative-ai

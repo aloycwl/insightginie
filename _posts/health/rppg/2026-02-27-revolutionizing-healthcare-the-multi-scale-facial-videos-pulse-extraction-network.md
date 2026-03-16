@@ -2,7 +2,7 @@
 layout: post
 title: 'Revolutionizing Healthcare: The Multi-scale Facial Videos Pulse Extraction
   Network'
-date: '2026-02-27T18:31:46'
+date: '2026-02-27T10:31:46'
 categories:
 - health
 - rppg

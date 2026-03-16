@@ -2,7 +2,7 @@
 layout: post
 title: 'EvoAgentX Workflow Integration: A Comprehensive Guide to Self-Evolving Agentic
   Systems'
-date: '2026-03-06T06:21:06'
+date: '2026-03-05T22:21:06'
 categories:
 - ai
 - openclaw

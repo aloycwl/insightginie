@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Silicon: Why Scaling Bio-Computers Could Unleash Unintended Biological
   Reactions'
-date: '2025-10-22T13:29:19'
+date: '2025-10-22T05:29:19'
 categories:
 - tech
 - bio-computer

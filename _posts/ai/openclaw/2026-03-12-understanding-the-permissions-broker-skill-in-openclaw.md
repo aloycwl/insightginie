@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Permissions Broker Skill in OpenClaw
-date: '2026-03-12T06:16:04'
+date: '2026-03-11T22:16:04'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'Seamless Transactions: Unlocking the Power of QR Payment Interoperability
   &#038; National Schemes'
-date: '2025-11-11T09:09:37'
+date: '2025-11-11T01:09:37'
 categories:
 - finance
 - payment

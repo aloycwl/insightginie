@@ -2,7 +2,7 @@
 layout: post
 title: 'Follow the Money: How Foreign Direct Investment Shapes Long-Term Currency
   Trends'
-date: '2025-12-15T12:25:17'
+date: '2025-12-15T04:25:17'
 categories:
 - trading
 - fundamental

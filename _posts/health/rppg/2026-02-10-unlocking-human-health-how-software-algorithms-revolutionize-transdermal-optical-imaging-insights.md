@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Human Health: How Software Algorithms Revolutionize Transdermal
   Optical Imaging Insights'
-date: '2026-02-10T14:02:43'
+date: '2026-02-10T06:02:43'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (22/50) RNNs, LSTM &amp; GRU for financial forecasting
-date: '2025-10-08T22:24:59'
+date: '2025-10-08T14:24:59'
 categories:
 - trading
 - quantitative-ai

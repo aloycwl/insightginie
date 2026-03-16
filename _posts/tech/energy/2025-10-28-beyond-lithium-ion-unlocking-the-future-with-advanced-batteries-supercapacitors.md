@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Lithium-Ion: Unlocking the Future with Advanced Batteries &#038; Supercapacitors'
-date: '2025-10-28T12:03:00'
+date: '2025-10-28T04:03:00'
 categories:
 - tech
 - energy

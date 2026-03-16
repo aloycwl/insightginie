@@ -2,7 +2,7 @@
 layout: post
 title: 'Optimist vs. Pessimist in NLP: Understanding Perception Filters for Effective
   Change'
-date: '2025-05-13T11:54:09'
+date: '2025-05-13T03:54:09'
 categories:
 - sales
 - nlp

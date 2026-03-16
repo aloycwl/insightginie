@@ -2,7 +2,7 @@
 layout: post
 title: "The Rapid Rise of AI Agents: Doubling Automation Capabilities Every 7 Months\
   \ Toward the \u20181h\u2019 Milestone"
-date: '2025-04-29T10:35:05'
+date: '2025-04-29T02:35:05'
 categories:
 - ai
 - ai-agent

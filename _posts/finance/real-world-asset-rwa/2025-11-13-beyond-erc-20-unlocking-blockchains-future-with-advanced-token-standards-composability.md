@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond ERC-20: Unlocking Blockchain&#8217;s Future with Advanced Token Standards
   &#038; Composability'
-date: '2025-11-13T10:46:52'
+date: '2025-11-13T02:46:52'
 categories:
 - finance
 - real-world-asset-rwa

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Knowledge: A Deep Dive into the Baidu Baike OpenClaw Skill'
-date: '2026-03-08T22:30:31'
+date: '2026-03-08T14:30:31'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: How to Trade Piercing Line and Dark Cloud Cover Candlestick Patterns Like a
   Pro
-date: '2025-04-30T09:23:06'
+date: '2025-04-30T01:23:06'
 categories:
 - trading
 - candle

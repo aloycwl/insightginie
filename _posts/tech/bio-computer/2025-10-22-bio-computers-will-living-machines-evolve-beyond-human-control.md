@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bio-Computers: Will Living Machines Evolve Beyond Human Control?'
-date: '2025-10-22T13:29:54'
+date: '2025-10-22T05:29:54'
 categories:
 - tech
 - bio-computer

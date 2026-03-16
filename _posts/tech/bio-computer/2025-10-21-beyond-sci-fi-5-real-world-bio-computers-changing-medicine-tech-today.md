@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Sci-Fi: 5 Real-World Bio-Computers Changing Medicine &#038; Tech Today'
-date: '2025-10-21T10:34:00'
+date: '2025-10-21T02:34:00'
 categories:
 - tech
 - bio-computer

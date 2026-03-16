@@ -2,7 +2,7 @@
 layout: post
 title: "The Ethical Hacker\u2019s Guide to TLS-Capable Intercepting HTTP Proxies (Because\
   \ Who Doesn\u2019t Love Eavesdropping Securely?)"
-date: '2026-02-04T15:17:55'
+date: '2026-02-04T07:17:55'
 categories:
 - tech
 - cybersec

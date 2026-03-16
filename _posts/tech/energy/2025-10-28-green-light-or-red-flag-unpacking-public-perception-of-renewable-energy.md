@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Green Light or Red Flag? Unpacking Public Perception of Renewable Energy
-date: '2025-10-28T11:31:45'
+date: '2025-10-28T03:31:45'
 categories:
 - tech
 - energy

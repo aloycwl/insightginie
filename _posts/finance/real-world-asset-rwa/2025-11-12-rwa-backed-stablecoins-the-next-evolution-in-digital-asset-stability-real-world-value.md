@@ -2,7 +2,7 @@
 layout: post
 title: 'RWA-Backed Stablecoins: The Next Evolution in Digital Asset Stability &#038;
   Real-World Value'
-date: '2025-11-12T11:01:55'
+date: '2025-11-12T03:01:55'
 categories:
 - finance
 - real-world-asset-rwa

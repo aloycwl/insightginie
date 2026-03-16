@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding OpenClaw&#8217;s UGC-Manual Skill: Custom Lip-sync Video Creation'
-date: '2026-03-16T15:45:29'
+date: '2026-03-16T07:45:29'
 categories:
 - ai
 - openclaw

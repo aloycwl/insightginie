@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bio-Computers: Unpacking the Ethical Dilemmas of Living Machines'
-date: '2025-10-21T20:52:38'
+date: '2025-10-21T12:52:38'
 categories:
 - tech
 - bio-computer

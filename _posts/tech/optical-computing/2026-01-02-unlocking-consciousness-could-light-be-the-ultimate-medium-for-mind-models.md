@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Consciousness: Could Light Be the Ultimate Medium for Mind Models?'
-date: '2026-01-02T17:40:50'
+date: '2026-01-02T09:40:50'
 categories:
 - tech
 - optical-computing

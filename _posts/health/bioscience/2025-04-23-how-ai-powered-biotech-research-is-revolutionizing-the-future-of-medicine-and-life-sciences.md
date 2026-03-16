@@ -2,7 +2,7 @@
 layout: post
 title: How AI-Powered Biotech Research is Revolutionizing the Future of Medicine and
   Life Sciences
-date: '2025-04-23T21:30:36'
+date: '2025-04-23T13:30:36'
 categories:
 - health
 - bioscience

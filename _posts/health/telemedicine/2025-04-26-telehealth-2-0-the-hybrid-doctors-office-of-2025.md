@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Telehealth 2.0: The Hybrid Doctor\u2019s Office of 2025"
-date: '2025-04-26T13:10:53'
+date: '2025-04-26T05:10:53'
 categories:
 - health
 - telemedicine

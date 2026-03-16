@@ -2,7 +2,7 @@
 layout: post
 title: 'UK Quantum Readiness: National Strategies and the Role of the Quantum Skills
   Taskforce'
-date: '2025-09-03T20:13:22'
+date: '2025-09-03T12:13:22'
 categories:
 - tech
 - quantum

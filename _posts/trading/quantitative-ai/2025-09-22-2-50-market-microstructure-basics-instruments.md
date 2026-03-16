@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (2/50) Market Microstructure Basics &amp; Instruments
-date: '2025-09-22T13:24:31'
+date: '2025-09-22T05:24:31'
 categories:
 - trading
 - quantitative-ai

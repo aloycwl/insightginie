@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma and Customer Classification: Understanding Promoters, Passives,
   and Detractors to Boost Business Success'
-date: '2025-07-03T15:57:06'
+date: '2025-07-03T07:57:06'
 categories:
 - business
 - operations

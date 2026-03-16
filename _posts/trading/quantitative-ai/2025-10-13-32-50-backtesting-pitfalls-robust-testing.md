@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (32/50) Backtesting pitfalls &amp; robust testing
-date: '2025-10-13T20:15:39'
+date: '2025-10-13T12:15:39'
 categories:
 - trading
 - quantitative-ai

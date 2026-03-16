@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Art of War Series: Energy'
-date: '2025-05-27T14:42:30'
+date: '2025-05-27T06:42:30'
 categories:
 - sales
 - art-of-war

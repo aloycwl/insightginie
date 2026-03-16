@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beat Decision Fatigue: Simplify Your Choices &#038; Boost Productivity'
-date: '2025-12-06T13:51:37'
+date: '2025-12-06T05:51:37'
 categories:
 - eclectic
 - psychology

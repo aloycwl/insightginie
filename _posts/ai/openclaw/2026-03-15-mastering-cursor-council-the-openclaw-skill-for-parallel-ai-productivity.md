@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Cursor Council: The OpenClaw Skill for Parallel AI Productivity'
-date: '2026-03-15T02:30:27'
+date: '2026-03-14T18:30:27'
 categories:
 - ai
 - openclaw

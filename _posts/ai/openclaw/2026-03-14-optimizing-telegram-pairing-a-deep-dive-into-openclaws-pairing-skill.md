@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Optimizing Telegram Pairing: A Deep Dive into OpenClaw&#8217;s Pairing Skill'
-date: '2026-03-14T23:00:25'
+date: '2026-03-14T15:00:25'
 categories:
 - ai
 - openclaw

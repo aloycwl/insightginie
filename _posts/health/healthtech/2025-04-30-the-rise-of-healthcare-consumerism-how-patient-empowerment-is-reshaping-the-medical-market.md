@@ -2,7 +2,7 @@
 layout: post
 title: 'The Rise of Healthcare Consumerism: How Patient Empowerment Is Reshaping the
   Medical Market'
-date: '2025-04-30T17:10:27'
+date: '2025-04-30T09:10:27'
 categories:
 - health
 - healthtech

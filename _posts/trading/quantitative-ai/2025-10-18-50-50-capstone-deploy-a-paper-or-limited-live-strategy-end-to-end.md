@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '(50/50) Capstone: deploy a (paper or limited-live) strategy end-to-end'
-date: '2025-10-18T23:14:33'
+date: '2025-10-18T15:14:33'
 categories:
 - trading
 - quantitative-ai

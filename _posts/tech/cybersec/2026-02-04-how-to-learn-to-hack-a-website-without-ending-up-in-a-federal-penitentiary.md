@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Learn to Hack a Website (Without Ending Up in a Federal Penitentiary)
-date: '2026-02-04T14:35:43'
+date: '2026-02-04T06:35:43'
 categories:
 - tech
 - cybersec

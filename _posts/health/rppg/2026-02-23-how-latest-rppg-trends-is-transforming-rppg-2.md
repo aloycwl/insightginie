@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Latest rPPG Trends is Transforming rPPG
-date: '2026-02-23T15:27:35'
+date: '2026-02-23T07:27:35'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BitNet a4.8: Advancing 1-Bit LLMs with 4-Bit Activations for Enhanced Efficiency'
-date: '2025-04-30T09:56:51'
+date: '2025-04-30T01:56:51'
 categories:
 - ai
 - ai-agent

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding OpenClaw&#8217;s Home Assistant Integration Patterns Skill
-date: '2026-03-09T05:45:24'
+date: '2026-03-08T21:45:24'
 categories:
 - ai
 - openclaw

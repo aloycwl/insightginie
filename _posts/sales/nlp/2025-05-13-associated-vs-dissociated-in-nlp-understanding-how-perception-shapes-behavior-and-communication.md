@@ -2,7 +2,7 @@
 layout: post
 title: 'Associated vs Dissociated in NLP: Understanding How Perception Shapes Behavior
   and Communication'
-date: '2025-05-13T12:03:37'
+date: '2025-05-13T04:03:37'
 categories:
 - sales
 - nlp

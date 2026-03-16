@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Capital Playbook: 7 Proven Strategies to Secure Funding for Your Business'
-date: '2025-12-08T20:16:34'
+date: '2025-12-08T12:16:34'
 categories:
 - business
 - business-plan

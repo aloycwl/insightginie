@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How to Write a Business Plan in 2026: Complete Guide for Entrepreneurs'
-date: '2026-02-16T11:01:31'
+date: '2026-02-16T03:01:31'
 categories:
 - business
 - business-plan

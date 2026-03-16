@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the Chaos Strategy in Software Development: Prioritize, Stabilize,
   and Deliver with Six Sigma Precision'
-date: '2025-07-08T13:57:37'
+date: '2025-07-08T05:57:37'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: 'Walson&#8217;s Law: The Unseen Force Shaping Your Organization&#8217;s Information
   Flow'
-date: '2025-12-06T14:22:02'
+date: '2025-12-06T06:22:02'
 categories:
 - eclectic
 - psychology

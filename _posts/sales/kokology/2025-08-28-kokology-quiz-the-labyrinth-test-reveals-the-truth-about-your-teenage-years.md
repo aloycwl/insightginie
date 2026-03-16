@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kokology Quiz: The Labyrinth Test Reveals the Truth About Your Teenage Years'
-date: '2025-08-28T10:07:01'
+date: '2025-08-28T02:07:01'
 categories:
 - sales
 - kokology

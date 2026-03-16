@@ -2,7 +2,7 @@
 layout: post
 title: 'The Silent Revolution: Why Transdermal Optical Imaging is Crucial for Non-Contact
   Health Monitoring'
-date: '2026-02-10T13:43:07'
+date: '2026-02-10T05:43:07'
 categories:
 - health
 - rppg

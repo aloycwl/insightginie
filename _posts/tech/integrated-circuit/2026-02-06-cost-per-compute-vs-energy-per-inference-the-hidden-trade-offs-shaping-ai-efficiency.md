@@ -2,7 +2,7 @@
 layout: post
 title: 'Cost Per Compute vs Energy per Inference: The Hidden Trade-offs Shaping AI
   Efficiency'
-date: '2026-02-06T12:50:22'
+date: '2026-02-06T04:50:22'
 categories:
 - tech
 - integrated-circuit

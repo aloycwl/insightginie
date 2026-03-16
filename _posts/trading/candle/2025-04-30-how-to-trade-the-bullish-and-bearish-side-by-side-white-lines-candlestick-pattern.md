@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade the Bullish and Bearish Side-by-Side White Lines Candlestick Pattern
-date: '2025-04-30T17:24:45'
+date: '2025-04-30T09:24:45'
 categories:
 - trading
 - candle

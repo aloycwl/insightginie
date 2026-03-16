@@ -2,7 +2,7 @@
 layout: post
 title: 'Decoding Life&#8217;s Code: The Revolutionary History of Bio-Computing &#038;
   Living Machines'
-date: '2025-10-21T09:52:42'
+date: '2025-10-21T01:52:42'
 categories:
 - tech
 - bio-computer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Six Sigma and HAZOP: Mastering Hazard and Operability Studies for Safer Processes'
-date: '2025-08-25T11:11:55'
+date: '2025-08-25T03:11:55'
 categories:
 - business
 - operations

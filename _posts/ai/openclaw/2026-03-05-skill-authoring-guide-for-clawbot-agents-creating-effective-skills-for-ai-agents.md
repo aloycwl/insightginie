@@ -2,7 +2,7 @@
 layout: post
 title: 'Skill Authoring Guide for Clawbot Agents: Creating Effective Skills for AI
   Agents'
-date: '2026-03-05T15:01:42'
+date: '2026-03-05T07:01:42'
 categories:
 - ai
 - openclaw

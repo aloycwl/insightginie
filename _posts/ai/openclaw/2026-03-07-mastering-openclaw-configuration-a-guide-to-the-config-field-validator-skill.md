@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering OpenClaw Configuration: A Guide to the Config Field Validator Skill'
-date: '2026-03-07T05:00:48'
+date: '2026-03-06T21:00:48'
 categories:
 - ai
 - openclaw

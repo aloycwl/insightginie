@@ -2,7 +2,7 @@
 layout: post
 title: Understanding the Socially Active, Inactive, Both, and Reflective States in
   Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:30:09'
+date: '2025-05-13T04:30:09'
 categories:
 - sales
 - nlp

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Security Under Siege: Navigating Geopolitical Risks in a Volatile World'
-date: '2025-10-28T11:25:45'
+date: '2025-10-28T03:25:45'
 categories:
 - tech
 - energy

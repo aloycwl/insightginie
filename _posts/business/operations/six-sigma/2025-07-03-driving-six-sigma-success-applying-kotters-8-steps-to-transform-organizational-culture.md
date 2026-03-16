@@ -2,7 +2,7 @@
 layout: post
 title: "Driving Six Sigma Success: Applying Kotter\u2019s 8 Steps to Transform Organizational\
   \ Culture"
-date: '2025-07-03T15:51:02'
+date: '2025-07-03T07:51:02'
 categories:
 - business
 - operations

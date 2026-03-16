@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Turbocharging SLH-DSA: Optimizing WOTS+ Hash Chains with AVX2 and AVX-512'
-date: '2025-12-18T12:25:54'
+date: '2025-12-18T04:25:54'
 categories:
 - tech
 - quantum

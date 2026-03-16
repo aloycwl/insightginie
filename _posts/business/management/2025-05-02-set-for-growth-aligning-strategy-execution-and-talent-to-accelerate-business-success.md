@@ -2,7 +2,7 @@
 layout: post
 title: 'SET for Growth: Aligning Strategy, Execution, and Talent to Accelerate Business
   Success'
-date: '2025-05-02T14:50:43'
+date: '2025-05-02T06:50:43'
 categories:
 - business
 - management

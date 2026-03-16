@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Death by Debt: How Overlending Silently Kills Even the Strongest Businesses'
-date: '2025-12-08T20:23:44'
+date: '2025-12-08T12:23:44'
 categories:
 - business
 - business-plan

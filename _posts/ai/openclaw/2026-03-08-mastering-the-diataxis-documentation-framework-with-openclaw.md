@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering the Diataxis Documentation Framework with OpenClaw
-date: '2026-03-08T15:00:25'
+date: '2026-03-08T07:00:25'
 categories:
 - ai
 - openclaw

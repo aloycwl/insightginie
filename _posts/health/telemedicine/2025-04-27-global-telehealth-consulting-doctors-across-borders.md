@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Global Telehealth: Consulting Doctors Across Borders'
-date: '2025-04-27T22:02:57'
+date: '2025-04-27T14:02:57'
 categories:
 - health
 - telemedicine

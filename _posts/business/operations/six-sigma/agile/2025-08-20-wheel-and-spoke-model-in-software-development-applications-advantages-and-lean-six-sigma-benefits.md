@@ -2,7 +2,7 @@
 layout: post
 title: 'Wheel and Spoke Model in Software Development: Applications, Advantages, and
   Lean Six Sigma Benefits'
-date: '2025-08-20T11:21:31'
+date: '2025-08-20T03:21:31'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Silicon: How Bio-Computers Are Set to Revolutionize Brain-Computer
   Interfaces'
-date: '2025-10-21T20:51:25'
+date: '2025-10-21T12:51:25'
 categories:
 - tech
 - bio-computer

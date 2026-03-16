@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pop Psychology with a Twist: Unraveling the Mysteries of the Mind'
-date: '2026-02-26T12:30:49'
+date: '2026-02-26T04:30:49'
 categories:
 - sales
 - kokology

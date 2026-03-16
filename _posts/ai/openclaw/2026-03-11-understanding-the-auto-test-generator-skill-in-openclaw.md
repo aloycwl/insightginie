@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Auto Test Generator Skill in OpenClaw
-date: '2026-03-11T17:15:59'
+date: '2026-03-11T09:15:59'
 categories:
 - ai
 - openclaw

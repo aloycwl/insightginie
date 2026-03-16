@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin Pulse Skill: Sync Your Garmin Health Data with OpenClaw'
-date: '2026-03-15T09:15:59'
+date: '2026-03-15T01:15:59'
 categories:
 - ai
 - openclaw

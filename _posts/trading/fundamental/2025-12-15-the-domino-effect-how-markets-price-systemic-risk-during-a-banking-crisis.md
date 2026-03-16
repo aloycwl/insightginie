@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Domino Effect: How Markets Price Systemic Risk During a Banking Crisis'
-date: '2025-12-15T12:35:27'
+date: '2025-12-15T04:35:27'
 categories:
 - trading
 - fundamental

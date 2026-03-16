@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agriculture 2.0: How Bio-Computers Are Revolutionizing Sustainable Farming'
-date: '2025-10-21T20:51:42'
+date: '2025-10-21T12:51:42'
 categories:
 - tech
 - bio-computer

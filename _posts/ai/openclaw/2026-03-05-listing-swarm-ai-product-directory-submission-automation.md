@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listing Swarm: AI Product Directory Submission Automation'
-date: '2026-03-05T10:21:23'
+date: '2026-03-05T02:21:23'
 categories:
 - ai
 - openclaw

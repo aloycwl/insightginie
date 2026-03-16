@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Six Sigma in 2026: The Future of Process Excellence with AI and Digital Transformation'
-date: '2026-02-17T23:47:06'
+date: '2026-02-17T15:47:06'
 categories:
 - business
 - operations

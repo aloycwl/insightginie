@@ -2,7 +2,7 @@
 layout: post
 title: 'Apple Pay vs. Google Pay: The Ultimate Security Showdown for Your Digital
   Wallet'
-date: '2025-11-19T12:23:32'
+date: '2025-11-19T04:23:32'
 categories:
 - finance
 - payment

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Problem Decomposition: A Deep Dive into the OpenClaw Divide Agent
   Skill'
-date: '2026-03-12T00:30:28'
+date: '2026-03-11T16:30:28'
 categories:
 - ai
 - openclaw

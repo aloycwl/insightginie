@@ -2,7 +2,7 @@
 layout: post
 title: 'The State of Cryptocurrency Security in 2025: $3.4 Billion in Theft and Lessons
   Learned'
-date: '2026-02-15T17:33:42'
+date: '2026-02-15T09:33:42'
 categories:
 - web3
 - crypto-security

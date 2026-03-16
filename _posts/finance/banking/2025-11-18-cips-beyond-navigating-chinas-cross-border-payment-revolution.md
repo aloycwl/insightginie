@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CIPS &#038; Beyond: Navigating China&#8217;s Cross-Border Payment Revolution'
-date: '2025-11-18T11:15:00'
+date: '2025-11-18T03:15:00'
 categories:
 - finance
 - banking

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Straw Man Fallacy: How to Spot (and Defeat) This Common Manipulation Tactic'
-date: '2025-12-07T22:17:20'
+date: '2025-12-07T14:17:20'
 categories:
 - eclectic
 - fallacies

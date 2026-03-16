@@ -2,7 +2,7 @@
 layout: post
 title: 'Model-Driven Engineering in Six Sigma: Transforming Quality with Systematic
   Model-Based Development'
-date: '2025-07-08T14:04:42'
+date: '2025-07-08T06:04:42'
 categories:
 - business
 - operations

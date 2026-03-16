@@ -2,7 +2,7 @@
 layout: post
 title: "Kokology Quiz: Busted! \u2013 What Your Suspect\u2019s Words Reveal About\
   \ You"
-date: '2025-08-28T12:38:55'
+date: '2025-08-28T04:38:55'
 categories:
 - sales
 - kokology

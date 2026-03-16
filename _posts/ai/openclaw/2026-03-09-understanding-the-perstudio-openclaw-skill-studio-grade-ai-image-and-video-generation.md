@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the Perstudio OpenClaw Skill: Studio-Grade AI Image and Video
   Generation'
-date: '2026-03-09T02:18:33'
+date: '2026-03-08T18:18:33'
 categories:
 - ai
 - openclaw

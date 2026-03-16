@@ -2,7 +2,7 @@
 layout: post
 title: 'Hamel Husain Shares Insights from 30+ AI Implementations: A Guide to Building
   Effective AI Products'
-date: '2025-04-25T12:55:46'
+date: '2025-04-25T04:55:46'
 categories:
 - ai
 - ai-agent

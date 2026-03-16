@@ -2,7 +2,7 @@
 layout: post
 title: "The Timeless Wisdom of Sun Tzu\u2019s Art of War: Strategy, Leadership, and\
   \ Mastery in Conflict and Business"
-date: '2025-05-02T14:53:26'
+date: '2025-05-02T06:53:26'
 categories:
 - business
 - management

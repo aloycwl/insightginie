@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Hidden Rules of Dominance: Unraveling the Power Law in Everything'
-date: '2025-12-06T23:34:16'
+date: '2025-12-06T15:34:16'
 categories:
 - eclectic
 - mathematics

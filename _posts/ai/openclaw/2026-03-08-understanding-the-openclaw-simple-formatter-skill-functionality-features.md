@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Simple-Formatter Skill: Functionality &#038; Features'
-date: '2026-03-08T07:45:32'
+date: '2026-03-07T23:45:32'
 categories:
 - ai
 - openclaw

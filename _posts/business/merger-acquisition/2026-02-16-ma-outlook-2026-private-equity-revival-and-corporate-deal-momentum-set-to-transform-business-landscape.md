@@ -2,7 +2,7 @@
 layout: post
 title: 'M&#038;A Outlook 2026: Private Equity Revival and Corporate Deal Momentum
   Set to Transform Business Landscape'
-date: '2026-02-16T13:32:00'
+date: '2026-02-16T05:32:00'
 categories:
 - business
 - merger-acquisition

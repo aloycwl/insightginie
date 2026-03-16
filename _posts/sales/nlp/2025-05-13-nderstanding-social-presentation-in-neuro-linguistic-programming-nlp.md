@@ -1,7 +1,7 @@
 ---
 layout: post
 title: nderstanding Social Presentation in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:37:27'
+date: '2025-05-13T04:37:27'
 categories:
 - sales
 - nlp

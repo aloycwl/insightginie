@@ -2,7 +2,7 @@
 layout: post
 title: The Role of &#8220;Options&#8221; and &#8220;Procedure&#8221; in Neuro-Linguistic
   Programming
-date: '2025-05-13T12:11:16'
+date: '2025-05-13T04:11:16'
 categories:
 - sales
 - nlp

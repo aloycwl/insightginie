@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Breaking Barriers: Overcoming Mental Health Challenges with Telepsychiatry'
-date: '2025-04-30T16:59:15'
+date: '2025-04-30T08:59:15'
 categories:
 - health
 - telemedicine

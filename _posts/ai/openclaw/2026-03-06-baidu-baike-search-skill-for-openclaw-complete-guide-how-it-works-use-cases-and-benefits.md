@@ -2,7 +2,7 @@
 layout: post
 title: 'Baidu Baike Search Skill for OpenClaw: Complete Guide, How It Works, Use Cases,
   and Benefits'
-date: '2026-03-06T06:40:24'
+date: '2026-03-05T22:40:24'
 categories:
 - ai
 - openclaw

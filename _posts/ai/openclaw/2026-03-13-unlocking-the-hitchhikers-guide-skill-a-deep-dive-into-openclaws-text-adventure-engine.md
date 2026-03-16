@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking the Hitchhiker&#8217;s Guide Skill: A Deep Dive into OpenClaw&#8217;s
   Text Adventure Engine'
-date: '2026-03-13T16:00:33'
+date: '2026-03-13T08:00:33'
 categories:
 - ai
 - openclaw

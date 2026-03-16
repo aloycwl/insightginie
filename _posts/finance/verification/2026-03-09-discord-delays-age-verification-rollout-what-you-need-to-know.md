@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discord Delays Age Verification Rollout: What You Need to Know'
-date: '2026-03-09T00:00:43'
+date: '2026-03-08T16:00:43'
 categories:
 - finance
 - verification

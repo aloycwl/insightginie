@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future of AI: Transforming Industries and Shaping Our World'
-date: '2026-02-24T19:51:38'
+date: '2026-02-24T11:51:38'
 categories:
 - ai
 - ai-in-general

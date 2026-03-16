@@ -2,7 +2,7 @@
 layout: post
 title: 'How Six Sigma Culture Drives Success: Understanding Norms, Values &amp; The
   Cultural Web'
-date: '2025-07-03T15:50:14'
+date: '2025-07-03T07:50:14'
 categories:
 - business
 - operations

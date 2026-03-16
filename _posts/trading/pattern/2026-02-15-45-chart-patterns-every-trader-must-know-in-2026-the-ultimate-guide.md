@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '45 Chart Patterns Every Trader Must Know in 2026: The Ultimate Guide'
-date: '2026-02-15T22:13:19'
+date: '2026-02-15T14:13:19'
 categories:
 - trading
 - pattern

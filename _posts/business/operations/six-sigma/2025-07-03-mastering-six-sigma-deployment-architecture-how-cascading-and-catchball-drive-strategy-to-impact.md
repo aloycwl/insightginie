@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Six Sigma Deployment Architecture: How Cascading and Catchball Drive
   Strategy to Impact'
-date: '2025-07-03T15:46:34'
+date: '2025-07-03T07:46:34'
 categories:
 - business
 - operations

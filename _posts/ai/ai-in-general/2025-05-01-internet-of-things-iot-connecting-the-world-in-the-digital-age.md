@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Internet of Things (IoT): Connecting the World in the Digital Age'
-date: '2025-05-01T19:34:01'
+date: '2025-05-01T11:34:01'
 categories:
 - ai
 - ai-in-general

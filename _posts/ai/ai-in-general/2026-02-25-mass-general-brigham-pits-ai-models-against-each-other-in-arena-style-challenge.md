@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mass General Brigham Pits AI Models Against Each Other in Arena-Style Challenge
-date: '2026-02-25T16:01:25'
+date: '2026-02-25T08:01:25'
 categories:
 - ai
 - ai-in-general

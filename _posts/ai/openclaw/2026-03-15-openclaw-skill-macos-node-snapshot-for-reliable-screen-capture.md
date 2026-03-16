@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill: macOS Node Snapshot for Reliable Screen Capture'
-date: '2026-03-15T21:15:51'
+date: '2026-03-15T13:15:51'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'den: Leveraging ZK-MapReduce for Ultra-Fast, Scalable Blockchain Interoperability'
-date: '2025-05-05T21:03:32'
+date: '2025-05-05T13:03:32'
 categories:
 - web3
 - zero-knowledge

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Donald Trump &#8211; Wikipedia &#8211; Everything You Need to Know
-date: '2026-02-22T16:32:09'
+date: '2026-02-22T08:32:09'
 categories:
 - eclectic
 - physics

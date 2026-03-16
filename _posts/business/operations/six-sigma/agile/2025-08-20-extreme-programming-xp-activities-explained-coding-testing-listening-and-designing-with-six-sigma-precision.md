@@ -2,7 +2,7 @@
 layout: post
 title: 'Extreme Programming (XP) Activities Explained: Coding, Testing, Listening,
   and Designing with Six Sigma Precision'
-date: '2025-08-20T11:06:21'
+date: '2025-08-20T03:06:21'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Time with Light: The Revolutionary World of Optical Time Manipulation
   and Next-Gen Clocks'
-date: '2026-01-02T17:46:47'
+date: '2026-01-02T09:46:47'
 categories:
 - tech
 - optical-computing

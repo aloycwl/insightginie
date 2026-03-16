@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brazil&#8217;s B3 Exchange to Launch Ethereum and Solana Futures
-date: '2025-05-10T11:44:32'
+date: '2025-05-10T03:44:32'
 categories:
 - web3
 - cryptocurrency

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Efficiency: A Deep Dive into the Solo-Init Skill in OpenClaw'
-date: '2026-03-16T01:00:34'
+date: '2026-03-15T17:00:34'
 categories:
 - ai
 - openclaw

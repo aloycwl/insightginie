@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Hype: Singapore Fintech Festival 2025 Cements RWA, AI, and Tokenization
   as the 2026 Reality'
-date: '2025-11-16T10:54:37'
+date: '2025-11-16T02:54:37'
 categories:
 - finance
 - real-world-asset-rwa

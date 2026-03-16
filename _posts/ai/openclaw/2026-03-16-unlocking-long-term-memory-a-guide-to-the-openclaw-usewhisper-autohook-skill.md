@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Long-Term Memory: A Guide to the OpenClaw usewhisper-autohook Skill'
-date: '2026-03-16T17:00:33'
+date: '2026-03-16T09:00:33'
 categories:
 - ai
 - openclaw

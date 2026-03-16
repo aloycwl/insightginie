@@ -2,7 +2,7 @@
 layout: post
 title: 'Metaheuristics in 2026: The Future of Optimization Algorithms and Intelligent
   Problem-Solving'
-date: '2026-02-17T04:33:56'
+date: '2026-02-16T20:33:56'
 categories:
 - eclectic
 - metaheuristics

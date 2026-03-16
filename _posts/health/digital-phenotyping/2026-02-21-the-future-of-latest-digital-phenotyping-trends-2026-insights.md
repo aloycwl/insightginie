@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future of Latest Digital phenotyping Trends: 2026 Insights'
-date: '2026-02-21T07:27:47'
+date: '2026-02-20T23:27:47'
 categories:
 - health
 - digital-phenotyping

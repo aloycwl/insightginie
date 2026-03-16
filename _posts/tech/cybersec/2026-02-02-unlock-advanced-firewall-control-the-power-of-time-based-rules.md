@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Advanced Firewall Control: The Power of Time-Based Rules'
-date: '2026-02-02T19:19:35'
+date: '2026-02-02T11:19:35'
 categories:
 - tech
 - cybersec

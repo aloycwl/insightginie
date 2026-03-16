@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Blue Bag: Unpacking IKEA&#8217;s Masterclass in Creating a Successful
   Shopping Experience'
-date: '2025-12-09T11:45:59'
+date: '2025-12-09T03:45:59'
 categories:
 - business
 - strategy

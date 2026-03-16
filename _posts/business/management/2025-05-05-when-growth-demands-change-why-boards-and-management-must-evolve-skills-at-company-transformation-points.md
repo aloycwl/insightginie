@@ -2,7 +2,7 @@
 layout: post
 title: 'When Growth Demands Change: Why Boards and Management Must Evolve Skills at
   Company Transformation Points'
-date: '2025-05-05T19:27:47'
+date: '2025-05-05T11:27:47'
 categories:
 - business
 - management

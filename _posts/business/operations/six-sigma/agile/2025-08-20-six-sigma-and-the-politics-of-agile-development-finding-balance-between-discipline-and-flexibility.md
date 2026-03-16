@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma and the Politics of Agile Development: Finding Balance Between Discipline
   and Flexibility'
-date: '2025-08-20T10:56:26'
+date: '2025-08-20T02:56:26'
 categories:
 - business
 - operations

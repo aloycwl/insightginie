@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Disjunction in NLP: How to Break Down False Choices for Better
   Decision Making'
-date: '2025-05-12T11:07:01'
+date: '2025-05-12T03:07:01'
 categories:
 - sales
 - nlp

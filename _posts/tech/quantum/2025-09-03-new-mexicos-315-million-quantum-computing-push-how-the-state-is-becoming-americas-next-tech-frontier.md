@@ -2,7 +2,7 @@
 layout: post
 title: "New Mexico\u2019s $315 Million Quantum Computing Push: How the State Is Becoming\
   \ America\u2019s Next Tech Frontier"
-date: '2025-09-03T10:20:06'
+date: '2025-09-03T02:20:06'
 categories:
 - tech
 - quantum

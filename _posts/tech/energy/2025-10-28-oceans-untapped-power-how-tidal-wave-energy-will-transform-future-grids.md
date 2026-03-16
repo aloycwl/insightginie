@@ -2,7 +2,7 @@
 layout: post
 title: 'Ocean&#8217;s Untapped Power: How Tidal &#038; Wave Energy Will Transform
   Future Grids'
-date: '2025-10-28T11:19:24'
+date: '2025-10-28T03:19:24'
 categories:
 - tech
 - energy

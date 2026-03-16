@@ -2,7 +2,7 @@
 layout: post
 title: Psychology Study Shows How a &#8216;Fixed Mindset&#8217; Helps Socially Anxious
   People
-date: '2026-03-01T21:31:15'
+date: '2026-03-01T13:31:15'
 categories:
 - eclectic
 - psychology

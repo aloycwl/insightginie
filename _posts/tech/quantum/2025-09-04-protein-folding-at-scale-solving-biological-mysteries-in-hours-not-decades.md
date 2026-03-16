@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Protein Folding at Scale: Solving Biological Mysteries in Hours, Not Decades'
-date: '2025-09-04T14:49:06'
+date: '2025-09-04T06:49:06'
 categories:
 - tech
 - quantum

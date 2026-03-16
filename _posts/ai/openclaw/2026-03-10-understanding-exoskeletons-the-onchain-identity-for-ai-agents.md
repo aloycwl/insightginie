@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Exoskeletons: The Onchain Identity for AI Agents'
-date: '2026-03-10T15:00:24'
+date: '2026-03-10T07:00:24'
 categories:
 - ai
 - openclaw

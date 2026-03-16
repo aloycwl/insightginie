@@ -2,7 +2,7 @@
 layout: post
 title: 'Business Strategy Trends 2026: Navigating Uncertainty with AI and Quantum
   Innovation'
-date: '2026-02-18T20:49:05'
+date: '2026-02-18T12:49:05'
 categories:
 - business
 - strategy

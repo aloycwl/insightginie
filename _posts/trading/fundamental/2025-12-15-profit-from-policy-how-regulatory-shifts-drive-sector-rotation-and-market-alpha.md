@@ -2,7 +2,7 @@
 layout: post
 title: 'Profit from Policy: How Regulatory Shifts Drive Sector Rotation and Market
   Alpha'
-date: '2025-12-15T12:33:41'
+date: '2025-12-15T04:33:41'
 categories:
 - trading
 - fundamental

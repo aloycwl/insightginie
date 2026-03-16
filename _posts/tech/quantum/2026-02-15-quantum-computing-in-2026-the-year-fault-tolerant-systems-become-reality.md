@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum Computing in 2026: The Year Fault-Tolerant Systems Become Reality'
-date: '2026-02-15T15:02:30'
+date: '2026-02-15T07:02:30'
 categories:
 - tech
 - quantum

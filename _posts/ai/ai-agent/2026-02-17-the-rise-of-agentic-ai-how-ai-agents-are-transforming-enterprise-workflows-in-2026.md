@@ -2,7 +2,7 @@
 layout: post
 title: 'The Rise of Agentic AI: How AI Agents Are Transforming Enterprise Workflows
   in 2026'
-date: '2026-02-17T06:17:21'
+date: '2026-02-16T22:17:21'
 categories:
 - ai
 - ai-agent

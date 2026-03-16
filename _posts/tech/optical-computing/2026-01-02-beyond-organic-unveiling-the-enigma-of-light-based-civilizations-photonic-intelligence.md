@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Organic: Unveiling the Enigma of Light-Based Civilizations &#038; Photonic
   Intelligence'
-date: '2026-01-02T17:42:42'
+date: '2026-01-02T09:42:42'
 categories:
 - tech
 - optical-computing

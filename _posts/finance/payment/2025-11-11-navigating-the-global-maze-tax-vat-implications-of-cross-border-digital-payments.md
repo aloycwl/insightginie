@@ -2,7 +2,7 @@
 layout: post
 title: 'Navigating the Global Maze: Tax &#038; VAT Implications of Cross-Border Digital
   Payments'
-date: '2025-11-11T10:00:27'
+date: '2025-11-11T02:00:27'
 categories:
 - finance
 - payment

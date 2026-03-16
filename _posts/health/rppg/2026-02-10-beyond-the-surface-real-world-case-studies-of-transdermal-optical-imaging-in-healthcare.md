@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Surface: Real-World Case Studies of Transdermal Optical Imaging
   in Healthcare'
-date: '2026-02-10T14:04:35'
+date: '2026-02-10T06:04:35'
 categories:
 - health
 - rppg

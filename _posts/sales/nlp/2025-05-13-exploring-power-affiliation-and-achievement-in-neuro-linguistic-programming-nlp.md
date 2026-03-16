@@ -2,7 +2,7 @@
 layout: post
 title: Exploring Power, Affiliation, and Achievement in Neuro-Linguistic Programming
   (NLP)
-date: '2025-05-13T12:37:54'
+date: '2025-05-13T04:37:54'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: Understanding the Misconception That &#8220;ZK&#8221; Means Only Succinct in
   Blockchain Technology
-date: '2025-05-05T21:29:49'
+date: '2025-05-05T13:29:49'
 categories:
 - web3
 - zero-knowledge

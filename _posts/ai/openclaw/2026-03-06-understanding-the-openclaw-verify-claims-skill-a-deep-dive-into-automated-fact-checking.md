@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the OpenClaw Verify-Claims Skill: A Deep Dive into Automated
   Fact-Checking'
-date: '2026-03-06T23:30:29'
+date: '2026-03-06T15:30:29'
 categories:
 - ai
 - openclaw

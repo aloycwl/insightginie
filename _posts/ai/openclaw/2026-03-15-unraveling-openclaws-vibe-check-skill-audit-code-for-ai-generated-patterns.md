@@ -2,7 +2,7 @@
 layout: post
 title: 'Unraveling OpenClaw&#8217;s Vibe-Check Skill: Audit Code for AI-Generated
   Patterns'
-date: '2026-03-15T18:46:09'
+date: '2026-03-15T10:46:09'
 categories:
 - ai
 - openclaw

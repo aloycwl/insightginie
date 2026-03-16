@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (10/50) Data engineering &amp; storage at scale
-date: '2025-10-08T10:19:09'
+date: '2025-10-08T02:19:09'
 categories:
 - trading
 - quantitative-ai

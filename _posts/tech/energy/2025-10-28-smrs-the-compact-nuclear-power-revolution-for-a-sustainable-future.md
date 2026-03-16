@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SMRs: The Compact Nuclear Power Revolution for a Sustainable Future'
-date: '2025-10-28T12:03:17'
+date: '2025-10-28T04:03:17'
 categories:
 - tech
 - energy

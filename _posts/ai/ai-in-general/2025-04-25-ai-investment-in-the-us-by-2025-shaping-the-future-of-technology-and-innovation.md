@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Investment in the US by 2025: Shaping the Future of Technology and Innovation'
-date: '2025-04-25T19:32:12'
+date: '2025-04-25T11:32:12'
 categories:
 - ai
 - ai-in-general

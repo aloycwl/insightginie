@@ -2,7 +2,7 @@
 layout: post
 title: "The Harvesters: Kali Linux\u2019s Most Overhyped Tool or a Hacker\u2019s Secret\
   \ Weapon?"
-date: '2026-02-04T14:21:44'
+date: '2026-02-04T06:21:44'
 categories:
 - tech
 - cybersec

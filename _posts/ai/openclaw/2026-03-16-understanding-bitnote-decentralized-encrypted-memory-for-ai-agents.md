@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding BitNote: Decentralized, Encrypted Memory for AI Agents'
-date: '2026-03-16T19:00:38'
+date: '2026-03-16T11:00:38'
 categories:
 - ai
 - openclaw

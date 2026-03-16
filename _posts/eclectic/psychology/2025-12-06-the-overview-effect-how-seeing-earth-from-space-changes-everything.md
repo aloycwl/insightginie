@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Overview Effect: How Seeing Earth from Space Changes Everything'
-date: '2025-12-06T14:14:00'
+date: '2025-12-06T06:14:00'
 categories:
 - eclectic
 - psychology

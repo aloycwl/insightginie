@@ -2,7 +2,7 @@
 layout: post
 title: 'PIM Architectural Tradeoffs: Balancing Power, Precision, and Area in Modern
   Computing'
-date: '2026-02-06T12:19:59'
+date: '2026-02-06T04:19:59'
 categories:
 - tech
 - integrated-circuit

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ferroelectric Flash Memory: The Unsung Hero Powering Next-Gen In-Memory Chips'
-date: '2026-02-06T12:12:52'
+date: '2026-02-06T04:12:52'
 categories:
 - tech
 - integrated-circuit

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Secret to Smarter, More Diverse AI: Exploring Verbalized Sampling in LLMs'
-date: '2025-12-21T10:47:04'
+date: '2025-12-21T02:47:04'
 categories:
 - ai
 - ai-in-general

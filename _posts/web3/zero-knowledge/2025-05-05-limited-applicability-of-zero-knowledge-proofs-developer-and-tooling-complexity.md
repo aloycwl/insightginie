@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Limited Applicability of Zero-Knowledge Proofs: Developer and Tooling Complexity'
-date: '2025-05-05T21:16:53'
+date: '2025-05-05T13:16:53'
 categories:
 - web3
 - zero-knowledge

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auto-Generate Project Workflow Setup with Solo-Setup Skill
-date: '2026-03-04T20:23:34'
+date: '2026-03-04T12:23:34'
 categories:
 - ai
 - openclaw

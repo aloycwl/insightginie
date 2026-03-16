@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding OpenClaw Skill: WorthClip YouTube Video Scorer'
-date: '2026-03-07T16:46:01'
+date: '2026-03-07T08:46:01'
 categories:
 - ai
 - openclaw

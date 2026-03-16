@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Nurses vs. Human Care: Navigating the Future of Hospital Staffing'
-date: '2025-05-08T09:36:14'
+date: '2025-05-08T01:36:14'
 categories:
 - health
 - healthtech

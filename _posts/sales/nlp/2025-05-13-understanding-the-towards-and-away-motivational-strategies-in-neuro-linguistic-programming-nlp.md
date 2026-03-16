@@ -2,7 +2,7 @@
 layout: post
 title: Understanding the &#8220;Towards&#8221; and &#8220;Away&#8221; Motivational
   Strategies in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:08:31'
+date: '2025-05-13T04:08:31'
 categories:
 - sales
 - nlp

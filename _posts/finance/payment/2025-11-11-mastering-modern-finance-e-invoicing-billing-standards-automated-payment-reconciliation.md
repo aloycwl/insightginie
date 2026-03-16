@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Modern Finance: E-Invoicing, Billing Standards, &#038; Automated
   Payment Reconciliation'
-date: '2025-11-11T09:49:19'
+date: '2025-11-11T01:49:19'
 categories:
 - finance
 - payment

@@ -2,7 +2,7 @@
 layout: post
 title: 'Labor Shortages and Wage Inflation: How Worker Scarcity Is Driving Up Costs
   and Reshaping the Economy'
-date: '2025-12-15T15:08:33'
+date: '2025-12-15T07:08:33'
 categories:
 - trading
 - fundamental

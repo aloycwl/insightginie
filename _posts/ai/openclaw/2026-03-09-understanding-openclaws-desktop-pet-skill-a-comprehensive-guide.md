@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding OpenClaw&#8217;s Desktop Pet Skill: A Comprehensive Guide'
-date: '2026-03-09T06:45:32'
+date: '2026-03-08T22:45:32'
 categories:
 - ai
 - openclaw

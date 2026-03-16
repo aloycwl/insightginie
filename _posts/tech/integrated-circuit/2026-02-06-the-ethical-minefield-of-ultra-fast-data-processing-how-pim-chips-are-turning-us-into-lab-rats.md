@@ -2,7 +2,7 @@
 layout: post
 title: 'The Ethical Minefield of Ultra-Fast Data Processing: How PIM Chips Are Turning
   Us Into Lab Rats'
-date: '2026-02-06T14:09:30'
+date: '2026-02-06T06:09:30'
 categories:
 - tech
 - integrated-circuit

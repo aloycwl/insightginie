@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How AI is Revolutionizing Fraud Detection in Finance: A New Era of Security'
-date: '2025-04-28T20:15:15'
+date: '2025-04-28T12:15:15'
 categories:
 - ai
 - ai-agent

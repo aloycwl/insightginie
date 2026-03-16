@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '(30/50) Strategy taxonomy: momentum, mean-reversion, statistical arbitrage'
-date: '2025-10-08T23:07:02'
+date: '2025-10-08T15:07:02'
 categories:
 - trading
 - quantitative-ai

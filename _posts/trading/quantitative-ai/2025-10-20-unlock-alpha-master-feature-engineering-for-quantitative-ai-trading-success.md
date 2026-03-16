@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Alpha: Master Feature Engineering for Quantitative AI Trading Success'
-date: '2025-10-20T11:41:26'
+date: '2025-10-20T03:41:26'
 categories:
 - trading
 - quantitative-ai

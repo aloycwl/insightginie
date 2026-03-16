@@ -2,7 +2,7 @@
 layout: post
 title: 'Overcoming Data Interpretation Challenges in Transdermal Optical Imaging:
   A Critical Analysis'
-date: '2026-02-10T14:08:49'
+date: '2026-02-10T06:08:49'
 categories:
 - health
 - rppg

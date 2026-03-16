@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the SecureVibes Scanner Skill in OpenClaw
-date: '2026-03-12T10:45:54'
+date: '2026-03-12T02:45:54'
 categories:
 - ai
 - openclaw

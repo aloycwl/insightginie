@@ -2,7 +2,7 @@
 layout: post
 title: 'SWIFT Under Siege: Navigating Critical Cybersecurity Risks in Cross-Border
   Payments'
-date: '2025-11-18T14:15:00'
+date: '2025-11-18T06:15:00'
 categories:
 - finance
 - banking

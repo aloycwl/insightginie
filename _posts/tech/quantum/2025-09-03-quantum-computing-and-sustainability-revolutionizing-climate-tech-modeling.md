@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum Computing and Sustainability: Revolutionizing Climate Tech Modeling'
-date: '2025-09-03T20:09:21'
+date: '2025-09-03T12:09:21'
 categories:
 - tech
 - quantum

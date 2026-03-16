@@ -2,7 +2,7 @@
 layout: post
 title: 'In-Memory Chips vs GPUs for Matrix Multiplication: The Battle for Computational
   Supremacy'
-date: '2026-02-06T12:28:47'
+date: '2026-02-06T04:28:47'
 categories:
 - tech
 - integrated-circuit

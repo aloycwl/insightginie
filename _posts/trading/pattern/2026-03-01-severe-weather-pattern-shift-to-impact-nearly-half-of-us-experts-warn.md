@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Severe Weather Pattern Shift to Impact Nearly Half of US, Experts Warn
-date: '2026-03-01T06:00:41'
+date: '2026-02-28T22:00:41'
 categories:
 - trading
 - pattern

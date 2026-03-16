@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Projects: What They Are and Why They Often Fail'
-date: '2025-07-01T16:10:48'
+date: '2025-07-01T08:10:48'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tokenized ETFs &#038; RWA Index Products: The Digital Revolution Reshaping
   Your Portfolio'
-date: '2025-11-12T11:04:28'
+date: '2025-11-12T03:04:28'
 categories:
 - finance
 - real-world-asset-rwa

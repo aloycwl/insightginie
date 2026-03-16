@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Sentinel: Guarding Your OpenClaw Gateway Against Prompt Injection Attacks'
-date: '2026-03-13T00:46:00'
+date: '2026-03-12T16:46:00'
 categories:
 - ai
 - openclaw

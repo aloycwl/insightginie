@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trading Glossary
-date: '2025-07-11T10:08:09'
+date: '2025-07-11T02:08:09'
 categories:
 - trading
 original_url: https://insightginie.com/trading-glossary/

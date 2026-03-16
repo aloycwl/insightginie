@@ -2,7 +2,7 @@
 layout: post
 title: 'ASSP &#038; Consumer Electronics: Mastering Customization Without Breaking
   the Bank'
-date: '2025-10-22T14:19:25'
+date: '2025-10-22T06:19:25'
 categories:
 - tech
 - integrated-circuit

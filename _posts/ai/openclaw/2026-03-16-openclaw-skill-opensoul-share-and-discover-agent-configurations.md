@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill: OpenSoul &#8211; Share and Discover Agent Configurations'
-date: '2026-03-16T15:16:45'
+date: '2026-03-16T07:16:45'
 categories:
 - ai
 - openclaw

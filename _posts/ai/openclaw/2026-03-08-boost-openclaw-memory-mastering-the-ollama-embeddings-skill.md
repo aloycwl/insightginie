@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Boost OpenClaw Memory: Mastering the Ollama Embeddings Skill'
-date: '2026-03-08T16:30:24'
+date: '2026-03-08T08:30:24'
 categories:
 - ai
 - openclaw

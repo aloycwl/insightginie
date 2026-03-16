@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma and Empirical Modelling: Exploring Observation, Dependency, and
   Agency in Process Improvement'
-date: '2025-08-25T09:42:52'
+date: '2025-08-25T01:42:52'
 categories:
 - business
 - operations

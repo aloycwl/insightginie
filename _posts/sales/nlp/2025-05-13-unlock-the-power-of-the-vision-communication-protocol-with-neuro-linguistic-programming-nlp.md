@@ -2,7 +2,7 @@
 layout: post
 title: Unlock the Power of the Vision Communication Protocol with Neuro-Linguistic
   Programming (NLP)
-date: '2025-05-13T15:01:58'
+date: '2025-05-13T07:01:58'
 categories:
 - sales
 - nlp

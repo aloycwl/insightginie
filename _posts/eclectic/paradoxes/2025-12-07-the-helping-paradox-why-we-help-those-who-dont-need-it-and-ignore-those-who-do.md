@@ -2,7 +2,7 @@
 layout: post
 title: 'The Helping Paradox: Why We Help Those Who Don&#8217;t Need It (And Ignore
   Those Who Do)'
-date: '2025-12-07T11:06:28'
+date: '2025-12-07T03:06:28'
 categories:
 - eclectic
 - paradoxes

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantitative AI: The Future of Algorithm-Driven Trading Strategies'
-date: '2026-02-18T16:04:05'
+date: '2026-02-18T08:04:05'
 categories:
 - trading
 - quantitative-ai

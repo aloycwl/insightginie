@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock the Power of Nuanced Gesturing: How Neuro-Linguistic Programming (NLP)
   Enhances Communication'
-date: '2025-05-13T14:54:54'
+date: '2025-05-13T06:54:54'
 categories:
 - sales
 - nlp

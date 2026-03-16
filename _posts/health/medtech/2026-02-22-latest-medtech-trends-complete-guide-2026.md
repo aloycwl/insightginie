@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Medtech Trends: Complete Guide 2026'
-date: '2026-02-22T17:43:36'
+date: '2026-02-22T09:43:36'
 categories:
 - health
 - medtech

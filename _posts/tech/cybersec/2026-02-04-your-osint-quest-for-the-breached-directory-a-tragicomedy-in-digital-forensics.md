@@ -2,7 +2,7 @@
 layout: post
 title: 'Your OSINT Quest for the &#8216;Breached Directory&#8217;: A Tragicomedy in
   Digital Forensics'
-date: '2026-02-04T14:14:57'
+date: '2026-02-04T06:14:57'
 categories:
 - tech
 - cybersec

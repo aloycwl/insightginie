@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Smart Grid Revolution: How It&#8217;s Transforming Energy Management'
-date: '2025-10-28T11:30:06'
+date: '2025-10-28T03:30:06'
 categories:
 - tech
 - energy

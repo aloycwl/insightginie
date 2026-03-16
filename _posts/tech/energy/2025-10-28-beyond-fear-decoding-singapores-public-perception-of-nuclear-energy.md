@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Fear: Decoding Singapore&#8217;s Public Perception of Nuclear Energy'
-date: '2025-10-28T12:08:24'
+date: '2025-10-28T04:08:24'
 categories:
 - tech
 - energy

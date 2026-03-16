@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Medicine Can Diagnose and Treat What Ails You
-date: '2026-02-26T22:02:35'
+date: '2026-02-26T14:02:35'
 categories:
 - health
 - digital-phenotyping

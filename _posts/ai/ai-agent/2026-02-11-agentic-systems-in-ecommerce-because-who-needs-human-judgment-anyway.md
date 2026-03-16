@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agentic Systems in Ecommerce: Because Who Needs Human Judgment Anyway?'
-date: '2026-02-11T12:05:17'
+date: '2026-02-11T04:05:17'
 categories:
 - ai
 - ai-agent

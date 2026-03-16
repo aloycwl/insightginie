@@ -2,7 +2,7 @@
 layout: post
 title: The Role of Cloud Computing in Revolutionizing Transdermal Optical Imaging
   Platforms
-date: '2026-02-10T14:16:26'
+date: '2026-02-10T06:16:26'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Steak \u2018N Shake Embraces Bitcoin into the Fast-Food Crypto Rollout"
-date: '2025-05-09T13:48:30'
+date: '2025-05-09T05:48:30'
 categories:
 - web3
 - cryptocurrency

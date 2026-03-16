@@ -2,7 +2,7 @@
 layout: post
 title: 'Optimizing AI Workflows: Understanding the Dynamic Model Selector Skill for
   GitHub Copilot'
-date: '2026-03-15T00:30:32'
+date: '2026-03-14T16:30:32'
 categories:
 - ai
 - openclaw

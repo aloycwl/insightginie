@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Comprehensive Guide to Freepik OpenClaw Skill: AI-Powered Content Generation'
-date: '2026-03-12T16:45:54'
+date: '2026-03-12T08:45:54'
 categories:
 - ai
 - openclaw

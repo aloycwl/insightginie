@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Claude Agentic Coding: Best Practices for Seamless Integration'
-date: '2025-04-25T12:45:46'
+date: '2025-04-25T04:45:46'
 categories:
 - ai
 - ai-agent

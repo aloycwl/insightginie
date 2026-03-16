@@ -2,7 +2,7 @@
 layout: post
 title: '5 Cutting-Edge NLP Trends Shaping 2026: From Efficient Attention to On-Device
   AI'
-date: '2026-02-16T05:33:03'
+date: '2026-02-15T21:33:03'
 categories:
 - sales
 - nlp

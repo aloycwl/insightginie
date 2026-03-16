@@ -2,7 +2,7 @@
 layout: post
 title: 'Trading the Ballot Box: Strategies for Navigating Election Volatility and
   Policy Uncertainty'
-date: '2025-12-15T12:32:23'
+date: '2025-12-15T04:32:23'
 categories:
 - trading
 - fundamental

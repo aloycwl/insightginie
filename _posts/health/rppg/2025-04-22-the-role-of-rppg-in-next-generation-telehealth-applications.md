@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of rPPG in Next-Generation Telehealth Applications
-date: '2025-04-22T14:20:02'
+date: '2025-04-22T06:20:02'
 categories:
 - health
 - rppg

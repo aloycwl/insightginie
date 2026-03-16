@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Case You Missed Out On AWS Summit May 2025
-date: '2025-05-31T11:14:14'
+date: '2025-05-31T03:14:14'
 categories:
 - tech
 - cloud

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Ultimate Guide to the Best Tool to Brute-Force URIs: Because Who Needs
   Subtlety Anyway?'
-date: '2026-02-04T14:27:19'
+date: '2026-02-04T06:27:19'
 categories:
 - tech
 - cybersec

@@ -2,7 +2,7 @@
 layout: post
 title: 'Unraveling the &#8216;Seamless&#8217; Myth: A Critical Look at Google Stitch
   and Its Limitations'
-date: '2026-02-09T10:21:25'
+date: '2026-02-09T02:21:25'
 categories:
 - ai
 - ai-tools

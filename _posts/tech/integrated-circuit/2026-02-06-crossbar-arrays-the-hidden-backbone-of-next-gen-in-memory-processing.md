@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crossbar Arrays: The Hidden Backbone of Next-Gen In-Memory Processing'
-date: '2026-02-06T12:02:34'
+date: '2026-02-06T04:02:34'
 categories:
 - tech
 - integrated-circuit

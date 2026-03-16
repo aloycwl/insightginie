@@ -2,7 +2,7 @@
 layout: post
 title: Do All zkRollups Offer Privacy? Debunking Common Misunderstandings About zkRollups
   and Privacy
-date: '2025-05-05T21:28:39'
+date: '2025-05-05T13:28:39'
 categories:
 - web3
 - zero-knowledge

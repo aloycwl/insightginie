@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Price Intelligence: A Deep Dive into the OpenClaw Geizhals.at Skill'
-date: '2026-03-10T14:30:28'
+date: '2026-03-10T06:30:28'
 categories:
 - ai
 - openclaw

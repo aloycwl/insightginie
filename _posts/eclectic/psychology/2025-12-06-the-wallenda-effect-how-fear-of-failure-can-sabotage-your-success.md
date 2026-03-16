@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Wallenda Effect: How Fear of Failure Can Sabotage Your Success'
-date: '2025-12-06T14:20:51'
+date: '2025-12-06T06:20:51'
 categories:
 - eclectic
 - psychology

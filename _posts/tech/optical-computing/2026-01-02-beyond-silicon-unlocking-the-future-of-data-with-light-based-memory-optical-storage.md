@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Silicon: Unlocking the Future of Data with Light-Based Memory &#038;
   Optical Storage'
-date: '2026-01-02T17:38:29'
+date: '2026-01-02T09:38:29'
 categories:
 - tech
 - optical-computing

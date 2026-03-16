@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of the Head and Shoulders Pattern in Trading
-date: '2025-05-05T12:27:43'
+date: '2025-05-05T04:27:43'
 categories:
 - trading
 - pattern

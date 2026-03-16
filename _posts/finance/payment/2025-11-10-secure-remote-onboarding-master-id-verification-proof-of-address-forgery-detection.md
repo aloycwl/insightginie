@@ -2,7 +2,7 @@
 layout: post
 title: 'Secure Remote Onboarding: Master ID Verification, Proof of Address &#038;
   Forgery Detection'
-date: '2025-11-10T09:51:50'
+date: '2025-11-10T01:51:50'
 categories:
 - finance
 - payment

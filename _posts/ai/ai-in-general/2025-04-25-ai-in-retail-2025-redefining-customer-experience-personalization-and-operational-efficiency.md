@@ -2,7 +2,7 @@
 layout: post
 title: 'AI in Retail 2025: Redefining Customer Experience, Personalization, and Operational
   Efficiency'
-date: '2025-04-25T10:37:51'
+date: '2025-04-25T02:37:51'
 categories:
 - ai
 - ai-in-general

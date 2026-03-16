@@ -2,7 +2,7 @@
 layout: post
 title: 'Motion Artifact Reduction in rPPG: The Imperative for Accurate, Real-World
   Applications'
-date: '2025-04-22T10:41:08'
+date: '2025-04-22T02:41:08'
 categories:
 - health
 - rppg

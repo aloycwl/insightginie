@@ -2,7 +2,7 @@
 layout: post
 title: 'Methodology in 2026: How Modern Frameworks Are Transforming Business Strategy
   and Project Execution'
-date: '2026-02-18T10:01:17'
+date: '2026-02-18T02:01:17'
 categories:
 - business
 - operations

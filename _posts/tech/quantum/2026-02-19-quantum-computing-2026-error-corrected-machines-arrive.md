@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum Computing 2026: Error-Corrected Machines Arrive'
-date: '2026-02-19T04:18:05'
+date: '2026-02-18T20:18:05'
 categories:
 - tech
 - quantum

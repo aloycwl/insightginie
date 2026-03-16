@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Art of War Series: Tactical Dispositions'
-date: '2025-05-27T14:39:28'
+date: '2025-05-27T06:39:28'
 categories:
 - sales
 - art-of-war

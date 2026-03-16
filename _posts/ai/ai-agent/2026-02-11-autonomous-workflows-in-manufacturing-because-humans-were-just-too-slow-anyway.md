@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Autonomous Workflows in Manufacturing: Because Humans Were Just Too Slow Anyway'
-date: '2026-02-11T12:09:38'
+date: '2026-02-11T04:09:38'
 categories:
 - ai
 - ai-agent

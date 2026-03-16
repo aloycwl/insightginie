@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Institutional Alpha: How RWA Vaults Bridge Treasury Yields to DeFi'
-date: '2025-11-12T10:38:47'
+date: '2025-11-12T02:38:47'
 categories:
 - finance
 - real-world-asset-rwa

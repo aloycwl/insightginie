@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Better Ralph: An OpenClaw Skill for PRD-Driven Autonomous Coding'
-date: '2026-03-10T08:45:42'
+date: '2026-03-10T00:45:42'
 categories:
 - ai
 - openclaw

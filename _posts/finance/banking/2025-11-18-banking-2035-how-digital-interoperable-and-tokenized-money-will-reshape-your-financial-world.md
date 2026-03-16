@@ -2,7 +2,7 @@
 layout: post
 title: 'Banking 2035: How Digital, Interoperable, and Tokenized Money Will Reshape
   Your Financial World'
-date: '2025-11-18T21:45:00'
+date: '2025-11-18T13:45:00'
 categories:
 - finance
 - banking

@@ -2,7 +2,7 @@
 layout: post
 title: 'Why You Overvalue Your Stuff: Mastering the Endowment Effect in Buying &#038;
   Selling'
-date: '2025-12-06T13:53:47'
+date: '2025-12-06T05:53:47'
 categories:
 - eclectic
 - psychology

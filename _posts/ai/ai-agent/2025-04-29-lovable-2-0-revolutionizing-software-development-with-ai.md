@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lovable 2.0: Revolutionizing Software Development with AI'
-date: '2025-04-29T17:10:44'
+date: '2025-04-29T09:10:44'
 categories:
 - ai
 - ai-agent

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Fallacies Trends &#8211; Everything You Need to Know
-date: '2026-02-22T09:11:20'
+date: '2026-02-22T01:11:20'
 categories:
 - eclectic
 - fallacies

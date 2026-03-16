@@ -2,7 +2,7 @@
 layout: post
 title: 'Demystifying the CMMI Staged Structure: A Deep Dive into Process Areas, Goals,
   and Practices'
-date: '2025-07-01T17:43:34'
+date: '2025-07-01T09:43:34'
 categories:
 - business
 - operations

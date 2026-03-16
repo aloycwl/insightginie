@@ -2,7 +2,7 @@
 layout: post
 title: 'Decentralized Trust and Insurance for Autonomous Agents: Because Skynet Needs
   a Safety Net Too'
-date: '2026-02-11T12:48:19'
+date: '2026-02-11T04:48:19'
 categories:
 - ai
 - ai-agent

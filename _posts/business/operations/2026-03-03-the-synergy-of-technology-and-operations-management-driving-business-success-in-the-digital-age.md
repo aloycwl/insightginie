@@ -2,7 +2,7 @@
 layout: post
 title: 'The Synergy of Technology and Operations Management: Driving Business Success
   in the Digital Age'
-date: '2026-03-03T11:31:18'
+date: '2026-03-03T03:31:18'
 categories:
 - business
 - operations

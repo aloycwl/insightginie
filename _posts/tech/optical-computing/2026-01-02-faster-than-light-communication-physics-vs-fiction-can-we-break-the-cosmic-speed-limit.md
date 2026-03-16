@@ -2,7 +2,7 @@
 layout: post
 title: "Faster-Than-Light Communication: Physics vs. Fiction \u2013 Can We Break the\
   \ Cosmic Speed Limit?"
-date: '2026-01-02T17:44:09'
+date: '2026-01-02T09:44:09'
 categories:
 - tech
 - optical-computing

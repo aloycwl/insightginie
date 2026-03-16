@@ -2,7 +2,7 @@
 layout: post
 title: How 9 Trends Shaping Work in 2026 and Beyond &#8211; Harvard Business Review
   is Transforming Operations
-date: '2026-02-23T11:27:39'
+date: '2026-02-23T03:27:39'
 categories:
 - business
 - operations

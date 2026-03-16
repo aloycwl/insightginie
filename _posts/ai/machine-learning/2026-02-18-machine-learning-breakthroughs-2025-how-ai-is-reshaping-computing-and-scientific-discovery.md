@@ -2,7 +2,7 @@
 layout: post
 title: 'Machine Learning Breakthroughs 2025: How AI is Reshaping Computing and Scientific
   Discovery'
-date: '2026-02-18T05:32:19'
+date: '2026-02-17T21:32:19'
 categories:
 - ai
 - machine-learning

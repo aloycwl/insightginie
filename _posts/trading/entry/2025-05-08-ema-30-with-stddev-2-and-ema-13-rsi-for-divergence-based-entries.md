@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EMA-30 with StdDev-2 and EMA-13 RSI for Divergence-Based Entries
-date: '2025-05-08T20:59:34'
+date: '2025-05-08T12:59:34'
 categories:
 - trading
 - entry

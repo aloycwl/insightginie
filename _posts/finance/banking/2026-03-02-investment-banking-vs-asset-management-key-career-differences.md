@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Investment Banking vs. Asset Management: Key Career Differences'
-date: '2026-03-02T21:01:26'
+date: '2026-03-02T13:01:26'
 categories:
 - finance
 - banking

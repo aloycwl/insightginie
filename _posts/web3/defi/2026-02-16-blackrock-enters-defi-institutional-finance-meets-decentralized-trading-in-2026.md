@@ -2,7 +2,7 @@
 layout: post
 title: 'BlackRock Enters DeFi: Institutional Finance Meets Decentralized Trading in
   2026'
-date: '2026-02-16T11:17:28'
+date: '2026-02-16T03:17:28'
 categories:
 - web3
 - defi

@@ -2,7 +2,7 @@
 layout: post
 title: Sigma Announces Two More Prime Lenses for Canon Cameras, But I&#8217;m Still
   Waiting&#8230;
-date: '2026-02-25T20:01:41'
+date: '2026-02-25T12:01:41'
 categories:
 - business
 - operations

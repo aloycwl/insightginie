@@ -2,7 +2,7 @@
 layout: post
 title: "Core Definitions and the Battle Between zk-SNARKs and zk-STARKs\u2014Setup\
   \ &amp; Quantum Resistance"
-date: '2025-05-05T21:10:39'
+date: '2025-05-05T13:10:39'
 categories:
 - web3
 - zero-knowledge

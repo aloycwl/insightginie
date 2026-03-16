@@ -2,7 +2,7 @@
 layout: post
 title: FV Hospital Vietnam Leads the Future of Cancer Care with AI-Powered Robotic
   Treatment System
-date: '2025-05-15T20:11:10'
+date: '2025-05-15T12:11:10'
 categories:
 - health
 - healthtech

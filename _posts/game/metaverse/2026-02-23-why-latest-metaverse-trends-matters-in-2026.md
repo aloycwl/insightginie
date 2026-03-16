@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Latest Metaverse Trends Matters in 2026
-date: '2026-02-23T10:18:13'
+date: '2026-02-23T02:18:13'
 categories:
 - game
 - metaverse

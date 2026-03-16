@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Project Design with the OpenClaw System Architect Skill
-date: '2026-03-13T17:30:27'
+date: '2026-03-13T09:30:27'
 categories:
 - ai
 - openclaw

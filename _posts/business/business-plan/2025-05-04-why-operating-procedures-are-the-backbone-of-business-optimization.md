@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Operating Procedures Are the Backbone of Business Optimization
-date: '2025-05-04T18:16:45'
+date: '2025-05-04T10:16:45'
 categories:
 - business
 - business-plan

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KIP Protocol: Empowering Decentralized AI with Blockchain Innovation'
-date: '2025-05-02T13:17:21'
+date: '2025-05-02T05:17:21'
 categories:
 - web3
 - network

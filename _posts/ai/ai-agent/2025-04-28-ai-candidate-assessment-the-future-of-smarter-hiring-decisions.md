@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Candidate Assessment: The Future of Smarter Hiring Decisions'
-date: '2025-04-28T09:42:26'
+date: '2025-04-28T01:42:26'
 categories:
 - ai
 - ai-agent

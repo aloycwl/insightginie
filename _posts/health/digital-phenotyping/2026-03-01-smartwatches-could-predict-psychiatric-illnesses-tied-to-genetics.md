@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smartwatches Could Predict Psychiatric Illnesses Tied to Genetics
-date: '2026-03-01T17:00:52'
+date: '2026-03-01T09:00:52'
 categories:
 - health
 - digital-phenotyping

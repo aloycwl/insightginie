@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Rise of Agentic AI: Autonomous Coworkers Arriving in 2026'
-date: '2026-02-16T20:17:02'
+date: '2026-02-16T12:17:02'
 categories:
 - ai
 - ai-agent

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Rehbinder Effect: Unlocking the Secret to Material Weakening (and How
   We Use It)'
-date: '2025-12-06T22:26:35'
+date: '2025-12-06T14:26:35'
 categories:
 - eclectic
 - physics

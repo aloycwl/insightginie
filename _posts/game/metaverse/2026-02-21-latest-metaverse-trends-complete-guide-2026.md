@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Metaverse Trends: Complete Guide 2026'
-date: '2026-02-21T19:57:49'
+date: '2026-02-21T11:57:49'
 categories:
 - game
 - metaverse

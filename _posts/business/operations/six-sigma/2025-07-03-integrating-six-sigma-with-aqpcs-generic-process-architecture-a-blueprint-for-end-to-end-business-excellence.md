@@ -2,7 +2,7 @@
 layout: post
 title: "Integrating Six Sigma with AQPC\u2019s Generic Process Architecture: A Blueprint\
   \ for End-to-End Business Excellence"
-date: '2025-07-03T15:43:46'
+date: '2025-07-03T07:43:46'
 categories:
 - business
 - operations

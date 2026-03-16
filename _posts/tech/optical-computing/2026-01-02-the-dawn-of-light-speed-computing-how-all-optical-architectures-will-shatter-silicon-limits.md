@@ -2,7 +2,7 @@
 layout: post
 title: 'The Dawn of Light-Speed Computing: How All-Optical Architectures Will Shatter
   Silicon Limits'
-date: '2026-01-02T17:38:09'
+date: '2026-01-02T09:38:09'
 categories:
 - tech
 - optical-computing

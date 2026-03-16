@@ -2,7 +2,7 @@
 layout: post
 title: Singapore&#8217;s Energy Game-Changer? How Small Modular Reactors Could Power
   the Nation&#8217;s Future
-date: '2025-10-28T12:09:19'
+date: '2025-10-28T04:09:19'
 categories:
 - tech
 - energy

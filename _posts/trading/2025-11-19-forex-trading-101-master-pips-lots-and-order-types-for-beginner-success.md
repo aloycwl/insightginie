@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Forex Trading 101: Master Pips, Lots, and Order Types for Beginner Success'
-date: '2025-11-19T12:21:47'
+date: '2025-11-19T04:21:47'
 categories:
 - trading
 original_url: https://insightginie.com/forex-trading-101-master-pips-lots-and-order-types-for-beginner-success/

@@ -2,7 +2,7 @@
 layout: post
 title: 'AI-Powered Co-Scientists: Transforming Research and Innovation in the 21st
   Century'
-date: '2025-04-24T08:54:24'
+date: '2025-04-24T00:54:24'
 categories:
 - health
 - bioscience

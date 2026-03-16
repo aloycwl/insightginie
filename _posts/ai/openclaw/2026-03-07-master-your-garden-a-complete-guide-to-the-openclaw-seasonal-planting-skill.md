@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Master Your Garden: A Complete Guide to the OpenClaw Seasonal Planting Skill'
-date: '2026-03-07T21:30:24'
+date: '2026-03-07T13:30:24'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crypto Genie v2.0: The Ultimate Local AI-Powered Cryptocurrency Scam Detector'
-date: '2026-03-11T01:31:41'
+date: '2026-03-10T17:31:41'
 categories:
 - ai
 - openclaw

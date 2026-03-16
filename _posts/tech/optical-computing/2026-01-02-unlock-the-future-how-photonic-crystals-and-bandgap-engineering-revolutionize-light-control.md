@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock the Future: How Photonic Crystals and Bandgap Engineering Revolutionize
   Light Control'
-date: '2026-01-02T17:37:15'
+date: '2026-01-02T09:37:15'
 categories:
 - tech
 - optical-computing

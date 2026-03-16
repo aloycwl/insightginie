@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Revolutionizing Learning, Teaching, and the Future of Classrooms
-date: '2025-04-24T08:02:28'
+date: '2025-04-24T00:02:28'
 categories:
 - ai
 - ai-in-general

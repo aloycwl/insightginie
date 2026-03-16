@@ -2,7 +2,7 @@
 layout: post
 title: 'Explain what this OpenClaw skill does: How to Find and Book Doctors with Real-Time
   Availability Using OpenClaw &#038; Zocdoc'
-date: '2026-03-09T11:45:59'
+date: '2026-03-09T03:45:59'
 categories:
 - ai
 - openclaw

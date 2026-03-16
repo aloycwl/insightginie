@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Applying Lean Six Sigma to the Healthcare Revenue Cycle
-date: '2026-03-03T01:03:31'
+date: '2026-03-02T17:03:31'
 categories:
 - business
 - operations

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Art of War Series: Laying Plans'
-date: '2025-05-27T14:24:20'
+date: '2025-05-27T06:24:20'
 categories:
 - sales
 - art-of-war

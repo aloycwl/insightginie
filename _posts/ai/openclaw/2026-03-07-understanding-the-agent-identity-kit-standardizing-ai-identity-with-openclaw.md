@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the Agent Identity Kit: Standardizing AI Identity with OpenClaw'
-date: '2026-03-07T20:30:22'
+date: '2026-03-07T12:30:22'
 categories:
 - ai
 - openclaw

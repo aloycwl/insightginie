@@ -2,7 +2,7 @@
 layout: post
 title: "Discovering New Physics: How Quantum Simulations Are Unveiling the Universe\u2019\
   s Hidden Laws"
-date: '2025-09-04T13:36:09'
+date: '2025-09-04T05:36:09'
 categories:
 - tech
 - quantum

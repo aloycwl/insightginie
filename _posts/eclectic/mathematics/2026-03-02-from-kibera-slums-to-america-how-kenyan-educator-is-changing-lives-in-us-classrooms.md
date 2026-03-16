@@ -2,7 +2,7 @@
 layout: post
 title: 'From Kibera Slums to America: How Kenyan Educator is Changing Lives in US
   Classrooms'
-date: '2026-03-02T00:32:04'
+date: '2026-03-01T16:32:04'
 categories:
 - eclectic
 - mathematics

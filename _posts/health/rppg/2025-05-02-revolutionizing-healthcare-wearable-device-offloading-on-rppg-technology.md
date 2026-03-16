@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revolutionizing Healthcare: Wearable-Device Offloading on rPPG Technology'
-date: '2025-05-02T12:53:52'
+date: '2025-05-02T04:53:52'
 categories:
 - health
 - rppg

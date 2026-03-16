@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Living Algorithms: When AI Meets DNA to Revolutionize Computing &#038; Life'
-date: '2025-10-21T21:38:51'
+date: '2025-10-21T13:38:51'
 categories:
 - tech
 - bio-computer

@@ -2,7 +2,7 @@
 layout: post
 title: 'Coal Power Plants Unveiled: How They Work, Why They Matter, &#038; Their Global
   Impact'
-date: '2025-10-28T11:14:15'
+date: '2025-10-28T03:14:15'
 categories:
 - tech
 - energy

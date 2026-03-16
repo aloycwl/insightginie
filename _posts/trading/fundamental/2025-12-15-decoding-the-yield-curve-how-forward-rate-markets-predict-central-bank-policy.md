@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Decoding the Yield Curve: How Forward Rate Markets Predict Central Bank Policy'
-date: '2025-12-15T14:17:09'
+date: '2025-12-15T06:17:09'
 categories:
 - trading
 - fundamental

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill: Backend Development Patterns and Best Practices'
-date: '2026-03-10T16:16:22'
+date: '2026-03-10T08:16:22'
 categories:
 - ai
 - openclaw

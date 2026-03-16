@@ -2,7 +2,7 @@
 layout: post
 title: 'How PSP Empowers TSP Teams to Deliver High-Quality Software On Time: A Six
   Sigma Approach'
-date: '2025-07-08T13:51:07'
+date: '2025-07-08T05:51:07'
 categories:
 - business
 - operations

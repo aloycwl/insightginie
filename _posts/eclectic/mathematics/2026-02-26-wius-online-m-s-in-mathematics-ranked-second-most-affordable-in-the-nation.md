@@ -2,7 +2,7 @@
 layout: post
 title: WIU&#8217;s Online M.S. in Mathematics Ranked Second Most Affordable in the
   Nation
-date: '2026-02-26T15:31:41'
+date: '2026-02-26T07:31:41'
 categories:
 - eclectic
 - mathematics

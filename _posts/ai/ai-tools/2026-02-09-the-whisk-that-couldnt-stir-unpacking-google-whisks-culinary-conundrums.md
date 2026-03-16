@@ -2,7 +2,7 @@
 layout: post
 title: 'The Whisk That Couldn&#8217;t Stir: Unpacking Google Whisk&#8217;s Culinary
   Conundrums'
-date: '2026-02-09T10:22:51'
+date: '2026-02-09T02:22:51'
 categories:
 - ai
 - ai-tools

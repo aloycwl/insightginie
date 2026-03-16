@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Errantry Framework: Mapping Wizardry to Agentic AI Architecture'
-date: '2026-03-05T23:21:32'
+date: '2026-03-05T15:21:32'
 categories:
 - ai
 - openclaw

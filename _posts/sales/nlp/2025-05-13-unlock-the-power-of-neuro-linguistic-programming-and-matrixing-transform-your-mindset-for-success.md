@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock the Power of Neuro-Linguistic Programming and Matrixing: Transform
   Your Mindset for Success'
-date: '2025-05-13T15:26:32'
+date: '2025-05-13T07:26:32'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: 'Smart Lighting&#8217;s Next Leap: Self-Adaptive LightGen Systems Driven by
   Machine Learning'
-date: '2026-01-02T17:39:17'
+date: '2026-01-02T09:39:17'
 categories:
 - tech
 - optical-computing

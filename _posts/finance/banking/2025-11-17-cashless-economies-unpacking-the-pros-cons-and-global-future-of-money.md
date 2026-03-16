@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cashless Economies: Unpacking the Pros, Cons, and Global Future of Money'
-date: '2025-11-17T20:45:00'
+date: '2025-11-17T12:45:00'
 categories:
 - finance
 - banking

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is NLP? Natural Language Processing Explained for Beginners
-date: '2026-03-11T01:47:22'
+date: '2026-03-10T17:47:22'
 categories:
 - sales
 - nlp

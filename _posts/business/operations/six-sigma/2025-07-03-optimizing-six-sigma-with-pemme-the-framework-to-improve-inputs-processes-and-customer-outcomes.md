@@ -2,7 +2,7 @@
 layout: post
 title: 'Optimizing Six Sigma with PEMME: The Framework to Improve Inputs, Processes,
   and Customer Outcomes'
-date: '2025-07-03T15:40:23'
+date: '2025-07-03T07:40:23'
 categories:
 - business
 - operations

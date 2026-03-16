@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill: gopls-lsp &#8211; Go Language Server Integration'
-date: '2026-03-16T20:15:38'
+date: '2026-03-16T12:15:38'
 categories:
 - ai
 - openclaw

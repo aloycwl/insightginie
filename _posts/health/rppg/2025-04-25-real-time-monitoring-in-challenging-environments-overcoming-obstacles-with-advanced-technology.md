@@ -2,7 +2,7 @@
 layout: post
 title: 'Real-Time Monitoring in Challenging Environments: Overcoming Obstacles with
   Advanced Technology'
-date: '2025-04-25T12:58:02'
+date: '2025-04-25T04:58:02'
 categories:
 - health
 - rppg

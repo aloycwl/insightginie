@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Sales Cycle Trends &#8211; Everything You Need to Know
-date: '2026-02-23T20:28:19'
+date: '2026-02-23T12:28:19'
 categories:
 - sales
 - sales-cycle

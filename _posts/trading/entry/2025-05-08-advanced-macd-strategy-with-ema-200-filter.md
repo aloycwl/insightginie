@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advanced MACD Strategy with EMA-200 Filter
-date: '2025-05-08T21:06:07'
+date: '2025-05-08T13:06:07'
 categories:
 - trading
 - entry

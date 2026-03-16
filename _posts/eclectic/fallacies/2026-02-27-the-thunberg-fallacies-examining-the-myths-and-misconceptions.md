@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Thunberg Fallacies: Examining the Myths and Misconceptions'
-date: '2026-02-27T07:02:47'
+date: '2026-02-26T23:02:47'
 categories:
 - eclectic
 - fallacies

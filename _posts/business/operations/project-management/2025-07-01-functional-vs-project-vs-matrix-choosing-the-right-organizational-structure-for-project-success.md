@@ -2,7 +2,7 @@
 layout: post
 title: 'Functional vs. Project vs. Matrix: Choosing the Right Organizational Structure
   for Project Success'
-date: '2025-07-01T16:32:13'
+date: '2025-07-01T08:32:13'
 categories:
 - business
 - operations

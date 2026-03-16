@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the OpenClaw Revenue Calculator Skill
-date: '2026-03-15T14:15:33'
+date: '2026-03-15T06:15:33'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How Sideload Avatar Generator Works: Text-to-3D on Sideload.gg with x402 Payments'
-date: '2026-03-15T19:45:59'
+date: '2026-03-15T11:45:59'
 categories:
 - ai
 - openclaw

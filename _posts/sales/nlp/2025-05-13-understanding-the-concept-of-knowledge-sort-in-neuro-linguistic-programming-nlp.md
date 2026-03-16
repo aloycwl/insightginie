@@ -2,7 +2,7 @@
 layout: post
 title: Understanding the Concept of Knowledge Sort in Neuro-Linguistic Programming
   (NLP)
-date: '2025-05-13T12:35:55'
+date: '2025-05-13T04:35:55'
 categories:
 - sales
 - nlp

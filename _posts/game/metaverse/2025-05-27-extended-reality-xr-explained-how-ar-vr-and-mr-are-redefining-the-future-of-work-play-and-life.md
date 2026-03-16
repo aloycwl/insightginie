@@ -2,7 +2,7 @@
 layout: post
 title: 'Extended Reality (XR) Explained: How AR, VR, and MR Are Redefining the Future
   of Work, Play, and Life'
-date: '2025-05-27T11:56:14'
+date: '2025-05-27T03:56:14'
 categories:
 - game
 - metaverse

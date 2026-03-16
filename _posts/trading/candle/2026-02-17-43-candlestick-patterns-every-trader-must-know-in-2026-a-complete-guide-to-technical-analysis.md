@@ -2,7 +2,7 @@
 layout: post
 title: '43 Candlestick Patterns Every Trader Must Know in 2026: A Complete Guide to
   Technical Analysis'
-date: '2026-02-17T00:03:55'
+date: '2026-02-16T16:03:55'
 categories:
 - trading
 - candle

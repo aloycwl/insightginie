@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade the Flag Pattern
-date: '2025-05-05T12:37:33'
+date: '2025-05-05T04:37:33'
 categories:
 - trading
 - pattern

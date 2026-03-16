@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lily Memory: Persistent Memory Plugin for OpenClaw Agents'
-date: '2026-03-05T11:01:52'
+date: '2026-03-05T03:01:52'
 categories:
 - ai
 - openclaw

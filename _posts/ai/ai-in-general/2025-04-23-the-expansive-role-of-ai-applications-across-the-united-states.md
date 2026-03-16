@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Expansive Role of AI Applications Across the United States
-date: '2025-04-23T21:21:19'
+date: '2025-04-23T13:21:19'
 categories:
 - ai
 - ai-in-general

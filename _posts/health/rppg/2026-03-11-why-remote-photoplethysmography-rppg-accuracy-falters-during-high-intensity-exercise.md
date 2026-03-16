@@ -2,7 +2,7 @@
 layout: post
 title: Why Remote Photoplethysmography (rPPG) Accuracy Falters During High-Intensity
   Exercise
-date: '2026-03-11T05:30:28'
+date: '2026-03-10T21:30:28'
 categories:
 - health
 - rppg

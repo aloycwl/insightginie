@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma and Preliminary Hazard Analysis (PHA): Early Risk Assessment for
   Safer Systems'
-date: '2025-08-25T11:07:19'
+date: '2025-08-25T03:07:19'
 categories:
 - business
 - operations

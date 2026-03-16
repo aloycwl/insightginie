@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond AI: Why Bio-Computing is Poised to Be the Next Technological Revolution'
-date: '2025-10-21T10:33:24'
+date: '2025-10-21T02:33:24'
 categories:
 - tech
 - bio-computer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Digital Twins Are Transforming Industries
-date: '2025-04-24T08:13:14'
+date: '2025-04-24T00:13:14'
 categories:
 - health
 - bioscience

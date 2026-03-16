@@ -2,7 +2,7 @@
 layout: post
 title: "\u2018Militantropos\u2019 Directors on Identity and the Limits of Art: \u201C\
   The War Has Become Part of Us\u201D"
-date: '2026-03-01T12:01:19'
+date: '2026-03-01T04:01:19'
 categories:
 - sales
 - art-of-war

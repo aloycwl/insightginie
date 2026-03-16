@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the 0protocol Skill: Identity and Trust for Autonomous Agents'
-date: '2026-03-12T22:30:36'
+date: '2026-03-12T14:30:36'
 categories:
 - ai
 - openclaw

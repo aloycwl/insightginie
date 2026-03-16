@@ -2,7 +2,7 @@
 layout: post
 title: "Taguchi\u2019s Definition of Quality: Why \u201CLoss to Society\u201D Redefines\
   \ Modern Quality Management"
-date: '2025-08-20T15:15:39'
+date: '2025-08-20T07:15:39'
 categories:
 - business
 - operations

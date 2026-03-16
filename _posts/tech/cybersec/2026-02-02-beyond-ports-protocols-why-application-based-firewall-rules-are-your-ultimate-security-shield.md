@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Ports &#038; Protocols: Why Application-Based Firewall Rules are Your
   Ultimate Security Shield'
-date: '2026-02-02T19:25:07'
+date: '2026-02-02T11:25:07'
 categories:
 - tech
 - cybersec

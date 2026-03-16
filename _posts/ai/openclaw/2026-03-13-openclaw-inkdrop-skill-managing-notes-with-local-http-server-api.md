@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Inkdrop Skill: Managing Notes with Local HTTP Server API'
-date: '2026-03-13T00:17:51'
+date: '2026-03-12T16:17:51'
 categories:
 - ai
 - openclaw

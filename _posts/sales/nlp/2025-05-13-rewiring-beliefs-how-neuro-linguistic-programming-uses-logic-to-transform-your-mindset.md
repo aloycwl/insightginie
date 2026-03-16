@@ -2,7 +2,7 @@
 layout: post
 title: 'Rewiring Beliefs: How Neuro-Linguistic Programming Uses Logic to Transform
   Your Mindset'
-date: '2025-05-13T15:06:38'
+date: '2025-05-13T07:06:38'
 categories:
 - sales
 - nlp

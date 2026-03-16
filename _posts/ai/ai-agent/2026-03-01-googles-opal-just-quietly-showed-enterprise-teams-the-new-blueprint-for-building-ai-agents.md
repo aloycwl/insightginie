@@ -2,7 +2,7 @@
 layout: post
 title: Google&#8217;s Opal Just Quietly Showed Enterprise Teams the New Blueprint
   for Building AI Agents
-date: '2026-03-01T12:30:58'
+date: '2026-03-01T04:30:58'
 categories:
 - ai
 - ai-agent

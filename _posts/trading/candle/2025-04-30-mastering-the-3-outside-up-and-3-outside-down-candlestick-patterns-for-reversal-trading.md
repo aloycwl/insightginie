@@ -2,7 +2,7 @@
 layout: post
 title: Mastering the 3 Outside Up and 3 Outside Down Candlestick Patterns for Reversal
   Trading
-date: '2025-04-30T10:11:02'
+date: '2025-04-30T02:11:02'
 categories:
 - trading
 - candle

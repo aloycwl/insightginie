@@ -2,7 +2,7 @@
 layout: post
 title: "(47/50) Advanced topics II \u2014 reinforcement learning for execution &amp;\
   \ allocation"
-date: '2025-10-18T23:12:42'
+date: '2025-10-18T15:12:42'
 categories:
 - trading
 - quantitative-ai

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anima Avatar &#8211; Interactive Video Generation Engine
-date: '2026-03-08T21:18:38'
+date: '2026-03-08T13:18:38'
 categories:
 - ai
 - openclaw

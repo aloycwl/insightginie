@@ -2,7 +2,7 @@
 layout: post
 title: 'Illuminating Health: How Light-Based Sensors Are Revolutionizing Medical Imaging
   &#038; Diagnostics'
-date: '2026-01-01T12:14:20'
+date: '2026-01-01T04:14:20'
 categories:
 - tech
 - optical-computing

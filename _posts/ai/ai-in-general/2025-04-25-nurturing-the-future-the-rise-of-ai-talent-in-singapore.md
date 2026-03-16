@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nurturing the Future: The Rise of AI Talent in Singapore'
-date: '2025-04-25T16:34:42'
+date: '2025-04-25T08:34:42'
 categories:
 - ai
 - ai-in-general

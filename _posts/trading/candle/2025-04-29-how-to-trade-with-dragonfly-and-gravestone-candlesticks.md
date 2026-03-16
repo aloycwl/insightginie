@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Dragonfly and Gravestone Candlesticks
-date: '2025-04-29T17:06:42'
+date: '2025-04-29T09:06:42'
 categories:
 - trading
 - candle

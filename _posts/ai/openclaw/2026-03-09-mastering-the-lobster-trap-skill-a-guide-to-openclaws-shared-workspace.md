@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the Lobster Trap Skill: A Guide to OpenClaw&#8217;s Shared Workspace'
-date: '2026-03-09T16:30:25'
+date: '2026-03-09T08:30:25'
 categories:
 - ai
 - openclaw

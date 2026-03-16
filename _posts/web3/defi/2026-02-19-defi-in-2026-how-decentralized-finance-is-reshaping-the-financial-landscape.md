@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DeFi in 2026: How Decentralized Finance is Reshaping the Financial Landscape'
-date: '2026-02-19T05:47:43'
+date: '2026-02-18T21:47:43'
 categories:
 - web3
 - defi

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Academic Research with OpenClaw: A Guide to the hxxra Skill'
-date: '2026-03-08T12:00:30'
+date: '2026-03-08T04:00:30'
 categories:
 - ai
 - openclaw

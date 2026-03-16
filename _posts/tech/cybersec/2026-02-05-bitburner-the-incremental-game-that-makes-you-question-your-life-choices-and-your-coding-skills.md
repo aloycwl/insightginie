@@ -2,7 +2,7 @@
 layout: post
 title: 'Bitburner: The Incremental Game That Makes You Question Your Life Choices
   (And Your Coding Skills)'
-date: '2026-02-05T13:59:54'
+date: '2026-02-05T05:59:54'
 categories:
 - tech
 - cybersec

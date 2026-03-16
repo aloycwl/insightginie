@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the OpenClaw Skill for Creating and Validating Agent Skills
-date: '2026-03-07T09:46:00'
+date: '2026-03-07T01:46:00'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sniffing Out 2026: Your Essential Guide to the Future&#8217;s Biggest Trends'
-date: '2026-02-02T19:11:53'
+date: '2026-02-02T11:11:53'
 categories:
 - tech
 - cybersec

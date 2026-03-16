@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 365 Cloud PCs Go Global \u2014 But Is a Subscription Desktop Really\
   \ the Future of Computing?"
-date: '2026-03-01T06:31:58'
+date: '2026-02-28T22:31:58'
 categories:
 - tech
 - cloud

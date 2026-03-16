@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding MemData: Persistent Memory for Autonomous Agents in OpenClaw'
-date: '2026-03-11T12:30:21'
+date: '2026-03-11T04:30:21'
 categories:
 - ai
 - openclaw

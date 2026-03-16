@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Gitignore Sync Skill in OpenClaw
-date: '2026-03-13T11:15:38'
+date: '2026-03-13T03:15:38'
 categories:
 - ai
 - openclaw

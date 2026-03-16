@@ -2,7 +2,7 @@
 layout: post
 title: 'The Fine Print Trap: 8 Critical M&amp;A Terms That Can Make or Break Your
   Deal'
-date: '2025-12-08T20:04:23'
+date: '2025-12-08T12:04:23'
 categories:
 - business
 - business-plan

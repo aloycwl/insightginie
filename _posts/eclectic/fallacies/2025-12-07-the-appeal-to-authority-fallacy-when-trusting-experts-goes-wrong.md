@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Appeal to Authority Fallacy: When Trusting Experts Goes Wrong'
-date: '2025-12-07T22:20:26'
+date: '2025-12-07T14:20:26'
 categories:
 - eclectic
 - fallacies

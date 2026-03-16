@@ -2,7 +2,7 @@
 layout: post
 title: 'Comprehensive Guide to OpenClaw&#8217;s FHIR Questionnaire Skill: Streamlining
   Healthcare Data Collection'
-date: '2026-03-08T23:46:22'
+date: '2026-03-08T15:46:22'
 categories:
 - ai
 - openclaw

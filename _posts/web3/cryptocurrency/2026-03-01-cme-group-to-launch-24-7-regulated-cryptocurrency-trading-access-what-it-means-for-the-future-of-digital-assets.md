@@ -2,7 +2,7 @@
 layout: post
 title: 'CME Group to Launch 24/7 Regulated Cryptocurrency Trading Access: What It
   Means for the Future of Digital Assets'
-date: '2026-03-01T03:31:35'
+date: '2026-02-28T19:31:35'
 categories:
 - web3
 - cryptocurrency

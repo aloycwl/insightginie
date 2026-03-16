@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Cybersec Trends: Complete Guide 2026'
-date: '2026-02-21T04:57:33'
+date: '2026-02-20T20:57:33'
 categories:
 - tech
 - cybersec

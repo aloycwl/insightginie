@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Illuminating Immersion: How Light Generation Transforms AR &#038; VR Realism'
-date: '2026-01-01T12:16:52'
+date: '2026-01-01T04:16:52'
 categories:
 - tech
 - optical-computing

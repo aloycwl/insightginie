@@ -2,7 +2,7 @@
 layout: post
 title: 'How to Automate Phishing: A Guide for the Ethically Challenged (But Technically
   Curious)'
-date: '2026-02-04T14:46:42'
+date: '2026-02-04T06:46:42'
 categories:
 - tech
 - cybersec

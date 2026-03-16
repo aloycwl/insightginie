@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding SkillGate: Securing Your OpenClaw Ecosystem'
-date: '2026-03-12T08:30:22'
+date: '2026-03-12T00:30:22'
 categories:
 - ai
 - openclaw

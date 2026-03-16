@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Passive Income: Master Yield Generation &#038; Distribution Through
   Coupons, Rent &#038; Royalties'
-date: '2025-11-13T11:12:45'
+date: '2025-11-13T03:12:45'
 categories:
 - finance
 - real-world-asset-rwa

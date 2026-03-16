@@ -2,7 +2,7 @@
 layout: post
 title: "Agentic Commerce Beyond Purchases: Because Negotiation Isn\u2019t Just for\
   \ Used Car Salesmen Anymore"
-date: '2026-02-11T12:54:47'
+date: '2026-02-11T04:54:47'
 categories:
 - ai
 - ai-agent

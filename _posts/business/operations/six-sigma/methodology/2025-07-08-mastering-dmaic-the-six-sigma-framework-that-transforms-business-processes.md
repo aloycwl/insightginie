@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering DMAIC: The Six Sigma Framework That Transforms Business Processes'
-date: '2025-07-08T13:44:33'
+date: '2025-07-08T05:44:33'
 categories:
 - business
 - operations

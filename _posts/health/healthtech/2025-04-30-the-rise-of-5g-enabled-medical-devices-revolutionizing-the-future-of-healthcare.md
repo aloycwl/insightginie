@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Rise of 5G-Enabled Medical Devices: Revolutionizing the Future of Healthcare'
-date: '2025-04-30T17:01:01'
+date: '2025-04-30T09:01:01'
 categories:
 - health
 - healthtech

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Burden of Proof Fallacy: Why &#8220;Prove Me Wrong&#8221; Is Flawed Logic'
-date: '2025-12-07T22:29:21'
+date: '2025-12-07T14:29:21'
 categories:
 - eclectic
 - fallacies

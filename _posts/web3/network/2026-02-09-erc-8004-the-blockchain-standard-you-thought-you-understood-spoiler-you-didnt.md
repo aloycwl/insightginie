@@ -2,7 +2,7 @@
 layout: post
 title: 'ERC-8004: The Blockchain Standard You *Thought* You Understood (Spoiler: You
   Didn&#8217;t)'
-date: '2026-02-09T17:30:36'
+date: '2026-02-09T09:30:36'
 categories:
 - web3
 - network

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Digital Twin Generation: Creating Photorealistic AI Avatars with each::sense'
-date: '2026-03-13T17:16:11'
+date: '2026-03-13T09:16:11'
 categories:
 - ai
 - openclaw

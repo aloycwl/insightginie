@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the Art of Outreach: A Guide to the OpenClaw Prospecting Skill'
-date: '2026-03-07T12:30:28'
+date: '2026-03-07T04:30:28'
 categories:
 - ai
 - openclaw

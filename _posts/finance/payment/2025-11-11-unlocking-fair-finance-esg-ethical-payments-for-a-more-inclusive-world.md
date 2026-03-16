@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Fair Finance: ESG &#038; Ethical Payments for a More Inclusive World'
-date: '2025-11-11T10:33:25'
+date: '2025-11-11T02:33:25'
 categories:
 - finance
 - payment

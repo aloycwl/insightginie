@@ -2,7 +2,7 @@
 layout: post
 title: 'Pipeline Coaching Strategies That Drive Revenue: Mastering Funnel Value, Volume,
   Velocity, and Forecast Accuracy'
-date: '2025-05-08T13:06:20'
+date: '2025-05-08T05:06:20'
 categories:
 - sales
 - sales-cycle

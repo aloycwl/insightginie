@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(13/50) Feature engineering III \u2014 alternative &amp; external features"
-date: '2025-10-08T12:47:54'
+date: '2025-10-08T04:47:54'
 categories:
 - trading
 - quantitative-ai

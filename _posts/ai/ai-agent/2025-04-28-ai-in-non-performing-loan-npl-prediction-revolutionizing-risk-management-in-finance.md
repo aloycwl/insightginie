@@ -2,7 +2,7 @@
 layout: post
 title: 'AI in Non-Performing Loan (NPL) Prediction: Revolutionizing Risk Management
   in Finance'
-date: '2025-04-28T21:05:34'
+date: '2025-04-28T13:05:34'
 categories:
 - ai
 - ai-agent

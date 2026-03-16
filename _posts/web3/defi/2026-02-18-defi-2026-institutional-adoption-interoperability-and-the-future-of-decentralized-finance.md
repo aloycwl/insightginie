@@ -2,7 +2,7 @@
 layout: post
 title: 'DeFi 2026: Institutional Adoption, Interoperability, and the Future of Decentralized
   Finance'
-date: '2026-02-18T02:03:13'
+date: '2026-02-17T18:03:13'
 categories:
 - web3
 - defi

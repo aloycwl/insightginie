@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Optimization: A Deep Dive into the Artificial Bee Colony (ABC) Algorithm'
-date: '2025-12-07T18:04:17'
+date: '2025-12-07T10:04:17'
 categories:
 - eclectic
 - metaheuristics

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Data Manipulation: An In-Depth Guide to the OpenClaw Encoding-Formats
   Skill'
-date: '2026-03-14T20:00:37'
+date: '2026-03-14T12:00:37'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Silicon: How Synthetic Biology Is Powering the Bio-Computing Revolution'
-date: '2025-10-21T10:27:40'
+date: '2025-10-21T02:27:40'
 categories:
 - tech
 - bio-computer

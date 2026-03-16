@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding OpenClaw&#8217;s Maritime-Watch Skill: Comprehensive Port Monitoring
   Explained'
-date: '2026-03-15T11:30:27'
+date: '2026-03-15T03:30:27'
 categories:
 - ai
 - openclaw

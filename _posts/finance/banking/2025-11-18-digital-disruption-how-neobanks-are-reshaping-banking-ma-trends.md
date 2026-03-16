@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Digital Disruption: How Neobanks Are Reshaping Banking M&#038;A Trends'
-date: '2025-11-18T21:00:00'
+date: '2025-11-18T13:00:00'
 categories:
 - finance
 - banking

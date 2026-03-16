@@ -2,7 +2,7 @@
 layout: post
 title: 'Harnessing Hardware Acceleration for Zero-Knowledge Proofs: Boosting ZKP Efficiency
   and Scalability'
-date: '2025-05-05T20:49:50'
+date: '2025-05-05T12:49:50'
 categories:
 - web3
 - zero-knowledge

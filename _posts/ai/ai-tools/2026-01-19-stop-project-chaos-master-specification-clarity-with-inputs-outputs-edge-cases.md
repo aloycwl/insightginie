@@ -2,7 +2,7 @@
 layout: post
 title: 'Stop Project Chaos: Master Specification Clarity with Inputs, Outputs &#038;
   Edge Cases'
-date: '2026-01-19T13:59:46'
+date: '2026-01-19T05:59:46'
 categories:
 - ai
 - ai-tools

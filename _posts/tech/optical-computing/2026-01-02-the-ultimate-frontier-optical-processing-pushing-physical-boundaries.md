@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Ultimate Frontier: Optical Processing Pushing Physical Boundaries'
-date: '2026-01-02T17:42:18'
+date: '2026-01-02T09:42:18'
 categories:
 - tech
 - optical-computing

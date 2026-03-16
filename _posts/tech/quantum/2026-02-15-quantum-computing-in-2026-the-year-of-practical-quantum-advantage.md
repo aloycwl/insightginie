@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum Computing in 2026: The Year of Practical Quantum Advantage'
-date: '2026-02-15T21:02:52'
+date: '2026-02-15T13:02:52'
 categories:
 - tech
 - quantum

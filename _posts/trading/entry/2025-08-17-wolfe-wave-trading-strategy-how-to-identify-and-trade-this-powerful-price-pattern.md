@@ -2,7 +2,7 @@
 layout: post
 title: 'Wolfe Wave Trading Strategy: How to Identify and Trade This Powerful Price
   Pattern'
-date: '2025-08-17T22:44:26'
+date: '2025-08-17T14:44:26'
 categories:
 - trading
 - entry

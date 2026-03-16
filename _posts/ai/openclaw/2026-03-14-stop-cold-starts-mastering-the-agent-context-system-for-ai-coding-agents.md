@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stop Cold Starts: Mastering the Agent Context System for AI Coding Agents'
-date: '2026-03-14T10:00:27'
+date: '2026-03-14T02:00:27'
 categories:
 - ai
 - openclaw

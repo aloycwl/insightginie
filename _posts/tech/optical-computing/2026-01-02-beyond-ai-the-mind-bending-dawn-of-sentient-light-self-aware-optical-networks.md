@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond AI: The Mind-Bending Dawn of Sentient Light &#038; Self-Aware Optical
   Networks'
-date: '2026-01-02T17:43:23'
+date: '2026-01-02T09:43:23'
 categories:
 - tech
 - optical-computing

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All You Need to Know About Remote Photoplethysmography (rPPG)
-date: '2025-04-21T21:56:44'
+date: '2025-04-21T13:56:44'
 categories:
 - health
 - rppg

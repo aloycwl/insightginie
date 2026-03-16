@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Explainable AI (XAI): Making Artificial Intelligence Transparent and Trustworthy'
-date: '2025-04-30T16:23:48'
+date: '2025-04-30T08:23:48'
 categories:
 - ai
 - ai-agent

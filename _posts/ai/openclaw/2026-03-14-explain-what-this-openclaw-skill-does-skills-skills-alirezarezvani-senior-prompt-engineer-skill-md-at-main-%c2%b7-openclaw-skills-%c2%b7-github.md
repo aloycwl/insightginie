@@ -2,7 +2,7 @@
 layout: post
 title: "Explain what this OpenClaw skill does: skills/skills/alirezarezvani/senior-prompt-engineer/SKILL.md\
   \ at main \xB7 openclaw/skills \xB7 GitHub"
-date: '2026-03-14T00:45:34'
+date: '2026-03-13T16:45:34'
 categories:
 - ai
 - openclaw

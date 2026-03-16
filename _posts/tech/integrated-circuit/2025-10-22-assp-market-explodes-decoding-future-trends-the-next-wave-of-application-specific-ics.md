@@ -2,7 +2,7 @@
 layout: post
 title: 'ASSP Market Explodes: Decoding Future Trends &#038; The Next Wave of Application-Specific
   ICs'
-date: '2025-10-22T14:20:23'
+date: '2025-10-22T06:20:23'
 categories:
 - tech
 - integrated-circuit

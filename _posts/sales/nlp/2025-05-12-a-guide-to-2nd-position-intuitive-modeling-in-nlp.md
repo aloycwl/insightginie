@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Guide to 2nd Position Intuitive Modeling in NLP
-date: '2025-05-12T10:31:47'
+date: '2025-05-12T02:31:47'
 categories:
 - sales
 - nlp

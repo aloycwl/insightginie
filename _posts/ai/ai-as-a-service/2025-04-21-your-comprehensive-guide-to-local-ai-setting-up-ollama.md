@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Comprehensive Guide to Local AI &amp; Setting Up Ollama
-date: '2025-04-21T21:15:43'
+date: '2025-04-21T13:15:43'
 categories:
 - ai
 - ai-as-a-service

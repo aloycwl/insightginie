@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Bullish and Bearish Stick Sandwich Candlestick Patterns
-date: '2025-04-30T10:21:05'
+date: '2025-04-30T02:21:05'
 categories:
 - trading
 - candle

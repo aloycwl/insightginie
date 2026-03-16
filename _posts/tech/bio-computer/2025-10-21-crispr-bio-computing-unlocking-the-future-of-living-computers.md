@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CRISPR &#038; Bio-Computing: Unlocking the Future of Living Computers'
-date: '2025-10-21T10:28:28'
+date: '2025-10-21T02:28:28'
 categories:
 - tech
 - bio-computer

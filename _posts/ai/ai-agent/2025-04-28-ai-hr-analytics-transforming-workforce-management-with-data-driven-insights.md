@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI HR Analytics: Transforming Workforce Management with Data-Driven Insights'
-date: '2025-04-28T09:40:50'
+date: '2025-04-28T01:40:50'
 categories:
 - ai
 - ai-agent

@@ -2,7 +2,7 @@
 layout: post
 title: 'UHS to Roll Out Behavioral Health Revenue Cycle AI Tools in 2026: A Game-Changer
   for Mental Health Services'
-date: '2026-03-03T12:02:47'
+date: '2026-03-03T04:02:47'
 categories:
 - ai
 - ai-tools

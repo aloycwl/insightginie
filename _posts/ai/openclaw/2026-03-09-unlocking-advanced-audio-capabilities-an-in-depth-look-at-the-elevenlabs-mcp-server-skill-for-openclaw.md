@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Advanced Audio Capabilities: An In-Depth Look at the ElevenLabs
   MCP Server Skill for OpenClaw'
-date: '2026-03-09T15:30:26'
+date: '2026-03-09T07:30:26'
 categories:
 - ai
 - openclaw

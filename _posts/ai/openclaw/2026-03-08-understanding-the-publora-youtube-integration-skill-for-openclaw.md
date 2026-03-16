@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Publora-YouTube Integration Skill for OpenClaw
-date: '2026-03-08T08:45:47'
+date: '2026-03-08T00:45:47'
 categories:
 - ai
 - openclaw

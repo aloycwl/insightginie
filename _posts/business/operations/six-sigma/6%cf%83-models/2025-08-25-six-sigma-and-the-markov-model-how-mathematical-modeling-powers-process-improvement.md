@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Six Sigma and the Markov Model: How Mathematical Modeling Powers Process Improvement'
-date: '2025-08-25T09:47:02'
+date: '2025-08-25T01:47:02'
 categories:
 - business
 - operations

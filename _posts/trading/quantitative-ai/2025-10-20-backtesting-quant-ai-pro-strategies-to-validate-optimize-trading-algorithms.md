@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Backtesting Quant AI: Pro Strategies to Validate &#038; Optimize Trading Algorithms'
-date: '2025-10-20T12:13:06'
+date: '2025-10-20T04:13:06'
 categories:
 - trading
 - quantitative-ai

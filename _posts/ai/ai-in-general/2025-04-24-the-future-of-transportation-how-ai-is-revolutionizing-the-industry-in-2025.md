@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future of Transportation: How AI is Revolutionizing the Industry in 2025'
-date: '2025-04-24T08:33:48'
+date: '2025-04-24T00:33:48'
 categories:
 - ai
 - ai-in-general

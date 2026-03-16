@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Web3&#8217;s Potential: How Oracles Power On-Chain Valuations, Payments
   &#038; Redemption'
-date: '2025-11-13T10:46:23'
+date: '2025-11-13T02:46:23'
 categories:
 - finance
 - real-world-asset-rwa

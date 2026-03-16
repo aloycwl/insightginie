@@ -2,7 +2,7 @@
 layout: post
 title: 'Layer 2 Scaling with Accountability: How Centralized Sequencers Bridge Performance
   and Compliance in Ethereum'
-date: '2025-05-02T12:43:09'
+date: '2025-05-02T04:43:09'
 categories:
 - web3
 - defi

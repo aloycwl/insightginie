@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Tidbyt-Status Skill: A Comprehensive Guide'
-date: '2026-03-06T23:45:51'
+date: '2026-03-06T15:45:51'
 categories:
 - ai
 - openclaw

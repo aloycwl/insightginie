@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How LivelyWallpaper &#8211; Reddit is Transforming Six Sigma
-date: '2026-02-24T09:39:12'
+date: '2026-02-24T01:39:12'
 categories:
 - business
 - operations

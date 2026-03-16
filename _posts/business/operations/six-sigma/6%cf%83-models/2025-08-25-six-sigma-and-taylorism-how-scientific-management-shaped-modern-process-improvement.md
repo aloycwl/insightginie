@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Six Sigma and Taylorism: How Scientific Management Shaped Modern Process Improvement'
-date: '2025-08-25T09:43:58'
+date: '2025-08-25T01:43:58'
 categories:
 - business
 - operations

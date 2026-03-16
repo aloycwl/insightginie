@@ -2,7 +2,7 @@
 layout: post
 title: Necessity, Possibility, Impossibility, and Desire in Neuro-Linguistic Programming
   (NLP)
-date: '2025-05-13T12:13:11'
+date: '2025-05-13T04:13:11'
 categories:
 - sales
 - nlp

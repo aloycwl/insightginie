@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How to Pay an Invoice: A Complete Guide to Modern Payment Methods'
-date: '2026-03-16T12:30:30'
+date: '2026-03-16T04:30:30'
 categories:
 - finance
 - payment

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Silent Killer of AI: How to Detect Model Drift &#038; Future-Proof Your
   Models'
-date: '2025-10-20T12:19:45'
+date: '2025-10-20T04:19:45'
 categories:
 - trading
 - quantitative-ai

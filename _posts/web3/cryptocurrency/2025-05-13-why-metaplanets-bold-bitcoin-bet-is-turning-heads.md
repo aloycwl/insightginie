@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Metaplanet\u2019s Bold Bitcoin Bet Is Turning Heads"
-date: '2025-05-13T14:04:47'
+date: '2025-05-13T06:04:47'
 categories:
 - web3
 - cryptocurrency

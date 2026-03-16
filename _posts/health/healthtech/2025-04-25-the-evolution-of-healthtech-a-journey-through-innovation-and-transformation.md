@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Evolution of HealthTech: A Journey Through Innovation and Transformation'
-date: '2025-04-25T14:22:19'
+date: '2025-04-25T06:22:19'
 categories:
 - health
 - healthtech

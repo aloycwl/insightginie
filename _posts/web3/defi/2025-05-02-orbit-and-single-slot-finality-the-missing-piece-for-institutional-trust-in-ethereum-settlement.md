@@ -2,7 +2,7 @@
 layout: post
 title: 'Orbit and Single Slot Finality: The Missing Piece for Institutional Trust
   in Ethereum Settlement'
-date: '2025-05-02T12:39:43'
+date: '2025-05-02T04:39:43'
 categories:
 - web3
 - defi

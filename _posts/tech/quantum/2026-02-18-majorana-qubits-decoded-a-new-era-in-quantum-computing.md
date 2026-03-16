@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Majorana Qubits Decoded: A New Era in Quantum Computing'
-date: '2026-02-18T11:17:27'
+date: '2026-02-18T03:17:27'
 categories:
 - tech
 - quantum

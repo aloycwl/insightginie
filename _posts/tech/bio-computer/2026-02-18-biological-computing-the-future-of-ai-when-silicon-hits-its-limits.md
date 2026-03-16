@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Biological Computing: The Future of AI When Silicon Hits Its Limits'
-date: '2026-02-18T21:33:30'
+date: '2026-02-18T13:33:30'
 categories:
 - tech
 - bio-computer

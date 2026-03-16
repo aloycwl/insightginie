@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Dawn of Living Light: Exploring Lasers &#038; Organic LightGen Entities'
-date: '2026-01-02T17:47:24'
+date: '2026-01-02T09:47:24'
 categories:
 - tech
 - optical-computing

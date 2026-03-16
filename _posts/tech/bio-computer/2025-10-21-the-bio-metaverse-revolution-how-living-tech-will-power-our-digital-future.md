@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Bio-Metaverse Revolution: How Living Tech Will Power Our Digital Future'
-date: '2025-10-21T21:41:00'
+date: '2025-10-21T13:41:00'
 categories:
 - tech
 - bio-computer

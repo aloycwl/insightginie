@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clearing vs. Settlement: The Definitive Guide to Financial Transaction Finality'
-date: '2025-11-05T15:25:16'
+date: '2025-11-05T07:25:16'
 categories:
 - finance
 - payment

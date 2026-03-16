@@ -2,7 +2,7 @@
 layout: post
 title: 'Singapore&#8217;s Nuclear Power Question: Navigating Land Scarcity and Safety
   Imperatives'
-date: '2025-10-28T12:07:22'
+date: '2025-10-28T04:07:22'
 categories:
 - tech
 - energy

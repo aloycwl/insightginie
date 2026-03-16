@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Self-Integrity in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:42:02'
+date: '2025-05-13T04:42:02'
 categories:
 - sales
 - nlp

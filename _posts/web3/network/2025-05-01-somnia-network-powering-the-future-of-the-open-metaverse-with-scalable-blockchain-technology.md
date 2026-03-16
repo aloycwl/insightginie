@@ -2,7 +2,7 @@
 layout: post
 title: 'Somnia Network: Powering the Future of the Open Metaverse with Scalable Blockchain
   Technology'
-date: '2025-05-01T20:06:34'
+date: '2025-05-01T12:06:34'
 categories:
 - web3
 - network

@@ -2,7 +2,7 @@
 layout: post
 title: 'Business Plan: A Comprehensive Guide to Understanding and Implementing Business
   Plan in 2026'
-date: '2026-02-18T23:45:58'
+date: '2026-02-18T15:45:58'
 categories:
 - business
 - business-plan

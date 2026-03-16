@@ -2,7 +2,7 @@
 layout: post
 title: 'Transdermal Optical Imaging Explained: How Your Skin Reveals Hidden Health
   Data Without a Single Prick'
-date: '2026-02-10T14:20:45'
+date: '2026-02-10T06:20:45'
 categories:
 - health
 - rppg

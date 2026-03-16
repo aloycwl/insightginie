@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Global MedTech for Developing Nations: Innovation Meets Accessibility'
-date: '2025-04-27T21:50:45'
+date: '2025-04-27T13:50:45'
 categories:
 - health
 - medtech

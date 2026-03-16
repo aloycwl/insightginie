@@ -2,7 +2,7 @@
 layout: post
 title: 'India Accelerates Quantum Revolution: Focus on Sensing, Infrastructure, and
   Talent Development'
-date: '2025-09-03T10:48:20'
+date: '2025-09-03T02:48:20'
 categories:
 - tech
 - quantum

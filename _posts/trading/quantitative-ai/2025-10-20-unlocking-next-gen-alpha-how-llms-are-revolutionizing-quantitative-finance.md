@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Next-Gen Alpha: How LLMs Are Revolutionizing Quantitative Finance'
-date: '2025-10-20T12:26:03'
+date: '2025-10-20T04:26:03'
 categories:
 - trading
 - quantitative-ai

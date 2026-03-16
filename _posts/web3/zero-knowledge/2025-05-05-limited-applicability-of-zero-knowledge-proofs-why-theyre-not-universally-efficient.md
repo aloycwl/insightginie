@@ -2,7 +2,7 @@
 layout: post
 title: 'Limited Applicability of Zero-Knowledge Proofs: Why They&#8217;re Not Universally
   Efficient'
-date: '2025-05-05T21:15:40'
+date: '2025-05-05T13:15:40'
 categories:
 - web3
 - zero-knowledge

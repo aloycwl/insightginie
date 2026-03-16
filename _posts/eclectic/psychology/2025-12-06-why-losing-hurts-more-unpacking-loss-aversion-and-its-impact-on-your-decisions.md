@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Why Losing Hurts More: Unpacking Loss Aversion and Its Impact on Your Decisions'
-date: '2025-12-06T14:11:45'
+date: '2025-12-06T06:11:45'
 categories:
 - eclectic
 - psychology

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering VS Code Automation: A Deep Dive into the OpenClaw vscode-node Skill'
-date: '2026-03-08T18:30:23'
+date: '2026-03-08T10:30:23'
 categories:
 - ai
 - openclaw

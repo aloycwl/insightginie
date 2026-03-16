@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MPXV Virus Monitoring: Advanced Strategies for Global Health Security'
-date: '2025-05-20T09:18:19'
+date: '2025-05-20T01:18:19'
 categories:
 - health
 - healthtech

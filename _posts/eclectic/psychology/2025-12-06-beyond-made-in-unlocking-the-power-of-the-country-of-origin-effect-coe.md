@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond &#8216;Made In&#8217;: Unlocking the Power of the Country-of-Origin
   Effect (COE)'
-date: '2025-12-06T13:50:24'
+date: '2025-12-06T05:50:24'
 categories:
 - eclectic
 - psychology

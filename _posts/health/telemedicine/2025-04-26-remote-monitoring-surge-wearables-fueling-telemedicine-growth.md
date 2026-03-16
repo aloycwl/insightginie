@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remote Monitoring Surge: Wearables Fueling Telemedicine Growth'
-date: '2025-04-26T13:15:55'
+date: '2025-04-26T05:15:55'
 categories:
 - health
 - telemedicine

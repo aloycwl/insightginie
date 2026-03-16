@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Latest Merger &amp; Acquisition Trends Matters in 2026
-date: '2026-02-23T04:22:57'
+date: '2026-02-22T20:22:57'
 categories:
 - business
 - merger-acquisition

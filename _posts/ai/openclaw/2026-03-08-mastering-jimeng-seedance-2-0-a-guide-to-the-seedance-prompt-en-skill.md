@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Jimeng Seedance 2.0: A Guide to the Seedance-Prompt-En Skill'
-date: '2026-03-08T04:00:23'
+date: '2026-03-07T20:00:23'
 categories:
 - ai
 - openclaw

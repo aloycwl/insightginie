@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Ad Hominem Fallacy: Why Attacking the Messenger Kills Your Argument'
-date: '2025-12-07T22:32:52'
+date: '2025-12-07T14:32:52'
 categories:
 - eclectic
 - fallacies

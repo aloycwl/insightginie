@@ -2,7 +2,7 @@
 layout: post
 title: 'Democratizing Masterpieces: Your Guide to Tokenized Fine Art, Fractional NFTs
   &#038; TNFTs'
-date: '2025-11-12T10:52:45'
+date: '2025-11-12T02:52:45'
 categories:
 - finance
 - real-world-asset-rwa

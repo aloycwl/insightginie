@@ -2,7 +2,7 @@
 layout: post
 title: How Neuro-Linguistic Programming Can Transform Problem Definition for Lasting
   Solutions
-date: '2025-05-13T14:32:38'
+date: '2025-05-13T06:32:38'
 categories:
 - sales
 - nlp

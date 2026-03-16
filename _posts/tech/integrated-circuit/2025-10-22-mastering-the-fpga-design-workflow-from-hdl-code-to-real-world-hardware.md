@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the FPGA Design Workflow: From HDL Code to Real-World Hardware'
-date: '2025-10-22T14:23:14'
+date: '2025-10-22T06:23:14'
 categories:
 - tech
 - integrated-circuit

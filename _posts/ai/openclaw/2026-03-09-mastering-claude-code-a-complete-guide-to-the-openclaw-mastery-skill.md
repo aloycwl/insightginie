@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Claude Code: A Complete Guide to the OpenClaw Mastery Skill'
-date: '2026-03-09T12:30:24'
+date: '2026-03-09T04:30:24'
 categories:
 - ai
 - openclaw

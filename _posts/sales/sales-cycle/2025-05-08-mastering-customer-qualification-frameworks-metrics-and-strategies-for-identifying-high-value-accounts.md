@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Customer Qualification: Frameworks, Metrics, and Strategies for
   Identifying High-Value Accounts'
-date: '2025-05-08T12:46:13'
+date: '2025-05-08T04:46:13'
 categories:
 - sales
 - sales-cycle

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Automating File Monetization: A Guide to the OpenClaw Govilo Paylink Skill'
-date: '2026-03-14T12:00:29'
+date: '2026-03-14T04:00:29'
 categories:
 - ai
 - openclaw

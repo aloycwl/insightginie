@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How rPPG Can Unmask Stress in Urban Workers
-date: '2025-04-21T22:36:25'
+date: '2025-04-21T14:36:25'
 categories:
 - health
 - rppg

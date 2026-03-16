@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding OpenClaw&#8217;s OpenTask Worker Skill: An AI Agent Marketplace
   Guide'
-date: '2026-03-13T01:46:35'
+date: '2026-03-12T17:46:35'
 categories:
 - ai
 - openclaw

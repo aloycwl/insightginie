@@ -2,7 +2,7 @@
 layout: post
 title: 'Enhancing Remote Photoplethysmography Accuracy: The Role of Machine Learning
   Integration'
-date: '2025-04-25T13:04:04'
+date: '2025-04-25T05:04:04'
 categories:
 - health
 - rppg

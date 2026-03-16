@@ -2,7 +2,7 @@
 layout: post
 title: 'Fueling the Future: How Carbon-Neutral Synthetic Fuels Are Driving a Green
   Revolution'
-date: '2025-10-28T12:03:34'
+date: '2025-10-28T04:03:34'
 categories:
 - tech
 - energy

@@ -2,7 +2,7 @@
 layout: post
 title: 'L-Fucose as a Natural Modulator Against Fusobacterium nucleatum-Driven Carcinogenesis:
   A New Frontier in Cancer Microbiome Therapy'
-date: '2025-05-06T09:29:12'
+date: '2025-05-06T01:29:12'
 categories:
 - health
 - healthtech

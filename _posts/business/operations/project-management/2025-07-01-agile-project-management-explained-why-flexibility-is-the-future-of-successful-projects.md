@@ -2,7 +2,7 @@
 layout: post
 title: 'Agile Project Management Explained: Why Flexibility Is the Future of Successful
   Projects'
-date: '2025-07-01T16:42:51'
+date: '2025-07-01T08:42:51'
 categories:
 - business
 - operations

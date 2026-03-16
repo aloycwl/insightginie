@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quantum Computing in 2026: 7 Transformative Trends Shaping the Future'
-date: '2026-02-16T21:18:01'
+date: '2026-02-16T13:18:01'
 categories:
 - tech
 - quantum

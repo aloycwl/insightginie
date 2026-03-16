@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Feeling vs Thinking in NLP
-date: '2025-05-13T12:04:43'
+date: '2025-05-13T04:04:43'
 categories:
 - sales
 - nlp

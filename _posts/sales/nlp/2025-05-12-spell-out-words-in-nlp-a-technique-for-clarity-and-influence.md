@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spell Out Words in NLP: A Technique for Clarity and Influence'
-date: '2025-05-12T11:11:02'
+date: '2025-05-12T03:11:02'
 categories:
 - sales
 - nlp

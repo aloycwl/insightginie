@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of External Partnerships, Sourcing, and Internal Restructuring
-date: '2025-04-22T13:54:41'
+date: '2025-04-22T05:54:41'
 categories:
 - business
 - business-plan

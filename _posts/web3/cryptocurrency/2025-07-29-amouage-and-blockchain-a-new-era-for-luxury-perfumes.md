@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amouage and Blockchain: A New Era for Luxury Perfumes'
-date: '2025-07-29T14:55:53'
+date: '2025-07-29T06:55:53'
 categories:
 - web3
 - cryptocurrency

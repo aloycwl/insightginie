@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding TrustLog Guard: Financial Governance for OpenClaw Agents'
-date: '2026-03-13T21:45:52'
+date: '2026-03-13T13:45:52'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Master the Cycle: How to Use Sector Rotation to Beat the Market in Any Economy'
-date: '2025-12-15T13:34:25'
+date: '2025-12-15T05:34:25'
 categories:
 - trading
 - fundamental

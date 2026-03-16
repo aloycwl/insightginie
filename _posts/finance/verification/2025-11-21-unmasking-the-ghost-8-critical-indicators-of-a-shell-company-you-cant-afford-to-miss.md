@@ -2,7 +2,7 @@
 layout: post
 title: 'Unmasking the Ghost: 8 Critical Indicators of a Shell Company You Can&#8217;t
   Afford to Miss'
-date: '2025-11-21T12:01:40'
+date: '2025-11-21T04:01:40'
 categories:
 - finance
 - verification

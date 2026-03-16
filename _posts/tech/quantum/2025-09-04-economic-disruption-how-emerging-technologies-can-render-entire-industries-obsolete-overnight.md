@@ -2,7 +2,7 @@
 layout: post
 title: 'Economic Disruption: How Emerging Technologies Can Render Entire Industries
   Obsolete Overnight'
-date: '2025-09-04T13:30:08'
+date: '2025-09-04T05:30:08'
 categories:
 - tech
 - quantum

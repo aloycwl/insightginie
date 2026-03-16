@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Voice Assistants Diagnosing You: Alexa, Are You My Doctor?'
-date: '2025-04-26T13:03:03'
+date: '2025-04-26T05:03:03'
 categories:
 - health
 - healthtech

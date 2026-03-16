@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leveraging IQ, EQ, AQ, TQ, DISC, and MBTI for High-Performance Sales Teams
-date: '2025-05-08T12:53:51'
+date: '2025-05-08T04:53:51'
 categories:
 - sales
 - sales-cycle

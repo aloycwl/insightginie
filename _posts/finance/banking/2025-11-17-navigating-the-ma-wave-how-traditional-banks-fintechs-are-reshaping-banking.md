@@ -2,7 +2,7 @@
 layout: post
 title: 'Navigating the M&#038;A Wave: How Traditional Banks &#038; Fintechs Are Reshaping
   Banking'
-date: '2025-11-17T20:00:00'
+date: '2025-11-17T12:00:00'
 categories:
 - finance
 - banking

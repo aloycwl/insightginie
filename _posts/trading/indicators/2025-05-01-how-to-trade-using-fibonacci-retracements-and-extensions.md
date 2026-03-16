@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Using Fibonacci Retracements and Extensions
-date: '2025-05-01T19:15:00'
+date: '2025-05-01T11:15:00'
 categories:
 - trading
 - indicators

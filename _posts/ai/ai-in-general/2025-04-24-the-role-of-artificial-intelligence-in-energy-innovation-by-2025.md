@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Artificial Intelligence in Energy Innovation by 2025
-date: '2025-04-24T08:05:27'
+date: '2025-04-24T00:05:27'
 categories:
 - ai
 - ai-in-general

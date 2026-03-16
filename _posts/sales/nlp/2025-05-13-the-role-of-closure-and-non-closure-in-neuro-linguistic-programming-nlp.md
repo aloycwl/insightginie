@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Closure and Non-Closure in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:36:33'
+date: '2025-05-13T04:36:33'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Hidden Hand: How Central Bank Forward Guidance Shapes Market Trends &#038;
   Economic Futures'
-date: '2025-12-15T12:05:08'
+date: '2025-12-15T04:05:08'
 categories:
 - trading
 - fundamental

@@ -2,7 +2,7 @@
 layout: post
 title: 'Silicon&#8217;s Silent Revolution: How Integrated Circuits Transformed Computing
   &#038; Communication'
-date: '2025-10-22T14:13:54'
+date: '2025-10-22T06:13:54'
 categories:
 - tech
 - integrated-circuit

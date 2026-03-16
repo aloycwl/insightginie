@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Facilities and Layout Matter More Than You Think
-date: '2025-05-04T18:18:39'
+date: '2025-05-04T10:18:39'
 categories:
 - business
 - business-plan

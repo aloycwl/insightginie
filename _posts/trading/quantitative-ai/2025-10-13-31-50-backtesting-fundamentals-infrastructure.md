@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (31/50) Backtesting fundamentals &amp; infrastructure
-date: '2025-10-13T19:51:36'
+date: '2025-10-13T11:51:36'
 categories:
 - trading
 - quantitative-ai

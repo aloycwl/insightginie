@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Capture Your Audience\u2019s Attention in the First 3 Seconds"
-date: '2025-05-08T13:41:04'
+date: '2025-05-08T05:41:04'
 categories:
 - sales
 - sales-cycle

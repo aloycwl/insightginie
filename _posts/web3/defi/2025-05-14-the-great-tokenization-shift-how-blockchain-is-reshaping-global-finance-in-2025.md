@@ -2,7 +2,7 @@
 layout: post
 title: 'The Great Tokenization Shift: How Blockchain Is Reshaping Global Finance in
   2025'
-date: '2025-05-14T21:14:40'
+date: '2025-05-14T13:14:40'
 categories:
 - web3
 - defi

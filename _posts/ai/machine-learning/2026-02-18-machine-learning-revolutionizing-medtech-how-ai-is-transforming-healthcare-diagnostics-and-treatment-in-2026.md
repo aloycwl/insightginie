@@ -2,7 +2,7 @@
 layout: post
 title: 'Machine Learning Revolutionizing Medtech: How AI is Transforming Healthcare
   Diagnostics and Treatment in 2026'
-date: '2026-02-18T20:17:42'
+date: '2026-02-18T12:17:42'
 categories:
 - ai
 - machine-learning

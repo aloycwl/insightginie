@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MitM 2026: Future-Proof Your Defenses Against Evolving Cyber Threats'
-date: '2026-02-02T19:08:11'
+date: '2026-02-02T11:08:11'
 categories:
 - tech
 - cybersec

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Context Engineering: Design Prompts &#038; Structure Info for Elite
   AI Outputs'
-date: '2026-01-19T14:04:40'
+date: '2026-01-19T06:04:40'
 categories:
 - ai
 - ai-tools

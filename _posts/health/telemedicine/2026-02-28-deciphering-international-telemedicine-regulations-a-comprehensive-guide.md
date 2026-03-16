@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deciphering International Telemedicine Regulations: A Comprehensive Guide'
-date: '2026-02-28T16:01:17'
+date: '2026-02-28T08:01:17'
 categories:
 - health
 - telemedicine

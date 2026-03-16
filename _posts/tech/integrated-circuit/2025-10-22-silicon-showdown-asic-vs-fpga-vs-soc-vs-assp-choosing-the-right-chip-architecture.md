@@ -2,7 +2,7 @@
 layout: post
 title: "Silicon Showdown: ASIC vs. FPGA vs. SoC vs. ASSP \u2013 Choosing the Right\
   \ Chip Architecture"
-date: '2025-10-22T14:25:23'
+date: '2025-10-22T06:25:23'
 categories:
 - tech
 - integrated-circuit

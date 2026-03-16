@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AMD SEV-SNP Remote Attestation: Cryptographic VM Identity Verification'
-date: '2026-03-13T15:17:30'
+date: '2026-03-13T07:17:30'
 categories:
 - ai
 - openclaw

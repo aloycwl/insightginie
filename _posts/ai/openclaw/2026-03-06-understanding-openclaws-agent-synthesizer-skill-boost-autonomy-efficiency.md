@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding OpenClaw&#8217;s Agent Synthesizer Skill: Boost Autonomy &#038;
   Efficiency'
-date: '2026-03-06T14:45:37'
+date: '2026-03-06T06:45:37'
 categories:
 - ai
 - openclaw

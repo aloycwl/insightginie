@@ -2,7 +2,7 @@
 layout: post
 title: 'Transdermal Optical Imaging: The Silent Revolution in Preventive Healthcare
   and Early Intervention'
-date: '2026-02-10T14:18:12'
+date: '2026-02-10T06:18:12'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Silent Revolution: How Agentic Engineering is Redefining Autonomy in AI'
-date: '2026-02-11T11:46:11'
+date: '2026-02-11T03:46:11'
 categories:
 - ai
 - ai-agent

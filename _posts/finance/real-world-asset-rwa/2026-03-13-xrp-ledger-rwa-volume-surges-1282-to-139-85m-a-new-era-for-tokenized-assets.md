@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XRP Ledger RWA Volume Surges 1,282% to $139.85M: A New Era for Tokenized Assets'
-date: '2026-03-13T03:00:33'
+date: '2026-03-12T19:00:33'
 categories:
 - finance
 - real-world-asset-rwa

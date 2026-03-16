@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Policy in Asia by 2025: Navigating the Future of Technology and Governance'
-date: '2025-04-25T19:33:58'
+date: '2025-04-25T11:33:58'
 categories:
 - ai
 - ai-in-general

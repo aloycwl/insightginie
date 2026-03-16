@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Natural Language Processing Is Revolutionizing Business Operations
-date: '2026-02-27T22:02:06'
+date: '2026-02-27T14:02:06'
 categories:
 - sales
 - nlp

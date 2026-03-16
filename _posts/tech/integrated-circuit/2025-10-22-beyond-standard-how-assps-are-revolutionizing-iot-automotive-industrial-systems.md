@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Standard: How ASSPs Are Revolutionizing IoT, Automotive, &#038; Industrial
   Systems'
-date: '2025-10-22T14:20:07'
+date: '2025-10-22T06:20:07'
 categories:
 - tech
 - integrated-circuit

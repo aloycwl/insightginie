@@ -2,7 +2,7 @@
 layout: post
 title: 'Decoding the Physics of Light Absorption and Reflection in Transdermal Optical
   Imaging: A Critical Analysis'
-date: '2026-02-10T14:11:59'
+date: '2026-02-10T06:11:59'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RWA Was Called a Pipe Dream, Then Reality (and BlackRock) Bit Back
-date: '2026-03-01T08:00:57'
+date: '2026-03-01T00:00:57'
 categories:
 - finance
 - real-world-asset-rwa

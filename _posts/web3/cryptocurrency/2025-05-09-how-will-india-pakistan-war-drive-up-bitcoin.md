@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How will India-Pakistan war drive up Bitcoin?
-date: '2025-05-09T09:52:43'
+date: '2025-05-09T01:52:43'
 categories:
 - web3
 - cryptocurrency

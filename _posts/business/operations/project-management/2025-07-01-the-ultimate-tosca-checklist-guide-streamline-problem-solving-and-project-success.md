@@ -2,7 +2,7 @@
 layout: post
 title: 'The Ultimate TOSCA Checklist Guide: Streamline Problem Solving and Project
   Success'
-date: '2025-07-01T17:08:40'
+date: '2025-07-01T09:08:40'
 categories:
 - business
 - operations

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nubit: Transforming Bitcoin into a Trustless World Computer with Bitcoin Thunderbolt'
-date: '2025-05-02T09:43:31'
+date: '2025-05-02T01:43:31'
 categories:
 - web3
 - network

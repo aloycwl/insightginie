@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Market Swings: Decoding Employment Data &#038; Short-Term Volatility'
-date: '2025-12-15T12:11:17'
+date: '2025-12-15T04:11:17'
 categories:
 - trading
 - fundamental

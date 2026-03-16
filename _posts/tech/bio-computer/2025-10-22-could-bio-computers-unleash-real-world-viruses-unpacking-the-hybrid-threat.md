@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Could Bio-Computers Unleash Real-World Viruses? Unpacking the Hybrid Threat
-date: '2025-10-22T13:25:35'
+date: '2025-10-22T05:25:35'
 categories:
 - tech
 - bio-computer

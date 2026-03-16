@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Inverted Head and Shoulders Pattern
-date: '2025-05-05T12:29:14'
+date: '2025-05-05T04:29:14'
 categories:
 - trading
 - pattern

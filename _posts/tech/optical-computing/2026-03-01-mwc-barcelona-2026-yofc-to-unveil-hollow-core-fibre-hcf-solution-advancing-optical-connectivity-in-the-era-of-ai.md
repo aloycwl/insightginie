@@ -2,7 +2,7 @@
 layout: post
 title: 'MWC Barcelona 2026: YOFC to Unveil Hollow-Core Fibre (HCF) Solution, Advancing
   Optical Connectivity in the Era of AI'
-date: '2026-03-01T15:01:56'
+date: '2026-03-01T07:01:56'
 categories:
 - tech
 - optical-computing

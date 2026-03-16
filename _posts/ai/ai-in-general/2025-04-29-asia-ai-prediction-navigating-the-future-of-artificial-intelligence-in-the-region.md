@@ -2,7 +2,7 @@
 layout: post
 title: 'Asia AI Prediction: Navigating the Future of Artificial Intelligence in the
   Region'
-date: '2025-04-29T10:50:24'
+date: '2025-04-29T02:50:24'
 categories:
 - ai
 - ai-in-general

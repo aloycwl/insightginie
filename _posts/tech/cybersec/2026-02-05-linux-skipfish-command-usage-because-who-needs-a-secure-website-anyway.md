@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Linux Skipfish Command Usage: Because Who Needs a Secure Website Anyway?'
-date: '2026-02-05T13:55:39'
+date: '2026-02-05T05:55:39'
 categories:
 - tech
 - cybersec

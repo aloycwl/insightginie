@@ -2,7 +2,7 @@
 layout: post
 title: "2035: The Autonomous AI Trading Revolution \u2013 Your Guide to the Future\
   \ of Finance"
-date: '2025-10-20T12:27:22'
+date: '2025-10-20T04:27:22'
 categories:
 - trading
 - quantitative-ai

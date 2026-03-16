@@ -2,7 +2,7 @@
 layout: post
 title: 'Zero-Knowledge Proofs Are Reshaping Web3: The Optimism Partnership and the
   Future of Blockchain Privacy'
-date: '2026-02-16T08:03:49'
+date: '2026-02-16T00:03:49'
 categories:
 - web3
 - zero-knowledge

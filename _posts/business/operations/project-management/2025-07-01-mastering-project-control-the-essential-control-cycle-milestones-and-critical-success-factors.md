@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Project Control: The Essential Control Cycle, Milestones, and Critical
   Success Factors'
-date: '2025-07-01T16:59:53'
+date: '2025-07-01T08:59:53'
 categories:
 - business
 - operations

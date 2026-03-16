@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the V-Model in Six Sigma: A Step-by-Step Guide to Verification
   and Validation in Software Development'
-date: '2025-07-08T13:52:30'
+date: '2025-07-08T05:52:30'
 categories:
 - business
 - operations

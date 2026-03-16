@@ -2,7 +2,7 @@
 layout: post
 title: 'The Future of Fitness Tracking: How Transdermal Optical Imaging is Redefining
   Wellness Monitoring'
-date: '2026-02-10T13:52:12'
+date: '2026-02-10T05:52:12'
 categories:
 - health
 - rppg

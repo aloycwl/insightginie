@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Buyer Personas: Mapping and Targeting Key Decision-Makers for
   Sales Success'
-date: '2025-05-08T13:36:00'
+date: '2025-05-08T05:36:00'
 categories:
 - sales
 - sales-cycle

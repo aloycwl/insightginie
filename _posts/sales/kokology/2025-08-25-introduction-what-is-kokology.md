@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Introduction: What is Kokology?'
-date: '2025-08-25T13:26:13'
+date: '2025-08-25T05:26:13'
 categories:
 - sales
 - kokology

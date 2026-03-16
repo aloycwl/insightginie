@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GHIN Golf Tracker: Comprehensive Golf Handicap Analysis with OpenClaw'
-date: '2026-03-15T06:16:11'
+date: '2026-03-14T22:16:11'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: "Why It\u2019s Absolutely Brilliant to Have Readily Auto-Generated Credit Card\
   \ Numbers at Your Fingertips (Spoiler: It\u2019s Not)"
-date: '2026-02-04T14:36:34'
+date: '2026-02-04T06:36:34'
 categories:
 - tech
 - cybersec

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bio-Computers: Unlocking Rapid Drug Discovery &#038; Scientific Breakthroughs'
-date: '2025-10-21T20:51:04'
+date: '2025-10-21T12:51:04'
 categories:
 - tech
 - bio-computer

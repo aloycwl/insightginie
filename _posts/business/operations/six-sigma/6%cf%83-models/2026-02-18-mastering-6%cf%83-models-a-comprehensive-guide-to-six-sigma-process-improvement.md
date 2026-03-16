@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mastering 6\u03C3 Models: A Comprehensive Guide to Six Sigma Process Improvement"
-date: '2026-02-18T09:04:09'
+date: '2026-02-18T01:04:09'
 categories:
 - business
 - operations

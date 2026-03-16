@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Organisational Structure: The Blueprint for Business Efficiency,
   Agility, and Growth'
-date: '2025-05-05T19:44:08'
+date: '2025-05-05T11:44:08'
 categories:
 - business
 - management

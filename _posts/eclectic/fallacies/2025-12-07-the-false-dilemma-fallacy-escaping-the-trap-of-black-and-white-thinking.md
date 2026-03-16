@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The False Dilemma Fallacy: Escaping the Trap of Black-and-White Thinking'
-date: '2025-12-07T22:21:34'
+date: '2025-12-07T14:21:34'
 categories:
 - eclectic
 - fallacies

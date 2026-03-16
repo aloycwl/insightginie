@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Open Notebook Integration: Connecting OpenClaw Agents with Local AI Research'
-date: '2026-03-16T00:16:07'
+date: '2026-03-15T16:16:07'
 categories:
 - ai
 - openclaw

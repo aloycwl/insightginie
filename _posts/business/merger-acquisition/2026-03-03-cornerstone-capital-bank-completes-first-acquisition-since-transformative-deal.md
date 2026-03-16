@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cornerstone Capital Bank Completes First Acquisition Since Transformative Deal
-date: '2026-03-03T07:30:49'
+date: '2026-03-02T23:30:49'
 categories:
 - business
 - merger-acquisition

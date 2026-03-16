@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DeFi&#8217;s Cash Revolution: Onchain Treasury Bills &#038; RWA Tokens Explained'
-date: '2025-11-12T10:29:24'
+date: '2025-11-12T02:29:24'
 categories:
 - finance
 - real-world-asset-rwa

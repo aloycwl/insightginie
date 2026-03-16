@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smart Cities: When Your Traffic Light Judges You Faster Than Your Therapist'
-date: '2026-02-06T13:55:55'
+date: '2026-02-06T05:55:55'
 categories:
 - tech
 - integrated-circuit

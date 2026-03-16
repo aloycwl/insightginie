@@ -2,7 +2,7 @@
 layout: post
 title: 'ASICs in Modern Semiconductor Design: Unlocking Performance &#038; Navigating
   Limitations'
-date: '2025-10-22T14:18:05'
+date: '2025-10-22T06:18:05'
 categories:
 - tech
 - integrated-circuit

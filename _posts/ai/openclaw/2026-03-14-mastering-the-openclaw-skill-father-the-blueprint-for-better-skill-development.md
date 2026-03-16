@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the OpenClaw Skill-Father: The Blueprint for Better Skill Development'
-date: '2026-03-14T00:30:54'
+date: '2026-03-13T16:30:54'
 categories:
 - ai
 - openclaw

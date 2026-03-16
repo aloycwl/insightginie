@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Photonic Integrated Circuits (PICs): Revolutionizing Optical
   Communication'
-date: '2026-03-02T21:31:12'
+date: '2026-03-02T13:31:12'
 categories:
 - tech
 - integrated-circuit

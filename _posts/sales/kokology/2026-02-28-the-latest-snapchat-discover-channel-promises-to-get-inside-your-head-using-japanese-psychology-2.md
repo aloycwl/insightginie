@@ -2,7 +2,7 @@
 layout: post
 title: The Latest Snapchat Discover Channel Promises to Get Inside Your Head Using
   Japanese Psychology
-date: '2026-02-28T10:01:25'
+date: '2026-02-28T02:01:25'
 categories:
 - sales
 - kokology

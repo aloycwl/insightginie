@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Voice Assistant: Real-Time Voice Interface for Your AI Agent'
-date: '2026-03-09T03:17:23'
+date: '2026-03-08T19:17:23'
 categories:
 - ai
 - openclaw

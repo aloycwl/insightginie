@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking AI&#8217;s Future: How Photonic Models Trained Entirely in Light
   Are Revolutionizing Machine Learning'
-date: '2026-01-02T17:38:46'
+date: '2026-01-02T09:38:46'
 categories:
 - tech
 - optical-computing

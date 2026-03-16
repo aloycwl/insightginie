@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Telegram Bot API Operations for Forum Management
-date: '2026-03-12T10:17:05'
+date: '2026-03-12T02:17:05'
 categories:
 - ai
 - openclaw

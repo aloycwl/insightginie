@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Your Money Mind: How Mental Accounting Shapes Your Financial Choices
   &#038; How to Master It'
-date: '2025-12-06T14:12:24'
+date: '2025-12-06T06:12:24'
 categories:
 - eclectic
 - psychology

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chelsea Davis: How Her Lander Journey Led to a Career in Sports Psychology'
-date: '2026-02-26T20:02:23'
+date: '2026-02-26T12:02:23'
 categories:
 - eclectic
 - psychology

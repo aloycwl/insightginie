@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Illuminating Physiology: The Precise Science of Transdermal Optical Imaging'
-date: '2026-02-10T13:37:59'
+date: '2026-02-10T05:37:59'
 categories:
 - health
 - rppg

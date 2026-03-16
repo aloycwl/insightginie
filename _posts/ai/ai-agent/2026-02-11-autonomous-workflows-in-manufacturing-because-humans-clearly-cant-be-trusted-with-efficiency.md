@@ -2,7 +2,7 @@
 layout: post
 title: "Autonomous Workflows in Manufacturing: Because Humans Clearly Can\u2019t Be\
   \ Trusted with Efficiency"
-date: '2026-02-11T12:08:33'
+date: '2026-02-11T04:08:33'
 categories:
 - ai
 - ai-agent

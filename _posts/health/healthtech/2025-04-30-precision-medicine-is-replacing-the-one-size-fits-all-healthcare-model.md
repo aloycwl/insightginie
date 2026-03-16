@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Precision Medicine Is Replacing the One-Size-Fits-All Healthcare Model
-date: '2025-04-30T17:14:40'
+date: '2025-04-30T09:14:40'
 categories:
 - health
 - healthtech

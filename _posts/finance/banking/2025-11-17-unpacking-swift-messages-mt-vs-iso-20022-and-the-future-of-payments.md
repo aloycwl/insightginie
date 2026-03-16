@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unpacking SWIFT Messages: MT vs. ISO 20022 and the Future of Payments'
-date: '2025-11-17T16:15:00'
+date: '2025-11-17T08:15:00'
 categories:
 - finance
 - banking

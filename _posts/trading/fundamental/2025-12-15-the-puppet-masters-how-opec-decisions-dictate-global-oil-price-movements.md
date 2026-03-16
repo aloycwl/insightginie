@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Puppet Masters: How OPEC Decisions Dictate Global Oil Price Movements'
-date: '2025-12-15T12:50:14'
+date: '2025-12-15T04:50:14'
 categories:
 - trading
 - fundamental

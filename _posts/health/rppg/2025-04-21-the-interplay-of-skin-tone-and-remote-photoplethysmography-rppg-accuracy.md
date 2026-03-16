@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Interplay of Skin Tone and Remote Photoplethysmography (rPPG) Accuracy
-date: '2025-04-21T22:28:02'
+date: '2025-04-21T14:28:02'
 categories:
 - health
 - rppg

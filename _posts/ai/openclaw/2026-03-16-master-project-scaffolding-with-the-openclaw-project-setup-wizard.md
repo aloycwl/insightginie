@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Master Project Scaffolding with the OpenClaw Project Setup Wizard
-date: '2026-03-16T08:30:26'
+date: '2026-03-16T00:30:26'
 categories:
 - ai
 - openclaw

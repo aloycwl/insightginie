@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Approval Paradox: Why Trying Too Hard Repels People (And How to Fix It)'
-date: '2025-12-07T10:48:48'
+date: '2025-12-07T02:48:48'
 categories:
 - eclectic
 - paradoxes

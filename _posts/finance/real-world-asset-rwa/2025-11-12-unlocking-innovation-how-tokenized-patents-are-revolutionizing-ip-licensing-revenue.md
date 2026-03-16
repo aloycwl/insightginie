@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Innovation: How Tokenized Patents Are Revolutionizing IP Licensing
   Revenue'
-date: '2025-11-12T10:58:51'
+date: '2025-11-12T02:58:51'
 categories:
 - finance
 - real-world-asset-rwa

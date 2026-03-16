@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Agile Teams Are Winning the Race to Create AI-Ready Cultures
-date: '2026-03-04T02:30:51'
+date: '2026-03-03T18:30:51'
 categories:
 - business
 - operations

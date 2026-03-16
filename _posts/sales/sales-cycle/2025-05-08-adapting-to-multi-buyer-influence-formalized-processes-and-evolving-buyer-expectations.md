@@ -2,7 +2,7 @@
 layout: post
 title: Adapting to Multi-Buyer Influence, Formalized Processes, and Evolving Buyer
   Expectations
-date: '2025-05-08T13:00:20'
+date: '2025-05-08T05:00:20'
 categories:
 - sales
 - sales-cycle

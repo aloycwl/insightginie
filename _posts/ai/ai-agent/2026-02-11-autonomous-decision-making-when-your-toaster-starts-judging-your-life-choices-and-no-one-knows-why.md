@@ -2,7 +2,7 @@
 layout: post
 title: 'Autonomous Decision-Making: When Your Toaster Starts Judging Your Life Choices
   (And No One Knows Why)'
-date: '2026-02-11T12:28:28'
+date: '2026-02-11T04:28:28'
 categories:
 - ai
 - ai-agent

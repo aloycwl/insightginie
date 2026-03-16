@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CosyVoice3 TTS: Local Text-to-Speech on macOS with Voice Cloning'
-date: '2026-03-10T06:17:48'
+date: '2026-03-09T22:17:48'
 categories:
 - ai
 - openclaw

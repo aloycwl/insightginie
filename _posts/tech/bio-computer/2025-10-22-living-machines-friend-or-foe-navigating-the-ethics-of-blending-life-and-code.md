@@ -2,7 +2,7 @@
 layout: post
 title: 'Living Machines: Friend or Foe? Navigating the Ethics of Blending Life and
   Code'
-date: '2025-10-22T13:22:06'
+date: '2025-10-22T05:22:06'
 categories:
 - tech
 - bio-computer

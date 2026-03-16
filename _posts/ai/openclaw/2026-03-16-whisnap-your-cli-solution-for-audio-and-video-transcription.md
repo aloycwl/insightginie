@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Whisnap: Your CLI Solution for Audio and Video Transcription'
-date: '2026-03-16T00:46:37'
+date: '2026-03-15T16:46:37'
 categories:
 - ai
 - openclaw

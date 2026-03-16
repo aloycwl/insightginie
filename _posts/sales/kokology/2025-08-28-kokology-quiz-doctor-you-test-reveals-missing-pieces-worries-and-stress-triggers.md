@@ -2,7 +2,7 @@
 layout: post
 title: 'Kokology Quiz: Doctor You Test Reveals Missing Pieces, Worries, and Stress
   Triggers'
-date: '2025-08-28T10:13:27'
+date: '2025-08-28T02:13:27'
 categories:
 - sales
 - kokology

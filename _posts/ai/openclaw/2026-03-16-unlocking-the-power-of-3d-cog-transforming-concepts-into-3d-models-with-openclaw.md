@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking the Power of 3D-Cog: Transforming Concepts into 3D Models with OpenClaw'
-date: '2026-03-16T02:00:50'
+date: '2026-03-15T18:00:50'
 categories:
 - ai
 - openclaw

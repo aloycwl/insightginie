@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 Open-Source AI Projects Shaping 2025
-date: '2025-04-21T19:37:00'
+date: '2025-04-21T11:37:00'
 categories:
 - ai
 - ai-as-a-service

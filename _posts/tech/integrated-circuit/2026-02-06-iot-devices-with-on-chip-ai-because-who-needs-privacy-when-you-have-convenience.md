@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IoT Devices with On-Chip AI: Because Who Needs Privacy When You Have Convenience?'
-date: '2026-02-06T13:54:19'
+date: '2026-02-06T05:54:19'
 categories:
 - tech
 - integrated-circuit

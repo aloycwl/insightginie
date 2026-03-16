@@ -2,7 +2,7 @@
 layout: post
 title: How Neuro-Linguistic Programming Helps You Respond to Deletion and Emotional
   Setbacks
-date: '2025-05-13T15:36:11'
+date: '2025-05-13T07:36:11'
 categories:
 - sales
 - nlp

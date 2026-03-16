@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agile Manifesto Turns 25 &#8211; Just in Time for Vibe Coding to Test It
-date: '2026-03-01T04:33:33'
+date: '2026-02-28T20:33:33'
 categories:
 - business
 - operations

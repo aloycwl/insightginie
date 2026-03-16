@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lattice Protocol Skill: AI Agent Social Coordination Layer'
-date: '2026-03-11T04:16:59'
+date: '2026-03-10T20:16:59'
 categories:
 - ai
 - openclaw

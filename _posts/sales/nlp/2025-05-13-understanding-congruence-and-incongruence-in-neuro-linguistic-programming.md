@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Congruence and Incongruence in Neuro-Linguistic Programming
-date: '2025-05-13T12:28:29'
+date: '2025-05-13T04:28:29'
 categories:
 - sales
 - nlp

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Shardeum: Revolutionizing Blockchain Scalability with Dynamic State Sharding'
-date: '2025-05-01T20:03:00'
+date: '2025-05-01T12:03:00'
 categories:
 - web3
 - network

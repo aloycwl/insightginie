@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparing Passive vs. Active Data Collection Methods in Behavioral Health Monitoring
-date: '2025-05-09T22:43:41'
+date: '2025-05-09T14:43:41'
 categories:
 - health
 - digital-phenotyping

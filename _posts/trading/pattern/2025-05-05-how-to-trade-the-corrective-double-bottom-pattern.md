@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade the Corrective Double Bottom Pattern
-date: '2025-05-05T12:23:29'
+date: '2025-05-05T04:23:29'
 categories:
 - trading
 - pattern

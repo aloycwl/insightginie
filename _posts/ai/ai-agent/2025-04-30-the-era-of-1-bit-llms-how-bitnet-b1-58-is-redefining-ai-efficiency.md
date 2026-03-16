@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Era of 1-Bit LLMs: How BitNet b1.58 is Redefining AI Efficiency'
-date: '2025-04-30T09:52:08'
+date: '2025-04-30T01:52:08'
 categories:
 - ai
 - ai-agent

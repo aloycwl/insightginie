@@ -2,7 +2,7 @@
 layout: post
 title: "How In-Memory Hardware is Revolutionizing the Fight Against AI\u2019s Energy\
   \ Crisis"
-date: '2026-02-06T12:24:36'
+date: '2026-02-06T04:24:36'
 categories:
 - tech
 - integrated-circuit

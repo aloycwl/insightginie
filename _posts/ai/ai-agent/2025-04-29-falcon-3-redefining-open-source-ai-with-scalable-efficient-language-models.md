@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Falcon 3: Redefining Open-Source AI with Scalable, Efficient Language Models\u200B"
-date: '2025-04-29T16:01:51'
+date: '2025-04-29T08:01:51'
 categories:
 - ai
 - ai-agent

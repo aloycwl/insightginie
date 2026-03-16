@@ -2,7 +2,7 @@
 layout: post
 title: 'Unmasking the &#8216;Free&#8217; Forensic Imager: A Guide for the Skeptical
   Investigator'
-date: '2026-02-05T13:38:44'
+date: '2026-02-05T05:38:44'
 categories:
 - tech
 - cybersec

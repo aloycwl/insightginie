@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hard Data vs. Soft Data Trading Strategies: Which Yields Better Returns?'
-date: '2025-12-15T14:13:30'
+date: '2025-12-15T06:13:30'
 categories:
 - trading
 - fundamental

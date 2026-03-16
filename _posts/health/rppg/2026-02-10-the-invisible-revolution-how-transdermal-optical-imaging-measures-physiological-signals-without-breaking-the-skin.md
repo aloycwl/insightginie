@@ -2,7 +2,7 @@
 layout: post
 title: 'The Invisible Revolution: How Transdermal Optical Imaging Measures Physiological
   Signals Without Breaking the Skin'
-date: '2026-02-10T13:40:05'
+date: '2026-02-10T05:40:05'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YouTube AI Videos Skill: Fetch and Display Latest AI-Related Videos'
-date: '2026-03-06T00:21:08'
+date: '2026-03-05T16:21:08'
 categories:
 - ai
 - openclaw

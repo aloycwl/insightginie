@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Borders: Unpacking the Critical Role of Pan-European ACHs in SEPA Payments'
-date: '2025-11-17T18:30:00'
+date: '2025-11-17T10:30:00'
 categories:
 - finance
 - banking

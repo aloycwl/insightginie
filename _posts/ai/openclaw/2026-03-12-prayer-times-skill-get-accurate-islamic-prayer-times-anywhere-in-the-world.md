@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Prayer Times Skill: Get Accurate Islamic Prayer Times Anywhere in the World'
-date: '2026-03-12T20:16:25'
+date: '2026-03-12T12:16:25'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Playing God? Unmasking the Profound Philosophical Threats of Life-Based Technologies
-date: '2025-10-22T13:23:24'
+date: '2025-10-22T05:23:24'
 categories:
 - tech
 - bio-computer

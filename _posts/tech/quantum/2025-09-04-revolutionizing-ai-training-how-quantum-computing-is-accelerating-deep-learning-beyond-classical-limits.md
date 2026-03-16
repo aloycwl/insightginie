@@ -2,7 +2,7 @@
 layout: post
 title: 'Revolutionizing AI Training: How Quantum Computing is Accelerating Deep Learning
   Beyond Classical Limits'
-date: '2025-09-04T13:35:23'
+date: '2025-09-04T05:35:23'
 categories:
 - tech
 - quantum

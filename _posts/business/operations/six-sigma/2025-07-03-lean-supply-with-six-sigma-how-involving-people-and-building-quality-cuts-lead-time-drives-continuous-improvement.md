@@ -2,7 +2,7 @@
 layout: post
 title: 'Lean Supply with Six Sigma: How Involving People and Building Quality Cuts
   Lead Time &amp; Drives Continuous Improvement'
-date: '2025-07-03T15:59:09'
+date: '2025-07-03T07:59:09'
 categories:
 - business
 - operations

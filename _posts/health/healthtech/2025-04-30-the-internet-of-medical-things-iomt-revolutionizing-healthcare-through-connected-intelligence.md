@@ -2,7 +2,7 @@
 layout: post
 title: 'The Internet of Medical Things (IoMT): Revolutionizing Healthcare Through
   Connected Intelligence'
-date: '2025-04-30T16:08:11'
+date: '2025-04-30T08:08:11'
 categories:
 - health
 - healthtech

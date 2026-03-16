@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Video Insights: Understanding the OpenClaw AI-Notes Video Skill'
-date: '2026-03-08T21:00:23'
+date: '2026-03-08T13:00:23'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Light&#8217;s Future: The Semiconductor Physics Driving Advanced
   Generation'
-date: '2026-01-02T17:34:11'
+date: '2026-01-02T09:34:11'
 categories:
 - tech
 - optical-computing

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Luck: Unmasking the Gambler&#8217;s Fallacy and How It Costs You'
-date: '2025-12-06T13:56:04'
+date: '2025-12-06T05:56:04'
 categories:
 - eclectic
 - psychology

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Business Modularisation: How to Build Agile, Scalable, and Resilient Enterprises'
-date: '2025-05-02T19:05:41'
+date: '2025-05-02T11:05:41'
 categories:
 - business
 - management

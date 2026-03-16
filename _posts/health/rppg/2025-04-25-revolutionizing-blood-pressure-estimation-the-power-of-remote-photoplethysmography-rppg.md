@@ -2,7 +2,7 @@
 layout: post
 title: 'Revolutionizing Blood Pressure Estimation: The Power of Remote Photoplethysmography
   (rPPG)'
-date: '2025-04-25T12:29:03'
+date: '2025-04-25T04:29:03'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Risk Management with Six Sigma: A Complete Guide to the MORT Method'
-date: '2025-08-25T11:21:42'
+date: '2025-08-25T03:21:42'
 categories:
 - business
 - operations

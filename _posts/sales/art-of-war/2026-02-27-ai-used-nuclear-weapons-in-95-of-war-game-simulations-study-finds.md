@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Used Nuclear Weapons in 95% of War Game Simulations, Study Finds
-date: '2026-02-27T23:01:59'
+date: '2026-02-27T15:01:59'
 categories:
 - sales
 - art-of-war

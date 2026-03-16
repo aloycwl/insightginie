@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the Spiral Model in Six Sigma: A Flexible Approach to Complex Software
   Development'
-date: '2025-07-08T13:54:39'
+date: '2025-07-08T05:54:39'
 categories:
 - business
 - operations

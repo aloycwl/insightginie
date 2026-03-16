@@ -2,7 +2,7 @@
 layout: post
 title: 'Stop Accidental Data Loss: A Complete Guide to OpenClaw&#8217;s Trash-CLI
   Skill'
-date: '2026-03-12T08:00:24'
+date: '2026-03-12T00:00:24'
 categories:
 - ai
 - openclaw

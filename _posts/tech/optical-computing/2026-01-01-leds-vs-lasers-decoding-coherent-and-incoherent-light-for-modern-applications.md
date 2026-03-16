@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDs vs. Lasers: Decoding Coherent and Incoherent Light for Modern Applications'
-date: '2026-01-01T12:10:13'
+date: '2026-01-01T04:10:13'
 categories:
 - tech
 - optical-computing

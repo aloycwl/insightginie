@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Best Business-Friendly Loans: A Guide to Low Rates and Flexible Terms'
-date: '2025-12-08T20:19:55'
+date: '2025-12-08T12:19:55'
 categories:
 - business
 - business-plan

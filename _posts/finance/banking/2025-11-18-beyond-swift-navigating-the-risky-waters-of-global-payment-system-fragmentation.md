@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond SWIFT: Navigating the Risky Waters of Global Payment System Fragmentation'
-date: '2025-11-18T20:30:00'
+date: '2025-11-18T12:30:00'
 categories:
 - finance
 - banking

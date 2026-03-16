@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Esophageal Disorder Treatment: Your Comprehensive Guide to Lasting Relief'
-date: '2026-01-07T12:12:14'
+date: '2026-01-07T04:12:14'
 categories:
 - health
 - healthtech

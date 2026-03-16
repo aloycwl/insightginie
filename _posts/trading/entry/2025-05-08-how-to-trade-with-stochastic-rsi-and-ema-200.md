@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Stochastic RSI and EMA-200
-date: '2025-05-08T21:02:07'
+date: '2025-05-08T13:02:07'
 categories:
 - trading
 - entry

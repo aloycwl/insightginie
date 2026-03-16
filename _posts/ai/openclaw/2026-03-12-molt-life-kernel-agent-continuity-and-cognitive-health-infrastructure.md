@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Molt-Life-Kernel: Agent Continuity and Cognitive Health Infrastructure'
-date: '2026-03-12T09:15:48'
+date: '2026-03-12T01:15:48'
 categories:
 - ai
 - openclaw

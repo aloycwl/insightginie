@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Peak Oil Revisited: Is the Forgotten Theory Still Shaping Our Energy Future?'
-date: '2025-10-28T11:15:55'
+date: '2025-10-28T03:15:55'
 categories:
 - tech
 - energy

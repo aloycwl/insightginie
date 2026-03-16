@@ -2,7 +2,7 @@
 layout: post
 title: 'FIFA&#8217;s Blockchain Revolution: Transforming Global Football Through Digital
   Innovation'
-date: '2025-05-01T21:58:44'
+date: '2025-05-01T13:58:44'
 categories:
 - web3
 - network

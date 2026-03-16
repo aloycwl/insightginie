@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI in Construction 2025: Building Smarter, Safer, and More Sustainable Cities'
-date: '2025-04-25T10:51:08'
+date: '2025-04-25T02:51:08'
 categories:
 - ai
 - ai-in-general

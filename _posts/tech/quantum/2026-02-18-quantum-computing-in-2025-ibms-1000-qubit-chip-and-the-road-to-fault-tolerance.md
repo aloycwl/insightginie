@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Computing in 2025: IBM&#8217;s 1,000-Qubit Chip and the Road to Fault
   Tolerance'
-date: '2026-02-18T18:17:12'
+date: '2026-02-18T10:17:12'
 categories:
 - tech
 - quantum

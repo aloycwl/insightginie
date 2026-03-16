@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Earned Value Management (EVM): How to Track Cost, Schedule, and
   Performance for Project Success'
-date: '2025-07-01T17:00:42'
+date: '2025-07-01T09:00:42'
 categories:
 - business
 - operations

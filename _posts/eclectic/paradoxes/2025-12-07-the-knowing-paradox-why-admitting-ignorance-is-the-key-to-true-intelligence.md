@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Knowing Paradox: Why Admitting Ignorance Is the Key to True Intelligence'
-date: '2025-12-07T11:19:57'
+date: '2025-12-07T03:19:57'
 categories:
 - eclectic
 - paradoxes

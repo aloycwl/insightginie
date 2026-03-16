@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hollow Validation Checker: Detecting Fake AI Agent Skill Tests'
-date: '2026-03-15T01:15:54'
+date: '2026-03-14T17:15:54'
 categories:
 - ai
 - openclaw

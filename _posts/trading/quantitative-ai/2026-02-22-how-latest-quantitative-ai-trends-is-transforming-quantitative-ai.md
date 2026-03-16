@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Latest Quantitative AI Trends is Transforming Quantitative AI
-date: '2026-02-22T09:31:09'
+date: '2026-02-22T01:31:09'
 categories:
 - trading
 - quantitative-ai

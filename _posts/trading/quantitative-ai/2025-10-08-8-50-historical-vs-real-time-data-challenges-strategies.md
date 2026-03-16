@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '(8/50) Historical vs real-time data: challenges &amp; strategies'
-date: '2025-10-08T10:19:00'
+date: '2025-10-08T02:19:00'
 categories:
 - trading
 - quantitative-ai

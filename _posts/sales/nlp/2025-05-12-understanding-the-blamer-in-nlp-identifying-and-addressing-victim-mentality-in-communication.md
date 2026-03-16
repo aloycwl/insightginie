@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding &#8216;The Blamer&#8217; in NLP: Identifying and Addressing
   Victim Mentality in Communication'
-date: '2025-05-12T11:13:49'
+date: '2025-05-12T03:13:49'
 categories:
 - sales
 - nlp

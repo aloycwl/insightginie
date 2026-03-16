@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantitative AI in 2026: How Machine Learning is Revolutionizing Systematic
   Trading'
-date: '2026-02-16T23:16:47'
+date: '2026-02-16T15:16:47'
 categories:
 - trading
 - quantitative-ai

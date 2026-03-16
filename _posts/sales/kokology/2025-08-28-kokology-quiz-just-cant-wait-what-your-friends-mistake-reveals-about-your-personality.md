@@ -2,7 +2,7 @@
 layout: post
 title: "Kokology Quiz: Just Can\u2019t Wait \u2013 What Your Friend\u2019s Mistake\
   \ Reveals About Your Personality"
-date: '2025-08-28T12:42:29'
+date: '2025-08-28T04:42:29'
 categories:
 - sales
 - kokology

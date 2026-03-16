@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Screen Automation: A Deep Dive into OpenClaw&#8217;s Screenshot-Capture
   Skill'
-date: '2026-03-07T02:30:37'
+date: '2026-03-06T18:30:37'
 categories:
 - ai
 - openclaw

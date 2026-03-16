@@ -2,7 +2,7 @@
 layout: post
 title: 'RWA Tokenization Goes Mainstream in 2026: A Complete Guide to Real World Asset
   Investment'
-date: '2026-02-16T01:46:55'
+date: '2026-02-15T17:46:55'
 categories:
 - finance
 - real-world-asset-rwa

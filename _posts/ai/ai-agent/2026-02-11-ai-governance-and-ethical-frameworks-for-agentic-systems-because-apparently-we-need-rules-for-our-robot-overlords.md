@@ -2,7 +2,7 @@
 layout: post
 title: 'AI Governance and Ethical Frameworks for Agentic Systems: Because Apparently,
   We Need Rules for Our Robot Overlords'
-date: '2026-02-11T12:27:30'
+date: '2026-02-11T04:27:30'
 categories:
 - ai
 - ai-agent

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Predicting Pandemics: How Big Data is Shaping the Future of Public Health'
-date: '2025-04-27T22:22:44'
+date: '2025-04-27T14:22:44'
 categories:
 - health
 - healthtech

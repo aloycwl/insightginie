@@ -2,7 +2,7 @@
 layout: post
 title: 'Enhancing Privacy with Federated Learning in rPPG Technology: A Privacy-Preserving
   Future for Wearable Health Devices'
-date: '2025-05-02T13:00:18'
+date: '2025-05-02T05:00:18'
 categories:
 - health
 - rppg

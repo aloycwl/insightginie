@@ -2,7 +2,7 @@
 layout: post
 title: 'Ensuring Cross-Cultural and Demographic Fairness in rPPG Technology: A Path
   Toward Inclusive Health Monitoring'
-date: '2025-05-02T13:01:50'
+date: '2025-05-02T05:01:50'
 categories:
 - health
 - rppg

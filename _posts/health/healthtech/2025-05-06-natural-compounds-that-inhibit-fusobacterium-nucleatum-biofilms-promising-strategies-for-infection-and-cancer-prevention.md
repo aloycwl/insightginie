@@ -2,7 +2,7 @@
 layout: post
 title: 'Natural Compounds That Inhibit Fusobacterium nucleatum Biofilms: Promising
   Strategies for Infection and Cancer Prevention'
-date: '2025-05-06T09:25:12'
+date: '2025-05-06T01:25:12'
 categories:
 - health
 - healthtech

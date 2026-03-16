@@ -2,7 +2,7 @@
 layout: post
 title: 'Accelerating Zero-Knowledge Proofs: High-Level ZK Languages on GPUs with Zorch
   and ICICLE'
-date: '2025-05-05T20:57:32'
+date: '2025-05-05T12:57:32'
 categories:
 - web3
 - zero-knowledge

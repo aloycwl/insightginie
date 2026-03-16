@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade with Bayesian Vector Autoregression (BVAR)
-date: '2025-05-01T19:43:00'
+date: '2025-05-01T11:43:00'
 categories:
 - trading
 - indicators

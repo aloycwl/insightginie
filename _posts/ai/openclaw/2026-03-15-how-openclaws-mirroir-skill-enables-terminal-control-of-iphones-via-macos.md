@@ -2,7 +2,7 @@
 layout: post
 title: How OpenClaw&#8217;s Mirroir Skill Enables Terminal Control of iPhones via
   macOS
-date: '2026-03-15T20:46:17'
+date: '2026-03-15T12:46:17'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XMTP CLI: Command-Line Tool for Testing and Managing XMTP Conversations'
-date: '2026-03-06T09:00:55'
+date: '2026-03-06T01:00:55'
 categories:
 - ai
 - openclaw

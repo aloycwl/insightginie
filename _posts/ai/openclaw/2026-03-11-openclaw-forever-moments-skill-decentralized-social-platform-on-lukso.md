@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Forever Moments Skill: Decentralized Social Platform on LUKSO'
-date: '2026-03-11T09:17:02'
+date: '2026-03-11T01:17:02'
 categories:
 - ai
 - openclaw

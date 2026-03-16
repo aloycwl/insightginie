@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI-Driven Nutrition: Eating Right by Data'
-date: '2025-04-27T21:46:09'
+date: '2025-04-27T13:46:09'
 categories:
 - health
 - medtech

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Renal Denervation: A Groundbreaking Approach to Treating Resistant Hypertension'
-date: '2025-04-30T16:56:35'
+date: '2025-04-30T08:56:35'
 categories:
 - health
 - medtech

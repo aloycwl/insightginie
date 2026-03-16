@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Singapore: Driving Innovation and Shaping the Future of Technology'
-date: '2025-04-28T09:26:18'
+date: '2025-04-28T01:26:18'
 categories:
 - ai
 - ai-in-general

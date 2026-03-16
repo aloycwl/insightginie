@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Automating Social Media: Understanding the OpenClaw Publer Skill'
-date: '2026-03-07T04:30:24'
+date: '2026-03-06T20:30:24'
 categories:
 - ai
 - openclaw

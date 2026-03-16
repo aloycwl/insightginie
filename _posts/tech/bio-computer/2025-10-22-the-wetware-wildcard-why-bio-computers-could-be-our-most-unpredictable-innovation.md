@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Wetware Wildcard: Why Bio-Computers Could Be Our Most Unpredictable Innovation'
-date: '2025-10-22T13:27:23'
+date: '2025-10-22T05:27:23'
 categories:
 - tech
 - bio-computer

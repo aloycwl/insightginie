@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Integrated Quantum Photonics: The Future of Scalable Optical Circuits'
-date: '2025-09-03T18:55:43'
+date: '2025-09-03T10:55:43'
 categories:
 - tech
 - quantum

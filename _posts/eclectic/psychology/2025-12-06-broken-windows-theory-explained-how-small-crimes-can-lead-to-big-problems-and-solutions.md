@@ -2,7 +2,7 @@
 layout: post
 title: 'Broken Windows Theory Explained: How Small Crimes Can Lead to Big Problems
   (And Solutions)'
-date: '2025-12-06T13:44:26'
+date: '2025-12-06T05:44:26'
 categories:
 - eclectic
 - psychology

@@ -2,7 +2,7 @@
 layout: post
 title: 'Navigating High-Volume Trade: Optimizing Cross-Border Payments in Asia-Europe
   Corridors'
-date: '2025-11-18T20:15:00'
+date: '2025-11-18T12:15:00'
 categories:
 - finance
 - banking

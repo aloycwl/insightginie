@@ -2,7 +2,7 @@
 layout: post
 title: "Dogwifhat Token Explained: What It Is, Why It\u2019s Trending, and How to\
   \ Get Involved"
-date: '2025-05-13T14:01:03'
+date: '2025-05-13T06:01:03'
 categories:
 - web3
 - cryptocurrency

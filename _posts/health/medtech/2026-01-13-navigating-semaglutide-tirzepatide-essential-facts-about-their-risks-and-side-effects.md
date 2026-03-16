@@ -2,7 +2,7 @@
 layout: post
 title: 'Navigating Semaglutide &#038; Tirzepatide: Essential Facts About Their Risks
   and Side Effects'
-date: '2026-01-13T12:21:24'
+date: '2026-01-13T04:21:24'
 categories:
 - health
 - medtech

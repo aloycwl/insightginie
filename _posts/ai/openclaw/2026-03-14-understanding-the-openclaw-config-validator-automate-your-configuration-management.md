@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Config-Validator: Automate Your Configuration Management'
-date: '2026-03-14T22:30:27'
+date: '2026-03-14T14:30:27'
 categories:
 - ai
 - openclaw

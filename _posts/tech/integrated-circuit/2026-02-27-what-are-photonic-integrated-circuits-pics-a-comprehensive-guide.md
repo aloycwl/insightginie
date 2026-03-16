@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are Photonic Integrated Circuits (PICs)? A Comprehensive Guide
-date: '2026-02-27T22:32:52'
+date: '2026-02-27T14:32:52'
 categories:
 - tech
 - integrated-circuit

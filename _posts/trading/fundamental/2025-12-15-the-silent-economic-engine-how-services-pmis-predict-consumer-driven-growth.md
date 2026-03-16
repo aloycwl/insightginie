@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Silent Economic Engine: How Services PMIs Predict Consumer-Driven Growth'
-date: '2025-12-15T13:42:50'
+date: '2025-12-15T05:42:50'
 categories:
 - trading
 - fundamental

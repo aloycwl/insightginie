@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Integrated Circuit Market Set for Explosive Growth: $462.81 Billion by 2026'
-date: '2026-02-18T13:01:50'
+date: '2026-02-18T05:01:50'
 categories:
 - tech
 - integrated-circuit

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IntentRouter: Your AI&#8217;s Smart Traffic Director for OpenClaw'
-date: '2026-03-16T16:17:34'
+date: '2026-03-16T08:17:34'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fitness Tracking: The Role of rPPG in Modern Wearable Devices'
-date: '2025-04-22T13:58:24'
+date: '2025-04-22T05:58:24'
 categories:
 - health
 - rppg

@@ -2,7 +2,7 @@
 layout: post
 title: 'Global Deleveraging and Asset Deflation: Why Debt Unwinding Could Trigger
   the Next Market Crash'
-date: '2025-12-15T15:38:41'
+date: '2025-12-15T07:38:41'
 categories:
 - trading
 - fundamental

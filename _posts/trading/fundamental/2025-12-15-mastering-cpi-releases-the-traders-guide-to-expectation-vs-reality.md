@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering CPI Releases: The Trader&#8217;s Guide to Expectation vs. Reality'
-date: '2025-12-15T12:03:40'
+date: '2025-12-15T04:03:40'
 categories:
 - trading
 - fundamental

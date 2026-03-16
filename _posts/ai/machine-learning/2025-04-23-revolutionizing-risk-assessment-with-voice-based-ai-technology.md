@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Revolutionizing Risk Assessment with Voice-Based AI Technology
-date: '2025-04-23T22:00:15'
+date: '2025-04-23T14:00:15'
 categories:
 - ai
 - machine-learning

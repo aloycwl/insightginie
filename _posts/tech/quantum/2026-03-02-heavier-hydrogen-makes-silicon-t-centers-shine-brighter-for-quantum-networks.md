@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heavier Hydrogen Makes Silicon T Centers Shine Brighter for Quantum Networks
-date: '2026-03-02T01:01:52'
+date: '2026-03-01T17:01:52'
 categories:
 - tech
 - quantum

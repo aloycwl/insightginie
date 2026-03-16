@@ -2,7 +2,7 @@
 layout: post
 title: 'The Future of Operations Management: 7 Transformative Trends Shaping Business
   in 2026'
-date: '2026-02-16T18:18:39'
+date: '2026-02-16T10:18:39'
 categories:
 - business
 - operations

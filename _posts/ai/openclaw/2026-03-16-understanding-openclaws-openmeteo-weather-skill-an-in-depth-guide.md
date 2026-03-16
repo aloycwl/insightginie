@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding OpenClaw&#8217;s OpenMeteo Weather Skill: An In-Depth Guide'
-date: '2026-03-16T08:46:14'
+date: '2026-03-16T00:46:14'
 categories:
 - ai
 - openclaw

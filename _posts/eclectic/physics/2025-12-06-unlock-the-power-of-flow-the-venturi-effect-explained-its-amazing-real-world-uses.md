@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock the Power of Flow: The Venturi Effect Explained &#038; Its Amazing
   Real-World Uses'
-date: '2025-12-06T22:53:49'
+date: '2025-12-06T14:53:49'
 categories:
 - eclectic
 - physics

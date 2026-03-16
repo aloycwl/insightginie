@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The No True Scotsman Fallacy: How to Spot (and Stop) Moving the Goalposts'
-date: '2025-12-07T22:31:54'
+date: '2025-12-07T14:31:54'
 categories:
 - eclectic
 - fallacies

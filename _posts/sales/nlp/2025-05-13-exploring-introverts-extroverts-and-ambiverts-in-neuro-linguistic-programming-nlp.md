@@ -2,7 +2,7 @@
 layout: post
 title: Exploring Introverts, Extroverts, and Ambiverts in Neuro-Linguistic Programming
   (NLP)
-date: '2025-05-13T12:23:57'
+date: '2025-05-13T04:23:57'
 categories:
 - sales
 - nlp

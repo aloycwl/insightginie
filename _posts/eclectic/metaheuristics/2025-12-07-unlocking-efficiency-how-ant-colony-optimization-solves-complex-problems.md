@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Efficiency: How Ant Colony Optimization Solves Complex Problems'
-date: '2025-12-07T18:03:45'
+date: '2025-12-07T10:03:45'
 categories:
 - eclectic
 - metaheuristics

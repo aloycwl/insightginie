@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Founder\u2019s Trap: 7 Hidden Dangers of Raising Capital Too Early"
-date: '2025-12-08T19:56:24'
+date: '2025-12-08T11:56:24'
 categories:
 - business
 - business-plan

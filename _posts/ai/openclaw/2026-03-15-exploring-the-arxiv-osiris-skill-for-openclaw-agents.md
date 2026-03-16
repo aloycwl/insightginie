@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring the ArXiv OSIRIS Skill for OpenClaw Agents
-date: '2026-03-15T19:16:00'
+date: '2026-03-15T11:16:00'
 categories:
 - ai
 - openclaw

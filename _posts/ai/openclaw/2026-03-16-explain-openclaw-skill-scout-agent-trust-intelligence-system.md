@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Explain OpenClaw Skill: Scout &#8211; Agent Trust Intelligence System'
-date: '2026-03-16T14:45:53'
+date: '2026-03-16T06:45:53'
 categories:
 - ai
 - openclaw

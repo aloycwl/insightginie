@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Multi-Agent Systems: Professional AI Role Design'
-date: '2026-03-13T06:15:39'
+date: '2026-03-12T22:15:39'
 categories:
 - ai
 - openclaw

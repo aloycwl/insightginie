@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Balance Sheet: How Banks Are Assessing Climate Risk in Lending
   Decisions'
-date: '2025-11-18T18:15:00'
+date: '2025-11-18T10:15:00'
 categories:
 - finance
 - banking

@@ -2,7 +2,7 @@
 layout: post
 title: How a DNS Server Can Turn Tracking Domains Into a Digital Black Hole (And Why
   You Should Care)
-date: '2026-02-04T15:03:12'
+date: '2026-02-04T07:03:12'
 categories:
 - tech
 - cybersec

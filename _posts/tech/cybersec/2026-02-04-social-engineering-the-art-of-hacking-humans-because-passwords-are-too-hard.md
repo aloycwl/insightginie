@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Social Engineering: The Art of Hacking Humans (Because Passwords Are Too Hard)'
-date: '2026-02-04T14:42:29'
+date: '2026-02-04T06:42:29'
 categories:
 - tech
 - cybersec

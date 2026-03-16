@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Kessler Effect: Unpacking the Space Debris Cascade Threat'
-date: '2025-12-06T22:16:36'
+date: '2025-12-06T14:16:36'
 categories:
 - eclectic
 - physics

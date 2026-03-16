@@ -2,7 +2,7 @@
 layout: post
 title: "Nordic Semiconductor\u2019s In-Memory Products: Redefining Efficiency in Embedded\
   \ Systems"
-date: '2026-02-06T12:58:02'
+date: '2026-02-06T04:58:02'
 categories:
 - tech
 - integrated-circuit

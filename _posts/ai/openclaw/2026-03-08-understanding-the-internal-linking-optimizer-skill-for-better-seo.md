@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Internal Linking Optimizer Skill for Better SEO
-date: '2026-03-08T16:45:47'
+date: '2026-03-08T08:45:47'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diagnosing AI System Failure: A Guide to the Cognitive Bullwhip Effect'
-date: '2026-03-12T23:30:37'
+date: '2026-03-12T15:30:37'
 categories:
 - ai
 - openclaw

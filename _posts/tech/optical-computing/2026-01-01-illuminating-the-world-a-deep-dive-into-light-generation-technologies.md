@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Illuminating the World: A Deep Dive into Light Generation Technologies'
-date: '2026-01-01T12:07:31'
+date: '2026-01-01T04:07:31'
 categories:
 - tech
 - optical-computing

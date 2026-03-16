@@ -2,7 +2,7 @@
 layout: post
 title: 'The Silent Metamorphosis: Tracing the Evolution from Generative AI to Agentic
   Systems'
-date: '2026-02-11T11:46:51'
+date: '2026-02-11T03:46:51'
 categories:
 - ai
 - ai-agent

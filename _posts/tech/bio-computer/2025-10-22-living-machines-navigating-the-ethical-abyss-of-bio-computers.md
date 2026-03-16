@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Living Machines: Navigating the Ethical Abyss of Bio-Computers'
-date: '2025-10-22T13:20:32'
+date: '2025-10-22T05:20:32'
 categories:
 - tech
 - bio-computer

@@ -2,7 +2,7 @@
 layout: post
 title: 'Effective Account Coaching: Strategies for Research, Relationship Mapping,
   and Targeted Focus Segments'
-date: '2025-05-08T13:09:28'
+date: '2025-05-08T05:09:28'
 categories:
 - sales
 - sales-cycle

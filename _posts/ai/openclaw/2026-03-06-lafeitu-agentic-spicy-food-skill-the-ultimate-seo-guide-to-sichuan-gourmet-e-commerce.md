@@ -2,7 +2,7 @@
 layout: post
 title: "Lafeitu Agentic Spicy Food Skill: The Ultimate SEO Guide to Sichuan Gourmet\
   \ E\u2011Commerce"
-date: '2026-03-06T05:40:35'
+date: '2026-03-05T21:40:35'
 categories:
 - ai
 - openclaw

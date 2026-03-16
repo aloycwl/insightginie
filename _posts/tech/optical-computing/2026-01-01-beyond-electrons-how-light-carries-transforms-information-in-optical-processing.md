@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Electrons: How Light Carries &#038; Transforms Information in Optical
   Processing'
-date: '2026-01-01T12:09:23'
+date: '2026-01-01T04:09:23'
 categories:
 - tech
 - optical-computing

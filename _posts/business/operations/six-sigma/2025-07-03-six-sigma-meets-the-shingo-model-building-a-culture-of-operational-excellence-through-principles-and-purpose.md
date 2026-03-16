@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma Meets the Shingo Model: Building a Culture of Operational Excellence
   Through Principles and Purpose'
-date: '2025-07-03T15:38:11'
+date: '2025-07-03T07:38:11'
 categories:
 - business
 - operations

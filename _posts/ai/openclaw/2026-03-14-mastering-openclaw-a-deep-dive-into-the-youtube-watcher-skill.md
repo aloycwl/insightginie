@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering OpenClaw: A Deep Dive into the YouTube Watcher Skill'
-date: '2026-03-14T16:45:48'
+date: '2026-03-14T08:45:48'
 categories:
 - ai
 - openclaw

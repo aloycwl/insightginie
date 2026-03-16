@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI-Generated Code: The New Normal Reshaping Software Development'
-date: '2025-05-01T19:24:20'
+date: '2025-05-01T11:24:20'
 categories:
 - ai
 - ai-agent

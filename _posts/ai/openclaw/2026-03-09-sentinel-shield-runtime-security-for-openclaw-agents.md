@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sentinel Shield: Runtime Security for OpenClaw Agents'
-date: '2026-03-09T19:19:13'
+date: '2026-03-09T11:19:13'
 categories:
 - ai
 - openclaw

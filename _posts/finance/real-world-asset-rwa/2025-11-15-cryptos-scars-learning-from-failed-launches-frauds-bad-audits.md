@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crypto&#8217;s Scars: Learning from Failed Launches, Frauds &#038; Bad Audits'
-date: '2025-11-15T10:22:28'
+date: '2025-11-15T02:22:28'
 categories:
 - finance
 - real-world-asset-rwa

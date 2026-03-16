@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deepfake Videos Can Fake a Heartbeat, Making Detection Harder
-date: '2026-02-27T02:01:09'
+date: '2026-02-26T18:01:09'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'US Patriot Act &#038; KYC: Your Essential Guide to Navigating Financial Compliance'
-date: '2025-11-20T10:57:39'
+date: '2025-11-20T02:57:39'
 categories:
 - finance
 - verification

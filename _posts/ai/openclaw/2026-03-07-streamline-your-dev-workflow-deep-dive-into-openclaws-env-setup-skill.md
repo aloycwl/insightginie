@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Streamline Your Dev Workflow: Deep Dive into OpenClaw&#8217;s env-setup Skill'
-date: '2026-03-07T03:30:24'
+date: '2026-03-06T19:30:24'
 categories:
 - ai
 - openclaw

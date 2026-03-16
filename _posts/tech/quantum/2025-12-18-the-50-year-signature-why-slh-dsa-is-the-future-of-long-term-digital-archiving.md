@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The 50-Year Signature: Why SLH-DSA is the Future of Long-Term Digital Archiving'
-date: '2025-12-18T13:18:34'
+date: '2025-12-18T05:18:34'
 categories:
 - tech
 - quantum

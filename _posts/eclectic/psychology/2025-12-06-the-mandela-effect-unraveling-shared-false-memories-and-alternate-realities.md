@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Mandela Effect: Unraveling Shared False Memories and Alternate Realities'
-date: '2025-12-06T14:12:05'
+date: '2025-12-06T06:12:05'
 categories:
 - eclectic
 - psychology

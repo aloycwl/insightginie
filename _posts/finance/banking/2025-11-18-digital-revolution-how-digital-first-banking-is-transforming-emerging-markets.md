@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Digital Revolution: How Digital-First Banking is Transforming Emerging Markets'
-date: '2025-11-18T10:45:00'
+date: '2025-11-18T02:45:00'
 categories:
 - finance
 - banking

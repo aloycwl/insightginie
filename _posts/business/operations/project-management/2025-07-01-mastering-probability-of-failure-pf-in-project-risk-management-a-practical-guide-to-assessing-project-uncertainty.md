@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Probability of Failure (Pf) in Project Risk Management: A Practical
   Guide to Assessing Project Uncertainty'
-date: '2025-07-01T16:55:16'
+date: '2025-07-01T08:55:16'
 categories:
 - business
 - operations

@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the OpenClaw Subskill Generation Rule: Organize and Enforce
   Project Structure in Skills'
-date: '2026-03-10T05:45:33'
+date: '2026-03-09T21:45:33'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'CBSE Class 10 Mathematics Exam 2026: Basic Paper Found Tougher Than Standard,
   Say Educators'
-date: '2026-03-02T14:31:24'
+date: '2026-03-02T06:31:24'
 categories:
 - eclectic
 - mathematics

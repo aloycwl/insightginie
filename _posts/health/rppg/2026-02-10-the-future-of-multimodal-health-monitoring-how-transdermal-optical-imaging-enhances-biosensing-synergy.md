@@ -2,7 +2,7 @@
 layout: post
 title: 'The Future of Multimodal Health Monitoring: How Transdermal Optical Imaging
   Enhances Biosensing Synergy'
-date: '2026-02-10T14:14:17'
+date: '2026-02-10T06:14:17'
 categories:
 - health
 - rppg

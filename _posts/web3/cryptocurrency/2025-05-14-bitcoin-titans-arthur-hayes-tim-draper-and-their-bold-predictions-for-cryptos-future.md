@@ -2,7 +2,7 @@
 layout: post
 title: "Bitcoin Titans: Arthur Hayes, Tim Draper, and Their Bold Predictions for Crypto\u2019\
   s Future"
-date: '2025-05-14T21:26:11'
+date: '2025-05-14T13:26:11'
 categories:
 - web3
 - cryptocurrency

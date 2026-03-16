@@ -2,7 +2,7 @@
 layout: post
 title: Unpacking the Critical Role of Signal Processing in Transdermal Optical Imaging
   Systems
-date: '2026-02-10T13:44:36'
+date: '2026-02-10T05:44:36'
 categories:
 - health
 - rppg

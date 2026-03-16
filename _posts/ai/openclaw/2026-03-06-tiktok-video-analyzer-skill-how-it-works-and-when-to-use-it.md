@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TikTok Video Analyzer Skill: How It Works and When to Use It'
-date: '2026-03-06T13:50:36'
+date: '2026-03-06T05:50:36'
 categories:
 - ai
 - openclaw

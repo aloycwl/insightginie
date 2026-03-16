@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma and EFQM: Aligning Quality Frameworks for Business Excellence and
   Measurable Results'
-date: '2025-07-03T15:35:16'
+date: '2025-07-03T07:35:16'
 categories:
 - business
 - operations

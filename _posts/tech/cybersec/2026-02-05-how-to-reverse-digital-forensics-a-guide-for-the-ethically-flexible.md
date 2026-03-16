@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How to Reverse Digital Forensics: A Guide for the Ethically Flexible'
-date: '2026-02-05T13:52:32'
+date: '2026-02-05T05:52:32'
 categories:
 - tech
 - cybersec

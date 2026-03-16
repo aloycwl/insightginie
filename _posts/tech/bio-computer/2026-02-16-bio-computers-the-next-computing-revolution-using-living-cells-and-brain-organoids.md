@@ -2,7 +2,7 @@
 layout: post
 title: 'Bio-Computers: The Next Computing Revolution Using Living Cells and Brain
   Organoids'
-date: '2026-02-16T15:32:01'
+date: '2026-02-16T07:32:01'
 categories:
 - tech
 - bio-computer

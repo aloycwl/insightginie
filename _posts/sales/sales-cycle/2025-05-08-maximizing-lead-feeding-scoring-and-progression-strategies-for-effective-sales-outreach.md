@@ -2,7 +2,7 @@
 layout: post
 title: 'Maximizing Lead Feeding, Scoring, and Progression: Strategies for Effective
   Sales Outreach'
-date: '2025-05-08T13:29:00'
+date: '2025-05-08T05:29:00'
 categories:
 - sales
 - sales-cycle

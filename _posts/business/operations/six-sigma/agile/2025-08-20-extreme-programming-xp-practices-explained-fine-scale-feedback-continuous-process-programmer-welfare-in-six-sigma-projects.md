@@ -2,7 +2,7 @@
 layout: post
 title: 'Extreme Programming (XP) Practices Explained: Fine-Scale Feedback, Continuous
   Process &amp; Programmer Welfare in Six Sigma Projects'
-date: '2025-08-20T11:07:44'
+date: '2025-08-20T03:07:44'
 categories:
 - business
 - operations

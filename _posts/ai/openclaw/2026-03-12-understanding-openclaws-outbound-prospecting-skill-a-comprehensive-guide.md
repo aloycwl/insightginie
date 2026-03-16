@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding OpenClaw&#8217;s Outbound Prospecting Skill: A Comprehensive
   Guide'
-date: '2026-03-12T05:45:51'
+date: '2026-03-11T21:45:51'
 categories:
 - ai
 - openclaw

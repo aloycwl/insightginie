@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Empowering Sales Organizations in Competitive Technology Markets
-date: '2026-03-02T09:31:39'
+date: '2026-03-02T01:31:39'
 categories:
 - sales
 - sales-cycle

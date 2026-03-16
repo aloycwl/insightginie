@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unlocking the Power of the Overbalanced Double Top
-date: '2025-05-05T12:18:49'
+date: '2025-05-05T04:18:49'
 categories:
 - trading
 - pattern

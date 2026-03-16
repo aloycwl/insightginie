@@ -2,7 +2,7 @@
 layout: post
 title: 'Generative AI Coding Revolution: How AI Is Transforming Software Development
   in 2026'
-date: '2026-02-15T14:31:36'
+date: '2026-02-15T06:31:36'
 categories:
 - ai
 - ai-tools

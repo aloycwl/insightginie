@@ -2,7 +2,7 @@
 layout: post
 title: "Kokology Quiz: Judging By Its Cover \u2013 What Your CD Jacket Choice Reveals\
   \ About Your Personality"
-date: '2025-08-28T12:37:12'
+date: '2025-08-28T04:37:12'
 categories:
 - sales
 - kokology

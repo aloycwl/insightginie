@@ -2,7 +2,7 @@
 layout: post
 title: Why Is Recon Important for Starting a Phishing Job? Because Winging It Is for
   Amateurs (And Script Kiddies)
-date: '2026-02-04T14:37:32'
+date: '2026-02-04T06:37:32'
 categories:
 - tech
 - cybersec

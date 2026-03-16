@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Basename Agent: Onchain Identity + \xC6mail for AI Explained"
-date: '2026-03-11T02:16:53'
+date: '2026-03-10T18:16:53'
 categories:
 - ai
 - openclaw

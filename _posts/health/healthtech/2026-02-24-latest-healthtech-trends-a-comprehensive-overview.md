@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Healthtech Trends: A Comprehensive Overview'
-date: '2026-02-24T17:02:09'
+date: '2026-02-24T09:02:09'
 categories:
 - health
 - healthtech

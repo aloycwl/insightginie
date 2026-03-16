@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Send Native iMessage Voice Replies with OpenClaw
-date: '2026-03-15T11:16:40'
+date: '2026-03-15T03:16:40'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cross-Site Scripting (XSS) 2026: Future Threats and Advanced Defense Strategies'
-date: '2026-02-02T19:08:52'
+date: '2026-02-02T11:08:52'
 categories:
 - tech
 - cybersec

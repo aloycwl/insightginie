@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Art of War Series: Manoeuvring'
-date: '2025-05-27T14:51:28'
+date: '2025-05-27T06:51:28'
 categories:
 - sales
 - art-of-war

@@ -2,7 +2,7 @@
 layout: post
 title: 'Secure Cross-Chain Asset Transfers with Zero-Knowledge Bridges: A Scalable
   and Trust-Minimized Future'
-date: '2025-05-05T20:59:23'
+date: '2025-05-05T12:59:23'
 categories:
 - web3
 - zero-knowledge

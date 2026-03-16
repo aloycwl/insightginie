@@ -2,7 +2,7 @@
 layout: post
 title: 'The Business Dad Paradox: Why &#8220;Time-Saving&#8221; Tech is Stealing Your
   Life'
-date: '2025-12-07T10:51:24'
+date: '2025-12-07T02:51:24'
 categories:
 - eclectic
 - paradoxes

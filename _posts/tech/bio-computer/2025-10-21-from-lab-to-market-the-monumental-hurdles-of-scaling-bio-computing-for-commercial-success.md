@@ -2,7 +2,7 @@
 layout: post
 title: 'From Lab to Market: The Monumental Hurdles of Scaling Bio-Computing for Commercial
   Success'
-date: '2025-10-21T21:43:36'
+date: '2025-10-21T13:43:36'
 categories:
 - tech
 - bio-computer

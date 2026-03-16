@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How AI Hiring Prediction is Reshaping Recruitment for a Smarter Future
-date: '2025-04-29T09:16:41'
+date: '2025-04-29T01:16:41'
 categories:
 - ai
 - ai-agent

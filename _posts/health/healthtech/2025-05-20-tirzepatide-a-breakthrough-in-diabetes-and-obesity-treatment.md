@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tirzepatide: A Breakthrough in Diabetes and Obesity Treatment'
-date: '2025-05-20T09:16:33'
+date: '2025-05-20T01:16:33'
 categories:
 - health
 - healthtech

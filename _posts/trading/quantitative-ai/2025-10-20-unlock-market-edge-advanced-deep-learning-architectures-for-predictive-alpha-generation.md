@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Market Edge: Advanced Deep Learning Architectures for Predictive Alpha
   Generation'
-date: '2025-10-20T12:13:56'
+date: '2025-10-20T04:13:56'
 categories:
 - trading
 - quantitative-ai

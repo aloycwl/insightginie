@@ -2,7 +2,7 @@
 layout: post
 title: 'Open Loop vs. Closed Loop Payments: The Definitive Business Guide to Smart
   Transactions'
-date: '2025-11-18T15:15:00'
+date: '2025-11-18T07:15:00'
 categories:
 - finance
 - banking

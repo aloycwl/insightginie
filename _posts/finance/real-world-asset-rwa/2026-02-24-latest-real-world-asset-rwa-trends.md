@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Real World Asset (RWA) Trends
-date: '2026-02-24T16:58:30'
+date: '2026-02-24T08:58:30'
 categories:
 - finance
 - real-world-asset-rwa

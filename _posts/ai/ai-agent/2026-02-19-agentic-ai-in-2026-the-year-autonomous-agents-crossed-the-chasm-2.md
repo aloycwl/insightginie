@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agentic AI in 2026: The Year Autonomous Agents Crossed the Chasm'
-date: '2026-02-19T00:47:32'
+date: '2026-02-18T16:47:32'
 categories:
 - ai
 - ai-agent

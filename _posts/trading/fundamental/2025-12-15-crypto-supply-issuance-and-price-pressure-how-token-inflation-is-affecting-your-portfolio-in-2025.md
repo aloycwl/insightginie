@@ -2,7 +2,7 @@
 layout: post
 title: 'Crypto Supply Issuance and Price Pressure: How Token Inflation Is Affecting
   Your Portfolio in 2025'
-date: '2025-12-15T15:20:19'
+date: '2025-12-15T07:20:19'
 categories:
 - trading
 - fundamental

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Antiquated Anomaly: Why Hex Editors Remain Indispensable for the Modern
   Programmer and Reverse Engineer'
-date: '2026-02-04T14:08:00'
+date: '2026-02-04T06:08:00'
 categories:
 - tech
 - cybersec

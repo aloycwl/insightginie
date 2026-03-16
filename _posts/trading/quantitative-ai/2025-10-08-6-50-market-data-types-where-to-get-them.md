@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (6/50) Market data types &amp; where to get them
-date: '2025-10-08T10:18:44'
+date: '2025-10-08T02:18:44'
 categories:
 - trading
 - quantitative-ai

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SandboxAQ Selected by Sanofi for Quantitative AI-Driven Biomarker Identification
-date: '2026-02-26T23:04:00'
+date: '2026-02-26T15:04:00'
 categories:
 - trading
 - quantitative-ai

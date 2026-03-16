@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Django REST Framework: Best Practices and Essential Techniques'
-date: '2026-03-15T06:45:56'
+date: '2026-03-14T22:45:56'
 categories:
 - ai
 - openclaw

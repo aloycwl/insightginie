@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Six Sigma in Supply Chain: Optimizing Procurement, Manufacturing,
   Warehousing &amp; Transportation'
-date: '2025-07-03T15:58:16'
+date: '2025-07-03T07:58:16'
 categories:
 - business
 - operations

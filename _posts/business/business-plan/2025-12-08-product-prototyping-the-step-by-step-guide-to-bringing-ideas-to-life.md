@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Product Prototyping: The Step-by-Step Guide to Bringing Ideas to Life'
-date: '2025-12-08T12:20:43'
+date: '2025-12-08T04:20:43'
 categories:
 - business
 - business-plan

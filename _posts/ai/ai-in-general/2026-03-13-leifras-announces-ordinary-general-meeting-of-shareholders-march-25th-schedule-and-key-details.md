@@ -2,7 +2,7 @@
 layout: post
 title: 'Leifras Announces Ordinary General Meeting of Shareholders: March 25th Schedule
   and Key Details'
-date: '2026-03-13T07:00:45'
+date: '2026-03-12T23:00:45'
 categories:
 - ai
 - ai-in-general

@@ -2,7 +2,7 @@
 layout: post
 title: Are zkRollups Standalone Chains? Clearing Up Misunderstandings and Explaining
   Their True Role in Blockchain Scalability
-date: '2025-05-05T21:31:04'
+date: '2025-05-05T13:31:04'
 categories:
 - web3
 - zero-knowledge

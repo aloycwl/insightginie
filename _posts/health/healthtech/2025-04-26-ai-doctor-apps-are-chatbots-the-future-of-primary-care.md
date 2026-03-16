@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Doctor Apps: Are Chatbots the Future of Primary Care?'
-date: '2025-04-26T12:49:06'
+date: '2025-04-26T04:49:06'
 categories:
 - health
 - healthtech

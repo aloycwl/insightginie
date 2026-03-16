@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of Multi-Modal Behavior Analysis in AI and Human Interaction
-date: '2025-04-24T08:28:06'
+date: '2025-04-24T00:28:06'
 categories:
 - ai
 - machine-learning

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the OpenClaw Muslim Prayer Reminder Skill: Features and Functions'
-date: '2026-03-11T08:45:57'
+date: '2026-03-11T00:45:57'
 categories:
 - ai
 - openclaw

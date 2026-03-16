@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Profit from Chaos: How to Trade Supply Chain Disruptions and Inflation'
-date: '2025-12-15T13:39:09'
+date: '2025-12-15T05:39:09'
 categories:
 - trading
 - fundamental

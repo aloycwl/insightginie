@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Middle Ground Fallacy: Why Compromise Is Not Always the Truth'
-date: '2025-12-07T22:28:08'
+date: '2025-12-07T14:28:08'
 categories:
 - eclectic
 - fallacies

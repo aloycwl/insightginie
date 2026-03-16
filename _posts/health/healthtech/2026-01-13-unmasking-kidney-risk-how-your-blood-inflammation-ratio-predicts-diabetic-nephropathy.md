@@ -2,7 +2,7 @@
 layout: post
 title: 'Unmasking Kidney Risk: How Your Blood Inflammation Ratio Predicts Diabetic
   Nephropathy'
-date: '2026-01-13T12:17:48'
+date: '2026-01-13T04:17:48'
 categories:
 - health
 - healthtech

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Top Crypto Exchanges to Trade Tokenized Real World Assets: Best Picks Reviewed'
-date: '2026-03-11T07:30:25'
+date: '2026-03-10T23:30:25'
 categories:
 - finance
 - real-world-asset-rwa

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Isidore Unveiled: Decoding How Forward Edge-AI Powers Next-Gen Intelligence'
-date: '2025-11-22T11:49:12'
+date: '2025-11-22T03:49:12'
 categories:
 - tech
 - quantum

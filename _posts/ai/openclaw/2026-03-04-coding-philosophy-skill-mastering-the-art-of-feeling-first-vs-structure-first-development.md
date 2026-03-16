@@ -2,7 +2,7 @@
 layout: post
 title: 'Coding Philosophy Skill: Mastering the Art of Feeling-First vs Structure-First
   Development'
-date: '2026-03-04T21:21:53'
+date: '2026-03-04T13:21:53'
 categories:
 - ai
 - openclaw

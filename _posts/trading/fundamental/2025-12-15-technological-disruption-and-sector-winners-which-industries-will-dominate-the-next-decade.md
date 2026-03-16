@@ -2,7 +2,7 @@
 layout: post
 title: 'Technological Disruption and Sector Winners: Which Industries Will Dominate
   the Next Decade'
-date: '2025-12-15T15:13:27'
+date: '2025-12-15T07:13:27'
 categories:
 - trading
 - fundamental

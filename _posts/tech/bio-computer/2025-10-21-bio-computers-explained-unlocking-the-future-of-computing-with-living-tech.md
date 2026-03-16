@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bio-Computers Explained: Unlocking the Future of Computing with Living Tech'
-date: '2025-10-21T09:48:20'
+date: '2025-10-21T01:48:20'
 categories:
 - tech
 - bio-computer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Competitor Location Matters in Business Optimization
-date: '2025-05-05T10:18:22'
+date: '2025-05-05T02:18:22'
 categories:
 - business
 - business-plan

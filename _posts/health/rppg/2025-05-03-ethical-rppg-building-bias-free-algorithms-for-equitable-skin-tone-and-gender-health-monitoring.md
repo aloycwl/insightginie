@@ -2,7 +2,7 @@
 layout: post
 title: 'Ethical rPPG: Building Bias-Free Algorithms for Equitable Skin Tone and Gender
   Health Monitoring'
-date: '2025-05-03T14:38:32'
+date: '2025-05-03T06:38:32'
 categories:
 - health
 - rppg

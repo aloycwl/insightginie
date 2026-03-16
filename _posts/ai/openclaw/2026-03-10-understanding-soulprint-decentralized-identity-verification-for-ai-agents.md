@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Soulprint: Decentralized Identity Verification for AI Agents'
-date: '2026-03-10T11:30:23'
+date: '2026-03-10T03:30:23'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI vs. Radiologist: Can Software Outdiagnose Doctors?'
-date: '2025-04-27T22:34:20'
+date: '2025-04-27T14:34:20'
 categories:
 - health
 - medtech

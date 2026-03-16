@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sun Tzu Art of War: Ancient Strategies for Modern Business Success'
-date: '2026-02-17T15:16:57'
+date: '2026-02-17T07:16:57'
 categories:
 - sales
 - art-of-war

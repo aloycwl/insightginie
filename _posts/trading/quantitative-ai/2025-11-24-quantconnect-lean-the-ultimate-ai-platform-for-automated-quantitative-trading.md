@@ -2,7 +2,7 @@
 layout: post
 title: 'QuantConnect &#038; Lean: The Ultimate AI Platform for Automated Quantitative
   Trading'
-date: '2025-11-24T11:35:08'
+date: '2025-11-24T03:35:08'
 categories:
 - trading
 - quantitative-ai

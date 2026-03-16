@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'rPPG Hardware Advancements: From Basic Cameras to Deep Sensing'
-date: '2025-04-21T22:51:54'
+date: '2025-04-21T14:51:54'
 categories:
 - health
 - rppg

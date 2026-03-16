@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering AI Agent Registration: A Deep Dive into the OpenClaw Zscore Skill'
-date: '2026-03-11T06:30:20'
+date: '2026-03-10T22:30:20'
 categories:
 - ai
 - openclaw

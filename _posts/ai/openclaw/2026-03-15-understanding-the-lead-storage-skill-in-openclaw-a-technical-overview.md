@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding the Lead-Storage Skill in OpenClaw: A Technical Overview'
-date: '2026-03-15T02:00:33'
+date: '2026-03-14T18:00:33'
 categories:
 - ai
 - openclaw

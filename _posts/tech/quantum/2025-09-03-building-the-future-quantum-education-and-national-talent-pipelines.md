@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Building the Future: Quantum Education and National Talent Pipelines'
-date: '2025-09-03T20:12:10'
+date: '2025-09-03T12:12:10'
 categories:
 - tech
 - quantum

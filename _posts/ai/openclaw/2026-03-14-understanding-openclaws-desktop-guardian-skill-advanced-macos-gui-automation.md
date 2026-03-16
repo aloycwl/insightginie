@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding OpenClaw&#8217;s Desktop Guardian Skill: Advanced macOS GUI
   Automation'
-date: '2026-03-14T12:45:59'
+date: '2026-03-14T04:45:59'
 categories:
 - ai
 - openclaw

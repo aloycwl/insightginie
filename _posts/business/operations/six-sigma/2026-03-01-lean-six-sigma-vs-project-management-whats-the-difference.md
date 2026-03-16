@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lean Six Sigma vs. Project Management: What&#8217;s the Difference?'
-date: '2026-03-01T07:31:22'
+date: '2026-02-28T23:31:22'
 categories:
 - business
 - operations

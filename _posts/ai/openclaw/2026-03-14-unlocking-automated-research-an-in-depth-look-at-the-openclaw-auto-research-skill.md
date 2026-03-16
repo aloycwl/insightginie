@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Automated Research: An In-Depth Look at the OpenClaw Auto-Research
   Skill'
-date: '2026-03-14T04:30:28'
+date: '2026-03-13T20:30:28'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Management &#8211; HBR
-date: '2026-02-24T16:58:45'
+date: '2026-02-24T08:58:45'
 categories:
 - business
 - management

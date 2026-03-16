@@ -2,7 +2,7 @@
 layout: post
 title: 'Transdermal Optical Imaging: Revolutionizing Elderly Care Through Non-Invasive
   Health Monitoring'
-date: '2026-02-10T14:15:52'
+date: '2026-02-10T06:15:52'
 categories:
 - health
 - rppg

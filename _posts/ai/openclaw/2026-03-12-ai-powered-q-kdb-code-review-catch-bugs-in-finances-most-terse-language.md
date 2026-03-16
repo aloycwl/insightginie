@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI-Powered Q/kdb+ Code Review: Catch Bugs in Finance&#8217;s Most Terse Language'
-date: '2026-03-12T12:16:10'
+date: '2026-03-12T04:16:10'
 categories:
 - ai
 - openclaw

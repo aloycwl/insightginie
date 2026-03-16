@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Energy Grid Optimization: Real-Time Management of Renewable Energy Flows'
-date: '2025-09-04T14:41:53'
+date: '2025-09-04T06:41:53'
 categories:
 - tech
 - quantum

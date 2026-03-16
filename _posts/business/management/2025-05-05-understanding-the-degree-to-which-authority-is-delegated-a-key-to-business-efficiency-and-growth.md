@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the Degree to Which Authority is Delegated: A Key to Business
   Efficiency and Growth'
-date: '2025-05-05T19:54:35'
+date: '2025-05-05T11:54:35'
 categories:
 - business
 - management

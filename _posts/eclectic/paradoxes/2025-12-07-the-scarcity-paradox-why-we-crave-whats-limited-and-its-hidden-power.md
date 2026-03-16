@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Scarcity Paradox: Why We Crave What&#8217;s Limited (and Its Hidden Power)'
-date: '2025-12-07T17:47:48'
+date: '2025-12-07T09:47:48'
 categories:
 - eclectic
 - paradoxes

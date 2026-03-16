@@ -2,7 +2,7 @@
 layout: post
 title: 'Tokenized Commercial Real Estate: Unlock Fractional Ownership &#038; Passive
   Income'
-date: '2025-11-12T10:24:32'
+date: '2025-11-12T02:24:32'
 categories:
 - finance
 - real-world-asset-rwa

@@ -2,7 +2,7 @@
 layout: post
 title: 'AI in Agriculture 2025: Cultivating a Smarter, Sustainable, and Resilient
   Future'
-date: '2025-04-25T10:49:24'
+date: '2025-04-25T02:49:24'
 categories:
 - ai
 - ai-in-general

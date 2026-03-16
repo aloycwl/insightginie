@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Automate Your Workflow: How to Send macOS Screenshots to Telegram via OpenClaw'
-date: '2026-03-11T13:30:26'
+date: '2026-03-11T05:30:26'
 categories:
 - ai
 - openclaw

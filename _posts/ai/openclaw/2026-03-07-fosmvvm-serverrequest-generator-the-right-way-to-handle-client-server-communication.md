@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FOSMVVM ServerRequest Generator: The Right Way to Handle Client-Server Communication'
-date: '2026-03-07T11:17:30'
+date: '2026-03-07T03:17:30'
 categories:
 - ai
 - openclaw

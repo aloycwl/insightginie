@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Solution-Product Fit: Bridging the Gap Between a Good Idea and a Great Product'
-date: '2025-12-08T12:17:21'
+date: '2025-12-08T04:17:21'
 categories:
 - business
 - business-plan

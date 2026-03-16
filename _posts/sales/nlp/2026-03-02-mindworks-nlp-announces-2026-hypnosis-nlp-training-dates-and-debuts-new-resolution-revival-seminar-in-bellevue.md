@@ -2,7 +2,7 @@
 layout: post
 title: Mindworks NLP Announces 2026 Hypnosis &#038; NLP Training Dates and Debuts
   New &#8216;Resolution Revival&#8217; Seminar in Bellevue
-date: '2026-03-02T11:01:06'
+date: '2026-03-02T03:01:06'
 categories:
 - sales
 - nlp

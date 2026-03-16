@@ -2,7 +2,7 @@
 layout: post
 title: Direct-To-Consumer Telemedicine Visits For Acute Respiratory Infections Linked
   To More Downstream Visits
-date: '2026-02-25T23:31:31'
+date: '2026-02-25T15:31:31'
 categories:
 - health
 - telemedicine

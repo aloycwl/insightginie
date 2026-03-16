@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (36/50) Backtest acceleration &amp; vectorized frameworks
-date: '2025-10-18T09:43:25'
+date: '2025-10-18T01:43:25'
 categories:
 - trading
 - quantitative-ai

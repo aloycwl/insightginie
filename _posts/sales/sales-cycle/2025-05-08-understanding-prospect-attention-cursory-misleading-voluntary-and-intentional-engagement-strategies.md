@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Prospect Attention: Cursory, Misleading, Voluntary, and Intentional
   Engagement Strategies'
-date: '2025-05-08T13:34:48'
+date: '2025-05-08T05:34:48'
 categories:
 - sales
 - sales-cycle

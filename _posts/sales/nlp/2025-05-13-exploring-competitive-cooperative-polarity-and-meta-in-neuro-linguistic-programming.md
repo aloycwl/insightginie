@@ -2,7 +2,7 @@
 layout: post
 title: Exploring Competitive, Cooperative, Polarity, and Meta in Neuro-Linguistic
   Programming
-date: '2025-05-13T12:29:24'
+date: '2025-05-13T04:29:24'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: 'Meta&#8217;s Metaverse is Officially Dead: $90B Bet Falls Short, After Weak
   Consumer Demand'
-date: '2026-02-28T02:31:03'
+date: '2026-02-27T18:31:03'
 categories:
 - game
 - metaverse

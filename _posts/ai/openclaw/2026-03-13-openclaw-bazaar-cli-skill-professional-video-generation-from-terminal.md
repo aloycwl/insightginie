@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Bazaar CLI Skill: Professional Video Generation from Terminal'
-date: '2026-03-13T08:16:15'
+date: '2026-03-13T00:16:15'
 categories:
 - ai
 - openclaw

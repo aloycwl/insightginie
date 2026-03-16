@@ -2,7 +2,7 @@
 layout: post
 title: 'The Green Supercycle: How the Energy Transition Will Spark the Next Commodities
   Boom'
-date: '2025-12-15T13:36:54'
+date: '2025-12-15T05:36:54'
 categories:
 - trading
 - fundamental

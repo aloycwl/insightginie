@@ -2,7 +2,7 @@
 layout: post
 title: 'Industrial Metals and Global Growth Signals: How Copper, Aluminum, and Steel
   Forecast Economic Trends'
-date: '2025-12-15T14:30:06'
+date: '2025-12-15T06:30:06'
 categories:
 - trading
 - fundamental

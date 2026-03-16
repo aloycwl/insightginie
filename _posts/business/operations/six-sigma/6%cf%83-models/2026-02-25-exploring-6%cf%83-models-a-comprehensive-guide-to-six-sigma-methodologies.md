@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring 6\u03A3 Models: A Comprehensive Guide to Six Sigma Methodologies"
-date: '2026-02-25T13:24:30'
+date: '2026-02-25T05:24:30'
 categories:
 - business
 - operations

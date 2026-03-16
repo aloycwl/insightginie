@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Implantable Chips &amp; Privacy: The High-Tech Body Data Dilemma'
-date: '2025-04-27T22:51:15'
+date: '2025-04-27T14:51:15'
 categories:
 - health
 - medtech

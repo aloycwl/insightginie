@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering the Art of Sales Closing
-date: '2025-05-08T14:07:15'
+date: '2025-05-08T06:07:15'
 categories:
 - sales
 - sales-cycle

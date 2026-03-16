@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sustainable Software Development: Coding with the Planet in Mind'
-date: '2025-05-01T19:35:38'
+date: '2025-05-01T11:35:38'
 categories:
 - ai
 - ai-agent

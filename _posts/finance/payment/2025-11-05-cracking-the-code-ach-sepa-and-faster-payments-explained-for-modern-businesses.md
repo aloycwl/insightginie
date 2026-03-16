@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cracking the Code: ACH, SEPA, and Faster Payments Explained for Modern Businesses'
-date: '2025-11-05T15:24:56'
+date: '2025-11-05T07:24:56'
 categories:
 - finance
 - payment

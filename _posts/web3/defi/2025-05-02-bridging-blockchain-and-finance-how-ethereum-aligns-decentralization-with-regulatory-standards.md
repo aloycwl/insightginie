@@ -2,7 +2,7 @@
 layout: post
 title: 'Bridging Blockchain and Finance: How Ethereum Aligns Decentralization with
   Regulatory Standards'
-date: '2025-05-02T12:31:29'
+date: '2025-05-02T04:31:29'
 categories:
 - web3
 - defi

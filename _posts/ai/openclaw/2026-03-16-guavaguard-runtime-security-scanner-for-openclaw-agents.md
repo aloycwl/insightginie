@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GuavaGuard: Runtime Security Scanner for OpenClaw Agents'
-date: '2026-03-16T06:15:36'
+date: '2026-03-15T22:15:36'
 categories:
 - ai
 - openclaw

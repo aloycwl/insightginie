@@ -2,7 +2,7 @@
 layout: post
 title: 'CFT Unveiled: How Global Efforts Combat Terrorism Financing &#038; Protect
   Economies'
-date: '2025-11-20T10:53:29'
+date: '2025-11-20T02:53:29'
 categories:
 - finance
 - verification

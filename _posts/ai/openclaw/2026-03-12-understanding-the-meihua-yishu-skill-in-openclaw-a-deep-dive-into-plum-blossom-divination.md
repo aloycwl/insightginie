@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the Meihua Yishu Skill in OpenClaw: A Deep Dive into Plum Blossom
   Divination'
-date: '2026-03-12T23:00:42'
+date: '2026-03-12T15:00:42'
 categories:
 - ai
 - openclaw

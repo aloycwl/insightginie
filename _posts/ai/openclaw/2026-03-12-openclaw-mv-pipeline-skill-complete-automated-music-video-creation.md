@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw MV Pipeline Skill: Complete Automated Music Video Creation'
-date: '2026-03-12T19:18:57'
+date: '2026-03-12T11:18:57'
 categories:
 - ai
 - openclaw

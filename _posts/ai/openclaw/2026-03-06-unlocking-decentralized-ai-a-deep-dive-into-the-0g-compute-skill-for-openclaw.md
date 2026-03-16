@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Decentralized AI: A Deep Dive into the 0g-compute Skill for OpenClaw'
-date: '2026-03-06T16:35:52'
+date: '2026-03-06T08:35:52'
 categories:
 - ai
 - openclaw

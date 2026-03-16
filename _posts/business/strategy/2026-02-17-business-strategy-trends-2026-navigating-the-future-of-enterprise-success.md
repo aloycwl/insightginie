@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Business Strategy Trends 2026: Navigating the Future of Enterprise Success'
-date: '2026-02-17T04:02:00'
+date: '2026-02-16T20:02:00'
 categories:
 - business
 - strategy

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Neuro-Linguistic Programming (NLP) Can Influence Morality and Ethical Decision-Making
-date: '2025-05-13T14:23:38'
+date: '2025-05-13T06:23:38'
 categories:
 - sales
 - nlp

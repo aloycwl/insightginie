@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Complete Guide to the NLP Meta-Model
-date: '2025-05-12T10:34:10'
+date: '2025-05-12T02:34:10'
 categories:
 - sales
 - nlp

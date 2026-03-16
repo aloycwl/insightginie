@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring &#8216;The Computer&#8217; in NLP
-date: '2025-05-12T11:15:33'
+date: '2025-05-12T03:15:33'
 categories:
 - sales
 - nlp

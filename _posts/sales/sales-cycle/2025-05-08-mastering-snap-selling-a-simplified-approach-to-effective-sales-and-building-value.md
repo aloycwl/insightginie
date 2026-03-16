@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering SNAP Selling: A Simplified Approach to Effective Sales and Building
   Value'
-date: '2025-05-08T13:45:36'
+date: '2025-05-08T05:45:36'
 categories:
 - sales
 - sales-cycle

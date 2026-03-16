@@ -2,7 +2,7 @@
 layout: post
 title: How Artificial Intelligence Transforms Transdermal Optical Imaging Analysis
   for Precision Diagnostics
-date: '2026-02-10T13:54:32'
+date: '2026-02-10T05:54:32'
 categories:
 - health
 - rppg

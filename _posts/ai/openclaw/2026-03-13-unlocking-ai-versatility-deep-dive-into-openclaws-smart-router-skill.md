@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking AI Versatility: Deep Dive into OpenClaw&#8217;s Smart Router Skill'
-date: '2026-03-13T18:00:27'
+date: '2026-03-13T10:00:27'
 categories:
 - ai
 - openclaw

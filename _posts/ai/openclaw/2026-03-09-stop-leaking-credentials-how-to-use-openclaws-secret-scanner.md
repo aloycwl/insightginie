@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop Leaking Credentials: How to Use OpenClaw\u2019s Secret Scanner"
-date: '2026-03-09T19:00:22'
+date: '2026-03-09T11:00:22'
 categories:
 - ai
 - openclaw

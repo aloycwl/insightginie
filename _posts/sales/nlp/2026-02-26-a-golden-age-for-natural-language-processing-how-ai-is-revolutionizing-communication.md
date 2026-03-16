@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Golden Age for Natural Language Processing: How AI is Revolutionizing Communication'
-date: '2026-02-26T04:01:49'
+date: '2026-02-25T20:01:49'
 categories:
 - sales
 - nlp

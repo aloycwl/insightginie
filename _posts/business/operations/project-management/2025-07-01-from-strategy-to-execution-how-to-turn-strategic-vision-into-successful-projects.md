@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'From Strategy to Execution: How to Turn Strategic Vision into Successful Projects'
-date: '2025-07-01T16:16:59'
+date: '2025-07-01T08:16:59'
 categories:
 - business
 - operations

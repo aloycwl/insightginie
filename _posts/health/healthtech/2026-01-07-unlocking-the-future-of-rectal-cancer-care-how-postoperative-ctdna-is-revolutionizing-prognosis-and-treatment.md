@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking the Future of Rectal Cancer Care: How Postoperative ctDNA is Revolutionizing
   Prognosis and Treatment'
-date: '2026-01-07T12:12:49'
+date: '2026-01-07T04:12:49'
 categories:
 - health
 - healthtech

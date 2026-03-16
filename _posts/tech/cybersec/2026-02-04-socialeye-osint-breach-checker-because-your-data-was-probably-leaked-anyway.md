@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SocialEye OSINT Breach Checker: Because Your Data Was Probably Leaked Anyway'
-date: '2026-02-04T14:29:40'
+date: '2026-02-04T06:29:40'
 categories:
 - tech
 - cybersec

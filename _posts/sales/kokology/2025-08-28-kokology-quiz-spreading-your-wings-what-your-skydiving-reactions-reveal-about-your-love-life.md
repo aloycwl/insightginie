@@ -2,7 +2,7 @@
 layout: post
 title: "Kokology Quiz: Spreading Your Wings \u2013 What Your Skydiving Reactions Reveal\
   \ About Your Love Life"
-date: '2025-08-28T12:47:39'
+date: '2025-08-28T04:47:39'
 categories:
 - sales
 - kokology

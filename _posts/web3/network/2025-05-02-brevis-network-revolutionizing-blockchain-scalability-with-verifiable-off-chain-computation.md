@@ -2,7 +2,7 @@
 layout: post
 title: 'Brevis Network: Revolutionizing Blockchain Scalability with Verifiable Off-Chain
   Computation'
-date: '2025-05-02T09:38:42'
+date: '2025-05-02T01:38:42'
 categories:
 - web3
 - network

@@ -2,7 +2,7 @@
 layout: post
 title: 'Kokology Quiz: What Your Reaction to a Mysterious Briefcase Reveals About
   Your Dating Style'
-date: '2025-08-25T19:17:53'
+date: '2025-08-25T11:17:53'
 categories:
 - sales
 - kokology

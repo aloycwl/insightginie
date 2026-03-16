@@ -2,7 +2,7 @@
 layout: post
 title: 'The Knowledge Paradox: Why True Wisdom Starts with Knowing What You Don&#8217;t
   Know'
-date: '2025-12-07T17:45:15'
+date: '2025-12-07T09:45:15'
 categories:
 - eclectic
 - paradoxes

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Real Estate: The Revolutionary Potential of Tokenized Mortgages Explained'
-date: '2025-11-12T10:37:11'
+date: '2025-11-12T02:37:11'
 categories:
 - finance
 - real-world-asset-rwa

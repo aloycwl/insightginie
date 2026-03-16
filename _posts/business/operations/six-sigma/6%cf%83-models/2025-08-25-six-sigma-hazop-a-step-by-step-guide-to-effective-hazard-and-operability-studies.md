@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma &amp; HAZOP: A Step-by-Step Guide to Effective Hazard and Operability
   Studies'
-date: '2025-08-25T11:12:49'
+date: '2025-08-25T03:12:49'
 categories:
 - business
 - operations

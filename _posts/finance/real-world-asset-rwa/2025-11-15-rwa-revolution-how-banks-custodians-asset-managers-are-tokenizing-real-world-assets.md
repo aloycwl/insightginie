@@ -2,7 +2,7 @@
 layout: post
 title: 'RWA Revolution: How Banks, Custodians &#038; Asset Managers Are Tokenizing
   Real-World Assets'
-date: '2025-11-15T10:21:35'
+date: '2025-11-15T02:21:35'
 categories:
 - finance
 - real-world-asset-rwa

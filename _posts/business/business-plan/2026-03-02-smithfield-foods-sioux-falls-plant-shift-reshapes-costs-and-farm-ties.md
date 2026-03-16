@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smithfield Foods Sioux Falls Plant Shift Reshapes Costs And Farm Ties
-date: '2026-03-02T08:00:52'
+date: '2026-03-02T00:00:52'
 categories:
 - business
 - business-plan

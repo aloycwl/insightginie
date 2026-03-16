@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Digital Immortality: What is RMN Soul for OpenClaw Agents?'
-date: '2026-03-16T02:30:35'
+date: '2026-03-15T18:30:35'
 categories:
 - ai
 - openclaw

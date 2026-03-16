@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Cuff: Transdermal Optical Imaging vs Traditional Monitoring Methods
   &#8211; Key Differences Explained'
-date: '2026-02-10T13:39:01'
+date: '2026-02-10T05:39:01'
 categories:
 - health
 - rppg

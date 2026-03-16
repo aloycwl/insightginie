@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Attention Paradox: Why Ignoring Distractions Makes Them Stronger'
-date: '2025-12-07T10:50:06'
+date: '2025-12-07T02:50:06'
 categories:
 - eclectic
 - paradoxes

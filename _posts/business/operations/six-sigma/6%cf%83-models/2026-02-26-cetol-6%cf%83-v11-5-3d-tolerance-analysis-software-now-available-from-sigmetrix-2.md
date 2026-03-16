@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CETOL 6\u03C3 v11.5 3D Tolerance Analysis Software Now Available from Sigmetrix"
-date: '2026-02-26T10:01:56'
+date: '2026-02-26T02:01:56'
 categories:
 - business
 - operations

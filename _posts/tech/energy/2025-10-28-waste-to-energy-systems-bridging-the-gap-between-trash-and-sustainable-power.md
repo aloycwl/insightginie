@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Waste-to-Energy Systems: Bridging the Gap Between Trash and Sustainable Power'
-date: '2025-10-28T12:04:01'
+date: '2025-10-28T04:04:01'
 categories:
 - tech
 - energy

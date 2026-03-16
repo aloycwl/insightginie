@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock the Power of Right Triangles: Your Ultimate Guide to the Pythagorean
   Theorem'
-date: '2025-12-06T23:34:43'
+date: '2025-12-06T15:34:43'
 categories:
 - eclectic
 - mathematics

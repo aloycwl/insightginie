@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Sawyer Effect: Master Influence, Transform Tasks, and Inspire Action'
-date: '2025-12-06T14:20:28'
+date: '2025-12-06T06:20:28'
 categories:
 - eclectic
 - psychology

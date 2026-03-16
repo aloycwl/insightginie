@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the Project Life Cycle: The 4 Phases Every Successful Project Must
   Follow'
-date: '2025-07-01T16:21:28'
+date: '2025-07-01T08:21:28'
 categories:
 - business
 - operations

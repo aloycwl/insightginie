@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding CC_GodMode: Self-Orchestrating Multi-Agent Development Workflows'
-date: '2026-03-15T16:15:56'
+date: '2026-03-15T08:15:56'
 categories:
 - ai
 - openclaw

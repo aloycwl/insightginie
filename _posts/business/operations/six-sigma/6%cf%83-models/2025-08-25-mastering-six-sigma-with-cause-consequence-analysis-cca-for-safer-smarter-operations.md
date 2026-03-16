@@ -2,7 +2,7 @@
 layout: post
 title: Mastering Six Sigma with Cause-Consequence Analysis (CCA) for Safer, Smarter
   Operations
-date: '2025-08-25T11:20:06'
+date: '2025-08-25T03:20:06'
 categories:
 - business
 - operations

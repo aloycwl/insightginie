@@ -2,7 +2,7 @@
 layout: post
 title: 'Stop AI Forgetting: How the Mulch Self-Improving Agent Keeps Your Coding Workflow
   Sharp'
-date: '2026-03-07T12:00:22'
+date: '2026-03-07T04:00:22'
 categories:
 - ai
 - openclaw

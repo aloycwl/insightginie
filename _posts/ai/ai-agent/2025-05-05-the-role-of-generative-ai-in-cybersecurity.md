@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Generative AI in Cybersecurity
-date: '2025-05-05T10:06:44'
+date: '2025-05-05T02:06:44'
 categories:
 - ai
 - ai-agent

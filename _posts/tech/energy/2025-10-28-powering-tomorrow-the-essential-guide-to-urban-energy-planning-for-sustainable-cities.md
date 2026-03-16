@@ -2,7 +2,7 @@
 layout: post
 title: 'Powering Tomorrow: The Essential Guide to Urban Energy Planning for Sustainable
   Cities'
-date: '2025-10-28T11:30:37'
+date: '2025-10-28T03:30:37'
 categories:
 - tech
 - energy

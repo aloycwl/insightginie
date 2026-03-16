@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Bio-Computing Revolution: How Living Systems Will Redefine Data Processing'
-date: '2025-10-21T09:54:53'
+date: '2025-10-21T01:54:53'
 categories:
 - tech
 - bio-computer

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agentic AI: Understanding the AI That Acts Autonomously'
-date: '2025-04-21T15:05:01'
+date: '2025-04-21T07:05:01'
 categories:
 - ai
 - ai-agent

@@ -2,7 +2,7 @@
 layout: post
 title: 'Token Unlocks and Market Dilution: The Hidden Force Crushing Crypto Prices
   in 2025'
-date: '2025-12-15T15:22:54'
+date: '2025-12-15T07:22:54'
 categories:
 - trading
 - fundamental

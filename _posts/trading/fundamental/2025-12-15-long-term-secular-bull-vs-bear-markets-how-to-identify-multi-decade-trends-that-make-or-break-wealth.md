@@ -2,7 +2,7 @@
 layout: post
 title: 'Long-Term Secular Bull vs Bear Markets: How to Identify Multi-Decade Trends
   That Make or Break Wealth'
-date: '2025-12-15T15:45:29'
+date: '2025-12-15T07:45:29'
 categories:
 - trading
 - fundamental

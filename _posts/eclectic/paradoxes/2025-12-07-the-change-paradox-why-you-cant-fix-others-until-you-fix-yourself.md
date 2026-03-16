@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Change Paradox: Why You Can\u2019t Fix Others Until You Fix Yourself"
-date: '2025-12-07T10:53:25'
+date: '2025-12-07T02:53:25'
 categories:
 - eclectic
 - paradoxes

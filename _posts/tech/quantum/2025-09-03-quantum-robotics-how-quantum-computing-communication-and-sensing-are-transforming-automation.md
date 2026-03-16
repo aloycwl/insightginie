@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Robotics: How Quantum Computing, Communication, and Sensing Are Transforming
   Automation'
-date: '2025-09-03T20:08:40'
+date: '2025-09-03T12:08:40'
 categories:
 - tech
 - quantum

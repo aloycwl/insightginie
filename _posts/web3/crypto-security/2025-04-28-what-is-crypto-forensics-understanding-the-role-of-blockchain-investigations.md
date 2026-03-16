@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Crypto Forensics? Understanding the Role of Blockchain Investigations
-date: '2025-04-28T20:38:58'
+date: '2025-04-28T12:38:58'
 categories:
 - web3
 - crypto-security

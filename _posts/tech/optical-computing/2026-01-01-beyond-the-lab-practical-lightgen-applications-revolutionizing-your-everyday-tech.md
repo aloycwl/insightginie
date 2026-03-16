@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond the Lab: Practical LightGen Applications Revolutionizing Your Everyday
   Tech'
-date: '2026-01-01T12:09:49'
+date: '2026-01-01T04:09:49'
 categories:
 - tech
 - optical-computing

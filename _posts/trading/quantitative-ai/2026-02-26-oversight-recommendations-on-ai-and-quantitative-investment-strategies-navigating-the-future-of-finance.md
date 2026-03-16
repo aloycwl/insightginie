@@ -2,7 +2,7 @@
 layout: post
 title: 'Oversight Recommendations on AI and Quantitative Investment Strategies: Navigating
   the Future of Finance'
-date: '2026-02-26T17:31:54'
+date: '2026-02-26T09:31:54'
 categories:
 - trading
 - quantitative-ai

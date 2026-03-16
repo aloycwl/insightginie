@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Financial Inclusion: Micro-Banking &#038; Micro-Finance in the Digital
   Era'
-date: '2025-11-18T21:30:00'
+date: '2025-11-18T13:30:00'
 categories:
 - finance
 - banking

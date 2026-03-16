@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Organizational Culture: Artefacts, Espoused Values, and Basic Assumptions
   That Shape Business Success'
-date: '2025-05-05T19:39:59'
+date: '2025-05-05T11:39:59'
 categories:
 - business
 - management

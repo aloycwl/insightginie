@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is Gold Still the Ultimate Inflation Hedge? A Complete Investor\u2019s Guide"
-date: '2025-12-15T13:19:15'
+date: '2025-12-15T05:19:15'
 categories:
 - trading
 - fundamental

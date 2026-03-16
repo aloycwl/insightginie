@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Digital Frontier: How Regulatory Sandboxes Guide Central Banks on Tokenization'
-date: '2025-11-13T11:15:11'
+date: '2025-11-13T03:15:11'
 categories:
 - finance
 - real-world-asset-rwa

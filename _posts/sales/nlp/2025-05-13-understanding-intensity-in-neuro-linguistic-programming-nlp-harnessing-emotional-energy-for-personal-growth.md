@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Intensity in Neuro-Linguistic Programming (NLP): Harnessing
   Emotional Energy for Personal Growth'
-date: '2025-05-13T12:07:58'
+date: '2025-05-13T04:07:58'
 categories:
 - sales
 - nlp

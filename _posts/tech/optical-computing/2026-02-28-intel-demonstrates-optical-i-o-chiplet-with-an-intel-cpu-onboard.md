@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intel Demonstrates Optical I/O Chiplet With an Intel CPU Onboard
-date: '2026-02-28T05:31:11'
+date: '2026-02-27T21:31:11'
 categories:
 - tech
 - optical-computing

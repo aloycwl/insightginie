@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring the NLP Concept of Moral Operator
-date: '2025-05-12T10:37:41'
+date: '2025-05-12T02:37:41'
 categories:
 - sales
 - nlp

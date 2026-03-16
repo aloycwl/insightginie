@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SGLT2 Inhibitors in Cirrhosis: Emerging Benefits and Safety Considerations'
-date: '2025-05-26T09:45:41'
+date: '2025-05-26T01:45:41'
 categories:
 - health
 - healthtech

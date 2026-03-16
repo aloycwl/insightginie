@@ -2,7 +2,7 @@
 layout: post
 title: "DMADV Demystified: How Six Sigma\u2019s DFSS Model Drives Innovation and Quality\
   \ by Design"
-date: '2025-07-08T13:47:14'
+date: '2025-07-08T05:47:14'
 categories:
 - business
 - operations

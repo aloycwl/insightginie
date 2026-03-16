@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding OpenBotAuth: Secure Identity for AI Agents in 2024'
-date: '2026-03-09T03:46:56'
+date: '2026-03-08T19:46:56'
 categories:
 - ai
 - openclaw

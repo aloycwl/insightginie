@@ -2,7 +2,7 @@
 layout: post
 title: 'The Shuffled Frog Leaping Algorithm (SFLA): How Virtual Frogs Solve Complex
   Optimization Problems'
-date: '2025-12-07T22:09:16'
+date: '2025-12-07T14:09:16'
 categories:
 - eclectic
 - metaheuristics

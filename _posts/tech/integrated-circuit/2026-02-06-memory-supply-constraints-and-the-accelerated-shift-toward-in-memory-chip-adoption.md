@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memory Supply Constraints and the Accelerated Shift Toward In-Memory Chip Adoption
-date: '2026-02-06T13:06:55'
+date: '2026-02-06T05:06:55'
 categories:
 - tech
 - integrated-circuit

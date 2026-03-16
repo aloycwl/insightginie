@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Contactless Payment Limits Explained: Your Guide to Secure Tap-and-Go Transactions'
-date: '2025-11-11T09:09:17'
+date: '2025-11-11T01:09:17'
 categories:
 - finance
 - payment

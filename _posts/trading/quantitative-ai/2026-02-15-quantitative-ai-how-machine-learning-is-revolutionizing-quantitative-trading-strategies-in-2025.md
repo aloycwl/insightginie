@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantitative AI: How Machine Learning is Revolutionizing Quantitative Trading
   Strategies in 2025'
-date: '2026-02-15T17:18:06'
+date: '2026-02-15T09:18:06'
 categories:
 - trading
 - quantitative-ai

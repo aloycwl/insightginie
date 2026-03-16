@@ -2,7 +2,7 @@
 layout: post
 title: 'India AI Impact Summit 2026: World Leaders and Tech Giants Convene in New
   Delhi for Historic AI Summit'
-date: '2026-02-17T14:01:37'
+date: '2026-02-17T06:01:37'
 categories:
 - ai
 - ai-in-general

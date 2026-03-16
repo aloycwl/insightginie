@@ -2,7 +2,7 @@
 layout: post
 title: 'Eleven Labs Voice Agent: Transforming Conversational AI with Realistic Voice
   Interactions'
-date: '2025-04-29T17:22:09'
+date: '2025-04-29T09:22:09'
 categories:
 - ai
 - ai-agent

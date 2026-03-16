@@ -2,7 +2,7 @@
 layout: post
 title: 'Transdermal Optical Imaging: The Future of Occupational Health and Workplace
   Monitoring'
-date: '2026-02-10T14:11:19'
+date: '2026-02-10T06:11:19'
 categories:
 - health
 - rppg

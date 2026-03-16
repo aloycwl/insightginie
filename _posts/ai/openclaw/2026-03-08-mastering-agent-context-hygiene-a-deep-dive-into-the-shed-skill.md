@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Agent Context Hygiene: A Deep Dive into the Shed Skill'
-date: '2026-03-08T00:30:34'
+date: '2026-03-07T16:30:34'
 categories:
 - ai
 - openclaw

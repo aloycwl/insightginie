@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing the Diddy Party Persona Skill for OpenClaw
-date: '2026-03-12T11:17:05'
+date: '2026-03-12T03:17:05'
 categories:
 - ai
 - openclaw

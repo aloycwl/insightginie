@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma Methodology: The Complete Guide to Data-Driven Process Improvement
   in 2026'
-date: '2026-02-15T16:49:55'
+date: '2026-02-15T08:49:55'
 categories:
 - business
 - operations

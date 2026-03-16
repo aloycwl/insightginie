@@ -2,7 +2,7 @@
 layout: post
 title: 'SEPA Instant Payments: Your Ultimate Guide to Real-Time Money Transfers in
   Europe'
-date: '2025-11-17T18:15:00'
+date: '2025-11-17T10:15:00'
 categories:
 - finance
 - banking

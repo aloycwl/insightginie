@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking the Power of MORT in Six Sigma: Comprehensive Guide to Hazard Identification
   and Risk Management'
-date: '2025-08-25T11:25:51'
+date: '2025-08-25T03:25:51'
 categories:
 - business
 - operations

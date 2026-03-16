@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the BMad Framework: A Comprehensive Guide to AI-Driven Development
   with OpenClaw'
-date: '2026-03-14T14:30:35'
+date: '2026-03-14T06:30:35'
 categories:
 - ai
 - openclaw

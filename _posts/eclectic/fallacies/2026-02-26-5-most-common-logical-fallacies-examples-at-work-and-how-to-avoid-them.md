@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Most Common Logical Fallacies Examples at Work and How to Avoid Them
-date: '2026-02-26T11:01:29'
+date: '2026-02-26T03:01:29'
 categories:
 - eclectic
 - fallacies

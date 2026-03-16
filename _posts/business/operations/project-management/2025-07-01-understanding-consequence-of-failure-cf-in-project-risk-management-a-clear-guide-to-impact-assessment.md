@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding Consequence of Failure (Cf) in Project Risk Management: A Clear
   Guide to Impact Assessment'
-date: '2025-07-01T16:56:00'
+date: '2025-07-01T08:56:00'
 categories:
 - business
 - operations

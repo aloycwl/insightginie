@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kubernetes Cluster Diagnostics with kube-medic
-date: '2026-03-10T23:18:20'
+date: '2026-03-10T15:18:20'
 categories:
 - ai
 - openclaw

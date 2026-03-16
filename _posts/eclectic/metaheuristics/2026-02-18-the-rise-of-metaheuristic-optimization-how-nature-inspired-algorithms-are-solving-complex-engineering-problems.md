@@ -2,7 +2,7 @@
 layout: post
 title: 'The Rise of Metaheuristic Optimization: How Nature-Inspired Algorithms Are
   Solving Complex Engineering Problems'
-date: '2026-02-18T01:16:36'
+date: '2026-02-17T17:16:36'
 categories:
 - eclectic
 - metaheuristics

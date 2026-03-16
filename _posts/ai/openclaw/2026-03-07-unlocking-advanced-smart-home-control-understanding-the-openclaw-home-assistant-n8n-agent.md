@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Advanced Smart Home Control: Understanding the OpenClaw Home Assistant
   n8n Agent'
-date: '2026-03-07T10:30:21'
+date: '2026-03-07T02:30:21'
 categories:
 - ai
 - openclaw

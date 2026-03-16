@@ -2,7 +2,7 @@
 layout: post
 title: 'Five Major Advances in Anal and Rectal Cancer Treatment with Radiotherapy:
   New Horizons in Oncology'
-date: '2025-05-05T13:41:47'
+date: '2025-05-05T05:41:47'
 categories:
 - health
 - bioscience

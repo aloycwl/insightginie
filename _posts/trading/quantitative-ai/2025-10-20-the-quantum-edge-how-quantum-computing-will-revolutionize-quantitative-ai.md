@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Quantum Edge: How Quantum Computing Will Revolutionize Quantitative AI'
-date: '2025-10-20T12:15:22'
+date: '2025-10-20T04:15:22'
 categories:
 - trading
 - quantitative-ai

@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Cross-Chain Freedom: A Deep Dive into the OpenClaw NEAR Intents
   Skill'
-date: '2026-03-11T08:30:21'
+date: '2026-03-11T00:30:21'
 categories:
 - ai
 - openclaw

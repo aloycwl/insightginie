@@ -2,7 +2,7 @@
 layout: post
 title: 'Embedded Finance: Why Your Favorite Brands Are Becoming Banks (and Why It
   Matters)'
-date: '2025-11-17T19:15:00'
+date: '2025-11-17T11:15:00'
 categories:
 - finance
 - banking

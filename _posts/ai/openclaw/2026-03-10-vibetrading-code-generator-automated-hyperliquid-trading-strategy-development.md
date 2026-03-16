@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VibeTrading Code Generator: Automated Hyperliquid Trading Strategy Development'
-date: '2026-03-10T04:18:28'
+date: '2026-03-09T20:18:28'
 categories:
 - ai
 - openclaw

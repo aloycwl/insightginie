@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Science of rPPG Signal Processing
-date: '2025-04-22T14:15:40'
+date: '2025-04-22T06:15:40'
 categories:
 - health
 - rppg

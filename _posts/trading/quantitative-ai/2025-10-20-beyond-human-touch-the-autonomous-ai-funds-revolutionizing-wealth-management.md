@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Human Touch: The Autonomous AI Funds Revolutionizing Wealth Management'
-date: '2025-10-20T12:22:36'
+date: '2025-10-20T04:22:36'
 categories:
 - trading
 - quantitative-ai

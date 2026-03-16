@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Regtech Revolution: How Technology is Reshaping Banking Compliance'
-date: '2025-11-18T17:45:00'
+date: '2025-11-18T09:45:00'
 categories:
 - finance
 - banking

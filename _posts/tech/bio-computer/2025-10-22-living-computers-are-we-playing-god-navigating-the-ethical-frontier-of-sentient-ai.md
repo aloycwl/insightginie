@@ -2,7 +2,7 @@
 layout: post
 title: 'Living Computers: Are We Playing God? Navigating the Ethical Frontier of Sentient
   AI'
-date: '2025-10-22T13:21:05'
+date: '2025-10-22T05:21:05'
 categories:
 - tech
 - bio-computer

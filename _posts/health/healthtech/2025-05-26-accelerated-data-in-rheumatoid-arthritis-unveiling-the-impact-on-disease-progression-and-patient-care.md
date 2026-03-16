@@ -2,7 +2,7 @@
 layout: post
 title: 'Accelerated Data in Rheumatoid Arthritis: Unveiling the Impact on Disease
   Progression and Patient Care'
-date: '2025-05-26T09:30:48'
+date: '2025-05-26T01:30:48'
 categories:
 - health
 - healthtech

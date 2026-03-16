@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking AI-Powered Motion Graphics: How the OpenVid Skill Works for Your
   Brand'
-date: '2026-03-07T17:30:25'
+date: '2026-03-07T09:30:25'
 categories:
 - ai
 - openclaw

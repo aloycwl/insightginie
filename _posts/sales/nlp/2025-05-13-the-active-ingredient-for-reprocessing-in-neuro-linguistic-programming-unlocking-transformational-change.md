@@ -2,7 +2,7 @@
 layout: post
 title: 'The Active Ingredient for Reprocessing in Neuro-Linguistic Programming: Unlocking
   Transformational Change'
-date: '2025-05-13T15:34:03'
+date: '2025-05-13T07:34:03'
 categories:
 - sales
 - nlp

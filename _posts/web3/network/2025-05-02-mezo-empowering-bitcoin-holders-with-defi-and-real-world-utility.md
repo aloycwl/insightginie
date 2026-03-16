@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mezo: Empowering Bitcoin Holders with DeFi and Real-World Utility'
-date: '2025-05-02T09:46:22'
+date: '2025-05-02T01:46:22'
 categories:
 - web3
 - network

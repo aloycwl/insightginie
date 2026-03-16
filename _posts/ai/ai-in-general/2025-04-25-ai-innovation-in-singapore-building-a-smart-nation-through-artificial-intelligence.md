@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Innovation in Singapore: Building a Smart Nation Through Artificial Intelligence'
-date: '2025-04-25T16:47:27'
+date: '2025-04-25T08:47:27'
 categories:
 - ai
 - ai-in-general

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FV Bank: The Crypto-Friendly Bank Revolutionizing Digital Asset Management'
-date: '2025-11-18T22:00:00'
+date: '2025-11-18T14:00:00'
 categories:
 - finance
 - banking

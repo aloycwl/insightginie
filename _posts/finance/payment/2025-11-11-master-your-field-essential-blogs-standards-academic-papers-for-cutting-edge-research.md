@@ -2,7 +2,7 @@
 layout: post
 title: 'Master Your Field: Essential Blogs, Standards &#038; Academic Papers for Cutting-Edge
   Research'
-date: '2025-11-11T10:33:59'
+date: '2025-11-11T02:33:59'
 categories:
 - finance
 - payment

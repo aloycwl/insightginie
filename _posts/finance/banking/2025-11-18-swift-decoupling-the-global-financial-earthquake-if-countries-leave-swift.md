@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SWIFT Decoupling: The Global Financial Earthquake If Countries Leave SWIFT'
-date: '2025-11-18T12:15:00'
+date: '2025-11-18T04:15:00'
 categories:
 - finance
 - banking

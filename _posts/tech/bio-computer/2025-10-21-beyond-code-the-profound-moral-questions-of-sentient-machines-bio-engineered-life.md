@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Code: The Profound Moral Questions of Sentient Machines &#038; Bio-Engineered
   Life'
-date: '2025-10-21T21:43:04'
+date: '2025-10-21T13:43:04'
 categories:
 - tech
 - bio-computer

@@ -2,7 +2,7 @@
 layout: post
 title: 'Operations Management in 2026: How AI and Automation Are Revolutionizing Enterprise
   Efficiency'
-date: '2026-02-16T07:32:59'
+date: '2026-02-15T23:32:59'
 categories:
 - business
 - operations

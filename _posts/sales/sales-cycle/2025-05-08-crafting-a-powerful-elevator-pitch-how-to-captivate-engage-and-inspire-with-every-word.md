@@ -2,7 +2,7 @@
 layout: post
 title: 'Crafting a Powerful Elevator Pitch: How to Captivate, Engage, and Inspire
   with Every Word'
-date: '2025-05-08T13:32:01'
+date: '2025-05-08T05:32:01'
 categories:
 - sales
 - sales-cycle

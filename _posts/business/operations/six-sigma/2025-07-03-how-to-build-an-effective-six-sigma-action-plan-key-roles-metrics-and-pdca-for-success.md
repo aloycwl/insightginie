@@ -2,7 +2,7 @@
 layout: post
 title: 'How to Build an Effective Six Sigma Action Plan: Key Roles, Metrics, and PDCA
   for Success'
-date: '2025-07-03T15:48:17'
+date: '2025-07-03T07:48:17'
 categories:
 - business
 - operations

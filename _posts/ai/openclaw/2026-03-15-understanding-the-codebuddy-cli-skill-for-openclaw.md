@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the CodeBuddy CLI Skill for OpenClaw
-date: '2026-03-15T03:16:34'
+date: '2026-03-14T19:16:34'
 categories:
 - ai
 - openclaw

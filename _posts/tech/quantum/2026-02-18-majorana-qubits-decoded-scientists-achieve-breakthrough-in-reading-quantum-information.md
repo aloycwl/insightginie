@@ -2,7 +2,7 @@
 layout: post
 title: 'Majorana Qubits Decoded: Scientists Achieve Breakthrough in Reading Quantum
   Information'
-date: '2026-02-18T15:17:27'
+date: '2026-02-18T07:17:27'
 categories:
 - tech
 - quantum

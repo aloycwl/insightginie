@@ -2,7 +2,7 @@
 layout: post
 title: 'Demystifying OpenClaw&#8217;s SpecVibe: The AI-Native Development Framework
   for 2026 and Beyond'
-date: '2026-03-11T07:46:18'
+date: '2026-03-10T23:46:18'
 categories:
 - ai
 - openclaw

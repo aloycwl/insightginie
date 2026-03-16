@@ -2,7 +2,7 @@
 layout: post
 title: 'Navigating the NPL Storm: How Non-Performing Loans Impact Banks &#038; Strategies
   for Management'
-date: '2025-11-17T20:35:00'
+date: '2025-11-17T12:35:00'
 categories:
 - finance
 - banking

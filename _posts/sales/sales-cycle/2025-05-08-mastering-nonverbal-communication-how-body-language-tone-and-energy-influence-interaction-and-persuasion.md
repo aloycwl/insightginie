@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Nonverbal Communication: How Body Language, Tone, and Energy Influence
   Interaction and Persuasion'
-date: '2025-05-08T13:50:02'
+date: '2025-05-08T05:50:02'
 categories:
 - sales
 - sales-cycle

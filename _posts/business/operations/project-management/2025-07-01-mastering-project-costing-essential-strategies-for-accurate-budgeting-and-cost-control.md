@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Project Costing: Essential Strategies for Accurate Budgeting and
   Cost Control'
-date: '2025-07-01T16:45:49'
+date: '2025-07-01T08:45:49'
 categories:
 - business
 - operations

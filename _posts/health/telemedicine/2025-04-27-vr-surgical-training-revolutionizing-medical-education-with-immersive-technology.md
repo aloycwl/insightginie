@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VR Surgical Training: Revolutionizing Medical Education with Immersive Technology'
-date: '2025-04-27T22:25:04'
+date: '2025-04-27T14:25:04'
 categories:
 - health
 - telemedicine

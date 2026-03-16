@@ -2,7 +2,7 @@
 layout: post
 title: 'The Personal Incredulity Fallacy: Why &#8220;I Don&#8217;t Get It&#8221; Doesn&#8217;t
   Make It Wrong'
-date: '2025-12-07T22:30:20'
+date: '2025-12-07T14:30:20'
 categories:
 - eclectic
 - fallacies

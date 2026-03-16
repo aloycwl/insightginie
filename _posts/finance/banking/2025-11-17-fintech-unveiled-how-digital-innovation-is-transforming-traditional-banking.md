@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fintech Unveiled: How Digital Innovation is Transforming Traditional Banking'
-date: '2025-11-17T14:15:00'
+date: '2025-11-17T06:15:00'
 categories:
 - finance
 - banking

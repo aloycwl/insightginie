@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wifite Linux Package: Because Who Needs Ethical Boundaries Anyway?'
-date: '2026-02-04T15:04:57'
+date: '2026-02-04T07:04:57'
 categories:
 - tech
 - cybersec

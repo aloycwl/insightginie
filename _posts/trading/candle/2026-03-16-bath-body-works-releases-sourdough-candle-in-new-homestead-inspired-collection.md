@@ -2,7 +2,7 @@
 layout: post
 title: Bath &#038; Body Works Releases Sourdough Candle in New Homestead-Inspired
   Collection
-date: '2026-03-16T08:00:44'
+date: '2026-03-16T00:00:44'
 categories:
 - trading
 - candle

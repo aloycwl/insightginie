@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Video Understanding Skill in OpenClaw
-date: '2026-03-14T14:15:37'
+date: '2026-03-14T06:15:37'
 categories:
 - ai
 - openclaw

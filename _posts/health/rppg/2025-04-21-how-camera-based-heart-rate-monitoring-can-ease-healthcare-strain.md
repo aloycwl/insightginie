@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Camera-Based Heart Rate Monitoring Can Ease Healthcare Strain
-date: '2025-04-21T22:04:58'
+date: '2025-04-21T14:04:58'
 categories:
 - health
 - rppg

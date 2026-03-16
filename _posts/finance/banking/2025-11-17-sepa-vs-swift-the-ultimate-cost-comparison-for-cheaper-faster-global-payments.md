@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEPA vs. SWIFT: The Ultimate Cost Comparison for Cheaper, Faster Global Payments'
-date: '2025-11-17T18:45:00'
+date: '2025-11-17T10:45:00'
 categories:
 - finance
 - banking

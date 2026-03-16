@@ -2,7 +2,7 @@
 layout: post
 title: "What Is Transdermal Optical Imaging? A Complete Beginner\u2019s Guide to Non-Invasive\
   \ Health Monitoring"
-date: '2026-02-10T13:37:25'
+date: '2026-02-10T05:37:25'
 categories:
 - health
 - rppg

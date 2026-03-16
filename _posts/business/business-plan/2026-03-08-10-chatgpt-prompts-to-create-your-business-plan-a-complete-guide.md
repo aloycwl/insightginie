@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '10 ChatGPT Prompts To Create Your Business Plan: A Complete Guide'
-date: '2026-03-08T09:30:27'
+date: '2026-03-08T01:30:27'
 categories:
 - business
 - business-plan

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Automation: Understanding the OpenClaw Preqstation Skill'
-date: '2026-03-12T11:30:24'
+date: '2026-03-12T03:30:24'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'Why Crypto Loans May Never Truly Work: The Hidden Challenges of Decentralized
   Lending'
-date: '2025-04-28T20:34:46'
+date: '2025-04-28T12:34:46'
 categories:
 - web3
 - defi

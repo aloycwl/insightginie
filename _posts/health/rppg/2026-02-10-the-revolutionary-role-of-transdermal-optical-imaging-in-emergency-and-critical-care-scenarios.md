@@ -2,7 +2,7 @@
 layout: post
 title: The Revolutionary Role of Transdermal Optical Imaging in Emergency and Critical
   Care Scenarios
-date: '2026-02-10T14:03:50'
+date: '2026-02-10T06:03:50'
 categories:
 - health
 - rppg

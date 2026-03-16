@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Craft a Bulletproof Sales Strategy That Will Survive Any Economy
-date: '2026-02-27T18:01:46'
+date: '2026-02-27T10:01:46'
 categories:
 - sales
 - sales-cycle

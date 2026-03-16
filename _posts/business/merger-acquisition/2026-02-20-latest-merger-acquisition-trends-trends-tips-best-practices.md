@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Merger &amp; Acquisition Trends: Trends, Tips &#038; Best Practices'
-date: '2026-02-20T17:09:36'
+date: '2026-02-20T09:09:36'
 categories:
 - business
 - merger-acquisition

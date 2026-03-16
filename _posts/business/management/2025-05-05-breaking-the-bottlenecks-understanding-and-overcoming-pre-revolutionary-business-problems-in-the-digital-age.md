@@ -2,7 +2,7 @@
 layout: post
 title: 'Breaking the Bottlenecks: Understanding and Overcoming Pre-Revolutionary Business
   Problems in the Digital Age'
-date: '2025-05-05T19:32:10'
+date: '2025-05-05T11:32:10'
 categories:
 - business
 - management

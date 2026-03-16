@@ -2,7 +2,7 @@
 layout: post
 title: 'Birdfolio Skill: Comprehensive Guide to Bird Identification, Life List Tracking,
   and Trading Card Generation with OpenClaw'
-date: '2026-03-05T22:40:30'
+date: '2026-03-05T14:40:30'
 categories:
 - ai
 - openclaw

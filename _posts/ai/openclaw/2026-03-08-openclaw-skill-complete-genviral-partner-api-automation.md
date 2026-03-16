@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Skill: Complete Genviral Partner API Automation'
-date: '2026-03-08T09:16:14'
+date: '2026-03-08T01:16:14'
 categories:
 - ai
 - openclaw

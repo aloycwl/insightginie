@@ -2,7 +2,7 @@
 layout: post
 title: 'Egg Yolk Antibodies (IgY) as a Novel Therapeutic Against Fusobacterium nucleatum:
   A Natural Immunotherapy Strategy for Infection and Cancer Prevention'
-date: '2025-05-06T09:30:37'
+date: '2025-05-06T01:30:37'
 categories:
 - health
 - healthtech

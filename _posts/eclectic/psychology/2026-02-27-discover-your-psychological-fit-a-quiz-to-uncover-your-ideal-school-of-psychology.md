@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Discover Your Psychological Fit: A Quiz to Uncover Your Ideal School of Psychology'
-date: '2026-02-27T08:01:28'
+date: '2026-02-27T00:01:28'
 categories:
 - eclectic
 - psychology

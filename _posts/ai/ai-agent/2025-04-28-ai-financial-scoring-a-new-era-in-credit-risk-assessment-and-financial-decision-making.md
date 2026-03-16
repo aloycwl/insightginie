@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI Financial Scoring: A New Era in Credit Risk Assessment and Financial Decision-Making'
-date: '2025-04-28T21:03:58'
+date: '2025-04-28T13:03:58'
 categories:
 - ai
 - ai-agent

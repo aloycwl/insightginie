@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remote Photoplethysmography: The Future of Contactless Health Monitoring'
-date: '2026-02-18T11:03:23'
+date: '2026-02-18T03:03:23'
 categories:
 - health
 - rppg

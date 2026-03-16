@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Uncertainty: How Bayesian Methods Power Smarter, More Robust AI'
-date: '2025-10-20T12:14:59'
+date: '2025-10-20T04:14:59'
 categories:
 - trading
 - quantitative-ai

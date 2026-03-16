@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trawl: The Autonomous Agent Lead Generation Skill That Works While You Sleep'
-date: '2026-03-04T20:02:49'
+date: '2026-03-04T12:02:49'
 categories:
 - ai
 - openclaw

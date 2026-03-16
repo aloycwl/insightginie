@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade Bullish and Bearish Engulfing Candlesticks with Precision
-date: '2025-04-30T08:56:02'
+date: '2025-04-30T00:56:02'
 categories:
 - trading
 - candle

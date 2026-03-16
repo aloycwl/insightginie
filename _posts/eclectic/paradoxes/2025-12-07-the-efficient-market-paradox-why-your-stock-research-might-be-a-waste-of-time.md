@@ -2,7 +2,7 @@
 layout: post
 title: 'The Efficient Market Paradox: Why Your Stock Research might be a Waste of
   Time'
-date: '2025-12-07T10:57:39'
+date: '2025-12-07T02:57:39'
 categories:
 - eclectic
 - paradoxes

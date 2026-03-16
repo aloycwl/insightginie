@@ -2,7 +2,7 @@
 layout: post
 title: 'The XAI Edge: Boosting Profitability &#038; Trust in Quantitative Finance
   Models'
-date: '2025-10-20T12:16:20'
+date: '2025-10-20T04:16:20'
 categories:
 - trading
 - quantitative-ai

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Governing the Future: Navigating the Complex World of AI Device Regulation'
-date: '2025-04-26T12:42:17'
+date: '2025-04-26T04:42:17'
 categories:
 - health
 - medtech

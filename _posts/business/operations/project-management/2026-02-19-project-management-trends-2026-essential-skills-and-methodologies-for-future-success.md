@@ -2,7 +2,7 @@
 layout: post
 title: 'Project Management Trends 2026: Essential Skills and Methodologies for Future
   Success'
-date: '2026-02-19T05:16:29'
+date: '2026-02-18T21:16:29'
 categories:
 - business
 - operations

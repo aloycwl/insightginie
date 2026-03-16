@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering the Buildlog Skill in OpenClaw: A Complete Guide to AI Session Recording'
-date: '2026-03-15T22:30:34'
+date: '2026-03-15T14:30:34'
 categories:
 - ai
 - openclaw

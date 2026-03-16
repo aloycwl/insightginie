@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASIC vs. FPGA: Why ASICs Unequivocally Dominate Large-Scale Commercial Production'
-date: '2025-10-22T14:18:28'
+date: '2025-10-22T06:18:28'
 categories:
 - tech
 - integrated-circuit

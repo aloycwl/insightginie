@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering the Representational System Sort in NLP
-date: '2025-05-12T11:19:52'
+date: '2025-05-12T03:19:52'
 categories:
 - sales
 - nlp

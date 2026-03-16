@@ -2,7 +2,7 @@
 layout: post
 title: 'Debugging &#038; Profiling In-Memory Chips: Because Your RAM Deserves a Therapist
   Too'
-date: '2026-02-06T13:41:36'
+date: '2026-02-06T05:41:36'
 categories:
 - tech
 - integrated-circuit

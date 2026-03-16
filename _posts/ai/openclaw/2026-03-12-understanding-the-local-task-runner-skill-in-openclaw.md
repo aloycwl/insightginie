@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Local Task Runner Skill in OpenClaw
-date: '2026-03-12T15:17:25'
+date: '2026-03-12T07:17:25'
 categories:
 - ai
 - openclaw

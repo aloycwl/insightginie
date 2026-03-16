@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring High and Low Self-Confidence in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:40:13'
+date: '2025-05-13T04:40:13'
 categories:
 - sales
 - nlp

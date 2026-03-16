@@ -2,7 +2,7 @@
 layout: post
 title: "Security by Design: Because Hoping for the Best Isn\u2019t a Strategy (Spoiler:\
   \ It\u2019s a Disaster)"
-date: '2026-02-11T12:17:12'
+date: '2026-02-11T04:17:12'
 categories:
 - ai
 - ai-agent

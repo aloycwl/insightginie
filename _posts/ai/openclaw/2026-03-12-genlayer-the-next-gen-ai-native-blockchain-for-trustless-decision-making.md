@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GenLayer: The Next-Gen AI-Native Blockchain for Trustless Decision-Making'
-date: '2026-03-12T11:45:42'
+date: '2026-03-12T03:45:42'
 categories:
 - ai
 - openclaw

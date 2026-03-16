@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amernet AI SaaS Skill: Connect Your AI Chatbot to Any Messaging Channel'
-date: '2026-03-05T22:02:00'
+date: '2026-03-05T14:02:00'
 categories:
 - ai
 - openclaw

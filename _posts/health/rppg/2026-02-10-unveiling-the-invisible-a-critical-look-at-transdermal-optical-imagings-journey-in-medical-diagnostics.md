@@ -2,7 +2,7 @@
 layout: post
 title: 'Unveiling the Invisible: A Critical Look at Transdermal Optical Imaging&#8217;s
   Journey in Medical Diagnostics'
-date: '2026-02-10T13:38:36'
+date: '2026-02-10T05:38:36'
 categories:
 - health
 - rppg

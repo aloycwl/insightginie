@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OpenClaw Capability Awareness System: Empowering Agents with Custom Skills'
-date: '2026-03-14T20:16:06'
+date: '2026-03-14T12:16:06'
 categories:
 - ai
 - openclaw

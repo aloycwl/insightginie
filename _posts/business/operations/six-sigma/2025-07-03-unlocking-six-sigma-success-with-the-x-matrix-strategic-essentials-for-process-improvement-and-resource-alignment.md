@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Six Sigma Success with the X Matrix: Strategic Essentials for Process
   Improvement and Resource Alignment'
-date: '2025-07-03T15:47:16'
+date: '2025-07-03T07:47:16'
 categories:
 - business
 - operations

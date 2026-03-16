@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Concept of Value Sort in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:38:55'
+date: '2025-05-13T04:38:55'
 categories:
 - sales
 - nlp

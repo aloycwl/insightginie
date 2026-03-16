@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BitNet b1.58 2B4T: Microsoft&#8217;s 1-Bit LLM Now Available on Hugging Face\u200B"
-date: '2025-04-30T10:01:47'
+date: '2025-04-30T02:01:47'
 categories:
 - ai
 - ai-agent

@@ -2,7 +2,7 @@
 layout: post
 title: 'Unraveling the Magnus Effect: How Spin Shapes Our World, From Curveballs to
   Ships'
-date: '2025-12-06T22:25:33'
+date: '2025-12-06T14:25:33'
 categories:
 - eclectic
 - physics

@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the FOSMVVM UI Tests Generator: A Comprehensive Guide to SwiftUI
   Testing'
-date: '2026-03-08T00:46:17'
+date: '2026-03-07T16:46:17'
 categories:
 - ai
 - openclaw

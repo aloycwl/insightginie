@@ -2,7 +2,7 @@
 layout: post
 title: "Revolutionizing Surgery: The Impact of Intuitive Surgical\u2019s da Vinci\
   \ 5 Robot"
-date: '2025-04-30T16:47:30'
+date: '2025-04-30T08:47:30'
 categories:
 - health
 - medtech

@@ -2,7 +2,7 @@
 layout: post
 title: 'McKinsey Predicts $100B Quantum Computing Market by 2035: Key Insights from
   the Quantum Technology Monitor'
-date: '2025-09-03T10:50:52'
+date: '2025-09-03T02:50:52'
 categories:
 - tech
 - quantum

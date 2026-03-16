@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frameworks for Long-Term Success and Competitive Advantage
-date: '2025-05-06T14:10:53'
+date: '2025-05-06T06:10:53'
 categories:
 - business
 - strategy

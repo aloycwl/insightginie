@@ -2,7 +2,7 @@
 layout: post
 title: 'The Power of a Project Champion: Driving Innovation, Risk-Taking, and Vision
   to Project Success'
-date: '2025-07-01T16:28:08'
+date: '2025-07-01T08:28:08'
 categories:
 - business
 - operations

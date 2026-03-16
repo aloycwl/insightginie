@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Project Management Trends 2026: 10 Essential Strategies for Modern Leaders'
-date: '2026-02-18T22:17:17'
+date: '2026-02-18T14:17:17'
 categories:
 - business
 - operations

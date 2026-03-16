@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Human-Machine Collaborative Intelligence: The Future of Work and Innovation'
-date: '2025-04-25T11:07:37'
+date: '2025-04-25T03:07:37'
 categories:
 - health
 - bioscience

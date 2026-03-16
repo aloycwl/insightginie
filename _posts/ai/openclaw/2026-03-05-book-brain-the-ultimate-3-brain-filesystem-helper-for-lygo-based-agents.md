@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOOK BRAIN: The Ultimate 3-Brain Filesystem Helper for LYGO-Based Agents'
-date: '2026-03-05T20:02:41'
+date: '2026-03-05T12:02:41'
 categories:
 - ai
 - openclaw

@@ -2,7 +2,7 @@
 layout: post
 title: 'Ethical and Privacy Considerations in Transdermal Optical Imaging: Balancing
   Innovation with Human Rights'
-date: '2026-02-10T13:58:37'
+date: '2026-02-10T05:58:37'
 categories:
 - health
 - rppg

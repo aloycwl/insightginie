@@ -2,7 +2,7 @@
 layout: post
 title: 'Entropy&#8217;s Unyielding Grip: Decoding the 2nd Law of Thermodynamics and
   Its Universal Impact'
-date: '2025-12-06T22:13:53'
+date: '2025-12-06T14:13:53'
 categories:
 - eclectic
 - physics

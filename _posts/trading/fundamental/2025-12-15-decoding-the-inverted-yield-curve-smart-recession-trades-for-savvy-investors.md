@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Decoding the Inverted Yield Curve: Smart Recession Trades for Savvy Investors'
-date: '2025-12-15T12:06:06'
+date: '2025-12-15T04:06:06'
 categories:
 - trading
 - fundamental

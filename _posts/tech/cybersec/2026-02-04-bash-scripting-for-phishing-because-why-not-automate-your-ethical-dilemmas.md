@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bash Scripting for Phishing: Because Why Not Automate Your Ethical Dilemmas?'
-date: '2026-02-04T14:43:47'
+date: '2026-02-04T06:43:47'
 categories:
 - tech
 - cybersec

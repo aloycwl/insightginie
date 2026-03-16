@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Market Expectations vs. Data Surprises: How to Trade the Volatility Gap'
-date: '2025-12-15T14:14:29'
+date: '2025-12-15T06:14:29'
 categories:
 - trading
 - fundamental

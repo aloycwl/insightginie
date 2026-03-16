@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 Steps to Creating a Real Estate Business Plan (+ Free Template)
-date: '2026-02-28T11:30:39'
+date: '2026-02-28T03:30:39'
 categories:
 - business
 - business-plan

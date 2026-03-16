@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stablecoins: Revolutionizing Cross-Border Payments and Global Settlement'
-date: '2025-11-11T09:23:19'
+date: '2025-11-11T01:23:19'
 categories:
 - finance
 - payment

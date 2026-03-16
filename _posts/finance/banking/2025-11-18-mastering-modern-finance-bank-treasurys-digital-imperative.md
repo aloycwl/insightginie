@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Modern Finance: Bank Treasury&#8217;s Digital Imperative'
-date: '2025-11-18T15:45:00'
+date: '2025-11-18T07:45:00'
 categories:
 - finance
 - banking

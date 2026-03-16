@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cloud-Native Development: Scaling with Microservices and Containers'
-date: '2025-05-01T19:30:06'
+date: '2025-05-01T11:30:06'
 categories:
 - ai
 - ai-in-general

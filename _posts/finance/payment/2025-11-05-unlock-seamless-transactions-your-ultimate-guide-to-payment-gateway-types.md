@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Seamless Transactions: Your Ultimate Guide to Payment Gateway Types'
-date: '2025-11-05T15:12:24'
+date: '2025-11-05T07:12:24'
 categories:
 - finance
 - payment

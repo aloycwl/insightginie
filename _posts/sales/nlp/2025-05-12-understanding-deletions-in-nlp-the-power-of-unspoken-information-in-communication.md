@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding Deletions in NLP: The Power of Unspoken Information in Communication'
-date: '2025-05-12T10:38:32'
+date: '2025-05-12T02:38:32'
 categories:
 - sales
 - nlp

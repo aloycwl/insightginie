@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Video Ad Production Skill: Transform Text Briefs into Ready-to-Run Ads'
-date: '2026-03-09T06:18:30'
+date: '2026-03-08T22:18:30'
 categories:
 - ai
 - openclaw

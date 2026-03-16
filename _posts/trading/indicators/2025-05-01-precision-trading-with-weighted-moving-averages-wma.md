@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Precision Trading with Weighted Moving Averages (WMA)
-date: '2025-05-01T19:12:31'
+date: '2025-05-01T11:12:31'
 categories:
 - trading
 - indicators

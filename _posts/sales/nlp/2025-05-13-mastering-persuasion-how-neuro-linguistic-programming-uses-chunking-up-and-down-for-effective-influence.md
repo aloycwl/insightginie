@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Persuasion: How Neuro-Linguistic Programming Uses Chunking Up and
   Down for Effective Influence'
-date: '2025-05-13T15:36:51'
+date: '2025-05-13T07:36:51'
 categories:
 - sales
 - nlp

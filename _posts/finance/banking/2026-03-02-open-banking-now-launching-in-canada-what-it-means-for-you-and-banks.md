@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Open Banking Now Launching In Canada: What It Means For You And Banks'
-date: '2026-03-02T07:01:14'
+date: '2026-03-01T23:01:14'
 categories:
 - finance
 - banking

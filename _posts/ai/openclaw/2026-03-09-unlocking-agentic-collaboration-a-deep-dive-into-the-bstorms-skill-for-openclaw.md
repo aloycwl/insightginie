@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Agentic Collaboration: A Deep Dive into the bstorms Skill for OpenClaw'
-date: '2026-03-09T11:30:24'
+date: '2026-03-09T03:30:24'
 categories:
 - ai
 - openclaw

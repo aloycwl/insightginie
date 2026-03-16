@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of Responsibility in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:19:48'
+date: '2025-05-13T04:19:48'
 categories:
 - sales
 - nlp

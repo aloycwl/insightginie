@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Supply Chain Finance &#038; Fintech: Unlocking Growth While Navigating Risks'
-date: '2025-11-17T20:10:00'
+date: '2025-11-17T12:10:00'
 categories:
 - finance
 - banking

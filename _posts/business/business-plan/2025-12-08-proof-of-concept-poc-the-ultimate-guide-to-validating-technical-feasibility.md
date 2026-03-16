@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proof-of-Concept (PoC): The Ultimate Guide to Validating Technical Feasibility'
-date: '2025-12-08T12:19:38'
+date: '2025-12-08T04:19:38'
 categories:
 - business
 - business-plan

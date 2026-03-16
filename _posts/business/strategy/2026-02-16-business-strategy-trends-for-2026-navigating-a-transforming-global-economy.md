@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Business Strategy Trends for 2026: Navigating a Transforming Global Economy'
-date: '2026-02-16T08:16:17'
+date: '2026-02-16T00:16:17'
 categories:
 - business
 - strategy

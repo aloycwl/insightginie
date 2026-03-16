@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond the Echo Chamber: Understanding &#038; Overcoming Group Polarization'
-date: '2025-12-06T13:57:33'
+date: '2025-12-06T05:57:33'
 categories:
 - eclectic
 - psychology

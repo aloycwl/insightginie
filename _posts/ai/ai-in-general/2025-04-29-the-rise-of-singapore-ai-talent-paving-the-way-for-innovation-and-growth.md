@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Rise of Singapore AI Talent: Paving the Way for Innovation and Growth'
-date: '2025-04-29T10:48:49'
+date: '2025-04-29T02:48:49'
 categories:
 - ai
 - ai-in-general

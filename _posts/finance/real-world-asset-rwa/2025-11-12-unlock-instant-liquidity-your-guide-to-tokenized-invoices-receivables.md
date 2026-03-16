@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlock Instant Liquidity: Your Guide to Tokenized Invoices &#038; Receivables'
-date: '2025-11-12T10:33:32'
+date: '2025-11-12T02:33:32'
 categories:
 - finance
 - real-world-asset-rwa

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future of Latest Quantitative AI Trends: 2026 Insights'
-date: '2026-02-23T17:57:35'
+date: '2026-02-23T09:57:35'
 categories:
 - trading
 - quantitative-ai

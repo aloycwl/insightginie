@@ -2,7 +2,7 @@
 layout: post
 title: 'Grading Companies from A to F: A Strategic Guide to Business Evaluation by
   Industry, Size, and Performance'
-date: '2025-05-02T19:07:54'
+date: '2025-05-02T11:07:54'
 categories:
 - business
 - management

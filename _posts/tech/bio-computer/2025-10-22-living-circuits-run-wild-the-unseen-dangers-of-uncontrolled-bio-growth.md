@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Living Circuits Run Wild: The Unseen Dangers of Uncontrolled Bio-Growth'
-date: '2025-10-22T13:28:11'
+date: '2025-10-22T05:28:11'
 categories:
 - tech
 - bio-computer

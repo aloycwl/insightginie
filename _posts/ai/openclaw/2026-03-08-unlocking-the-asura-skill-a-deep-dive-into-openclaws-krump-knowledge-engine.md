@@ -2,7 +2,7 @@
 layout: post
 title: "Unlocking the Asura Skill: A Deep Dive into OpenClaw\u2019s Krump Knowledge\
   \ Engine"
-date: '2026-03-08T19:30:42'
+date: '2026-03-08T11:30:42'
 categories:
 - ai
 - openclaw

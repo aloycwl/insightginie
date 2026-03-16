@@ -2,7 +2,7 @@
 layout: post
 title: 'Top Concerns When Shutting Down a Project: Emotional, Intellectual, and Operational
   Challenges Explained'
-date: '2025-07-01T17:04:40'
+date: '2025-07-01T09:04:40'
 categories:
 - business
 - operations

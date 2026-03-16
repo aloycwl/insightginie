@@ -2,7 +2,7 @@
 layout: post
 title: 'Transdermal Optical Imaging: Revolutionizing Blood Flow and Microcirculation
   Analysis Without Invasiveness'
-date: '2026-02-10T13:57:43'
+date: '2026-02-10T05:57:43'
 categories:
 - health
 - rppg

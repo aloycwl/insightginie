@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Autonomous Finance: A Guide to the AgentPayy Skill for OpenClaw'
-date: '2026-03-10T04:00:25'
+date: '2026-03-09T20:00:25'
 categories:
 - ai
 - openclaw

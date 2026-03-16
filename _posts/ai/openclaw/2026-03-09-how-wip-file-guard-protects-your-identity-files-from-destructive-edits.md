@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How WIP File Guard Protects Your Identity Files from Destructive Edits
-date: '2026-03-09T22:45:58'
+date: '2026-03-09T14:45:58'
 categories:
 - ai
 - openclaw

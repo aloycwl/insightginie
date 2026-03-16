@@ -2,7 +2,7 @@
 layout: post
 title: 'Agentic Projects: When the Hype Train Derails and Reality Checks In (With
   a Side of Humble Pie)'
-date: '2026-02-11T12:02:21'
+date: '2026-02-11T04:02:21'
 categories:
 - ai
 - ai-agent

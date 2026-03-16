@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Six Sigma Reporting: Strategy Summaries, X Matrix, Tracking Charts
   &amp; Leadership Reviews for Success'
-date: '2025-07-03T15:49:18'
+date: '2025-07-03T07:49:18'
 categories:
 - business
 - operations

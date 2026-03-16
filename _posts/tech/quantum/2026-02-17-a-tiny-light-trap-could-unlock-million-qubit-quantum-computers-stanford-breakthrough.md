@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Tiny Light Trap Could Unlock Million Qubit Quantum Computers: Stanford Breakthrough'
-date: '2026-02-17T12:32:30'
+date: '2026-02-17T04:32:30'
 categories:
 - tech
 - quantum

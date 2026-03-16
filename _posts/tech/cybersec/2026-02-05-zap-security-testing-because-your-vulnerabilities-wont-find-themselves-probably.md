@@ -2,7 +2,7 @@
 layout: post
 title: 'ZAP Security Testing: Because Your Vulnerabilities Won&#8217;t Find Themselves
   (Probably)'
-date: '2026-02-05T13:22:07'
+date: '2026-02-05T05:22:07'
 categories:
 - tech
 - cybersec

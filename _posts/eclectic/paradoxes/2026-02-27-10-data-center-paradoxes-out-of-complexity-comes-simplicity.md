@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '10 Data Center Paradoxes: Out of Complexity Comes Simplicity'
-date: '2026-02-27T20:01:37'
+date: '2026-02-27T12:01:37'
 categories:
 - eclectic
 - paradoxes

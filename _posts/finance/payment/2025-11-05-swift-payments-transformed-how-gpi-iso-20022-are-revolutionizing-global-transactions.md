@@ -2,7 +2,7 @@
 layout: post
 title: 'SWIFT Payments Transformed: How gpi &#038; ISO 20022 Are Revolutionizing Global
   Transactions'
-date: '2025-11-05T15:30:00'
+date: '2025-11-05T07:30:00'
 categories:
 - finance
 - payment

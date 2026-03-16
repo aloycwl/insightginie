@@ -2,7 +2,7 @@
 layout: post
 title: 'Nefas11 Brainstorming Skill: The Ultimate Design Refinement Process Before
   Coding'
-date: '2026-03-06T03:01:56'
+date: '2026-03-05T19:01:56'
 categories:
 - ai
 - openclaw

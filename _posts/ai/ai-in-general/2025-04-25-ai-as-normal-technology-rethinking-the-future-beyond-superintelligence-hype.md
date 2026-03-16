@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI as Normal Technology: Rethinking the Future Beyond Superintelligence Hype'
-date: '2025-04-25T10:18:56'
+date: '2025-04-25T02:18:56'
 categories:
 - ai
 - ai-in-general

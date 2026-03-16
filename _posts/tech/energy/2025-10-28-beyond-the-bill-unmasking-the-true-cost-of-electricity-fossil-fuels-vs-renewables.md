@@ -2,7 +2,7 @@
 layout: post
 title: "Beyond the Bill: Unmasking the True Cost of Electricity \u2013 Fossil Fuels\
   \ vs. Renewables"
-date: '2025-10-28T11:24:32'
+date: '2025-10-28T03:24:32'
 categories:
 - tech
 - energy

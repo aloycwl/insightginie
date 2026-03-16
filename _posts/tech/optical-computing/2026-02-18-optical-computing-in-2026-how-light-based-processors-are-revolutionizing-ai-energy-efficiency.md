@@ -2,7 +2,7 @@
 layout: post
 title: 'Optical Computing in 2026: How Light-Based Processors Are Revolutionizing
   AI Energy Efficiency'
-date: '2026-02-18T00:18:25'
+date: '2026-02-17T16:18:25'
 categories:
 - tech
 - optical-computing

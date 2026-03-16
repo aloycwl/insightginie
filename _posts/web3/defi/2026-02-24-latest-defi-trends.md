@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Defi Trends
-date: '2026-02-24T17:02:51'
+date: '2026-02-24T09:02:51'
 categories:
 - web3
 - defi

@@ -2,7 +2,7 @@
 layout: post
 title: 'The Perils of &#8216;CiLocks Crack&#8217; Searches: Why Bypassing Locks Can
   Lock You Out for Good'
-date: '2026-02-03T19:45:45'
+date: '2026-02-03T11:45:45'
 categories:
 - tech
 - cybersec

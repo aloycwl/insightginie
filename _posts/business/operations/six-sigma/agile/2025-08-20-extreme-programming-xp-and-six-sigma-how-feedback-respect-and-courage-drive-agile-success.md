@@ -2,7 +2,7 @@
 layout: post
 title: 'Extreme Programming (XP) and Six Sigma: How Feedback, Respect, and Courage
   Drive Agile Success'
-date: '2025-08-20T11:03:41'
+date: '2025-08-20T03:03:41'
 categories:
 - business
 - operations

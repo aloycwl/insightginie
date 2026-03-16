@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the OpenClaw Video Generator Skill: AI-Powered Motion Graphics
   with Remotion'
-date: '2026-03-08T04:45:54'
+date: '2026-03-07T20:45:54'
 categories:
 - ai
 - openclaw

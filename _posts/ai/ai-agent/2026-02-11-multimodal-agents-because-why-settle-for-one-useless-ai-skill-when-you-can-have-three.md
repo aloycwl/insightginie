@@ -2,7 +2,7 @@
 layout: post
 title: 'Multimodal Agents: Because Why Settle for One Useless AI Skill When You Can
   Have Three?'
-date: '2026-02-11T12:24:04'
+date: '2026-02-11T04:24:04'
 categories:
 - ai
 - ai-agent

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MindCore: Biomimetic Emotional Mind Engine for AI Agents'
-date: '2026-03-14T15:16:54'
+date: '2026-03-14T07:16:54'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deep Dive: aChurch.ai &#8211; AI Meditation &#038; Spiritual Sanctuary Explained'
-date: '2026-03-10T17:45:35'
+date: '2026-03-10T09:45:35'
 categories:
 - ai
 - openclaw

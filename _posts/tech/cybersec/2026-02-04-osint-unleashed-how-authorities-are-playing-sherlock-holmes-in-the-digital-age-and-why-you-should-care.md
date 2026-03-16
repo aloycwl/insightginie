@@ -2,7 +2,7 @@
 layout: post
 title: 'OSINT Unleashed: How Authorities Are Playing Sherlock Holmes in the Digital
   Age (And Why You Should Care)'
-date: '2026-02-04T14:31:05'
+date: '2026-02-04T06:31:05'
 categories:
 - tech
 - cybersec

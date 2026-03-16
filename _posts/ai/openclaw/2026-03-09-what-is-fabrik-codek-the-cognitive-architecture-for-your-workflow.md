@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Fabrik-Codek? The Cognitive Architecture for Your Workflow
-date: '2026-03-09T20:01:20'
+date: '2026-03-09T12:01:20'
 categories:
 - ai
 - openclaw

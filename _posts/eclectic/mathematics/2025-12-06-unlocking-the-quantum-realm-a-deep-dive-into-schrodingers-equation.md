@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unlocking the Quantum Realm: A Deep Dive into Schr\xF6dinger&#8217;s Equation"
-date: '2025-12-06T23:35:26'
+date: '2025-12-06T15:35:26'
 categories:
 - eclectic
 - mathematics

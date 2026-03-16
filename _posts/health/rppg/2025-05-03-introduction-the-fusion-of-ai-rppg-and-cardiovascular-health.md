@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Introduction: The Fusion of AI, rPPG, and Cardiovascular Health'
-date: '2025-05-03T14:33:25'
+date: '2025-05-03T06:33:25'
 categories:
 - health
 - rppg

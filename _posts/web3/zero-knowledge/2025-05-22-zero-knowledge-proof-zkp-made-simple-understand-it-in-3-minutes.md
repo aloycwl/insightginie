@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zero-Knowledge Proof (ZKP) Made Simple: Understand It in 3 Minutes'
-date: '2025-05-22T11:00:14'
+date: '2025-05-22T03:00:14'
 categories:
 - web3
 - zero-knowledge

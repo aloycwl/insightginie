@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock the Power of Neuro-Linguistic Programming: Understanding the D.V.P
   Pattern for Personal Transformation'
-date: '2025-05-13T14:48:18'
+date: '2025-05-13T06:48:18'
 categories:
 - sales
 - nlp

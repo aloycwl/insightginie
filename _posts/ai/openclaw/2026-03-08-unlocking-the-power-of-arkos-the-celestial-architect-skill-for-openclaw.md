@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking the Power of ARKOS: The Celestial Architect Skill for OpenClaw'
-date: '2026-03-08T10:30:25'
+date: '2026-03-08T02:30:25'
 categories:
 - ai
 - openclaw

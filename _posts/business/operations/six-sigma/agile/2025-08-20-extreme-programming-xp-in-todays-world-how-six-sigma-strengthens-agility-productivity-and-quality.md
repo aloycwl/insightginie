@@ -2,7 +2,7 @@
 layout: post
 title: "Extreme Programming (XP) in Today\u2019s World: How Six Sigma Strengthens\
   \ Agility, Productivity, and Quality"
-date: '2025-08-20T11:01:58'
+date: '2025-08-20T03:01:58'
 categories:
 - business
 - operations

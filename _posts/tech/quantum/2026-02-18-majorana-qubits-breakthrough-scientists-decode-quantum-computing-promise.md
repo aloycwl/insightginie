@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Majorana Qubits Breakthrough: Scientists Decode Quantum Computing Promise'
-date: '2026-02-18T16:17:55'
+date: '2026-02-18T08:17:55'
 categories:
 - tech
 - quantum

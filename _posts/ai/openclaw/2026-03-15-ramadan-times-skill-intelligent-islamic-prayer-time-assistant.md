@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ramadan Times Skill &#8211; Intelligent Islamic Prayer Time Assistant
-date: '2026-03-15T15:38:58'
+date: '2026-03-15T07:38:58'
 categories:
 - ai
 - openclaw

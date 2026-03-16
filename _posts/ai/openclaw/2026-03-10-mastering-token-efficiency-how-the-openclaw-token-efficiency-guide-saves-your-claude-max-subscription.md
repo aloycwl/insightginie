@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Token Efficiency: How the OpenClaw Token Efficiency Guide Saves
   Your Claude Max Subscription'
-date: '2026-03-10T02:30:28'
+date: '2026-03-09T18:30:28'
 categories:
 - ai
 - openclaw

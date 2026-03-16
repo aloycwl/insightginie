@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking Economic Futures: Why Consumer Confidence is a Critical Leading
   Indicator'
-date: '2025-12-15T12:11:51'
+date: '2025-12-15T04:11:51'
 categories:
 - trading
 - fundamental

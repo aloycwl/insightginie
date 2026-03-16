@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding OpenClaw&#8217;s Stock Evaluator v3: Institutional-Grade Investing
   Tools'
-date: '2026-03-14T23:30:27'
+date: '2026-03-14T15:30:27'
 categories:
 - ai
 - openclaw

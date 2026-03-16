@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How AI Is Revolutionizing IBS Management: Smart Tools for Symptom Relief'
-date: '2025-05-15T20:15:44'
+date: '2025-05-15T12:15:44'
 categories:
 - health
 - medtech

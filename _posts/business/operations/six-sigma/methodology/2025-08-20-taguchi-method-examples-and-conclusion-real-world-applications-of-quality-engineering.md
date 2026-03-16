@@ -2,7 +2,7 @@
 layout: post
 title: 'Taguchi Method Examples and Conclusion: Real-World Applications of Quality
   Engineering'
-date: '2025-08-20T15:21:28'
+date: '2025-08-20T07:21:28'
 categories:
 - business
 - operations

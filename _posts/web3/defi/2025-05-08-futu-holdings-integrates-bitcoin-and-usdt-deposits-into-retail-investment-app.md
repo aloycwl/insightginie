@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Futu Holdings Integrates Bitcoin and USDT Deposits into Retail Investment App
-date: '2025-05-08T19:48:11'
+date: '2025-05-08T11:48:11'
 categories:
 - web3
 - defi

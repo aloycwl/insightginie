@@ -2,7 +2,7 @@
 layout: post
 title: 'Master Your Home Energy: A Deep Dive into OpenClaw&#8217;s Grid-Aware Load
   Shifter'
-date: '2026-03-15T19:30:25'
+date: '2026-03-15T11:30:25'
 categories:
 - ai
 - openclaw

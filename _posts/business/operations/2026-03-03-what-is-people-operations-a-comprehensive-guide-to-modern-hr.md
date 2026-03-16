@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is &#8216;People Operations&#8217;? A Comprehensive Guide to Modern HR
-date: '2026-03-03T22:01:52'
+date: '2026-03-03T14:01:52'
 categories:
 - business
 - operations

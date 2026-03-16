@@ -2,7 +2,7 @@
 layout: post
 title: 'rPPG Technology: The Future of Contactless Heart Rate Monitoring and Vital
   Signs Detection'
-date: '2026-02-19T01:16:53'
+date: '2026-02-18T17:16:53'
 categories:
 - health
 - rppg

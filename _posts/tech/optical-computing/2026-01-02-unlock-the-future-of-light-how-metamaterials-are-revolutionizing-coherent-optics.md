@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock the Future of Light: How Metamaterials Are Revolutionizing Coherent
   Optics'
-date: '2026-01-02T17:34:50'
+date: '2026-01-02T09:34:50'
 categories:
 - tech
 - optical-computing

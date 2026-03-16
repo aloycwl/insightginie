@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IPS 2026: Navigating the Future of Proactive Cyber Defense'
-date: '2026-02-02T19:15:38'
+date: '2026-02-02T11:15:38'
 categories:
 - tech
 - cybersec

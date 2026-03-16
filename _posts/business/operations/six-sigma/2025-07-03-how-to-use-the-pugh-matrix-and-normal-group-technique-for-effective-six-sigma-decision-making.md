@@ -2,7 +2,7 @@
 layout: post
 title: How to Use the Pugh Matrix and Normal Group Technique for Effective Six Sigma
   Decision-Making
-date: '2025-07-03T15:55:15'
+date: '2025-07-03T07:55:15'
 categories:
 - business
 - operations

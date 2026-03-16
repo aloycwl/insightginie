@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 45 Powerful Chart Patterns Every Trader Needs to Master in 2026
-date: '2026-02-15T16:33:18'
+date: '2026-02-15T08:33:18'
 categories:
 - trading
 - pattern

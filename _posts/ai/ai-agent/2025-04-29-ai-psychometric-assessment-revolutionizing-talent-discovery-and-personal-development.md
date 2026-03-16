@@ -2,7 +2,7 @@
 layout: post
 title: 'AI Psychometric Assessment: Revolutionizing Talent Discovery and Personal
   Development'
-date: '2025-04-29T09:14:46'
+date: '2025-04-29T01:14:46'
 categories:
 - ai
 - ai-agent

@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Six Sigma Project Tracking: How to Build Reports That Drive Results
   and Accountability'
-date: '2025-07-03T15:39:17'
+date: '2025-07-03T07:39:17'
 categories:
 - business
 - operations

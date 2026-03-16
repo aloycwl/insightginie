@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analog vs. Digital Thinking in NLP
-date: '2025-05-13T12:00:26'
+date: '2025-05-13T04:00:26'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Computing in 2026: Majorana Qubits, Neutral Atom Breakthroughs, and
   the Race to Practical Quantum Advantage'
-date: '2026-02-18T22:04:50'
+date: '2026-02-18T14:04:50'
 categories:
 - tech
 - quantum

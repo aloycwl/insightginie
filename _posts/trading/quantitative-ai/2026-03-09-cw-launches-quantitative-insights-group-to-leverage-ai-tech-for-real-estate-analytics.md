@@ -2,7 +2,7 @@
 layout: post
 title: C&#038;W Launches Quantitative Insights Group to Leverage AI Tech for Real
   Estate Analytics
-date: '2026-03-09T20:30:35'
+date: '2026-03-09T12:30:35'
 categories:
 - trading
 - quantitative-ai

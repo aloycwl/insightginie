@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Title: 24/7 Health Tracking: How Wearable Tech is Revolutionizing Medicine'
-date: '2025-04-26T12:30:22'
+date: '2025-04-26T04:30:22'
 categories:
 - health
 - medtech

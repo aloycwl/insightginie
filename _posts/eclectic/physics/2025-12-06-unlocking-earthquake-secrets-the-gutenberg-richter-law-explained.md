@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking Earthquake Secrets: The Gutenberg-Richter Law Explained'
-date: '2025-12-06T22:16:13'
+date: '2025-12-06T14:16:13'
 categories:
 - eclectic
 - physics

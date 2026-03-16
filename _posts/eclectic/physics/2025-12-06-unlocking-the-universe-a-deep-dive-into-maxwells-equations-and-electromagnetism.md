@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unlocking the Universe: A Deep Dive into Maxwell&#8217;s Equations and Electromagnetism'
-date: '2025-12-06T22:25:55'
+date: '2025-12-06T14:25:55'
 categories:
 - eclectic
 - physics

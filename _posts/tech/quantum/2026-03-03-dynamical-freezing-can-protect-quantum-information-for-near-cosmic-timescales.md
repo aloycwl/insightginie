@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dynamical Freezing Can Protect Quantum Information for Near-Cosmic Timescales
-date: '2026-03-03T05:01:02'
+date: '2026-03-02T21:01:02'
 categories:
 - tech
 - quantum

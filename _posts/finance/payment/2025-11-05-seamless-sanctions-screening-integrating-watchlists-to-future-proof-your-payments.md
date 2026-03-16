@@ -2,7 +2,7 @@
 layout: post
 title: 'Seamless Sanctions Screening: Integrating Watchlists to Future-Proof Your
   Payments'
-date: '2025-11-05T15:39:44'
+date: '2025-11-05T07:39:44'
 categories:
 - finance
 - payment

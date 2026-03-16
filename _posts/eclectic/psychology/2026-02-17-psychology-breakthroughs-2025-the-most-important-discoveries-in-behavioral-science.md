@@ -2,7 +2,7 @@
 layout: post
 title: 'Psychology Breakthroughs 2025: The Most Important Discoveries in Behavioral
   Science'
-date: '2026-02-17T03:32:26'
+date: '2026-02-16T19:32:26'
 categories:
 - eclectic
 - psychology

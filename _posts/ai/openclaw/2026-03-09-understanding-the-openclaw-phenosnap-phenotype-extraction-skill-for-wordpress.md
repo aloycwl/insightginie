@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the OpenClaw PhenoSnap Phenotype Extraction Skill for WordPress
-date: '2026-03-09T04:45:29'
+date: '2026-03-08T20:45:29'
 categories:
 - ai
 - openclaw

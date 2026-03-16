@@ -2,7 +2,7 @@
 layout: post
 title: 'Discover Your Psychological Perspective: Take This Quiz to Uncover Your Ideal
   School of Psychology'
-date: '2026-03-01T17:33:16'
+date: '2026-03-01T09:33:16'
 categories:
 - eclectic
 - psychology

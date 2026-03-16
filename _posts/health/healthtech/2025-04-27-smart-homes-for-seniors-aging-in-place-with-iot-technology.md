@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Smart Homes for Seniors: Aging in Place with IoT Technology'
-date: '2025-04-27T22:15:32'
+date: '2025-04-27T14:15:32'
 categories:
 - health
 - healthtech

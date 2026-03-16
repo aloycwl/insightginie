@@ -2,7 +2,7 @@
 layout: post
 title: 'How to Identify the Legal Form of Ownership for Your Business: A Complete
   Guide for Entrepreneurs and Investors'
-date: '2025-05-05T19:48:49'
+date: '2025-05-05T11:48:49'
 categories:
 - business
 - management

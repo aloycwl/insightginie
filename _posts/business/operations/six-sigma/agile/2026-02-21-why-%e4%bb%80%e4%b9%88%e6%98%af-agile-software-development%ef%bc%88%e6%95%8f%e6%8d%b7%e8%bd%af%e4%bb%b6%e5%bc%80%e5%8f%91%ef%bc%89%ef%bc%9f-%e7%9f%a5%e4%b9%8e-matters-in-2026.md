@@ -2,7 +2,7 @@
 layout: post
 title: "Why \u4EC0\u4E48\u662F Agile Software Development\uFF08\u654F\u6377\u8F6F\u4EF6\
   \u5F00\u53D1\uFF09\uFF1F &#8211; \u77E5\u4E4E Matters in 2026"
-date: '2026-02-21T09:57:38'
+date: '2026-02-21T01:57:38'
 categories:
 - business
 - operations

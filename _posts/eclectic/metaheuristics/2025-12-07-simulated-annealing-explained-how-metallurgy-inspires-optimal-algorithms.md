@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Simulated Annealing Explained: How Metallurgy Inspires Optimal Algorithms'
-date: '2025-12-07T22:10:24'
+date: '2025-12-07T14:10:24'
 categories:
 - eclectic
 - metaheuristics

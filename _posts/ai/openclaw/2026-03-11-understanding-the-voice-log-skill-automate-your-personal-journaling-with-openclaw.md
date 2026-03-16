@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the Voice-Log Skill: Automate Your Personal Journaling with
   OpenClaw'
-date: '2026-03-11T14:00:23'
+date: '2026-03-11T06:00:23'
 categories:
 - ai
 - openclaw

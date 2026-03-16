@@ -2,7 +2,7 @@
 layout: post
 title: 'System-on-Chip (SoC) Explained: Architecture, Core Components, and Why It&#8217;s
   Everywhere'
-date: '2025-10-22T14:20:44'
+date: '2025-10-22T06:20:44'
 categories:
 - tech
 - integrated-circuit

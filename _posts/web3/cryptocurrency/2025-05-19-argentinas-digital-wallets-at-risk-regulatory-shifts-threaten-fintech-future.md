@@ -2,7 +2,7 @@
 layout: post
 title: 'Argentina&#8217;s Digital Wallets at Risk: Regulatory Shifts Threaten Fintech
   Future'
-date: '2025-05-19T09:42:46'
+date: '2025-05-19T01:42:46'
 categories:
 - web3
 - cryptocurrency

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IBM to Launch Quantum Center in India with 156-Qubit Heron Processor by 2026
-date: '2025-09-03T10:32:38'
+date: '2025-09-03T02:32:38'
 categories:
 - tech
 - quantum

@@ -2,7 +2,7 @@
 layout: post
 title: 'Strategic Hybrid Quantum-Classical Architectures: Preparing Enterprises for
   the Quantum Era'
-date: '2025-09-03T20:15:25'
+date: '2025-09-03T12:15:25'
 categories:
 - tech
 - quantum

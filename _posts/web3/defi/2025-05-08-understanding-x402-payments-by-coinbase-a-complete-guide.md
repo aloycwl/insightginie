@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding X402 Payments by Coinbase: A Complete Guide'
-date: '2025-05-08T15:10:04'
+date: '2025-05-08T07:10:04'
 categories:
 - web3
 - defi

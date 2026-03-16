@@ -2,7 +2,7 @@
 layout: post
 title: 'Kokology Quiz: What Your Reaction to an Abandoned Building Reveals About Your
   Mind'
-date: '2025-08-25T19:15:57'
+date: '2025-08-25T11:15:57'
 categories:
 - sales
 - kokology

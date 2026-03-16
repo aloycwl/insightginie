@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Google Maps Review Extraction with OpenClaw&#8217;s BrowserAct Skill
-date: '2026-03-10T19:01:55'
+date: '2026-03-10T11:01:55'
 categories:
 - ai
 - openclaw

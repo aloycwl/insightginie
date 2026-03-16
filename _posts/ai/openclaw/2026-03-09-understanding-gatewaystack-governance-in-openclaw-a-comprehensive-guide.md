@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding GatewayStack Governance in OpenClaw: A Comprehensive Guide'
-date: '2026-03-09T01:45:50'
+date: '2026-03-08T17:45:50'
 categories:
 - ai
 - openclaw

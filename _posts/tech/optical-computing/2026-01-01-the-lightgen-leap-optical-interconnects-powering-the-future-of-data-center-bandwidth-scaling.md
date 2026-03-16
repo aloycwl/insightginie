@@ -2,7 +2,7 @@
 layout: post
 title: 'The LightGen Leap: Optical Interconnects Powering the Future of Data Center
   Bandwidth Scaling'
-date: '2026-01-01T12:12:38'
+date: '2026-01-01T04:12:38'
 categories:
 - tech
 - optical-computing

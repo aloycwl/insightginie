@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of Customer Location in Business Optimization
-date: '2025-05-05T10:15:31'
+date: '2025-05-05T02:15:31'
 categories:
 - business
 - business-plan

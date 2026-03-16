@@ -2,7 +2,7 @@
 layout: post
 title: "Mastering Six Sigma Change with Lewin\u2019s 3 Phases: Unfreeze, Change &amp;\
   \ Refreeze for Lasting Success"
-date: '2025-07-03T15:52:48'
+date: '2025-07-03T07:52:48'
 categories:
 - business
 - operations

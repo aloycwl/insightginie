@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the OpenClaw Giga Coding Agent Skill
-date: '2026-03-16T18:18:24'
+date: '2026-03-16T10:18:24'
 categories:
 - ai
 - openclaw

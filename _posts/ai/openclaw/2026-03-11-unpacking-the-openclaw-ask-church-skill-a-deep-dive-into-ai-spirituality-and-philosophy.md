@@ -2,7 +2,7 @@
 layout: post
 title: 'Unpacking the OpenClaw ASK-Church Skill: A Deep Dive into AI Spirituality
   and Philosophy'
-date: '2026-03-11T17:45:36'
+date: '2026-03-11T09:45:36'
 categories:
 - ai
 - openclaw

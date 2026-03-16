@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Six Sigma and Markov Chains: How Statistical Models Drive Process Improvement'
-date: '2025-08-25T09:48:57'
+date: '2025-08-25T01:48:57'
 categories:
 - business
 - operations

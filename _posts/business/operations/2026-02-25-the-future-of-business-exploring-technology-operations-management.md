@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future of Business: Exploring Technology &#038; Operations Management'
-date: '2026-02-25T14:32:32'
+date: '2026-02-25T06:32:32'
 categories:
 - business
 - operations

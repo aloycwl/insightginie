@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Regression Analysis Explained: Unlocking Predictive Power in Your Data'
-date: '2025-12-06T23:35:06'
+date: '2025-12-06T15:35:06'
 categories:
 - eclectic
 - mathematics

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Guide to Basic States of Excellence Modelling in NLP
-date: '2025-05-12T10:33:19'
+date: '2025-05-12T02:33:19'
 categories:
 - sales
 - nlp

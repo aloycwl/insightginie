@@ -2,7 +2,7 @@
 layout: post
 title: 'Ulcerative Colitis and the Gut: How Risk Genes and Microbiota Fuel Chronic
   Inflammation'
-date: '2025-07-23T23:32:33'
+date: '2025-07-23T15:32:33'
 categories:
 - health
 - healthtech

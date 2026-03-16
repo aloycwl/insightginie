@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Dollar Wrecking Ball: How USD Strength Crushes Global Risk Assets'
-date: '2025-12-15T13:21:13'
+date: '2025-12-15T05:21:13'
 categories:
 - trading
 - fundamental

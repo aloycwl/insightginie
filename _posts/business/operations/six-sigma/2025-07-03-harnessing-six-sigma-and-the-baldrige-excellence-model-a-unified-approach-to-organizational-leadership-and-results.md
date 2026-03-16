@@ -2,7 +2,7 @@
 layout: post
 title: 'Harnessing Six Sigma and the Baldrige Excellence Model: A Unified Approach
   to Organizational Leadership and Results'
-date: '2025-07-03T15:37:05'
+date: '2025-07-03T07:37:05'
 categories:
 - business
 - operations

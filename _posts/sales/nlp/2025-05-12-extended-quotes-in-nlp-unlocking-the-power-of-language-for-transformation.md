@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Extended Quotes in NLP: Unlocking the Power of Language for Transformation'
-date: '2025-05-12T11:10:24'
+date: '2025-05-12T03:10:24'
 categories:
 - sales
 - nlp

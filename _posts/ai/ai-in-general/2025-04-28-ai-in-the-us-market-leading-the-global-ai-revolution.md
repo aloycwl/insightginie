@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AI in the US Market: Leading the Global AI Revolution'
-date: '2025-04-28T09:31:54'
+date: '2025-04-28T01:31:54'
 categories:
 - ai
 - ai-in-general

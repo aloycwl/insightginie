@@ -2,7 +2,7 @@
 layout: post
 title: 'The Triple Threat: Skin Tone, Lighting, and Motion Challenges in Transdermal
   Optical Imaging'
-date: '2026-02-10T13:50:02'
+date: '2026-02-10T05:50:02'
 categories:
 - health
 - rppg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Invisible Hand: How Trade Balances Drive Currency Power &#038; FX Valuation'
-date: '2025-12-15T12:12:52'
+date: '2025-12-15T04:12:52'
 categories:
 - trading
 - fundamental

@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding NLP Presuppositions: Unlocking the Hidden Assumptions in Language
   and Thought'
-date: '2025-05-12T11:05:42'
+date: '2025-05-12T03:05:42'
 categories:
 - sales
 - nlp

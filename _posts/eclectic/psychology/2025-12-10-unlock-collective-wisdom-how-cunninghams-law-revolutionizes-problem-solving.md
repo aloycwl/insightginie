@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Collective Wisdom: How Cunningham&#8217;s Law Revolutionizes Problem
   Solving'
-date: '2025-12-10T10:44:54'
+date: '2025-12-10T02:44:54'
 categories:
 - eclectic
 - psychology

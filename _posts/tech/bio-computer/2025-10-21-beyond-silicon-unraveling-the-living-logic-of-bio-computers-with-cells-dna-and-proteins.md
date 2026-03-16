@@ -2,7 +2,7 @@
 layout: post
 title: 'Beyond Silicon: Unraveling the Living Logic of Bio-Computers with Cells, DNA,
   and Proteins'
-date: '2025-10-21T09:53:36'
+date: '2025-10-21T01:53:36'
 categories:
 - tech
 - bio-computer

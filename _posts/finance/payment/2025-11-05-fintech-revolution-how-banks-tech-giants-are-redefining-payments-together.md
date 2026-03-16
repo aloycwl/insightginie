@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fintech Revolution: How Banks &#038; Tech Giants Are Redefining Payments Together'
-date: '2025-11-05T15:32:39'
+date: '2025-11-05T07:32:39'
 categories:
 - finance
 - payment

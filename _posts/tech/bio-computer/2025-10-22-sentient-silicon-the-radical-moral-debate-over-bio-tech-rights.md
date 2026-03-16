@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sentient Silicon? The Radical Moral Debate Over Bio-Tech Rights
-date: '2025-10-22T13:20:48'
+date: '2025-10-22T05:20:48'
 categories:
 - tech
 - bio-computer

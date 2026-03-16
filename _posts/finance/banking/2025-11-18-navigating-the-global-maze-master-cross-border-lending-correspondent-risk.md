@@ -2,7 +2,7 @@
 layout: post
 title: 'Navigating the Global Maze: Master Cross-Border Lending &#038; Correspondent
   Risk'
-date: '2025-11-18T18:00:00'
+date: '2025-11-18T10:00:00'
 categories:
 - finance
 - banking

@@ -2,7 +2,7 @@
 layout: post
 title: 'Fiscal Stimulus &#038; Risk-On: Unpacking the Market&#8217;s Appetite for
   Risk'
-date: '2025-12-15T12:12:23'
+date: '2025-12-15T04:12:23'
 categories:
 - trading
 - fundamental

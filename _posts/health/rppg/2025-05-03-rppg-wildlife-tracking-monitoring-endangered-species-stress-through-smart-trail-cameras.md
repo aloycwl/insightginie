@@ -2,7 +2,7 @@
 layout: post
 title: "rPPG Wildlife Tracking: Monitoring Endangered Species\u2019 Stress Through\
   \ Smart Trail Cameras"
-date: '2025-05-03T14:49:25'
+date: '2025-05-03T06:49:25'
 categories:
 - health
 - rppg

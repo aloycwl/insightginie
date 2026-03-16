@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agentic AI by 2030: A Gloriously Chaotic Crystal Ball Gazing Exercise'
-date: '2026-02-11T12:53:17'
+date: '2026-02-11T04:53:17'
 categories:
 - ai
 - ai-agent

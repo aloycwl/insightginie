@@ -2,7 +2,7 @@
 layout: post
 title: 'Stablecoin Liquidity and Crypto Market Cycles: How USDT and USDC Supply Predict
   Bitcoin Price Movements'
-date: '2025-12-15T15:29:17'
+date: '2025-12-15T07:29:17'
 categories:
 - trading
 - fundamental

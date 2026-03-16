@@ -2,7 +2,7 @@
 layout: post
 title: Is M&amp;A Insurance Necessary? Why Transaction Liability Coverage is the Ultimate
   Deal Saver
-date: '2025-12-08T20:10:44'
+date: '2025-12-08T12:10:44'
 categories:
 - business
 - business-plan

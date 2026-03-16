@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Patient Monitoring and the Future of Contactless Digital Health
-date: '2026-02-28T17:31:59'
+date: '2026-02-28T09:31:59'
 categories:
 - health
 - rppg

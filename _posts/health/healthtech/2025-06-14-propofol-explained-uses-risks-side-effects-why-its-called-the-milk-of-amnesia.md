@@ -2,7 +2,7 @@
 layout: post
 title: "Propofol Explained: Uses, Risks, Side Effects &amp; Why It\u2019s Called the\
   \ \u2018Milk of Amnesia"
-date: '2025-06-14T10:26:48'
+date: '2025-06-14T02:26:48'
 categories:
 - health
 - healthtech

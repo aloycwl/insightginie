@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tele-dentistry: Zoom Checkups for Your Teeth'
-date: '2025-04-26T13:24:09'
+date: '2025-04-26T05:24:09'
 categories:
 - health
 - telemedicine

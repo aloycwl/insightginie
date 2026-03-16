@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fractal Memory: Automated Hierarchical Memory Compression for OpenClaw Agents'
-date: '2026-03-05T16:21:10'
+date: '2026-03-05T08:21:10'
 categories:
 - ai
 - openclaw

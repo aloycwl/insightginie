@@ -2,7 +2,7 @@
 layout: post
 title: 'Kokology Quiz: Your Reaction to the Glass Slipper Reveals How You Handle a
   Love Rival'
-date: '2025-08-25T22:19:40'
+date: '2025-08-25T14:19:40'
 categories:
 - sales
 - kokology

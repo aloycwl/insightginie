@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bio-Computing 2030: Unveiling the Future of Living Computers &#038; Beyond'
-date: '2025-10-21T21:41:19'
+date: '2025-10-21T13:41:19'
 categories:
 - tech
 - bio-computer

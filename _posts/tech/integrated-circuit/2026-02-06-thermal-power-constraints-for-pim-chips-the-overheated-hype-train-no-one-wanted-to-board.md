@@ -2,7 +2,7 @@
 layout: post
 title: 'Thermal &#038; Power Constraints for PIM Chips: The Overheated Hype Train
   No One Wanted to Board'
-date: '2026-02-06T13:45:52'
+date: '2026-02-06T05:45:52'
 categories:
 - tech
 - integrated-circuit

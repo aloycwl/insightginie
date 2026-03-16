@@ -2,7 +2,7 @@
 layout: post
 title: 'How Synthetic Data is Powering the Next Generation of AI: Benefits, Risks,
   and Real-World Use Cases'
-date: '2025-05-27T10:50:04'
+date: '2025-05-27T02:50:04'
 categories:
 - ai
 - ai-agent

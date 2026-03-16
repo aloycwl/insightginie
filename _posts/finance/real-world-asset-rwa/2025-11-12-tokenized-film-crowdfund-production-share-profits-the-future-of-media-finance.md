@@ -2,7 +2,7 @@
 layout: post
 title: "Tokenized Film: Crowdfund Production &#038; Share Profits \u2013 The Future\
   \ of Media Finance"
-date: '2025-11-12T11:01:26'
+date: '2025-11-12T03:01:26'
 categories:
 - finance
 - real-world-asset-rwa

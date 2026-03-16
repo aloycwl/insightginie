@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Silicon: How Photonic Chips Are Lighting Up the Future of Computing'
-date: '2026-01-01T12:13:35'
+date: '2026-01-01T04:13:35'
 categories:
 - tech
 - optical-computing

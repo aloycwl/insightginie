@@ -2,7 +2,7 @@
 layout: post
 title: 'The Grand Illusion: Why Firmware Analysis is the Digital Equivalent of Herding
   Cats'
-date: '2026-02-05T13:32:26'
+date: '2026-02-05T05:32:26'
 categories:
 - tech
 - cybersec

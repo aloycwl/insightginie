@@ -2,7 +2,7 @@
 layout: post
 title: 'The Unholy Trinity: Why Combining OpenClaw, ERC-8004, and X402 Might Actually
   Work (Against All Odds) for the Agentic Economy'
-date: '2026-02-09T17:40:14'
+date: '2026-02-09T09:40:14'
 categories:
 - web3
 - crypto-security

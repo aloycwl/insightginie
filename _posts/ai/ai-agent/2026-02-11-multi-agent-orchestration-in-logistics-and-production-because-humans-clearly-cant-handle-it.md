@@ -2,7 +2,7 @@
 layout: post
 title: "Multi-Agent Orchestration in Logistics and Production: Because Humans Clearly\
   \ Can\u2019t Handle It"
-date: '2026-02-11T11:55:42'
+date: '2026-02-11T03:55:42'
 categories:
 - ai
 - ai-agent

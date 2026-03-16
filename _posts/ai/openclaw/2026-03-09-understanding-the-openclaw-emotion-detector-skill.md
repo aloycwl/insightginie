@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the OpenClaw Emotion Detector Skill
-date: '2026-03-09T05:17:58'
+date: '2026-03-08T21:17:58'
 categories:
 - ai
 - openclaw

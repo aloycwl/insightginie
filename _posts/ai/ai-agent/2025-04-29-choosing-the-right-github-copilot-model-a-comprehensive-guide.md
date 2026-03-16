@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Choosing the Right GitHub Copilot Model: A Comprehensive Guide'
-date: '2025-04-29T17:21:07'
+date: '2025-04-29T09:21:07'
 categories:
 - ai
 - ai-agent

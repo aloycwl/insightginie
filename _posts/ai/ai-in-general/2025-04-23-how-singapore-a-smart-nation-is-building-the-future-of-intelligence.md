@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Singapore a Smart Nation is Building the Future of Intelligence
-date: '2025-04-23T21:24:55'
+date: '2025-04-23T13:24:55'
 categories:
 - ai
 - ai-in-general

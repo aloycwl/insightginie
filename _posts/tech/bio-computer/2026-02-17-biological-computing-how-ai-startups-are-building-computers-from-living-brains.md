@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Biological Computing: How AI Startups Are Building Computers from Living Brains'
-date: '2026-02-17T18:17:34'
+date: '2026-02-17T10:17:34'
 categories:
 - tech
 - bio-computer

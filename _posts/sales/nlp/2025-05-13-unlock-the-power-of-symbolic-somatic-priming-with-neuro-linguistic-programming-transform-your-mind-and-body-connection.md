@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock the Power of Symbolic Somatic Priming with Neuro-Linguistic Programming:
   Transform Your Mind and Body Connection'
-date: '2025-05-13T14:57:05'
+date: '2025-05-13T06:57:05'
 categories:
 - sales
 - nlp

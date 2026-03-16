@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering the 4S Method: A Step-by-Step Guide to Problem Solving and Effective
   Communication'
-date: '2025-07-01T17:08:02'
+date: '2025-07-01T09:08:02'
 categories:
 - business
 - operations

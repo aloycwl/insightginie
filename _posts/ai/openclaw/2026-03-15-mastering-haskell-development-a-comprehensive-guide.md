@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Haskell Development: A Comprehensive Guide'
-date: '2026-03-15T13:15:58'
+date: '2026-03-15T05:15:58'
 categories:
 - ai
 - openclaw

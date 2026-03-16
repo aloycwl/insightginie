@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Zero Knowledge Proofs 2025: The Complete Guide to zk-SNARKs and zk-STARKs'
-date: '2026-02-17T07:34:32'
+date: '2026-02-16T23:34:32'
 categories:
 - web3
 - zero-knowledge

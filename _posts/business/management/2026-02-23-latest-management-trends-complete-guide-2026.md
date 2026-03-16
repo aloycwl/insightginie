@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Latest Management Trends: Complete Guide 2026'
-date: '2026-02-23T16:57:36'
+date: '2026-02-23T08:57:36'
 categories:
 - business
 - management

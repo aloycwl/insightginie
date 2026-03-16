@@ -2,7 +2,7 @@
 layout: post
 title: 'Metaverse 2026: The Technology Reaching $306 Billion and Reshaping Digital
   Reality'
-date: '2026-02-18T22:34:53'
+date: '2026-02-18T14:34:53'
 categories:
 - game
 - metaverse

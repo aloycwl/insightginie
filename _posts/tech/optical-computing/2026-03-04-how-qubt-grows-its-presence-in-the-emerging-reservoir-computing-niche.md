@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How QUBT Grows Its Presence in the Emerging Reservoir Computing Niche
-date: '2026-03-04T09:01:08'
+date: '2026-03-04T01:01:08'
 categories:
 - tech
 - optical-computing

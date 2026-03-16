@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revolutionary Physics Breakthroughs of 2025: From Antimatter to Superfluidity'
-date: '2026-02-18T07:32:34'
+date: '2026-02-17T23:32:34'
 categories:
 - eclectic
 - physics

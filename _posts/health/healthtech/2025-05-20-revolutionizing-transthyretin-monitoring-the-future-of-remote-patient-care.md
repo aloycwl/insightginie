@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revolutionizing Transthyretin Monitoring: The Future of Remote Patient Care'
-date: '2025-05-20T09:14:16'
+date: '2025-05-20T01:14:16'
 categories:
 - health
 - healthtech

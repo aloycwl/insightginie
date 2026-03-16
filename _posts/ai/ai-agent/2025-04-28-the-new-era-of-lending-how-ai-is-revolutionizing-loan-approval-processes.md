@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The New Era of Lending: How AI is Revolutionizing Loan Approval Processes'
-date: '2025-04-28T20:24:18'
+date: '2025-04-28T12:24:18'
 categories:
 - ai
 - ai-agent

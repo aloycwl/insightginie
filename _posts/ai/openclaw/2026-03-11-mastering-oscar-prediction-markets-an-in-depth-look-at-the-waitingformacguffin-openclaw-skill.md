@@ -2,7 +2,7 @@
 layout: post
 title: 'Mastering Oscar Prediction Markets: An In-Depth Look at the WaitingForMacGuffin
   OpenClaw Skill'
-date: '2026-03-11T19:30:33'
+date: '2026-03-11T11:30:33'
 categories:
 - ai
 - openclaw

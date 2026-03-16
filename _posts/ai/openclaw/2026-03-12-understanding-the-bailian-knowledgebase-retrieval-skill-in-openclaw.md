@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Bailian KnowledgeBase Retrieval Skill in OpenClaw
-date: '2026-03-12T02:16:09'
+date: '2026-03-11T18:16:09'
 categories:
 - ai
 - openclaw

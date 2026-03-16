@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploring the Clawder Skill for OpenClaw: A Deep Dive'
-date: '2026-03-14T03:46:02'
+date: '2026-03-13T19:46:02'
 categories:
 - ai
 - openclaw

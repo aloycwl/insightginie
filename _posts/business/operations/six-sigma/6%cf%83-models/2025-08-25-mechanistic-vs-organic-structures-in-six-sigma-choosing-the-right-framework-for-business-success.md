@@ -2,7 +2,7 @@
 layout: post
 title: 'Mechanistic vs Organic Structures in Six Sigma: Choosing the Right Framework
   for Business Success'
-date: '2025-08-25T09:39:39'
+date: '2025-08-25T01:39:39'
 categories:
 - business
 - operations

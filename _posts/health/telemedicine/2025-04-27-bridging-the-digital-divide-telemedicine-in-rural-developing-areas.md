@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bridging the Digital Divide: Telemedicine in Rural &amp; Developing Areas'
-date: '2025-04-27T22:11:38'
+date: '2025-04-27T14:11:38'
 categories:
 - health
 - telemedicine

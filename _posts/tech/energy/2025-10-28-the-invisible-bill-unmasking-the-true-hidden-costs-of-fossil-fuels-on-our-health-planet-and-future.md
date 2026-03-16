@@ -2,7 +2,7 @@
 layout: post
 title: 'The Invisible Bill: Unmasking the True Hidden Costs of Fossil Fuels on Our
   Health, Planet, and Future'
-date: '2025-10-28T11:17:23'
+date: '2025-10-28T03:17:23'
 categories:
 - tech
 - energy

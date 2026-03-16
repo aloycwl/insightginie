@@ -2,7 +2,7 @@
 layout: post
 title: 'Transitory vs. Persistent Inflation: Why the &#8220;Smart Money&#8221; Got
   It Wrong'
-date: '2025-12-15T14:18:00'
+date: '2025-12-15T06:18:00'
 categories:
 - trading
 - fundamental

@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding the Bottom-Up Approach: A Data-Driven Six Sigma Strategy for
   Forward-Looking Risk and Investment Analysis'
-date: '2025-07-08T14:03:42'
+date: '2025-07-08T06:03:42'
 categories:
 - business
 - operations

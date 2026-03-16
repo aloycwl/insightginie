@@ -2,7 +2,7 @@
 layout: post
 title: 'Six Sigma in Software Development: Using PSP Time-in-Phase and Defect Metrics
   to Achieve Near-Perfect Quality'
-date: '2025-08-20T15:26:35'
+date: '2025-08-20T07:26:35'
 categories:
 - business
 - operations

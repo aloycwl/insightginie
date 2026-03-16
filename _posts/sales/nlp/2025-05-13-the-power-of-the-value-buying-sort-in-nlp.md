@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of the Value Buying Sort in NLP
-date: '2025-05-13T12:18:45'
+date: '2025-05-13T04:18:45'
 categories:
 - sales
 - nlp

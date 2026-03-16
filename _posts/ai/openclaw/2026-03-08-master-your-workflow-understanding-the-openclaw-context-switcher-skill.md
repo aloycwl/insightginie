@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Master Your Workflow: Understanding the OpenClaw Context Switcher Skill'
-date: '2026-03-08T12:30:23'
+date: '2026-03-08T04:30:23'
 categories:
 - ai
 - openclaw

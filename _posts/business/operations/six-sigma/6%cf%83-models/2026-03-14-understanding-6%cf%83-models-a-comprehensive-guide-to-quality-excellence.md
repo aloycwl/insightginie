@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Understanding 6\u03A3 Models: A Comprehensive Guide to Quality Excellence"
-date: '2026-03-14T19:00:31'
+date: '2026-03-14T11:00:31'
 categories:
 - business
 - operations

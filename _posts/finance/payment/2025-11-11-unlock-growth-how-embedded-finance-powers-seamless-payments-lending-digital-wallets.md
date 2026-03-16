@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock Growth: How Embedded Finance Powers Seamless Payments, Lending &#038;
   Digital Wallets'
-date: '2025-11-11T09:17:16'
+date: '2025-11-11T01:17:16'
 categories:
 - finance
 - payment

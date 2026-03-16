@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Neural Networks: Principles, Applications, and Challenges in Next-Gen
   AI'
-date: '2025-09-03T18:59:56'
+date: '2025-09-03T10:59:56'
 categories:
 - tech
 - quantum

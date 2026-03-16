@@ -2,7 +2,7 @@
 layout: post
 title: 'Quantum Computing in 2026: IBM, Google, and Atom Computing Lead the $17.3B
   Race to Quantum Supremacy'
-date: '2026-02-16T23:01:13'
+date: '2026-02-16T15:01:13'
 categories:
 - tech
 - quantum

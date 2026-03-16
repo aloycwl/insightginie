@@ -2,7 +2,7 @@
 layout: post
 title: 'AI-Driven Project Management: How Agentic Automation Will Transform Teams
   in 2026'
-date: '2026-02-17T20:17:32'
+date: '2026-02-17T12:17:32'
 categories:
 - business
 - operations

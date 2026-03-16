@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Brief History of Digital Banking: From ATMs to Mobile Apps'
-date: '2026-02-26T22:31:29'
+date: '2026-02-26T14:31:29'
 categories:
 - finance
 - banking

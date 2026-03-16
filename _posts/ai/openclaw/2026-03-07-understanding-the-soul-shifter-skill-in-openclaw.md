@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding the Soul Shifter Skill in OpenClaw
-date: '2026-03-07T08:17:10'
+date: '2026-03-07T00:17:10'
 categories:
 - ai
 - openclaw

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Neuro-Linguistic Programming (NLP) and the Convincer Strategy
-date: '2025-05-13T12:06:08'
+date: '2025-05-13T04:06:08'
 categories:
 - sales
 - nlp

@@ -2,7 +2,7 @@
 layout: post
 title: 'Space Exploration: Optimizing Trajectories and Resource Use for Interplanetary
   Travel'
-date: '2025-09-04T14:41:14'
+date: '2025-09-04T06:41:14'
 categories:
 - tech
 - quantum

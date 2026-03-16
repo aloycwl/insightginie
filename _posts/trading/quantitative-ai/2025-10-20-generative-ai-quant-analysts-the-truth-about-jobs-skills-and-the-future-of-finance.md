@@ -2,7 +2,7 @@
 layout: post
 title: 'Generative AI &#038; Quant Analysts: The Truth About Jobs, Skills, and the
   Future of Finance'
-date: '2025-10-20T12:24:14'
+date: '2025-10-20T04:24:14'
 categories:
 - trading
 - quantitative-ai

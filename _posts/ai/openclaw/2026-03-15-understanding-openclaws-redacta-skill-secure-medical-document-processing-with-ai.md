@@ -2,7 +2,7 @@
 layout: post
 title: 'Understanding OpenClaw&#8217;s Redacta Skill: Secure Medical Document Processing
   with AI'
-date: '2026-03-15T13:45:57'
+date: '2026-03-15T05:45:57'
 categories:
 - ai
 - openclaw

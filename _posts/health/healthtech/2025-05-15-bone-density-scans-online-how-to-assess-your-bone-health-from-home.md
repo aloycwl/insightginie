@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bone Density Scans Online: How to Assess Your Bone Health from Home'
-date: '2025-05-15T20:13:35'
+date: '2025-05-15T12:13:35'
 categories:
 - health
 - healthtech

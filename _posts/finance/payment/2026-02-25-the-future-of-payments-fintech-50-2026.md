@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future Of Payments: Fintech 50 2026'
-date: '2026-02-25T13:40:56'
+date: '2026-02-25T05:40:56'
 categories:
 - finance
 - payment

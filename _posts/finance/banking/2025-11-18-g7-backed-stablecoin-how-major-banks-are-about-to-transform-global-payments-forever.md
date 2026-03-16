@@ -2,7 +2,7 @@
 layout: post
 title: 'G7-Backed Stablecoin: How Major Banks Are About to Transform Global Payments
   Forever'
-date: '2025-11-18T13:30:00'
+date: '2025-11-18T05:30:00'
 categories:
 - finance
 - banking

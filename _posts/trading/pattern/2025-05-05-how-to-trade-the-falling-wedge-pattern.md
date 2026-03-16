@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Trade the Falling Wedge Pattern
-date: '2025-05-05T12:40:46'
+date: '2025-05-05T04:40:46'
 categories:
 - trading
 - pattern

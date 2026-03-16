@@ -2,7 +2,7 @@
 layout: post
 title: 'SurferMonkey: Enabling Anonymous Interchain Communication with Zero-Knowledge
   Proofs'
-date: '2025-05-05T21:05:31'
+date: '2025-05-05T13:05:31'
 categories:
 - web3
 - zero-knowledge

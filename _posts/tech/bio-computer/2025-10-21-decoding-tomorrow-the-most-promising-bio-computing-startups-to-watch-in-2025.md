@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Decoding Tomorrow: The Most Promising Bio-Computing Startups to Watch in 2025'
-date: '2025-10-21T10:27:03'
+date: '2025-10-21T02:27:03'
 categories:
 - tech
 - bio-computer

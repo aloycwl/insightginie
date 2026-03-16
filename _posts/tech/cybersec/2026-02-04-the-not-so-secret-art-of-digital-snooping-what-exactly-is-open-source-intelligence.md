@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Not-So-Secret Art of Digital Snooping: What Exactly is Open Source Intelligence?'
-date: '2026-02-04T14:12:12'
+date: '2026-02-04T06:12:12'
 categories:
 - tech
 - cybersec

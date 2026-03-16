@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Infrastructure as Code (IaC): An OpenClaw Skill Guide'
-date: '2026-03-10T16:30:25'
+date: '2026-03-10T08:30:25'
 categories:
 - ai
 - openclaw

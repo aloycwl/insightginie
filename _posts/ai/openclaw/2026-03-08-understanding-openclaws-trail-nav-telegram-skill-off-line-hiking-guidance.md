@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Understanding OpenClaw&#8217;s Trail-Nav-Telegram Skill: Off-Line Hiking Guidance'
-date: '2026-03-08T05:45:46'
+date: '2026-03-07T21:45:46'
 categories:
 - ai
 - openclaw

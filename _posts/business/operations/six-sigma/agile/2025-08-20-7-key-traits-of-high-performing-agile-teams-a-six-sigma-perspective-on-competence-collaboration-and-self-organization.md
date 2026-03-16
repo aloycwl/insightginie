@@ -2,7 +2,7 @@
 layout: post
 title: '7 Key Traits of High-Performing Agile Teams: A Six Sigma Perspective on Competence,
   Collaboration, and Self-Organization'
-date: '2025-08-20T10:58:32'
+date: '2025-08-20T02:58:32'
 categories:
 - business
 - operations

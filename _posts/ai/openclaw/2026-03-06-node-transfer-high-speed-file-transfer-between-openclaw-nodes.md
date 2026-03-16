@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'node-transfer: High-Speed File Transfer Between OpenClaw Nodes'
-date: '2026-03-06T21:17:09'
+date: '2026-03-06T13:17:09'
 categories:
 - ai
 - openclaw

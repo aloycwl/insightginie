@@ -2,7 +2,7 @@
 layout: post
 title: How CMMI Common Features Ensure Effective, Repeatable, and Lasting Process
   Improvement
-date: '2025-07-01T17:48:30'
+date: '2025-07-01T09:48:30'
 categories:
 - business
 - operations

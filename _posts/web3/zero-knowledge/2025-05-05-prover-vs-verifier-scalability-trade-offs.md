@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prover vs. Verifier Scalability Trade-Offs
-date: '2025-05-05T21:18:03'
+date: '2025-05-05T13:18:03'
 categories:
 - web3
 - zero-knowledge

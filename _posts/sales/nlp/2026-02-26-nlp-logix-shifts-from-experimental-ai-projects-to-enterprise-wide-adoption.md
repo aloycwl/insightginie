@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NLP Logix Shifts from Experimental AI Projects to Enterprise-Wide Adoption
-date: '2026-02-26T09:30:47'
+date: '2026-02-26T01:30:47'
 categories:
 - sales
 - nlp

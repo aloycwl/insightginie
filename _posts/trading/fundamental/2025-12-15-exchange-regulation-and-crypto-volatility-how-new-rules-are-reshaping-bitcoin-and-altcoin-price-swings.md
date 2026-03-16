@@ -2,7 +2,7 @@
 layout: post
 title: 'Exchange Regulation and Crypto Volatility: How New Rules Are Reshaping Bitcoin
   and Altcoin Price Swings'
-date: '2025-12-15T15:31:36'
+date: '2025-12-15T07:31:36'
 categories:
 - trading
 - fundamental

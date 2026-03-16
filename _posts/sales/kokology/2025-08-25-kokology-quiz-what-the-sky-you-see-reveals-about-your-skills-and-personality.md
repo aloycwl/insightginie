@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kokology Quiz: What the Sky You See Reveals About Your Skills and Personality'
-date: '2025-08-25T19:13:50'
+date: '2025-08-25T11:13:50'
 categories:
 - sales
 - kokology

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unlocking the Power of Deep Learning in 2025
-date: '2025-05-06T21:39:47'
+date: '2025-05-06T13:39:47'
 categories:
 - ai
 - ai-tools

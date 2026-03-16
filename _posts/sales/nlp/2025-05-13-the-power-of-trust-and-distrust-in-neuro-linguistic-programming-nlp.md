@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of Trust and Distrust in Neuro-Linguistic Programming (NLP)
-date: '2025-05-13T12:20:38'
+date: '2025-05-13T04:20:38'
 categories:
 - sales
 - nlp

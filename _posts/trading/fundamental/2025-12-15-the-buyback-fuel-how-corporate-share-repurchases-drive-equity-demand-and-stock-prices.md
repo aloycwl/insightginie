@@ -2,7 +2,7 @@
 layout: post
 title: 'The Buyback Fuel: How Corporate Share Repurchases Drive Equity Demand and
   Stock Prices'
-date: '2025-12-15T13:29:36'
+date: '2025-12-15T05:29:36'
 categories:
 - trading
 - fundamental

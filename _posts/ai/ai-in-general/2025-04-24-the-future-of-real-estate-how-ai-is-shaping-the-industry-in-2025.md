@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future of Real Estate: How AI is Shaping the Industry in 2025'
-date: '2025-04-24T08:46:59'
+date: '2025-04-24T00:46:59'
 categories:
 - ai
 - ai-in-general

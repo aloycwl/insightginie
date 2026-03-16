@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Quick Reminders Skill: Zero-LLM One-Shot Reminders for OpenClaw'
-date: '2026-03-05T16:02:15'
+date: '2026-03-05T08:02:15'
 categories:
 - ai
 - openclaw

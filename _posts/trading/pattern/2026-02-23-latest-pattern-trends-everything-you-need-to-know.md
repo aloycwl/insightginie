@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Latest Pattern Trends &#8211; Everything You Need to Know
-date: '2026-02-23T00:43:40'
+date: '2026-02-22T16:43:40'
 categories:
 - trading
 - pattern

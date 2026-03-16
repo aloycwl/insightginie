@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Mind Reading in NLP
-date: '2025-05-12T11:04:00'
+date: '2025-05-12T03:04:00'
 categories:
 - sales
 - nlp

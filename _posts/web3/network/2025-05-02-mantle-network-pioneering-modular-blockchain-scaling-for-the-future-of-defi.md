@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mantle Network: Pioneering Modular Blockchain Scaling for the Future of DeFi'
-date: '2025-05-02T13:11:39'
+date: '2025-05-02T05:11:39'
 categories:
 - web3
 - network

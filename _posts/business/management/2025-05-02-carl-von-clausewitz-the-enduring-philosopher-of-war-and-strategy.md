@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carl von Clausewitz: The Enduring Philosopher of War and Strategy'
-date: '2025-05-02T14:55:23'
+date: '2025-05-02T06:55:23'
 categories:
 - business
 - management

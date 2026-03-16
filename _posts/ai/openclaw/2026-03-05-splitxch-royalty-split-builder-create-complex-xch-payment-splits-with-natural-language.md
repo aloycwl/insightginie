@@ -2,7 +2,7 @@
 layout: post
 title: 'SplitXCH Royalty Split Builder: Create Complex XCH Payment Splits with Natural
   Language'
-date: '2026-03-05T10:41:23'
+date: '2026-03-05T02:41:23'
 categories:
 - ai
 - openclaw

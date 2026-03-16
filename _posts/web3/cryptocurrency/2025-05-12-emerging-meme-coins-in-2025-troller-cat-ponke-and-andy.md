@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Emerging Meme Coins in 2025: Troller Cat, Ponke, and ANDY'
-date: '2025-05-12T11:01:01'
+date: '2025-05-12T03:01:01'
 categories:
 - web3
 - cryptocurrency

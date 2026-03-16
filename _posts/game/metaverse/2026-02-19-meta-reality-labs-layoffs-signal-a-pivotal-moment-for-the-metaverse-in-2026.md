@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meta Reality Labs Layoffs Signal a Pivotal Moment for the Metaverse in 2026
-date: '2026-02-19T00:17:55'
+date: '2026-02-18T16:17:55'
 categories:
 - game
 - metaverse

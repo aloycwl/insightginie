@@ -2,7 +2,7 @@
 layout: post
 title: "Robots Are Stealing Your Job (But Don\u2019t Worry, Your Boss Is Just Bad\
   \ at Math)"
-date: '2026-02-11T12:39:36'
+date: '2026-02-11T04:39:36'
 categories:
 - ai
 - ai-agent

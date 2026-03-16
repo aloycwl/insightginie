@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Linea: Empowering the Next Generation of Ethereum with zkEVM Scalability'
-date: '2025-05-01T19:59:24'
+date: '2025-05-01T11:59:24'
 categories:
 - web3
 - network

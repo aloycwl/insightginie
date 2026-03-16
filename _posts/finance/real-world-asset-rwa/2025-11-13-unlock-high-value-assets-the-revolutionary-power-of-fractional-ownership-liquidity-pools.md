@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlock High-Value Assets: The Revolutionary Power of Fractional Ownership
   &#038; Liquidity Pools'
-date: '2025-11-13T10:53:15'
+date: '2025-11-13T02:53:15'
 categories:
 - finance
 - real-world-asset-rwa

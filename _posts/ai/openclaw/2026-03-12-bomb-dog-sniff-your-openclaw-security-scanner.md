@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bomb-Dog-Sniff: Your OpenClaw Security Scanner'
-date: '2026-03-12T00:18:37'
+date: '2026-03-11T16:18:37'
 categories:
 - ai
 - openclaw

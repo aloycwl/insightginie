@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explanation of the PostNitro Carousel Skill by OpenClaw
-date: '2026-03-11T21:45:58'
+date: '2026-03-11T13:45:58'
 categories:
 - ai
 - openclaw

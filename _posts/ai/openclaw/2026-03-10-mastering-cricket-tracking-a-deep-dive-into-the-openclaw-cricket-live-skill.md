@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mastering Cricket Tracking: A Deep Dive into the OpenClaw Cricket Live Skill'
-date: '2026-03-10T06:00:23'
+date: '2026-03-09T22:00:23'
 categories:
 - ai
 - openclaw

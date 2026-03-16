@@ -2,7 +2,7 @@
 layout: post
 title: 'Unlocking the Future: The Revolutionary Science of Hard-Light Constructs &#038;
   Programmable Light Matter'
-date: '2026-01-02T17:43:46'
+date: '2026-01-02T09:43:46'
 categories:
 - tech
 - optical-computing

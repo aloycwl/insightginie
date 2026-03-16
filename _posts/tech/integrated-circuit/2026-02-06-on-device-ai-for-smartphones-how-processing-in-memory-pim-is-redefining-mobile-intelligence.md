@@ -2,7 +2,7 @@
 layout: post
 title: 'On-Device AI for Smartphones: How Processing-in-Memory (PIM) is Redefining
   Mobile Intelligence'
-date: '2026-02-06T12:28:02'
+date: '2026-02-06T04:28:02'
 categories:
 - tech
 - integrated-circuit

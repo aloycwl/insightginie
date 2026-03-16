@@ -2,7 +2,7 @@
 layout: post
 title: 'Quant AI Explained: How Artificial Intelligence is Revolutionizing Quantitative
   Finance'
-date: '2025-10-20T11:38:06'
+date: '2025-10-20T03:38:06'
 categories:
 - trading
 - quantitative-ai

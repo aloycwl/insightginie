@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Master Your Vinyl Collection: A Deep Dive into the OpenClaw Discogs-CLI Skill'
-date: '2026-03-16T05:00:31'
+date: '2026-03-15T21:00:31'
 categories:
 - ai
 - openclaw
