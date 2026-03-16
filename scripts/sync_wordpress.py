@@ -5,7 +5,7 @@ import json
 import re
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime
+from datetime import datetime, UTC
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 POST_DIR = BASE_DIR / "_posts"
@@ -224,21 +224,22 @@ def sync():
 
     state = load_state()
 
-    last_id = state["last_id"]
+    last_sync = state.get("last_sync")
 
     categories = fetch_categories()
 
     page = 1
 
-    max_id = last_id
-
     executor = ThreadPoolExecutor(max_workers=MAX_WORKERS)
 
     while True:
 
-        r = requests.get(
-            f"{POST_API}?per_page={PER_PAGE}&page={page}&_embed"
-        )
+        url = f"{POST_API}?per_page={PER_PAGE}&page={page}&_embed"
+
+        if last_sync:
+            url += f"&after={last_sync}"
+
+        r = requests.get(url)
 
         if r.status_code != 200:
             break
@@ -250,18 +251,11 @@ def sync():
 
         for post in posts:
 
-            pid = post["id"]
-
-            if pid <= last_id:
-                continue
-
             save_post(post, categories, executor)
-
-            max_id = max(max_id, pid)
 
         page += 1
 
-    state["last_id"] = max_id
+    state["last_sync"] = datetime.now(UTC).isoformat()
 
     save_state(state)
 
