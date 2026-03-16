@@ -6,26 +6,30 @@ layout: default
 
 <ul>
 
-{% assign subs = site.posts | where_exp: "post", "post.categories[0] == page.category" %}
+    {% assign subcategories = "" | split: "" %}
 
-{% assign list = "" | split: "" %}
+    {% for post in site.categories[page.category] %}
 
-{% for post in subs %}
-{% if post.categories.size > 1 %}
-{% assign list = list | push: post.categories[1] %}
-{% endif %}
-{% endfor %}
+    {% if post.categories.size > 1 %}
 
-{% assign list = list | uniq %}
+    {% assign sub = post.categories[1] %}
 
-{% for sub in list %}
+    {% unless subcategories contains sub %}
+    {% assign subcategories = subcategories | push: sub %}
+    {% endunless %}
 
-<li>
-<a href="/{{ page.category }}/{{ sub }}/">
-{{ sub | capitalize }}
-</a>
-</li>
+    {% endif %}
 
-{% endfor %}
+    {% endfor %}
+
+    {% for sub in subcategories | sort %}
+
+    <li>
+        <a href="/{{ page.category }}/{{ sub }}/">
+            {{ sub | capitalize }}
+        </a>
+    </li>
+
+    {% endfor %}
 
 </ul>
