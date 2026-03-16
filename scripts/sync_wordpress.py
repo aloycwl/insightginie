@@ -2,44 +2,60 @@ import requests
 import os
 import json
 import subprocess
-import time
 import re
-
-from pathlib import Path
 from urllib.parse import urlparse
+from pathlib import Path
 from markdownify import markdownify as md
 from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime
 
-# CONFIG
 SITE = "https://insightginie.com"
 API = f"{SITE}/wp-json/wp/v2/posts"
 
-POST_DIR = "../posts"
-MEDIA_DIR = "../media/images"
-INDEX_FILE = "../index/posts.json"
-
 PER_PAGE = 100
 THREADS = 10
+
+POST_DIR = "../_posts"
+MEDIA_DIR = "../media/images"
+
+INDEX_FILE = "../index/posts.json"
+SYNC_FILE = "../index/sync.json"
 
 os.makedirs(POST_DIR, exist_ok=True)
 os.makedirs(MEDIA_DIR, exist_ok=True)
 os.makedirs("../index", exist_ok=True)
 
-# load index
 if os.path.exists(INDEX_FILE):
     with open(INDEX_FILE) as f:
         index = json.load(f)
 else:
     index = {}
 
-def fetch_posts():
+def get_last_sync():
+
+    if not os.path.exists(SYNC_FILE):
+        return "2000-01-01T00:00:00"
+
+    with open(SYNC_FILE) as f:
+        return json.load(f)["last_sync"]
+
+
+def save_sync():
+
+    now = datetime.utcnow().isoformat()
+
+    with open(SYNC_FILE, "w") as f:
+        json.dump({"last_sync": now}, f)
+
+
+def fetch_posts(last_sync):
 
     posts = []
     page = 1
 
     while True:
 
-        url = f"{API}?per_page={PER_PAGE}&page={page}"
+        url = f"{API}?per_page={PER_PAGE}&page={page}&modified_after={last_sync}"
 
         r = requests.get(url)
 
@@ -53,8 +69,6 @@ def fetch_posts():
 
         posts.extend(data)
 
-        print("Fetched page", page)
-
         page += 1
 
     return posts
@@ -63,9 +77,9 @@ def fetch_posts():
 def download_image(url):
 
     filename = os.path.basename(urlparse(url).path)
-    filepath = os.path.join(MEDIA_DIR, filename)
+    path = os.path.join(MEDIA_DIR, filename)
 
-    if os.path.exists(filepath):
+    if os.path.exists(path):
         return filename
 
     try:
@@ -74,10 +88,8 @@ def download_image(url):
 
         if r.status_code == 200:
 
-            with open(filepath, "wb") as f:
+            with open(path, "wb") as f:
                 f.write(r.content)
-
-            print("Downloaded", filename)
 
     except:
         pass
@@ -94,9 +106,9 @@ def process_images(content):
 
     with ThreadPoolExecutor(max_workers=THREADS) as executor:
 
-        results = list(executor.map(download_image, urls))
+        filenames = list(executor.map(download_image, urls))
 
-    for url, filename in zip(urls, results):
+    for url, filename in zip(urls, filenames):
 
         content = content.replace(url, f"/media/images/{filename}")
 
@@ -106,6 +118,7 @@ def process_images(content):
 def convert_post(post):
 
     slug = post["slug"]
+
     title = post["title"]["rendered"]
     content = post["content"]["rendered"]
 
@@ -114,41 +127,40 @@ def convert_post(post):
 
     categories = post["categories"]
 
-    # simple fallback
-    category = "uncategorized"
+    category = "general"
     subcategory = ""
 
     if categories:
         category = str(categories[0])
 
-    path = f"{POST_DIR}/{category}/{subcategory}"
-    Path(path).mkdir(parents=True, exist_ok=True)
-
     content = process_images(content)
 
     markdown = md(content)
 
-    final = f"""# {title}
+    folder = f"{POST_DIR}/{category}/{subcategory}"
 
-Original article: {SITE}/{slug}
+    Path(folder).mkdir(parents=True, exist_ok=True)
 
-Published: {date}
+    filename = f"{date[:10]}-{slug}.md"
 
+    frontmatter = f"""---
+layout: post
+title: "{title}"
+date: {date}
+categories: [{category}]
+original_url: {SITE}/{slug}
 ---
 
-{markdown}
-
----
-
-Source: {SITE}/{slug}
 """
 
-    with open(f"{path}/{slug}.md", "w", encoding="utf-8") as f:
+    final = frontmatter + markdown
+
+    with open(f"{folder}/{filename}", "w", encoding="utf-8") as f:
         f.write(final)
 
     index[slug] = modified
 
-    print("Saved", slug)
+    print("saved", slug)
 
 
 def process_post(post):
@@ -176,9 +188,11 @@ def git_commit():
 
 def main():
 
-    posts = fetch_posts()
+    last_sync = get_last_sync()
 
-    print("Total posts:", len(posts))
+    posts = fetch_posts(last_sync)
+
+    print("posts to update:", len(posts))
 
     with ThreadPoolExecutor(max_workers=THREADS) as executor:
 
@@ -186,6 +200,8 @@ def main():
 
     with open(INDEX_FILE, "w") as f:
         json.dump(index, f, indent=2)
+
+    save_sync()
 
     git_commit()
 
