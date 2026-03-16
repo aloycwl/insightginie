@@ -12,156 +12,91 @@ original_url: https://insightginie.com/mastering-risk-investigations-a-step-by-s
 featured_image: /media/images/2505251107.avif
 ---
 
-
 <p>In high-stakes industries such as nuclear power, manufacturing, and chemical processing, <strong>accident prevention and risk management</strong> are critical. The <strong>Management Oversight and Risk Tree (MORT)</strong> provides a structured, analytical method for investigating accidents and identifying their root causes. When paired with <strong>Six Sigma</strong>, MORT becomes a powerful tool for <strong>enhancing operational safety, improving process reliability, and reducing costly incidents</strong>.</p>
-
-
 
 <p>MORT focuses on understanding <strong>why losses occur</strong>, whether due to preventable failures or risks that were assumed but carefully assessed. This article explores the <strong>general approach to MORT analysis</strong>, including its methodology, key steps, and practical applications.</p>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
 
 <h3 class="wp-block-heading">Understanding Accidents and Losses in MORT</h3>
 
-
-
 <p>In MORT terminology, an <strong>accident is defined as an unplanned event that produces harm or damage</strong>, also referred to as losses. Losses happen when a <strong>harmful agent contacts a vulnerable target</strong>, either because:</p>
-
-
 
 <ol class="wp-block-list">
 <li><strong>Preventive measures fail</strong>, or</li>
 
-
-
 <li>It is an <strong>assumed risk</strong> that has been properly evaluated and accepted.</li>
 </ol>
 
-
-
 <p>A core principle of MORT is that <strong>analysis always begins by examining failures</strong>, rather than assumed risks. By focusing on failures first, analysts can uncover gaps in <strong>control systems, protective barriers, planning, design, and policy</strong>.</p>
-
-
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h3 class="wp-block-heading">The Role of Barrier Analysis</h3>
 
-
-
 <p>Before conducting MORT analysis, it is essential to <strong>identify key episodes</strong> in the sequence of events leading to the incident. Each episode can be characterized as:</p>
-
-
 
 <ul class="wp-block-list">
 <li>A <strong>vulnerable target</strong> exposed to</li>
 
-
-
 <li>An <strong>agent of harm</strong> in the</li>
-
-
 
 <li><strong>Absence of adequate barriers</strong></li>
 </ul>
 
-
-
 <p>To identify these episodes, MORT relies on a technique called <strong>Barrier Analysis</strong>, or more formally, <strong>Energy Trace and Barrier Analysis (ETBA)</strong>. Barrier analysis is critical because it <strong>focuses the MORT investigation</strong> on areas with the highest potential for uncovering causal factors.</p>
-
-
 
 <p>Without barrier analysis, applying MORT effectively is challenging—even superficially. By tracing energy flows, hazards, and the protective barriers that failed or succeeded, analysts can pinpoint <strong>where the system or process broke down</strong>.</p>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
 
 <h3 class="wp-block-heading">The MORT Process: A Structured Dialogue</h3>
 
-
-
 <p>MORT analysis is best described as a <strong>dialogue between the MORT questions and the situation under investigation</strong>. The analyst acts as an <strong>interpreter</strong>, translating the generic MORT questions into insights about the real-world incident.</p>
 
-
-
 <p>Key aspects of this process include:</p>
-
-
 
 <ol class="wp-block-list">
 <li><strong>Sequential Questioning</strong>
 <ul class="wp-block-list">
 <li>MORT provides a <strong>predefined sequence of questions</strong> designed to clarify facts surrounding an incident.</li>
 
-
-
 <li>Analysts assess the relevance of each question, answering those pertinent to the situation.</li>
 </ul>
 </li>
-
-
 
 <li><strong>Note-Taking and Color Coding</strong>
 <ul class="wp-block-list">
 <li>Analysts make <strong>brief notes directly on the MORT chart</strong>, summarizing findings and observations.</li>
 
-
-
 <li>A <strong>color-coding system</strong> is commonly used:
 <ul class="wp-block-list">
 <li><strong>Red:</strong> Problem identified</li>
 
-
-
 <li><strong>Green:</strong> Issue satisfactory</li>
-
-
 
 <li><strong>Blue:</strong> Relevant but insufficient information</li>
 </ul>
 </li>
 
-
-
 <li>Irrelevant questions are <strong>crossed out</strong>, showing that they were considered and excluded.</li>
 </ul>
 </li>
 
-
-
 <li><strong>Focused Analysis</strong>
 <ul class="wp-block-list">
 <li>MORT is applied selectively, focusing on episodes where it <strong>adds value to the investigation</strong>.</li>
-
-
 
 <li>One sweep through the MORT chart for a single episode can take about <strong>one hour</strong> for an experienced analyst.</li>
 </ul>
 </li>
 </ol>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
 
 <h3 class="wp-block-heading">Outcomes of a MORT Analysis</h3>
 
-
-
 <p>When applied correctly, MORT provides several tangible benefits:</p>
-
-
 
 <ol class="wp-block-list">
 <li><strong>Creation of New Lines of Enquiry</strong>
@@ -170,15 +105,11 @@ featured_image: /media/images/2505251107.avif
 </ul>
 </li>
 
-
-
 <li><strong>Visibility of Causal Factors</strong>
 <ul class="wp-block-list">
 <li>Causes are <strong>grouped thematically</strong>, making it easier to understand systemic issues in processes, management, and human factors.</li>
 </ul>
 </li>
-
-
 
 <li><strong>Increased Confidence in Investigation Thoroughness</strong>
 <ul class="wp-block-list">
@@ -187,19 +118,11 @@ featured_image: /media/images/2505251107.avif
 </li>
 </ol>
 
-
-
 <p>These outcomes are the result of a <strong>structured, disciplined approach</strong>, rather than intuitive guesswork. MORT ensures that <strong>all critical angles are considered</strong>, minimizing the likelihood of missing key factors.</p>
-
-
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h3 class="wp-block-heading">Best Practices for Using MORT in Six Sigma Initiatives</h3>
-
-
 
 <ol class="wp-block-list">
 <li><strong>Know When to Use It</strong>
@@ -208,15 +131,11 @@ featured_image: /media/images/2505251107.avif
 </ul>
 </li>
 
-
-
 <li><strong>Familiarize Yourself with the Method</strong>
 <ul class="wp-block-list">
 <li>Analysts should <strong>practice on real incidents</strong> to understand the nuances of the MORT questions and logic flow.</li>
 </ul>
 </li>
-
-
 
 <li><strong>Integrate Barrier Analysis</strong>
 <ul class="wp-block-list">
@@ -224,15 +143,11 @@ featured_image: /media/images/2505251107.avif
 </ul>
 </li>
 
-
-
 <li><strong>Document Thoroughly</strong>
 <ul class="wp-block-list">
 <li>Take detailed notes and maintain <strong>color-coded charts</strong> to ensure transparency and facilitate review.</li>
 </ul>
 </li>
-
-
 
 <li><strong>Combine with Six Sigma Tools</strong>
 <ul class="wp-block-list">
@@ -241,22 +156,12 @@ featured_image: /media/images/2505251107.avif
 </li>
 </ol>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
 
 <h3 class="wp-block-heading">Conclusion</h3>
 
-
-
 <p>The <strong>Management Oversight and Risk Tree (MORT)</strong> is more than just a logic diagram; it is a <strong>systematic framework for understanding failures, human factors, and management oversights</strong> that lead to incidents. When combined with <strong>Six Sigma principles</strong>, MORT empowers organizations to <strong>improve safety, strengthen processes, and minimize operational risk</strong>.</p>
 
-
-
 <p>By following a structured approach—beginning with <strong>barrier analysis, sequential questioning, and thorough documentation</strong>—organizations can achieve <strong>deeper insights into incidents</strong>, develop new lines of enquiry, and increase confidence in their investigations. MORT is not just a tool; it is a <strong>philosophy of meticulous, evidence-based risk management</strong> that has proven its value across industries for decades.</p>
-
-
 
 <p></p>

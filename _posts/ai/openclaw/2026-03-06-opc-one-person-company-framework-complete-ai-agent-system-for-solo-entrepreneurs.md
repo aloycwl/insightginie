@@ -9,7 +9,7 @@ original_url: https://insightginie.com/opc-one-person-company-framework-complete
 featured_image: /media/images/111239.avif
 ---
 
-<p>{% raw %}{% endraw %}{% include &#8216;header.html&#8217; %}{% endraw %}</p>
+<p></p>
 <div class="post-content">
 <h2>What is the OPC Framework?</h2>
 <p>The OPC (One-Person Company) Framework is a revolutionary AI-powered system designed specifically for solo entrepreneurs who want to build and scale their businesses without a team. This comprehensive skill stack provides everything you need to go from initial idea to successful execution using intelligent AI agents.</p>
@@ -127,5 +127,5 @@ featured_image: /media/images/111239.avif
 <p>Whether you&#8217;re just starting out or looking to scale your existing solo venture, OPC offers the tools, guidance, and automation needed to succeed in today&#8217;s competitive market. It&#8217;s time to stop thinking about what you can&#8217;t do alone and start building what you can with OPC.</p>
 <p>Ready to transform your solo venture? The OPC Framework is waiting to help you build the business of your dreams.</p>
 </div>
-<p>{% raw %}{% endraw %}{% include &#8216;footer.html&#8217; %}{% endraw %}</p>
+<p></p>
 <p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/tohnee/opc/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/tohnee/opc/SKILL.md</a></p>

@@ -81,8 +81,6 @@ python3 scripts/evoagentx_cli.py create-workflow \
 
 from evoagentx import Agent, Workflow
 
-
-
 class MyWorkflow(Workflow):
 
     async def execute(self, context):
@@ -99,8 +97,6 @@ class MyWorkflow(Workflow):
 <pre>
 
 from evoagentx.evolution import EvolutionEngine
-
-
 
 engine = EvolutionEngine()
 
@@ -130,8 +126,6 @@ optimized_workflow = await engine.evolve(
 # Start with basic research workflow
 
 workflow = ResearchWorkflow()
-
-
 
 # Evolve for better results
 

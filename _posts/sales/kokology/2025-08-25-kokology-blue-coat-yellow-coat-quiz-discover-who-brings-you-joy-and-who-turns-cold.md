@@ -10,22 +10,13 @@ original_url: https://insightginie.com/kokology-blue-coat-yellow-coat-quiz-disco
 featured_image: /media/images/251425.avif
 ---
 
-
 <h3 class="wp-block-heading"><strong>Quiz Question</strong></h3>
-
-
 
 <p>On a cold Christmas night, you decide to watch the lightings with a group. One person is wearing a <strong>blue coat</strong>, another is wearing a <strong>yellow coat</strong>.<br>Who are these people you know?</p>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h3 class="wp-block-heading"><strong>Answer Guide &amp; Reasoning</strong></h3>
-
-
 
 <ol class="wp-block-list">
 <li><strong>Answer:</strong> Blue coat is someone who gives you the cold shoulder
@@ -33,8 +24,6 @@ featured_image: /media/images/251425.avif
 <li><strong>Reasoning:</strong> The blue coat symbolizes distance and indifference. This person represents someone in your life who may ignore, reject, or show little warmth toward you.</li>
 </ul>
 </li>
-
-
 
 <li><strong>Answer:</strong> Yellow coat is someone you feel happy about
 <ul class="wp-block-list">

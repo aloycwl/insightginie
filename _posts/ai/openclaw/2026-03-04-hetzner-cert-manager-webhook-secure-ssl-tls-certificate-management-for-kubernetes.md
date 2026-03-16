@@ -9,7 +9,7 @@ original_url: https://insightginie.com/hetzner-cert-manager-webhook-secure-ssl-t
 featured_image: /media/images/111238.avif
 ---
 
-<p>{% raw %}{% endraw %}{% include &#8216;header.html&#8217; %}{% endraw %}</p>
+<p></p>
 <div class="entry-content">
 <h2>What is Hetzner Cert-Manager Webhook?</h2>
 <p>Hetzner Cert-Manager Webhook is a specialized Kubernetes component that automates the management of SSL/TLS certificates for services hosted on Hetzner Cloud. It acts as a bridge between cert-manager (a popular Kubernetes certificate management controller) and Hetzner’s DNS API, enabling automatic certificate issuance and renewal through DNS-01 challenges.</p>
@@ -183,6 +183,6 @@ featured_image: /media/images/111238.avif
 <li>Kubernetes security best practices</li>
 <li>Community forums and support channels</li>
 </ul>
-<p>{% raw %}{% endraw %}{% include &#8216;footer.html&#8217; %}{% endraw %}
+<p>
 </p></div>
 <p>Skill can be found at: <a href="https://github.com/hetzner">https://github.com/hetzner</a></p>

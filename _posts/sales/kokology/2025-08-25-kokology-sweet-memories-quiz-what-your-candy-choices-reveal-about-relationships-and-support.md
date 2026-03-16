@@ -10,40 +10,23 @@ original_url: https://insightginie.com/kokology-sweet-memories-quiz-what-your-ca
 featured_image: /media/images/251855.avif
 ---
 
-
 <h3 class="wp-block-heading"><strong>Quiz Questions</strong></h3>
 
-
-
 <p>Go back to an old sweet shop you remembered.</p>
-
-
 
 <ol class="wp-block-list">
 <li>What candy will you pick first, and why?</li>
 
-
-
 <li>How many children entered the sweet shop?</li>
 
-
-
 <li>The shopkeeper gave you how many extra sweets?</li>
-
-
 
 <li>You are giving the candy to someone—who is it?</li>
 </ol>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h3 class="wp-block-heading"><strong>Answer Guide &amp; Reasoning</strong></h3>
-
-
 
 <ol class="wp-block-list">
 <li><strong>Answer:</strong> The reason is how you judge who you want to mix with
@@ -52,23 +35,17 @@ featured_image: /media/images/251855.avif
 </ul>
 </li>
 
-
-
 <li><strong>Answer:</strong> How many people need your support
 <ul class="wp-block-list">
 <li><strong>Reasoning:</strong> The number of children who walk into the sweet shop symbolizes how many people in your life look to you for guidance, care, or emotional support.</li>
 </ul>
 </li>
 
-
-
 <li><strong>Answer:</strong> How much you still depend on your mum
 <ul class="wp-block-list">
 <li><strong>Reasoning:</strong> The extra sweets given by the shopkeeper reflect your subconscious relationship with maternal care and how much you continue to rely on your mother’s love or support in adulthood.</li>
 </ul>
 </li>
-
-
 
 <li><strong>Answer:</strong> Who is this special person
 <ul class="wp-block-list">

@@ -1,112 +1,45 @@
 import os
-import yaml
-from collections import defaultdict
-from pathlib import Path
+import re
 
 POST_DIR = "../_posts"
-CATEGORY_DIR = "../categories"
-SUBCATEGORY_DIR = "../subcategories"
-
-Path(CATEGORY_DIR).mkdir(exist_ok=True)
-Path(SUBCATEGORY_DIR).mkdir(exist_ok=True)
-
-categories = defaultdict(set)
 
 
-def extract_frontmatter(path):
+def fix_file(path):
 
     with open(path, "r", encoding="utf-8") as f:
-        text = f.read()
+        content = f.read()
 
-    if not text.startswith("---"):
-        return None
+    original = content
 
-    parts = text.split("---")
+    # remove raw blocks
+    content = content.replace("{% raw %}", "")
+    content = content.replace("{% endraw %}", "")
 
-    if len(parts) < 3:
-        return None
+    # remove remaining liquid tags
+    content = re.sub(r"\{%.+?%\}", "", content)
 
-    return yaml.safe_load(parts[1])
+    # remove double blank lines
+    content = re.sub(r"\n{3,}", "\n\n", content)
+
+    if content != original:
+
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(content)
+
+        print("fixed:", path)
 
 
-def scan_posts():
+def main():
 
     for root, dirs, files in os.walk(POST_DIR):
 
         for file in files:
 
-            if not file.endswith(".md"):
-                continue
+            if file.endswith(".md"):
 
-            path = os.path.join(root, file)
+                path = os.path.join(root, file)
 
-            fm = extract_frontmatter(path)
-
-            if not fm:
-                continue
-
-            cats = fm.get("categories", [])
-
-            if not cats:
-                continue
-
-            main = cats[0]
-
-            if len(cats) > 1:
-                sub = cats[1]
-                categories[main].add(sub)
-            else:
-                categories[main]
-
-
-def create_category_pages():
-
-    for main in categories:
-
-        path = os.path.join(CATEGORY_DIR, f"{main}.md")
-
-        content = f"""---
-layout: category
-category: {main}
-permalink: /{main}/
-title: {main.capitalize()}
----
-"""
-
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(content)
-
-
-def create_subcategory_pages():
-
-    for main, subs in categories.items():
-
-        for sub in subs:
-
-            path = os.path.join(SUBCATEGORY_DIR, f"{main}-{sub}.md")
-
-            content = f"""---
-layout: subcategory
-category: {main}
-subcategory: {sub}
-permalink: /{main}/{sub}/
-title: {sub.capitalize()}
----
-"""
-
-            with open(path, "w", encoding="utf-8") as f:
-                f.write(content)
-
-
-def main():
-
-    scan_posts()
-
-    create_category_pages()
-
-    create_subcategory_pages()
-
-    print("Category pages generated")
+                fix_file(path)
 
 
 if __name__ == "__main__":

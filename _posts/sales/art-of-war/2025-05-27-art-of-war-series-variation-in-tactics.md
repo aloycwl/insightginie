@@ -9,79 +9,44 @@ original_url: https://insightginie.com/art-of-war-series-variation-in-tactics/
 featured_image: /media/images/2505271417.avif
 ---
 
-
 <ol start="1" class="wp-block-list">
 <li>Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces</li>
 
-
-
 <li>When in a difficult country, do not encamp. In a country where high roads intersect, join hands with your allies. Do not linger in dangerously isolated positions. In hemmed-in situations, you must resort to stratagem. In a desperate position, you must fight.</li>
-
-
 
 <li>There are roads which must not be followed, armies which must not be attacked, towns which must be besieged, positions which must not be contested, commands of the sovereign which must not be obeyed.</li>
 
-
-
 <li>The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops.</li>
-
-
 
 <li>The general who does not understand these, may be well acquainted with the configuration of the country, yet he will not be able to turn his knowledge to practical account.</li>
 
-
-
 <li>So, the student of war who is unversed in the art of war of varying his plans, even though he is acquainted with the Five Advantages, will fail to make the best use of his men.</li>
-
-
 
 <li>Hence in the wise leader’s plans, considerations of advantage and of disadvantage will be blended together.</li>
 
-
-
 <li>If our expectation of advantage is tempered in this way, we may succeed in accomplishing the essential part of our schemes.</li>
-
-
 
 <li>If, on the other hand, in the midst of difficulties we are always ready to seize an advantage, we may extricate ourselves from misfortune.</li>
 
-
-
 <li>Reduce the hostile chiefs by inflicting damage on them; and make trouble for them, and keep them constantly engaged; hold out specious allurements, and make them rush to any given point.</li>
 
-
-
 <li>The art of war teaches us to rely not on the likelihood of the enemy not coming, but on our own readiness to receive him; not on the chance of his not attacking, but rather on the fact that we have made our position unassailable.</li>
-
-
 
 <li>There are five dangerous faults which may affect a general
 <ol class="wp-block-list">
 <li>Recklessness, which leads to destruction;</li>
 
-
-
 <li>Cowardice, which leads to capture;</li>
-
-
 
 <li>A hasty temper, which can be provoked by insults;</li>
 
-
-
 <li>A delicacy of honour which is sensitive to shame;</li>
-
-
 
 <li>Over-solicitude for his men, which exposes him to worry and trouble.</li>
 </ol>
 </li>
 
-
-
 <li>These are the five besetting sins of a general, ruinous to the conduct of war.</li>
-
-
 
 <li>When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults. Let them be a subject of meditation.</li>
 </ol>

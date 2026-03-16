@@ -10,22 +10,13 @@ original_url: https://insightginie.com/kokology-the-forgotten-wallet-quiz-what-y
 featured_image: /media/images/251421.avif
 ---
 
-
 <h3 class="wp-block-heading"><strong>Quiz Question</strong></h3>
-
-
 
 <p>You have everything ready and leave your house. Halfway, you realize you forgot your wallet. After searching everywhere around you, how much money can you find?</p>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h3 class="wp-block-heading"><strong>Answer Guide &amp; Reasoning</strong></h3>
-
-
 
 <ol class="wp-block-list">
 <li><strong>Answer:</strong> The amount you are willing to lend your friend

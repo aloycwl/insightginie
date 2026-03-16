@@ -9,483 +9,254 @@ original_url: https://insightginie.com/85-ai-terms-explained/
 featured_image: /media/images/2505260951.avif
 ---
 
-
 <h2 class="wp-block-heading"><strong>Artificial Intelligence (AI)</strong></h2>
-
-
 
 <p>Systems that perform tasks typically requiring human cognition: reasoning, learning, perception, decision-making.</p>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
 
 <h2 class="wp-block-heading"><strong>Machine Learning (ML)</strong></h2>
 
-
-
 <p>AI subset where systems learn patterns from data rather than following explicit programmed rules.</p>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
 
 <h2 class="wp-block-heading"><strong>Deep Learning (DL)</strong></h2>
 
-
-
 <p>Using multi-layered neural networks to learn hierarchical representations from large datasets.</p>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
 
 <h2 class="wp-block-heading"><strong>Neural Network</strong></h2>
 
-
-
 <p>Computational model using interconnected nodes (neurons) organized in layers to process information.</p>
-
-
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>Learning Paradigms</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>Supervised Learning</strong><br>Training on labeled data where inputs are paired with correct outputs.</li>
 
-
-
 <li><strong>Unsupervised Learning</strong><br>Training on unlabeled data to discover hidden patterns or structures.</li>
-
-
 
 <li><strong>Reinforcement Learning (RL)</strong><br>Learning through trial and error, optimizing actions based on rewards and penalties.</li>
 
-
-
 <li><strong>Self-Supervised Learning</strong><br>Model generates labels from the data itself.</li>
-
-
 
 <li><strong>Transfer Learning</strong><br>Applying knowledge from one task/domain to another.</li>
 
-
-
 <li><strong>Fine-Tuning</strong><br>Adapting a pre-trained model to a specific task.</li>
 
-
-
 <li><strong>Zero-Shot Learning</strong><br>Performing tasks without task-specific training data.</li>
-
-
 
 <li><strong>Few-Shot Learning</strong><br>Learning from a very small number of examples.</li>
 </ul>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>Model Architecture &amp; Training</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>Transformer</strong><br>Architecture using self-attention mechanisms; foundation of modern LLMs.</li>
 
-
-
 <li><strong>Large Language Model (LLM)</strong><br>Neural network trained on massive text data to understand and generate language.</li>
-
-
 
 <li><strong>Foundation Model</strong><br>Large model trained on broad data adaptable to many downstream tasks.</li>
 
-
-
 <li><strong>Parameters</strong><br>Learnable weights in a model.</li>
-
-
 
 <li><strong>Pretraining</strong><br>Training on large datasets before task-specific training.</li>
 
-
-
 <li><strong>Fine-Tuning (Training Phase)</strong><br>Adjusting model parameters for a specific task.</li>
-
-
 
 <li><strong>Training Data</strong><br>Dataset used to teach a model.</li>
 
-
-
 <li><strong>Epoch</strong><br>One complete pass through the training dataset.</li>
-
-
 
 <li><strong>Batch Size</strong><br>Number of samples processed before updating parameters.</li>
 
-
-
 <li><strong>Loss Function</strong><br>Measures how far predictions are from actual values.</li>
 
-
-
 <li><strong>Gradient Descent</strong><br>Optimization algorithm to minimize loss.</li>
-
-
 
 <li><strong>Backpropagation</strong><br>Algorithm for computing gradients through the network.</li>
 </ul>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>Generative AI</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>Generative AI</strong><br>AI that creates new content (text, images, audio, video, code).</li>
 
-
-
 <li><strong>Prompt</strong><br>Input or instruction given to a generative model.</li>
-
-
 
 <li><strong>Token</strong><br>Basic unit of text processing (word or sub-word).</li>
 
-
-
 <li><strong>Context Window</strong><br>Amount of text a model can process at once.</li>
-
-
 
 <li><strong>Temperature</strong><br>Controls randomness of output.</li>
 
-
-
 <li><strong>Inference</strong><br>Using a trained model to generate predictions.</li>
 
-
-
 <li><strong>Diffusion Models</strong><br>Generate content by reversing noise processes.</li>
-
-
 
 <li><strong>Autoregressive Model</strong><br>Generates output sequentially based on previous tokens.</li>
 </ul>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>AI Agents &amp; Systems</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>AI Agent</strong><br>System that perceives environment, reasons, and acts autonomously.</li>
 
-
-
 <li><strong>Agentic AI</strong><br>AI capable of multi-step planning and tool use.</li>
-
-
 
 <li><strong>Tool Use</strong><br>AI calling APIs or services to complete tasks.</li>
 
-
-
 <li><strong>Chain-of-Thought (CoT) Prompting</strong><br>Technique encouraging step-by-step reasoning.</li>
 
-
-
 <li><strong>RAG (Retrieval-Augmented Generation)</strong><br>Combining external knowledge retrieval with generation.</li>
-
-
 
 <li><strong>MCP (Model Context Protocol)</strong><br>Open standard for connecting AI models to external tools and data.</li>
 </ul>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>NLP &amp; Language</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>Natural Language Processing (NLP)</strong><br>AI focused on understanding and generating human language.</li>
 
-
-
 <li><strong>Embeddings</strong><br>Dense vector representations of text meaning.</li>
-
-
 
 <li><strong>Semantic Search</strong><br>Search based on meaning rather than keywords.</li>
 
-
-
 <li><strong>Tokenization</strong><br>Splitting text into tokens.</li>
 
-
-
 <li><strong>Attention Mechanism</strong><br>Allows models to focus on relevant parts of input.</li>
-
-
 
 <li><strong>RLHF (Reinforcement Learning from Human Feedback)</strong><br>Training models using human preferences.</li>
 </ul>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>Vision &amp; Multimodal</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>Computer Vision</strong><br>AI that interprets visual information.</li>
 
-
-
 <li><strong>Multimodal AI</strong><br>Models that process multiple data types (text, image, audio).</li>
-
-
 
 <li><strong>OCR (Optical Character Recognition)</strong><br>Extracting machine-readable text from images.</li>
 
-
-
 <li><strong>Image Segmentation</strong><br>Partitioning images into regions.</li>
-
-
 
 <li><strong>Object Detection</strong><br>Identifying and locating objects in images.</li>
 </ul>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>Model Behavior &amp; Problems</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>Hallucination</strong><br>Model generates plausible but false information.</li>
 
-
-
 <li><strong>Overfitting</strong><br>Model memorizes training data, performs poorly on new data.</li>
-
-
 
 <li><strong>Underfitting</strong><br>Model too simple to capture patterns.</li>
 
-
-
 <li><strong>Bias</strong><br>Systematic errors or unfair outcomes.</li>
-
-
 
 <li><strong>Alignment</strong><br>Ensuring AI behavior matches human values.</li>
 
-
-
 <li><strong>Jailbreaking</strong><br>Attempting to bypass model safety constraints.</li>
-
-
 
 <li><strong>Prompt Injection</strong><br>Manipulating inputs to alter model behavior.</li>
 </ul>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>Evaluation &amp; Metrics</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>Benchmark</strong><br>Standardized test for model performance.</li>
 
-
-
 <li><strong>Accuracy</strong><br>Proportion of correct predictions.</li>
-
-
 
 <li><strong>Precision</strong><br>Proportion of correct positive predictions.</li>
 
-
-
 <li><strong>Recall</strong><br>Proportion of actual positives identified.</li>
-
-
 
 <li><strong>F1 Score</strong><br>Harmonic mean of precision and recall.</li>
 
-
-
 <li><strong>Perplexity</strong><br>Measure of language model quality (lower is better).</li>
 
-
-
 <li><strong>BLEU Score</strong><br>Metric for evaluating generated text.</li>
-
-
 
 <li><strong>Ground Truth</strong><br>Correct reference data.</li>
 </ul>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>Safety &amp; Ethics</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>Explainable AI (XAI)</strong><br>Making AI decisions interpretable.</li>
 
-
-
 <li><strong>Red Teaming</strong><br>Adversarial testing to find vulnerabilities.</li>
-
-
 
 <li><strong>Constitutional AI</strong><br>Training guided by principles instead of labels.</li>
 
-
-
 <li><strong>Guardrails</strong><br>Constraints preventing harmful outputs.</li>
 
-
-
 <li><strong>Data Privacy</strong><br>Protecting personal information.</li>
-
-
 
 <li><strong>Model Card</strong><br>Documentation describing model capabilities and limitations.</li>
 </ul>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>Infrastructure &amp; Deployment</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>API</strong><br>Interface allowing software to interact with AI models.</li>
 
-
-
 <li><strong>Latency</strong><br>Delay between input and output.</li>
-
-
 
 <li><strong>Throughput</strong><br>Number of requests processed per unit time.</li>
 
-
-
 <li><strong>GPU</strong><br>Hardware optimized for parallel computation.</li>
-
-
 
 <li><strong>TPU</strong><br>Google-designed AI accelerator.</li>
 
-
-
 <li><strong>Quantization</strong><br>Reducing numerical precision to save resources.</li>
 
-
-
 <li><strong>Distillation</strong><br>Training smaller models from larger ones.</li>
-
-
 
 <li><strong>Edge AI</strong><br>Running models on devices instead of cloud servers.</li>
 </ul>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h2 class="wp-block-heading"><strong>Advanced Concepts</strong></h2>
-
-
 
 <ul class="wp-block-list">
 <li><strong>Latent Space</strong><br>Compressed representation space of data.</li>
 
-
-
 <li><strong>Emergent Abilities</strong><br>Capabilities appearing at scale.</li>
-
-
 
 <li><strong>Scaling Laws</strong><br>Relationships between model size, data, and performance.</li>
 
-
-
 <li><strong>In-Context Learning</strong><br>Learning from examples in the prompt.</li>
-
-
 
 <li><strong>Synthetic Data</strong><br>Artificially generated training data.</li>
 
-
-
 <li><strong>Mixture of Experts (MoE)</strong><br>Architecture routing inputs to specialized sub-models.</li>
 
-
-
 <li><strong>AGI (Artificial General Intelligence)</strong><br>Hypothetical AI matching human intelligence across tasks.</li>
-
-
 
 <li><strong>ASI (Artificial Superintelligence)</strong><br>AI surpassing human intelligence in all areas.</li>
 </ul>

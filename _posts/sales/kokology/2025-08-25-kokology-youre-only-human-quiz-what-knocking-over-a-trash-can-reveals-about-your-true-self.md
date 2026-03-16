@@ -10,40 +10,23 @@ original_url: https://insightginie.com/kokology-youre-only-human-quiz-what-knock
 featured_image: /media/images/251900.avif
 ---
 
-
 <h3 class="wp-block-heading"><strong>Quiz Questions</strong></h3>
 
-
-
 <p>You accidentally knock down a garbage can. What spills out?</p>
-
-
 
 <ol class="wp-block-list">
 <li>Nothing</li>
 
-
-
 <li>Loose trash</li>
 
-
-
 <li>Apple cores, chicken bones, and other raw garbage</li>
-
-
 
 <li>A well-tied black plastic garbage bag</li>
 </ol>
 
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
-
-
 <h3 class="wp-block-heading"><strong>Answer Guide &amp; Reasoning</strong></h3>
-
-
 
 <ol class="wp-block-list">
 <li><strong>Answer:</strong> You are simple and honest
@@ -52,23 +35,17 @@ featured_image: /media/images/251900.avif
 </ul>
 </li>
 
-
-
 <li><strong>Answer:</strong> You are complicated and holding back some things from saying
 <ul class="wp-block-list">
 <li><strong>Reasoning:</strong> Loose trash spilling represents emotions or thoughts that aren’t fully contained—you often keep things inside but sometimes they slip out.</li>
 </ul>
 </li>
 
-
-
 <li><strong>Answer:</strong> You are on diet, saving money, or lose appetite
 <ul class="wp-block-list">
 <li><strong>Reasoning:</strong> Raw garbage like apple cores and chicken bones indicates self-restraint or sacrifice—whether for health, financial discipline, or lack of emotional appetite.</li>
 </ul>
 </li>
-
-
 
 <li><strong>Answer:</strong> You have self-control and hold back a lot of your feelings
 <ul class="wp-block-list">

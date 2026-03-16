@@ -9,7 +9,7 @@ original_url: https://insightginie.com/conventional-commits-the-standard-for-str
 featured_image: /media/images/111234.avif
 ---
 
-<p>{% raw %}{% endraw %}{% raw %}{% endraw %}</p>
+<p></p>
 <h2>What Are Conventional Commits?</h2>
 <p>Conventional Commits is a lightweight convention on top of commit messages that provides an easy set of rules for creating clear, consistent commit histories. It introduces a structured format that makes commit messages more readable for both humans and machines.</p>
 <p>The specification was created to solve common problems in software development workflows, particularly around understanding what changes were made and why. By following a simple pattern, teams can create commit histories that are immediately understandable and actionable.</p>
@@ -126,5 +126,5 @@ featured_image: /media/images/111234.avif
 <p>Conventional Commits represents a simple yet powerful improvement to software development workflows. By providing a clear, consistent format for commit messages, it enables better communication, powerful automation, and improved project maintainability.</p>
 <p>The investment in adopting Conventional Commits pays dividends through reduced cognitive load, improved automation capabilities, and better team collaboration. Whether you&#8217;re working on a small personal project or a large enterprise application, the structured approach to commit messages can significantly improve your development workflow.</p>
 <p>The key to success is starting small, demonstrating value, and gradually building adoption across your team. With the right tools and commitment to consistency, Conventional Commits can transform how your team communicates through code changes and manages project evolution.</p>
-<p>{% raw %}{% endraw %}{% endraw %}{% endraw %}</p>
+<p></p>
 <p>Skill can be found at: <a href="https://github.com/conventional-commits">https://github.com/conventional-commits</a></p>

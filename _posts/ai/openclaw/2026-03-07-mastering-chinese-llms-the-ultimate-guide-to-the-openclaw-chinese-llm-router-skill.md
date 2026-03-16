@@ -100,7 +100,6 @@ featured_image: /media/images/8142.jpg
 <p>The skill uses a straightforward configuration system that reads from either environment variables or a local config file. The settings formatted as follows:</p>
 <pre><code//pre><
 
-
 <p>For each provider, you'll need to specify:</p>
 <ul>
 <li>API keys (obtained from each provider's platform)</li>
