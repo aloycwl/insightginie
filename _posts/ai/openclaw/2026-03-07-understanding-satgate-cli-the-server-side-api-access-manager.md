@@ -1,13 +1,129 @@
 ---
 layout: post
 title: 'Understanding SatGate CLI: The Server-Side API Access Manager'
-date: 2026-03-07 07:17:19
+date: '2026-03-07T07:17:19'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/understanding-satgate-cli-the-server-side-api-access-manager
+original_url: https://insightginie.com/understanding-satgate-cli-the-server-side-api-access-manager/
+featured_image: /media/images/8160.jpg
 ---
 
+<h2>What is SatGate CLI?</h2>
+<p>SatGate CLI is a command-line interface tool designed to manage API access, budgets, and monetization for the agent economy. Think of it as the server-side counterpart to client tools like lnget &#8211; they&#8217;re the wallet, and we&#8217;re the register. This tool allows operators to control what agents can access and how much they can spend, providing a comprehensive solution for API access management.</p>
+<h2>Core Purpose and Architecture</h2>
+<p>SatGate CLI serves as the economic firewall for your APIs, enabling you to mint tokens, track spending, revoke agents, and enforce budgets. It&#8217;s specifically designed for the server side of agent commerce, handling enforcement, attribution, and governance of API access.</p>
+<p>The tool operates in two primary deployment modes:</p>
+<ol>
+<li><strong>Self-hosted gateway</strong>: For organizations running their own SatGate instances locally</li>
+<li><strong>SatGate Cloud</strong>: For those using the managed cloud service</li>
+</ol>
+<h2>Installation and Setup</h2>
+<p>Setting up SatGate CLI is straightforward. The tool automatically runs a configuration script if no configuration file exists at ~/.satgate/config.yaml. Alternatively, you can set environment variables to configure your connection:</p>
+<pre><code class="language-bash"># For self-hosted gateway
+export SATGATE_GATEWAY=http://localhost:9090
+export SATGATE_ADMIN_TOKEN=sgk_your_token
 
+# For SatGate Cloud
+export SATGATE_SURFACE=cloud
+export SATGATE_GATEWAY=https://satgate-gateway.fly.dev
+export SATGATE_BEARER_TOKEN=sg_your_api_key
+export SATGATE_TENANT=your-tenant-slug
+</code></pre>
+<p>Always run <code>satgate status</code> first to confirm you&#8217;re targeting the right gateway before performing any operations.</p>
+<h2>Safety Rules and Best Practices</h2>
+<p>SatGate CLI implements several safety rules to prevent accidental damage:</p>
+<ul>
+<li>Always check the target first with <code>satgate status</code> before any operation</li>
+<li>Use <code>--dry-run</code> on destructive operations like <code>revoke</code> or <code>mint</code> with large budgets</li>
+<li>Never use <code>--yes</code> without explicit user approval</li>
+<li>Remember that revocation is irreversible &#8211; always confirm token name before revoking</li>
+</ol>
+<h2>Core Commands and Functionality</h2>
+<h3>Gateway Health Checks</h3>
+<p>Before performing any operations, you can check the gateway&#8217;s health:</p>
+<pre><code class="language-bash">satgate status        # Full status (version, surface, uptime)
+satgate ping          # Quick liveness check (exit 0/1)
+</code></pre>
+<h3>Token Management</h3>
+<p>Creating tokens for agents is a fundamental operation:</p>
+<pre><code class="language-bash"># Interactive token creation
+satgate mint
 
-What is SatGate CLI?
+# Non-interactive token creation
+satgate mint --agent "my-bot" --budget 500 --expiry 30d --routes "/api/openai/*"
+
+# Creating child tokens with delegation
+satgate mint --agent "child-bot" --budget 100 --parent "parent-token-id"
+
+# Preview without executing
+satgate mint --agent "my-bot" --budget 500 --dry-run
+</code></pre>
+<h3>Spending Analysis</h3>
+<p>Monitoring agent spending is crucial for budget management:</p>
+<pre><code class="language-bash">satgate spend                    # Org-wide cost center rollups
+satgate spend --agent "cs-bot"   # Per-agent breakdown
+satgate spend --period 7d        # Time-scoped analysis
+</code></pre>
+<h3>Token Inspection</h3>
+<p>Managing existing tokens requires visibility:</p>
+<pre><code class="language-bash">satgate tokens        # All tokens with status, spend, budget
+satgate token &lt;id&gt;   # Detail: scope, delegation chain, spend
+</code></pre>
+<h3>Agent Revocation</h3>
+<p>When agents need to be removed:</p>
+<pre><code class="language-bash">satgate revoke &lt;token-id&gt;          # Interactive confirmation
+satgate revoke &lt;token-id&gt; --dry-run  # Preview only
+</code></pre>
+<h3>Security Monitoring</h3>
+<p>Keeping track of security threats:</p>
+<pre><code class="language-bash">satgate report threats  # Blocked requests, anomalies
+</code></pre>
+<h3>Policy Management</h3>
+<p>Checking current policy modes:</p>
+<pre><code class="language-bash">satgate mode  # Current mode per route (read-only)
+</code></pre>
+<h2>Common Workflows</h2>
+<p>Here are some typical scenarios you might encounter:</p>
+<ol>
+<li><strong>New agent needs API access</strong>: <code>satgate mint --agent "agent-name" --budget 500 --routes "/api/openai/*"</code></li>
+<li><strong>How much are agents spending?</strong>: <code>satgate spend</code></li>
+<li><strong>Agent is misbehaving</strong>: <code>satgate revoke &lt;token-id&gt;</code></li>
+<li><strong>Board wants AI spend report</strong>: <code>satgate spend --json &gt; report.json</code></li>
+<li><strong>Is the gateway healthy?</strong>: <code>satgate ping</code></li>
+</ol>
+<h2>Output Formats and Integration</h2>
+<p>All commands support JSON output for machine-readable integration:</p>
+<pre><code class="language-bash">satgate tokens --json | jq '.[] | select(.status == "active")'
+satgate spend --json > monthly-report.json
+</code></pre>
+<h2>Pairing with lnget</h2>
+<p>SatGate CLI works in conjunction with lnget to create a complete agent commerce stack:</p>
+<ul>
+<li><strong>lnget</strong>: Agents pay for L402-gated APIs automatically</li>
+<li><strong>SatGate CLI</strong>: Operators mint tokens, set budgets, revoke access, view spend</li>
+</ul>
+<p>When an agent using lnget hits your SatGate-protected endpoint, SatGate enforces the budget and attributes the cost, which you can then view in <code>satgate spend</code>.</p>
+<p>To install lnget, use: <code>claude plugin marketplace add lightninglabs/lightning-agent-tools</code></p>
+<h2>Real-World Use Cases</h2>
+<p>SatGate CLI enables several practical scenarios:</p>
+<ol>
+<li><strong>API Monetization</strong>: Charge agents for API access based on usage</li>
+<li><strong>Budget Enforcement</strong>: Prevent runaway costs by setting spending limits</li>
+<li><strong>Access Control</strong>: Granular control over which agents can access which endpoints</li>
+<li><strong>Compliance</strong>: Track and report on AI agent spending for regulatory purposes</li>
+<li><strong>Security</strong>: Quickly revoke access to compromised agents</li>
+</ol>
+<h2>Advanced Features</h2>
+<p>Beyond basic functionality, SatGate CLI offers advanced capabilities:</p>
+<ul>
+<li><strong>Delegation</strong>: Create hierarchical token structures with parent-child relationships</li>
+<li><strong>Route-based Policies</strong>: Different policies for different API endpoints</li>
+<li><strong>Time-based Expiry</strong>: Automatic token expiration for temporary access</li>
+<li><strong>JSON Output</strong>: Programmatic integration with other tools and scripts</li>
+<li><strong>Dry-run Mode</strong>: Safe testing of operations before execution</li>
+</ul>
+<h2>Conclusion</h2>
+<p>SatGate CLI is an essential tool for organizations managing API access in the agent economy. By providing comprehensive token management, budget enforcement, and spending analytics, it enables secure and controlled API monetization. Whether you&#8217;re running a self-hosted gateway or using SatGate Cloud, the CLI provides the command-line power needed to manage your API&#8217;s economic firewall effectively.</p>
+<p>The combination of SatGate CLI with client-side tools like lnget creates a complete ecosystem for agent commerce, allowing organizations to securely monetize their APIs while providing agents with seamless payment experiences. As the agent economy continues to grow, tools like SatGate CLI will become increasingly important for managing the complex relationships between API providers and AI agents.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/matt-dean-git/satgate/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/matt-dean-git/satgate/SKILL.md</a></p>

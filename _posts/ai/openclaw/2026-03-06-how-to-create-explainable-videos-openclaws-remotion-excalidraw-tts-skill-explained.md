@@ -2,15 +2,39 @@
 layout: post
 title: 'How to Create Explainable Videos: OpenClaw&#8217;s Remotion-Excalidraw-TTS
   Skill Explained'
-date: 2026-03-06 19:45:45
+date: '2026-03-06T19:45:45'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/how-to-create-explainable-videos-openclaws-remotion-excalidraw-tts-skill-explained
+original_url: https://insightginie.com/how-to-create-explainable-videos-openclaws-remotion-excalidraw-tts-skill-explained/
+featured_image: /media/images/8155.jpg
 ---
 
-
-
-In the ever-evolving landscape of digital content creation, tools that allow users to transform static diagrams into dynamic explainer videos are becoming increasingly popular. OpenClaw's [remotion-excalidraw-tts skill](https://github.com/openclaw/skills/blob/main/skills/jack4world/remotion-excalidraw-tts/SKILL.md) is one such tool that bridges the gap between illustration and animation, providing a seamless way to create narrated videos from [Excalidraw](https://excalidraw.com/) diagrams.
-
-Gist of the Skill
+<p>In the ever-evolving landscape of digital content creation, tools that allow users to transform static diagrams into dynamic explainer videos are becoming increasingly popular. OpenClaw&#8217;s <a href="https://github.com/openclaw/skills/blob/main/skills/jack4world/remotion-excalidraw-tts/SKILL.md">remotion-excalidraw-tts skill</a> is one such tool that bridges the gap between illustration and animation, providing a seamless way to create narrated videos from <a href="https://excalidraw.com/">Excalidraw</a> diagrams.</p>
+<h2 id="gist-of-the-skill">Gist of the Skill</h2>
+<p>This skill automates the process of generating a professional-quality explainer video from an Excalidraw diagram and a plaintext voiceover script. The output is an MP4 video rendered directly from the diagram with voiceover synthesized using local text-to-speech tools or cloud-based services. Incorporating Remotion&#8217;s rendering capabilities, this toolchain can produce polished results for explanatory content.</p>
+<h2 id="tools-integrated">Tools Integrated</h2>
+<p>The remotion-excalidraw-tts skill integrates several key components to streamline explainer video creation:</p>
+<ol>
+<li><a href="https://www.remotion.dev/">Remotion</a>: A powerful React-based framework for compositing video graphics programmatically.</li>
+<li><a href="https://excalidraw.com/">Excalidraw</a>: A digital whiteboard application that outputs collaborative sketches in a JSON format.</li>
+<li><strong>Text-to-Speech:</strong>
+<ul>
+<li><strong>Local macOS</strong>: Utilizes macOS&#8217;s built-in <code>say</code> command for offline TTS conversion.</li>
+<li><strong>OpenAI</strong>: Supports generation of human-like voiceovers using OpenAI&#8217;s text-to-speech model.</li>
+<li><strong>ElevenLabs</strong>: Delivers ultra-realistic TTS capabilities with voice cloning technology.</li>
+</ul>
+</li>
+<li><a href="https://ffmpeg.org/">FFmpeg</a>: A universal multimedia framework used to manipulate audio and video files.</li>
+</ol>
+<h2 id="quick-start-guide">Quick Start Guide</h2>
+<p>Setting up your first video with the remotion-excalidraw-tts skill involves a straightforward command. Start by creating an Excalidraw diagram (.excalidraw) and a corresponding text file for voiceover content.</p>
+<p>Execute this command in your terminal:</p>
+<pre><code>python3 skills/remotion-excalidraw-tts/scripts/make_video.py \<br>--diagram /absolute/path/to/diagram.excalidraw \<br>--voiceover-text /absolute/path/to/voiceover.txt \<br>--out /absolute/path/to/out.mp4</code></pre>
+<p>This will generate an MP4 file with a narration based on the provided script.</p>
+<h3 id="customizing-with-storyboard-json">Customizing with Storyboard JSON</h3>
+<p>To refine the visual storytelling, options like camera movement, focusing on specific elements, and adding subtitles can be managed through a <code>storyboard.json</code> file.</p>
+<p>Here&#8217;s a basic example of what this JSON file should contain:</p>
+<pre><code>{<br>  "scenes": [<br>    {<br>      "name": "intro",<br>      "durationSec": 10,<br>      "subtitle": "很多智能体隔天就失忆。",<br>      "cameraFrom": {"x": 0, "y": 0, "scale": 1},<br>      "cameraTo": {"x": 0, "y": 0, "scale": 1},<br>      "focus": {<br>        "x": 140, "y": 120, <br>        "width": 1640,<br>        "height": 340,<br>        "label": "问题"<br>      }<br>    }<br>  ]<br>}</code></pre>
+<p>By defining </p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/jack4world/remotion-excalidraw-tts/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/jack4world/remotion-excalidraw-tts/SKILL.md</a></p>

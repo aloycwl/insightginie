@@ -2,13 +2,122 @@
 layout: post
 title: 'Understanding the Anti-TempMail Skill: Protecting Services from Disposable
   Email Addresses'
-date: 2026-03-07 17:17:23
+date: '2026-03-07T17:17:23'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/understanding-the-anti-tempmail-skill-protecting-services-from-disposable-email-addresses
+original_url: https://insightginie.com/understanding-the-anti-tempmail-skill-protecting-services-from-disposable-email-addresses/
+featured_image: /media/images/8155.jpg
 ---
 
+<h2>What is the Anti-TempMail Skill?</h2>
+<p>The Anti-TempMail skill is a specialized tool designed to validate email addresses and detect temporary or disposable email providers. This skill helps protect online services from throwaway accounts by identifying emails from services that offer temporary email addresses, which are often used for spam, fraud, or bypassing registration requirements.</p>
+<p>Developed as part of the OpenClaw skills collection, this skill integrates with the AntiTempMail API to provide comprehensive email validation capabilities. It&#8217;s particularly useful for businesses and platforms that want to maintain the integrity of their user base and prevent abuse through disposable email services.</p>
+<h2>Core Functionality</h2>
+<p>The primary purpose of the Anti-TempMail skill is to analyze email addresses and determine whether they belong to temporary email providers. When an email is checked, the skill returns detailed information including:</p>
+<ul>
+<li>Whether the email is temporary or legitimate</li>
+<li>The email domain</li>
+<li>The name of the temporary email provider (if detected)</li>
+<li>A risk assessment score</li>
+<li>Confidence level of the detection</li>
+</ul>
+<p>This information allows service providers to make informed decisions about whether to accept registrations, process transactions, or allow certain actions based on the email&#8217;s legitimacy.</p>
+<h2>Setting Up the Anti-TempMail Skill</h2>
+<p>To use the Anti-TempMail skill, you&#8217;ll need to set up an API key from the AntiTempMail service. Here&#8217;s how to get started:</p>
+<h3>1. Obtain Your API Key</h3>
+<p>Visit the AntiTempMail dashboard at <a href="https://antitempmail.com/dashboard">https://antitempmail.com/dashboard</a> to create an account and obtain your API key. The service offers different tiers including free, pro, and enterprise options with varying rate limits.</p>
+<h3>2. Configure Your Environment</h3>
+<p>Once you have your API key, set it as an environment variable:</p>
+<pre><code>export ANTITEMPMAIL_API_KEY="your_api_key_here"
+</code></pre>
+<p>This configuration allows the skill to authenticate with the AntiTempMail API for all subsequent requests.</p>
+<h2>Using the Anti-TempMail Skill</h2>
+<p>The skill provides several methods for checking email addresses, both individually and in bulk. Here&#8217;s how to use each feature:</p>
+<h3>Checking a Single Email Address</h3>
+<p>To validate a single email address, use the following command:</p>
+<pre><code>curl -X POST https://antitempmail.com/api/v1/email/check \
+-H "Content-Type: application/json" \
+-H "X-API-Key: $ANTITEMPMAIL_API_KEY" \
+-d '{"email": "test@tempmail.com"}'
+</code></pre>
+<p>This will return a JSON response with detailed information about the email address, including whether it&#8217;s temporary, the domain, provider name, and risk level.</p>
+<h3>Bulk Email Validation</h3>
+<p>For checking multiple email addresses at once, use the bulk endpoint:</p>
+<pre><code>curl -X POST https://antitempmail.com/api/v1/email/check/bulk \
+-H "Content-Type: application/json" \
+-H "X-API-Key: $ANTITEMPMAIL_API_KEY" \
+-d '{
+"emails": [
+"user1@gmail.com",
+"user2@tempmail.com",
+"user3@10minutemail.com"
+]
+}'
+</code></pre>
+<p>The bulk endpoint returns a summary of the results along with individual email analysis, making it efficient for processing large lists of email addresses.</p>
+<h2>Practical Usage Examples</h2>
+<p>Here are some common scenarios where the Anti-TempMail skill proves invaluable:</p>
+<h3>Validating User Registration</h3>
+<p>When implementing user registration, you can integrate the skill to automatically check email addresses:</p>
+<pre><code>EMAIL="newuser@example.com"
+RESULT=$(curl -s -X POST https://antitempmail.com/api/v1/email/check \
+-H "Content-Type: application/json" \
+-H "X-API-Key: $ANTITEMPMAIL_API_KEY" \
+-d "{\"email\": \"$EMAIL\"}")
+IS_TEMP=$(echo $RESULT | jq -r '.isTemporary')
 
+if [ "$IS_TEMP" = "true" ]; then
+    echo "⚠️  Temporary email detected! Registration blocked."
+else
+    echo "✅ Valid email. Proceeding with registration."
+fi
+</code></pre>
+<h3>Cleaning Email Lists</h3>
+<p>To filter out temporary emails from an existing list:</p>
+<pre><code># Read emails from file (one per line)
+EMAILS=$(cat email_list.txt | jq -R . | jq -s .)
 
-What is the Anti-TempMail Skill?
+curl -X POST https://antitempmail.com/api/v1/email/check/bulk \
+-H "Content-Type: application/json" \
+-H "X-API-Key: $ANTITEMPMAIL_API_KEY" \
+-d "{\"emails\": $EMAILS}" \
+| \
+jq '.results[] | select(.isTemporary == false) | .email'
+</code></pre>
+<h2>Understanding Response Fields</h2>
+<p>The API returns several key fields in its responses:</p>
+<ul>
+<li><strong>email</strong>: The validated email address</li>
+<li><strong>isTemporary</strong>: Boolean indicating if it&#8217;s a temporary email</li>
+<li><strong>domain</strong>: Email domain</li>
+<li><strong>provider</strong>: Name of the temporary email provider (if detected)</li>
+<li><strong>risk</strong>: Risk level (low, medium, high)</li>
+<li><strong>confidence</strong>: Detection confidence score (0-100)</li>
+</ul>
+<p>These fields provide comprehensive insight into each email address, allowing for nuanced decision-making based on the specific needs of your service.</p>
+<h2>Error Handling and Rate Limits</h2>
+<p>The Anti-TempMail skill includes robust error handling for common issues:</p>
+<ul>
+<li><strong>401 Unauthorized</strong>: Invalid or missing API key</li>
+<li><strong>429 Too Many Requests</strong>: Rate limit exceeded</li>
+<li><strong>400 Bad Request</strong>: Invalid email format</li>
+</ul>
+<p>Rate limits vary by tier:<br />
+&#8211; Free tier: 100 requests/day<br />
+&#8211; Pro tier: 10,000 requests/day<br />
+&#8211; Enterprise: Custom limits</p>
+<p>API responses are cached for 24 hours to improve performance, and the bulk endpoint supports up to 100 emails per request.</p>
+<h2>Benefits of Using the Anti-TempMail Skill</h2>
+<p>Implementing this skill offers numerous advantages:</p>
+<ol>
+<li><strong>Improved Security</strong>: Prevents abuse through disposable email addresses</li>
+<li><strong>Better Data Quality</strong>: Ensures your user database contains legitimate email addresses</li>
+<li><strong>Reduced Spam</strong>: Minimizes fake account creation and spam submissions</li>
+<li><strong>Cost Savings</strong>: Reduces expenses related to sending emails to invalid addresses</li>
+<li><strong>Enhanced User Experience</strong>: Ensures legitimate users can receive important communications</li>
+</ol>
+<h2>Conclusion</h2>
+<p>The Anti-TempMail skill is an essential tool for any service that relies on email communication and user registration. By integrating this skill into your workflow, you can significantly improve the quality of your user base, reduce spam and abuse, and ensure that your communications reach legitimate recipients.</p>
+<p>Whether you&#8217;re running a small website or a large enterprise platform, the Anti-TempMail skill provides the protection and validation needed to maintain a clean, secure, and effective email ecosystem for your services.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/ericmymj/anti-tempmail/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/ericmymj/anti-tempmail/SKILL.md</a></p>

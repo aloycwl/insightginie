@@ -1,20 +1,96 @@
 ---
 layout: post
 title: What Does the MiniMax-to-Telegram OpenClaw Skill Do? A Comprehensive Guide
-date: 2026-03-16 07:46:28
+date: '2026-03-16T07:46:28'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/what-does-the-minimax-to-telegram-openclaw-skill-do-a-comprehensive-guide
+original_url: https://insightginie.com/what-does-the-minimax-to-telegram-openclaw-skill-do-a-comprehensive-guide/
+featured_image: /media/images/8147.jpg
 ---
 
+<h1>Understanding the MiniMax-to-Telegram OpenClaw Skill: A Complete Overview</h1>
+<p><strong>Last Updated:</strong> June 2024</p>
+<p>The <a href="https://github.com/openclaw/skills/blob/main/skills/skills/hoyin258/minimax-to-telegram/SKILL.md">MiniMax-to-Telegram OpenClaw skill</a> is a powerful tool that allows you to generate various types of media using the MiniMax MCP API and then send these media files directly to Telegram. This skill is designed to streamline the process of creating and distributing images, audio, and video content via the popular messaging platform.</p>
+<h2>What Can the MiniMax-to-Telegram Skill Do?</h2>
+<p>The MiniMax-to-Telegram skill provides capabilities for generating and delivering the following types of media through Telegram:</p>
+<ul>
+<li><strong>Image Generation:</strong> Create images from text prompts using MiniMax&#8217;s text-to-image functionality.</li>
+<li><strong>Audio Generation (Text-to-Speech):</strong> Convert text into spoken audio using various voices and languages.</li>
+<li><strong>Video Generation:</strong> Create videos from text descriptions or convert images into video format.</li>
+<li><strong>Music Generation:</strong> Generate music tracks from prompts and lyrics.</li>
+<li><strong>Voice Cloning and Design:</strong> Clone voices from audio samples or generate new voices based on descriptions.</li>
+</ul>
+<p>Once the media is generated, the skill provides methods to send these files directly to a specified Telegram channel or chat.</p>
+<h2>Prerequisites for Using the MiniMax-to-Telegram Skill</h2>
+<p>Before you can use the MiniMax-to-Telegram skill, you need to set up the following:</p>
+<ol>
+<li><strong>Install mcporter:</strong> mcporter is a command-line tool that acts as an interface between your system and the MiniMax MCP API. If you haven&#8217;t already installed it, you can do so using npm/npx.</li>
+<li><strong>MiniMax API Key:</strong> You need to obtain an API key from MiniMax and set it as an environment variable or configure it in the mcporter configuration file.</li>
+<li><strong>Add MiniMax MCP Server:</strong> Configure the MiniMax MCP server in mcporter so that it can communicate with the MiniMax API.</li>
+</ol>
+<h2>Setting Up the MiniMax-to-Telegram Skill</h2>
+<p>Here&#8217;s a step-by-step guide to setting up the MiniMax-to-Telegram skill:</p>
+<h3>1. Installing mcporter</h3>
+<p>First, ensure that mcporter is installed on your system. You can use the following commands to install or verify mcporter:</p>
+<pre>
+# If npm/npx is not installed
+npm install -g mcporter
 
+# Or use npx to run it directly
+npx mcporter --help
+</pre>
+<h3>2. Setting MiniMax API Key</h3>
+<p>You need to set the API key for MiniMax. This can be done either by setting an environment variable or by adding it to the mcporter configuration file.</p>
+<pre>
+# Setting environment variable in terminal
+export MINIMAX_API_KEY="your-api-key-here"
 
-Understanding the MiniMax-to-Telegram OpenClaw Skill: A Complete Overview
-=========================================================================
-
-**Last Updated:** June 2024
-
-The [MiniMax-to-Telegram OpenClaw skill](https://github.com/openclaw/skills/blob/main/skills/skills/hoyin258/minimax-to-telegram/SKILL.md) is a powerful tool that allows you to generate various types of media using the MiniMax MCP API and then send these media files directly to Telegram. This skill is designed to streamline the process of creating and distributing images, audio, and video content via the popular messaging platform.
-
-What Can the MiniMax-to-Telegram Skill Do?
+# Or adding to ~/.mcporter/config.json
+{
+    "env": {
+        "MINIMAX_API_KEY": "your-api-key-here",
+        "MINIMAX_RESOURCE_MODE": "url"
+    }
+}
+</pre>
+<h3>3. Adding MiniMax MCP Server</h3>
+<p>Use mcporter to add the MiniMax MCP server with the following command:</p>
+<pre>
+mcporter mcp add minimax-mcp
+</pre>
+<h2>Using the MiniMax-to-Telegram Skill</h2>
+<p>The MiniMax-to-Telegram skill provides several tools for generating and sending media. Here’s how you can use them:</p>
+<h3>Image Generation</h3>
+<p>Generate images from text prompts using the <code>text_to_image</code> tool. Specify the text prompt and other parameters like aspect ratio, number of images, and model.</p>
+<pre>
+mcporter call minimax-mcp.text_to_image prompt: "your prompt" aspectRatio: "4:3"
+</pre>
+<h3>Audio Generation (Text-to-Speech)</h3>
+<p>Use the <code>text_to_audio</code> tool to convert text to speech. Specify the text content, voice ID, speed, emotion, format, and language boost.</p>
+<pre>
+mcporter call minimax-mcp.text_to_audio text: "Hello world" voiceId: "male-qn-qingse"
+</pre>
+<h3>Video Generation</h3>
+<p>Generate videos from text prompts using the <code>generate_video</code> tool. Specify the video description, model, duration, resolution, and other parameters.</p>
+<pre>
+mcporter call minimax-mcp.generate_video prompt: "your video description"
+</pre>
+<h3>Sending Media to Telegram</h3>
+<p>After generating media, you can send it directly to Telegram using the <code>message</code> tool. Ensure that you use the full URL, including all query parameters, as the media URLs from MiniMax include authentication tokens.</p>
+<pre>
+message(
+    action = "send",
+    channel = "telegram",
+    target = "<chat_id>",
+    media = "<full_url_with_token>",
+    message = "Your caption"
+)
+</pre>
+<h2>Important Parameters and Options</h2>
+<p>Here are some crucial parameters and options for the MiniMax-to-Telegram skill tools:</p>
+<h3>text_to_image</h3>
+<ul>
+<li><strong>prompt:</strong> Text description of the desired image.</li>
+<li><strong>aspectRatio:</strong> Image aspect ratio (options:
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/hoyin258/minimax-to-telegram/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/hoyin258/minimax-to-telegram/SKILL.md</a></p>

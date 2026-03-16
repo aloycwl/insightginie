@@ -1,15 +1,171 @@
 ---
 layout: post
 title: 'OpenClaw Lily Memory: Persistent Memory Plugin for AI Agents'
-date: 2026-03-15 23:16:09
+date: '2026-03-15T23:16:09'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/openclaw-lily-memory-persistent-memory-plugin-for-ai-agents
+original_url: https://insightginie.com/openclaw-lily-memory-persistent-memory-plugin-for-ai-agents/
+featured_image: /media/images/8148.jpg
 ---
 
-
-
-OpenClaw Lily Memory is a persistent memory plugin designed to give OpenClaw agents long-term memory capabilities that survive session resets, compaction, and restarts. This powerful plugin combines SQLite FTS5 keyword search with Ollama vector semantic search to create a comprehensive memory system for AI agents.
-
-What Lily Memory Does
+<p>OpenClaw Lily Memory is a persistent memory plugin designed to give OpenClaw agents long-term memory capabilities that survive session resets, compaction, and restarts. This powerful plugin combines SQLite FTS5 keyword search with Ollama vector semantic search to create a comprehensive memory system for AI agents.</p>
+<h2>What Lily Memory Does</h2>
+<p>Lily Memory provides several key features that enhance the memory capabilities of OpenClaw agents:</p>
+<h3>Auto-Recall</h3>
+<p>The plugin automatically injects relevant memories as context before each LLM turn. This means your agent can reference past conversations and information without explicit prompting, creating a more coherent and contextually aware interaction experience.</p>
+<h3>Auto-Capture</h3>
+<p>Lily Memory automatically extracts facts from conversations and stores them for future use. This passive learning capability ensures that valuable information shared during interactions is preserved and can be referenced later.</p>
+<h3>Hybrid Search</h3>
+<p>The plugin uses a sophisticated hybrid search approach that combines SQLite FTS5 keyword search with Ollama vector cosine similarity. This dual approach ensures both precise keyword matching and semantic understanding of context.</p>
+<h3>Stuck Detection</h3>
+<p>Lily Memory includes intelligent stuck detection that identifies topic repetition and nudges the agent to break out of conversational loops. This helps maintain productive and engaging interactions.</p>
+<h3>Memory Consolidation</h3>
+<p>The plugin automatically deduplicates memory entries on startup, ensuring your agent&#8217;s memory remains clean and efficient without redundant information.</p>
+<h3>Dynamic Entities</h3>
+<p>Lily Memory supports config-driven allowlists and runtime tools to add entities, providing flexibility in what types of information are captured and stored.</p>
+<h3>Graceful Degradation</h3>
+<p>The plugin works without Ollama by falling back to keyword-only mode, ensuring functionality even if vector search capabilities aren&#8217;t available.</p>
+<h3>Minimal Dependencies</h3>
+<p>Lily Memory uses better-sqlite3 for secure parameterized queries and native fetch, keeping the plugin lightweight and secure.</p>
+<h2>Requirements</h2>
+<p>To use Lily Memory, you&#8217;ll need:</p>
+<ul>
+<li>Node.js 18+ (for native fetch support)</li>
+<li>The better-sqlite3 npm package</li>
+<li>Optional: Ollama with nomic-embed-text model for semantic search</li>
+</ul>
+<h2>Quick Start</h2>
+<p>Getting started with Lily Memory is straightforward:</p>
+<ol>
+<li>Install the plugin to your extensions directory</li>
+<li>Add the following configuration to your openclaw.json:</li>
+</ol>
+<pre><code class="language-json">{
+  "plugins": {
+    "slots": {
+      "memory": "lily-memory"
+    },
+    "entries": {
+      "lily-memory": {
+        "enabled": true,
+        "config": {
+          "dbPath": "~/.openclaw/memory/decisions.db",
+          "entities": ["config", "system"]
+        }
+      }
+    }
+  }
+}
+</code></pre>
+<ol start="3">
+<li>Restart the gateway with: openclaw gateway restart</li>
+</ol>
+<h2>Available Tools</h2>
+<p>Lily Memory provides several tools for interacting with the memory system:</p>
+<ul>
+<li><strong>memory_search</strong>: FTS5 keyword search across all facts</li>
+<li><strong>memory_entity</strong>: Look up all facts for a specific entity</li>
+<li><strong>memory_store</strong>: Save a fact to persistent memory</li>
+<li><strong>memory_semantic_search</strong>: Vector similarity search via Ollama</li>
+<li><strong>memory_add_entity</strong>: Register a new entity at runtime</li>
+</ul>
+<h2>Configuration Options</h2>
+<p>Lily Memory offers extensive configuration options:</p>
+<table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Type</th>
+<th>Default</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>dbPath</td>
+<td>string</td>
+<td>~/.openclaw/memory/decisions.db</td>
+<td>SQLite database path</td>
+</tr>
+<tr>
+<td>autoRecall</td>
+<td>boolean</td>
+<td>true</td>
+<td>Inject memories before each turn</td>
+</tr>
+<tr>
+<td>autoCapture</td>
+<td>boolean</td>
+<td>true</td>
+<td>Extract facts from responses</td>
+</tr>
+<tr>
+<td>maxRecallResults</td>
+<td>number</td>
+<td>10</td>
+<td>Max memories per turn</td>
+</tr>
+<tr>
+<td>maxCapturePerTurn</td>
+<td>number</td>
+<td>5</td>
+<td>Max facts per response</td>
+</tr>
+<tr>
+<td>stuckDetection</td>
+<td>boolean</td>
+<td>true</td>
+<td>Topic repetition detection</td>
+</tr>
+<tr>
+<td>vectorSearch</td>
+<td>boolean</td>
+<td>true</td>
+<td>Ollama semantic search</td>
+</tr>
+<tr>
+<td>ollamaUrl</td>
+<td>string</td>
+<td>http://localhost:11434</td>
+<td>Ollama endpoint</td>
+</tr>
+<tr>
+<td>embeddingModel</td>
+<td>string</td>
+<td>nomic-embed-text</td>
+<td>Embedding model</td>
+</tr>
+<tr>
+<td>consolidation</td>
+<td>boolean</td>
+<td>true</td>
+<td>Dedup on startup</td>
+</tr>
+<tr>
+<td>vectorSimilarityThreshold</td>
+<td>number</td>
+<td>0.5</td>
+<td>Min cosine similarity</td>
+</tr>
+<tr>
+<td>entities</td>
+<td>array</td>
+<td>[]</td>
+<td>Additional entity names</td>
+</tr>
+</tbody>
+</table>
+<h2>Architecture</h2>
+<p>Lily Memory uses a sophisticated architecture to manage memory effectively:</p>
+<h3>Recall Flow</h3>
+<p>The recall process extracts keywords from messages, performs both FTS5 and vector searches, merges and deduplicates results, then injects the relevant memories as context for the next LLM turn.</p>
+<h3>Capture Flow</h3>
+<p>When capturing information, Lily Memory uses regex scanning to identify patterns like &#8220;entity: key = value&#8221;, validates entities against the allowlist, stores facts to SQLite, and asynchronously embeds them via Ollama for semantic search capabilities.</p>
+<h3>Stuck Detection</h3>
+<p>The stuck detection mechanism tracks the top 5 content words per response, calculates Jaccard similarity, and if 3+ consecutive responses have greater than 60% overlap, it injects a Reflexion nudge to help break out of repetitive patterns.</p>
+<h2>License</h2>
+<p>Lily Memory is available under the MIT license, making it freely available for use and modification in both personal and commercial projects.</p>
+<h2>Conclusion</h2>
+<p>OpenClaw Lily Memory represents a significant advancement in AI agent memory capabilities. By combining traditional keyword search with modern vector semantic search, it provides a robust and flexible memory system that enhances the intelligence and contextual awareness of OpenClaw agents. Whether you&#8217;re building a simple chatbot or a complex AI assistant, Lily Memory provides the persistent memory foundation needed for truly intelligent interactions.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/kevinodell/lily-memory/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/kevinodell/lily-memory/SKILL.md</a></p>

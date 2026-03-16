@@ -1,15 +1,258 @@
 ---
 layout: post
 title: 'FOSMVVM ServerRequest Generator: The Right Way to Handle Client-Server Communication'
-date: 2026-03-07 11:17:30
+date: '2026-03-07T11:17:30'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/fosmvvm-serverrequest-generator-the-right-way-to-handle-client-server-communication
+original_url: https://insightginie.com/fosmvvm-serverrequest-generator-the-right-way-to-handle-client-server-communication/
+featured_image: /media/images/8152.jpg
 ---
 
+<p>Building client-server communication in Swift applications can be surprisingly error-prone. Hardcoded URLs, manual JSON encoding, and inconsistent error handling create technical debt that compounds over time. The FOSMVVM ServerRequest Generator solves these problems by providing a type-safe, architecture-consistent approach to all client-server interactions.</p>
+<h2>What is FOSMVVM ServerRequest Generator?</h2>
+<p>The FOSMVVM ServerRequest Generator is a skill that automatically generates ServerRequest types for CRUD operations and client-server communication. It scaffolds requests, response bodies, and typed error handling, ensuring every client uses the same pattern for communicating with FOSMVVM servers.</p>
+<h3>The Architecture Context</h3>
+<p>ServerRequest is THE way to communicate with an FOSMVVM server. No exceptions. Whether you&#8217;re building an iOS app, macOS app, web app, CLI tool, data collector, or background job, all clients use ServerRequest via the processRequest(mvvmEnv:) method.</p>
+<p>The MVVMEnvironment holds configuration like baseURL, headers, version, and error handling. You configure it ONCE at startup and use it EVERYWHERE via processRequest().</p>
+<h2>What You Must NEVER Do</h2>
+<p>Before we dive into the right approach, let&#8217;s look at what you should avoid:</p>
+<ul>
+<li>❌ Wrong &#8211; hardcoded URL: <code>let url = URL(string: "http://server/api/users/123")!</code></li>
+<li>❌ Wrong &#8211; string path: <code>try await client.get("/api/users/\(id)")</code></li>
+<li>❌ Wrong &#8211; manual JSON encoding: <code>let json = try JSONEncoder().encode(body)</code></li>
+<li>❌ Wrong &#8211; hardcoded fetch path: <code>fetch('/api/users/123')</code></li>
+<li>❌ Wrong &#8211; constructing URLs manually: <code>fetch(`/api/ideas/${ideaId}/move`)</code></li>
+</ul>
+<h2>What You Must ALWAYS Do</h2>
+<h3>Step 1: Configure MVVMEnvironment Once at Startup</h3>
+<p>For CLI tools, background jobs, or data collectors, configure at startup:</p>
+<pre><code>import ViewModels  // Your shared module
+let mvvmEnv = await MVVMEnvironment(
+    currentVersion: .currentApplicationVersion,
+    appBundle: Bundle.module,
+    deploymentURLs: [
+        .debug: URL(string: "http://localhost:8080")!
+    ]
+)
+</code></pre>
+<p>Your shared module contains SystemVersion+App.swift:</p>
+<pre><code>public extension SystemVersion {
+    static var currentApplicationVersion: Self {
+        .v1_0
+    }
+    static var v1_0: Self {
+        .init(major: 1, minor: 0, patch: 0)
+    }
+}
+</code></pre>
+<h3>Step 2: Use processRequest(mvvmEnv:) Everywhere</h3>
+<pre><code>// ✅ RIGHT - ServerRequest with MVVMEnvironment
+let request = UserShowRequest(query: .init(userId: id))
+try await request.processRequest(mvvmEnv: mvvmEnv)
+let user = request.responseBody
 
+// ✅ RIGHT - Create operation
+let createRequest = CreateIdeaRequest(requestBody: .init(content: content))
+try await createRequest.processRequest(mvvmEnv: mvvmEnv)
+let newId = createRequest.responseBody?.id
 
-Building client-server communication in Swift applications can be surprisingly error-prone. Hardcoded URLs, manual JSON encoding, and inconsistent error handling create technical debt that compounds over time. The FOSMVVM ServerRequest Generator solves these problems by providing a type-safe, architecture-consistent approach to all client-server interactions.
-
-What is FOSMVVM ServerRequest Generator?
+// ✅ RIGHT - Update operation
+let updateRequest = MoveIdeaRequest(requestBody: .init(ideaId: id, newStatus: status))
+try await updateRequest.processRequest(mvvmEnv: mvvmEnv)
+</code></pre>
+<h2>When to Use This Skill</h2>
+<p>Use the FOSMVVM ServerRequest Generator when:</p>
+<ul>
+<li>Implementing any client-server communication</li>
+<li>Adding CRUD operations (Create, Read, Update, Delete)</li>
+<li>Building data collectors or sync tools</li>
+<li>Any Swift code that needs to talk to the server</li>
+</ul>
+<p>If you&#8217;re about to write URLRequest or a hardcoded path string, STOP and use this skill instead.</p>
+<h2>What ServerRequest Provides</h2>
+<p>The ServerRequest pattern handles several concerns automatically:</p>
+<table>
+<thead>
+<tr>
+<th>Concern</th>
+<th>How ServerRequest Handles It</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>URL Path</td>
+<td>Derived from type name via Self.path (e.g., MoveIdeaRequest → /move_idea)</td>
+</tr>
+<tr>
+<td>HTTP Method</td>
+<td>Determined by action.httpMethod (ShowRequest=GET, CreateRequest=POST, etc.)</td>
+</tr>
+<tr>
+<td>Request Body</td>
+<td>RequestBody type, automatically JSON encoded via requestBody?.toJSONData()</td>
+</tr>
+<tr>
+<td>Response Body</td>
+<td>ResponseBody type, automatically JSON decoded into responseBody</td>
+</tr>
+<tr>
+<td>Error Response</td>
+<td>ResponseError type, automatically decoded when response can&#8217;t decode as ResponseBody</td>
+</tr>
+<tr>
+<td>Validation</td>
+<td>RequestBody: ValidatableModel for write operations</td>
+</tr>
+<tr>
+<td>Body Size Limits</td>
+<td>RequestBody.maxBodySize for large uploads (files, images)</td>
+</tr>
+<tr>
+<td>Type Safety</td>
+<td>Compiler enforces correct types throughout</td>
+</tr>
+</tbody>
+</table>
+<h3>Request Protocol Selection</h3>
+<p>Choose based on the operation:</p>
+<table>
+<thead>
+<tr>
+<th>Operation</th>
+<th>Protocol</th>
+<th>HTTP Method</th>
+<th>RequestBody Required?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Read data</td>
+<td>ShowRequest</td>
+<td>GET</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Read ViewModel</td>
+<td>ViewModelRequest</td>
+<td>GET</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Create entity</td>
+<td>CreateRequest</td>
+<td>POST</td>
+<td>Yes (ValidatableModel)</td>
+</tr>
+<tr>
+<td>Update entity</td>
+<td>UpdateRequest</td>
+<td>PATCH</td>
+<td>Yes (ValidatableModel)</td>
+</tr>
+<tr>
+<td>Replace entity</td>
+<td>(use .replace action)</td>
+<td>PUT</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Soft delete</td>
+<td>DeleteRequest</td>
+<td>DELETE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Hard delete</td>
+<td>DestroyRequest</td>
+<td>DELETE</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<h2>What This Skill Generates</h2>
+<h3>Core Files (Always)</h3>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Location</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>{Action}Request.swift</td>
+<td>{ViewModelsTarget}/Requests/</td>
+<td>The ServerRequest type</td>
+</tr>
+<tr>
+<td>{Action}Controller.swift</td>
+<td>{WebServerTarget}/Controllers/</td>
+<td>Server-side handler</td>
+</tr>
+</tbody>
+</table>
+<h3>Optional: WebApp Bridge (for web clients)</h3>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>WebApp route</td>
+<td>Bridges JS fetch to ServerRequest.fetch()</td>
+</tr>
+<tr>
+<td>JS handler guidance</td>
+<td>How to invoke from browser</td>
+</tr>
+</tbody>
+</table>
+<h2>How to Use This Skill</h2>
+<p>Invocation: /fosmvvm-serverrequest-generator</p>
+<p>Prerequisites:</p>
+<ul>
+<li>Operation requirements understood from conversation context</li>
+<li>RequestBody and ResponseBody structures discussed or documented</li>
+<li>Client type identified (iOS app, WebApp, CLI tool, background job, etc.)</li>
+</ul>
+<p>Workflow integration: This skill is typically used when implementing client-server communication. The skill references conversation context automatically—no file paths or Q&#038;A needed. Often follows fosmvvm-viewmodel-generator (for ResponseBody ViewModels) and fosmvvm-fields-generator (for RequestBody validation).</p>
+<h2>Pattern Implementation</h2>
+<p>This skill references conversation context to determine ServerRequest structure:</p>
+<h3>Operation Type Detection</h3>
+<p>From conversation context, the skill identifies:</p>
+<ul>
+<li>CRUD operation (create, read, update, delete)</li>
+<li>HTTP semantics (GET for read, POST for create, PATCH/PUT for update, DELETE for delete)</li>
+<li>Protocol choice (ShowRequest, ViewModelRequest, CreateRequest, UpdateRequest, DeleteRequest)</li>
+</ul>
+<h3>Request Structure Design</h3>
+<p>From requirements already in context:</p>
+<ul>
+<li>RequestBody fields (what data the client sends)</li>
+<li>Query parameters (URL query string data)</li>
+<li>Fragment parameters (URL fragment/anchor data)</li>
+<li>Validation requirements (ValidatableModel for write operations)</li>
+</ul>
+<h3>Response Structure Design</h3>
+<p>From requirements already in context:</p>
+<ul>
+<li>ResponseBody type (often a ViewModel, sometimes just an ID)</li>
+<li>ResponseError type (custom error structure or EmptyError)</li>
+<li>Success scenarios (what indicates success)</li>
+</ul>
+<h2>Benefits of Using FOSMVVM ServerRequest Generator</h2>
+<p>By using this skill, you get:</p>
+<ul>
+<li><strong>Consistency</strong>: All clients use the same pattern</li>
+<li><strong>Type Safety</strong>: Compiler catches errors at compile time</li>
+<li><strong>Maintainability</strong>: Changes to API structure are localized</li>
+<li><strong>Reduced Bugs</strong>: No more hardcoded URLs or manual JSON handling</li>
+<li><strong>Better Testing</strong>: ServerRequest types are easy to mock and test</li>
+</ul>
+<p>The FOSMVVM ServerRequest Generator is an essential tool for any Swift project that needs reliable, maintainable client-server communication. By following the patterns it establishes, you&#8217;ll save time, reduce bugs, and create a more robust architecture for your application.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/foscomputerservices/fosmvvm-serverrequest-generator/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/foscomputerservices/fosmvvm-serverrequest-generator/SKILL.md</a></p>

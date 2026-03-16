@@ -1,13 +1,60 @@
 ---
 layout: post
 title: Mastering AI Multimedia Content Creation with MuleRouter and MuleRun APIs
-date: 2026-03-10 14:45:35
+date: '2026-03-10T14:45:35'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/mastering-ai-multimedia-content-creation-with-mulerouter-and-mulerun-apis
+original_url: https://insightginie.com/mastering-ai-multimedia-content-creation-with-mulerouter-and-mulerun-apis/
+featured_image: /media/images/8142.jpg
 ---
 
-
-
-Understanding the MuleRouter Skill
+<section class="post-content">
+<h2>Understanding the MuleRouter Skill</h2>
+<p>The MuleRouter skill is a powerful tool that allows users to create and manipulate multimedia content using advanced AI models through MuleRouter or MuleRun APIs. This skill opens up possibilities for generating images and videos from text prompts, transforming existing images into videos, and editing videos with AI-powered tools. It&#8217;s designed to work seamlessly with Python 3.10 or later, requiring either the uv package manager or pip, along with internet access to the MuleRouter or MuleRun API endpoints.</p>
+<h2>Key Features of the MuleRouter Skill</h2>
+<ol>
+<li><strong>Multimodal Content Generation</strong>: Create images and videos from text prompts</li>
+<li><strong>Image-to-Video Conversion</strong>: Transform static images into dynamic videos</li>
+<li><strong>Advanced Video Editing</strong>: Utilize AI for video editing tasks</li>
+<li><strong>Wide Model Support</strong>: Access various AI models like Wan2.6, Veo3, and Sora2</li>
+<li><strong>MuleRouter API Integration</strong>: Leverage the power of MuleRouter&#8217;s multimodal APIs</li>
+</ol>
+<h2>Setting Up the MuleRouter Skill</h2>
+<p>Before using the skill, you need to configure your environment properly:</p>
+<h3>Step 1: Environment Variables</h3>
+<p>You can set environment variables to configure your API connection:</p>
+<pre>export MULEROUTER_BASE_URL="https://api.mulerouter.ai"<br>export MULEROUTER_API_KEY="your-api-key"</pre>
+<p>Or alternatively, if you prefer to use MuleRun:</p>
+<pre>export MULEROUTER_SITE="mulerun"<br>export MULEROUTER_API_KEY="your-api-key"
+</pre>
+<h3>Step 2: Local Configuration</h3>
+<p>Alternatively, you can create a .env file in your working directory with the same configurations. Remember that the MULEROUTER_BASE_URL takes priority over MULEROUTER_SITE if both are set.</p>
+<h2>Using the MuleRouter Skill</h2>
+<h3>Quick Start Guide</h3>
+<p>Here&#8217;s a simple walkthrough of how to use the skill:</p>
+<ol>
+<li><strong>List Available Models</strong>: Run <code>uv run python scripts/list_models.py</code> to see what models you can work with</li>
+<li><strong>Check Model Parameters</strong>: Use <code>uv run python models/alibaba/wan2.6-t2v/generation.py --list-params</code> to understand the parameters for a specific model</li>
+<li><strong>Generate Content</strong>:
+<ul>
+<li>Text-to-Video: <code>uv run python models/alibaba/wan2.6-t2v/generation.py --prompt "A cat walking through a garden"</code></li>
+<li>Text-to-Image: <code>uv run python models/alibaba/wan2.6-t2i/generation.py --prompt "A serene mountain lake"</code></li>
+<li>Image-to-Video: <code>uv run python models/alibaba/wan2.6-i2v/generation.py --prompt "Gentle zoom in" --image "https://example.com/photo.jpg"</code></li>
+</ul>
+</li>
+<li><strong>Important Note on Image Input</strong>: When working with images, it&#8217;s preferred to use local file paths rather than base64 encoded images. The skill automatically converts local file paths to base64.</li>
+</ol>
+<h2>Advanced Usage Tips</h2>
+<p>For optimal performance, consider the following:</p>
+<ul>
+<li>For image generation models, a suggested timeout is 5 minutes, while video generation models might need up to 15 minutes.</li>
+<li>When working with video models, setting the fps parameter to values above 15 can lead to out-of-memory errors.</li>
+<li>The &#8211;stream parameter is available for models that support streaming responses.</li>
+<li>
+</ul>
+<h2>Conclusion</h2>
+<p>The MuleRouter skill empowers users to create and manipulate multimedia content using state-of-the-art AI models. By following the setup instructions and utilizing the provided commands, you can unlock a world of creative possibilities for image and video generation, transformation, and editing. With its support for various AI models and integration with MuleRouter APIs, this skill is a valuable tool for content creators and developers alike.</p>
+<p>Remember to consult the referenced documentation for more detailed information about API configuration, CLI options, and complete model specifications to get the most out of the MuleRouter skill.</p>
+</section>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/misaka43fd/mulerouter-skills/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/misaka43fd/mulerouter-skills/SKILL.md</a></p>

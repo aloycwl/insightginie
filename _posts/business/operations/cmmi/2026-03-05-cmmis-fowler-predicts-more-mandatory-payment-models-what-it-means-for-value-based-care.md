@@ -1,22 +1,88 @@
 ---
 layout: post
-title: "CMMI's Fowler Predicts More Mandatory Payment Models \u2013 What It Means\
+title: "CMMI\u2019s Fowler Predicts More Mandatory Payment Models \u2013 What It Means\
   \ for Value\u2011Based Care"
-date: 2026-03-05 21:40:53
+date: '2026-03-05T21:40:53'
 categories:
 - business
 - operations
 - cmmi
-original_url: https://insightginie.com/cmmis-fowler-predicts-more-mandatory-payment-models-what-it-means-for-value-based-care
+original_url: https://insightginie.com/cmmis-fowler-predicts-more-mandatory-payment-models-what-it-means-for-value-based-care/
 ---
 
-
-
-CMMI's Fowler Predicts More Mandatory Payment Models – What It Means for Value‑Based Care
-=========================================================================================
-
-**Word count: ~1,300 words**
-
-The Center for Medicare & Medicaid Innovation (CMMI) has been a laboratory for payment reform since its creation in 2010. Its director, [Liz Fowler](https://www.cms.gov/about-cms/leadership/liz-fowler), recently told *Health Affairs* and other outlets that the agency is moving toward a higher proportion of *mandatory* payment models. This shift marks a significant departure from the voluntary, opt‑in experiments that have dominated the past decade.
-
-Why the Push for Mandatory Models?
+<h1>CMMI’s Fowler Predicts More Mandatory Payment Models – What It Means for Value‑Based Care</h1>
+<p><strong>Word count: ~1,300 words</strong></p>
+<p>The Center for Medicare &#038; Medicaid Innovation (CMMI) has been a laboratory for payment reform since its creation in 2010. Its director, <a href="https://www.cms.gov/about-cms/leadership/liz-fowler" target="_blank" rel="noopener">Liz Fowler</a>, recently told <em>Health Affairs</em> and other outlets that the agency is moving toward a higher proportion of <em>mandatory</em> payment models. This shift marks a significant departure from the voluntary, opt‑in experiments that have dominated the past decade.</p>
+<h2>Why the Push for Mandatory Models?</h2>
+<p>Fowler’s argument is rooted in a simple observation: voluntary models suffer from <em>risk selection</em>. High‑performing providers tend to stay in the program, while those who struggle—often the very organizations that could benefit most from reform—drop out. The result is a skewed participant pool that makes it difficult for CMMI to demonstrate system‑wide savings, a statutory requirement for model success.</p>
+<blockquote>
+<p>“What we have learned from CMMI models over the past 10 years is that voluntary models are subject to risk selection, which has a negative impact on the ability to generate system‑level savings,” Fowler said.</p>
+</blockquote>
+<p>Because the Innovation Center’s authority is tied to showing cost reductions across an entire system, the voluntary approach can appear to be a dead‑end. Mandatory participation, by contrast, forces a broader cross‑section of providers—including safety‑net hospitals and low‑performing practices—into the experiment, giving CMMI a more realistic picture of how a model would work at scale.</p>
+<h2>Historical Context: From Trump to Biden</h2>
+<p>The move toward mandatory models is not new. During the Trump administration, CMMI began testing a handful of mandatory demonstrations, such as the <a href="https://innovation.cms.gov/innovation-models/aco-reach" target="_blank" rel="noopener">ACO REACH</a> model, which replaced Direct Contracting and introduced new health‑equity requirements. Fowler emphasized that the Biden administration is <em>continuing</em> this trajectory rather than resetting it.</p>
+<p>“The shift toward more mandatory models was already underway during the Trump administration and there will not be a change in approach under the Biden administration,” she told <em>Health Affairs</em>. The continuity signals that the administration sees mandatory models as a strategic lever for achieving three core goals: cost containment, quality improvement, and health‑equity advancement.</p>
+<h2>Key Features of the Next‑Generation Mandatory Models</h2>
+<ul>
+<li><strong>Total Cost of Care Focus:</strong> Rather than targeting a single episode (e.g., joint replacement), upcoming mandatory models will look at the entire continuum of care for a patient population, similar to Maryland’s per‑capita global budget.</li>
+<li><strong>Health‑Equity Plans:</strong> Participants will be required to submit a detailed equity plan that identifies underserved communities, sets measurable goals, and outlines interventions with community‑based organizations.</li>
+<li><strong>Data Transparency:</strong> Mandatory collection and reporting of race, ethnicity, language, and social‑determinant metrics will become a condition of participation.</li>
+<li><strong>Telehealth Integration:</strong> Recognizing the pandemic‑accelerated adoption of virtual care, new models will incentivize telehealth as a tool for reducing total cost of care while expanding access.</li>
+<li><strong>Safety‑Net Provider Inclusion:</strong> Models will explicitly encourage participation from federally qualified health centers (FQHCs) and other safety‑net entities, often through higher risk‑adjusted payments.</li>
+</ul>
+<h2>Current Mandatory Model Pilots</h2>
+<p>While the broader shift is still in its early stages, CMMI is already soliciting comments on several mandatory demonstrations:</p>
+<ol>
+<li><strong>Radiation Oncology Mandatory Model:</strong> Aims to align incentives across the oncology care continuum, encouraging coordination between radiation oncologists, medical oncologists, and primary care.</li>
+<li><strong>Comprehensive Joint Care Model:</strong> Focuses on total joint replacement but adds a mandatory component that ties reimbursement to post‑acute care coordination and patient‑reported outcomes.</li>
+<li><strong>ACO REACH (Renewed):</strong> Builds on the original ACO REACH design, adding stricter equity‑plan requirements and a stronger emphasis on virtual care.</li>
+</ol>
+<p>These pilots illustrate the blend of specialty‑focused and population‑based approaches that CMMI hopes to harmonize under a mandatory umbrella.</p>
+<h2>Implications for Providers</h2>
+<p>For health systems, the shift to mandatory models presents both opportunities and challenges.</p>
+<h3>Opportunities</h3>
+<ul>
+<li><strong>Predictable Revenue Streams:</strong> Mandatory models often include capitated or blended payments that can smooth cash flow.</li>
+<li><strong>Equity Funding:</strong> New equity‑plan requirements open up additional grant and incentive dollars for organizations that can demonstrate community impact.</li>
+<li><strong>Technology Investment Payoff:</strong> Telehealth and data‑analytics platforms that were costly to adopt during the pandemic become revenue‑generating assets under mandatory contracts.</li>
+</ul>
+<h3>Challenges</h3>
+<ul>
+<li><strong>Risk Exposure:</strong> Mandatory participation means providers must accept downside risk, which can be daunting for smaller practices.</li>
+<li><strong>Reporting Burden:</strong> The new data‑collection mandates (race/ethnicity, SDOH) require robust IT infrastructure and staff training.</li>
+<li><strong>Model Overlap:</strong> Even with CMMI’s stated intent to reduce overlap, providers may still find themselves enrolled in multiple models, complicating attribution of savings.</li>
+</ul>
+<p>Fowler acknowledges these concerns, noting that “mandatory models come with their own set of disadvantages,” but argues that the trade‑off is worthwhile for achieving system‑wide impact.</p>
+<h2>Health‑Equity as a Non‑Negotiable Pillar</h2>
+<p>One of the most striking aspects of the new mandatory framework is the explicit focus on health equity. In recent testimony, Fowler said that many CMMI models have historically under‑served communities of color. To correct this, future models will require participants to:</p>
+<ol>
+<li>Collect and publicly report race, ethnicity, language, and socioeconomic data.</li>
+<li>Partner with community‑based organizations to address social determinants of health (SDOH) such as housing, food insecurity, and transportation.</li>
+<li>Develop measurable equity goals and track progress quarterly.</li>
+</ol>
+<p>These requirements align with the broader Biden administration agenda of “health equity as a core component of every health‑care policy.”</p>
+<h2>Potential Criticisms and Counterarguments</h2>
+<p>Critics argue that mandatory models could force providers into contracts that are financially unsustainable, especially for safety‑net hospitals already operating on thin margins. They also worry about the administrative load of new reporting mandates.</p>
+<p>Fowler’s counterpoints include:</p>
+<ul>
+<li><strong>Risk‑Adjustment Enhancements:</strong> CMMI is refining its risk‑adjustment methodology to ensure that providers serving high‑risk populations are not unfairly penalized.</li>
+<li><strong>Technical Assistance:</strong> The Innovation Center plans to expand its technical assistance program, offering data‑analytics support and equity‑plan consulting.</li>
+<li><strong>Phased Implementation:</strong> Many mandatory models will roll out in phases, allowing providers time to adapt and build necessary infrastructure.</li>
+</ul>
+<h2>What This Means for the Future of Medicare and Medicaid</h2>
+<p>If mandatory models become the norm, the landscape of Medicare and Medicaid reimbursement could change dramatically:</p>
+<ol>
+<li><strong>Reduced Fee‑for‑Service Dominance:</strong> A larger share of payments will be tied to outcomes, total cost of care, and equity metrics.</li>
+<li><strong>Greater Alignment Across Payers:</strong> Private insurers often look to CMS models for guidance; a shift to mandatory designs could accelerate value‑based care adoption across the entire health‑care market.</li>
+<li><strong>Data‑Driven Policy Making:</strong> With richer, standardized data on race, ethnicity, and SDOH, policymakers will have a stronger evidence base for future reforms.</li>
+</ol>
+<h2>Key Takeaways for Stakeholders</h2>
+<ul>
+<li><strong>Providers should start building equity‑plan capabilities now.</strong> Early engagement with community partners and data‑collection systems will ease future compliance.</li>
+<li><strong>Health‑IT vendors have a market opportunity.</strong> Solutions that automate SDOH data capture, risk‑adjusted reporting, and telehealth integration will be in high demand.</li>
+<li><strong>Policymakers should monitor the balance between mandatory risk and provider sustainability.</strong> Ongoing stakeholder feedback will be essential to fine‑tune the model design.</li>
+</ul>
+<h2>Conclusion</h2>
+<p>Liz Fowler’s message is clear: to achieve the ambitious goals of cost containment, quality improvement, and health‑equity, CMMI must move beyond the limited reach of voluntary experiments. Mandatory payment models—though not without challenges—offer a pathway to engage the full spectrum of providers, generate more reliable data, and drive system‑wide savings.</p>
+<p>As the Innovation Center refines its strategic refresh, stakeholders across the health‑care ecosystem should prepare for a future where participation is expected, equity is measured, and value is defined not just by dollars saved but by lives improved.</p>
+<p>Stay tuned for upcoming public comment periods, technical assistance webinars, and detailed model specifications that CMMI will release over the next 12‑18 months.</p>

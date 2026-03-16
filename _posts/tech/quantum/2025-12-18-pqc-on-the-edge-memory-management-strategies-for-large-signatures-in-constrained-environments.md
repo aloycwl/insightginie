@@ -2,23 +2,225 @@
 layout: post
 title: 'PQC on the Edge: Memory Management Strategies for Large Signatures in Constrained
   Environments'
-date: 2025-12-18 12:29:34
+date: '2025-12-18T12:29:34'
 categories:
 - tech
 - quantum
-original_url: https://insightginie.com/pqc-on-the-edge-memory-management-strategies-for-large-signatures-in-constrained-environments
+original_url: https://insightginie.com/pqc-on-the-edge-memory-management-strategies-for-large-signatures-in-constrained-environments/
+featured_image: /media/images/111239.avif
 ---
 
 
+<p>The standardization of Post-Quantum Cryptography (PQC) by NIST, specifically&nbsp;<strong>FIPS 205 (SLH-DSA)</strong>&nbsp;and&nbsp;<strong>FIPS 204 (ML-DSA)</strong>, marks a pivotal moment in cybersecurity. However, for embedded systems engineers and IoT architects, it marks the beginning of a massive logistical headache.</p>
 
-The standardization of Post-Quantum Cryptography (PQC) by NIST, specifically **FIPS 205 (SLH-DSA)** and **FIPS 204 (ML-DSA)**, marks a pivotal moment in cybersecurity. However, for embedded systems engineers and IoT architects, it marks the beginning of a massive logistical headache.
 
-For the past decade, the industry has relied on Elliptic Curve Cryptography (ECC). An ECDSA signature is a petite 64 bytes. It fits comfortably in a single TCP packet, a tiny database row, or the limited RAM of a Cortex-M0 microcontroller.
 
-Enter the post-quantum era. An SLH-DSA signature can range from **8 KB to 41 KB**. An ML-DSA public key can exceed **2 KB**.
+<p>For the past decade, the industry has relied on Elliptic Curve Cryptography (ECC). An ECDSA signature is a petite 64 bytes. It fits comfortably in a single TCP packet, a tiny database row, or the limited RAM of a Cortex-M0 microcontroller.</p>
 
-In a cloud server with gigabytes of RAM, this overhead is negligible. But in a constrained environment—such as a smart meter, an automotive ECU, or a medical implant—a 41 KB signature might exceed the device's *entire* available RAM. Trying to load these cryptographic objects into memory using traditional “load-then-verify” methods will result in immediate stack overflows and system crashes.
 
-This article outlines the critical memory management strategies required to implement modern PQC algorithms on the edge without breaking the silicon budget.
 
-The Problem: The “Buffer Bloat” of Post-Quantum Algorithms
+<p>Enter the post-quantum era. An SLH-DSA signature can range from&nbsp;<strong>8 KB to 41 KB</strong>. An ML-DSA public key can exceed&nbsp;<strong>2 KB</strong>.</p>
+
+
+
+<p>In a cloud server with gigabytes of RAM, this overhead is negligible. But in a constrained environment—such as a smart meter, an automotive ECU, or a medical implant—a 41 KB signature might exceed the device’s&nbsp;<em>entire</em>&nbsp;available RAM. Trying to load these cryptographic objects into memory using traditional &#8220;load-then-verify&#8221; methods will result in immediate stack overflows and system crashes.</p>
+
+
+
+<p>This article outlines the critical memory management strategies required to implement modern PQC algorithms on the edge without breaking the silicon budget.</p>
+
+
+
+<h2 class="wp-block-heading">The Problem: The &#8220;Buffer Bloat&#8221; of Post-Quantum Algorithms</h2>
+
+
+
+<p>To understand the severity of the issue, consider a standard firmware update process. Traditionally, the device downloads a signature into a buffer, downloads the firmware image, hashes the image, and verifies the signature against the hash.</p>
+
+
+
+<p>If you attempt this workflow with SLH-DSA-SHA2-256f (approx. 41 KB signature) on a device with 64 KB of SRAM:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>Operating System/RTOS:</strong> Consumes ~16 KB.</li>
+
+
+
+<li><strong>Network Stack (TLS/IP):</strong> Consumes ~20 KB.</li>
+
+
+
+<li><strong>Application Logic:</strong> Consumes ~10 KB.</li>
+
+
+
+<li><strong>Remaining RAM:</strong> ~18 KB.</li>
+</ol>
+
+
+
+<p>If you attempt to&nbsp;malloc()&nbsp;a 41 KB buffer for the signature, the allocation fails. If you allocate it on the stack, the device hard faults. The traditional &#8220;one-shot&#8221; API approach is dead.</p>
+
+
+
+<h2 class="wp-block-heading">Strategy 1: Streaming APIs and Incremental Verification</h2>
+
+
+
+<p>The most fundamental shift in PQC implementation is the move away from &#8220;all-at-once&#8221; processing to&nbsp;<strong>streaming</strong>&nbsp;architectures.</p>
+
+
+
+<p>Developers must abandon convenience functions like&nbsp;verify(message, signature, pub_key)&nbsp;that expect contiguous memory blocks. Instead, cryptographic libraries for embedded systems must expose&nbsp;<strong>Init / Update / Final</strong>&nbsp;interfaces, or what is often called &#8220;streaming verification.&#8221;</p>
+
+
+
+<h3 class="wp-block-heading">How It Works</h3>
+
+
+
+<p>Instead of holding the entire signature in RAM, the verification logic processes the signature in chunks.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>WOTS+ Chains:</strong> SLH-DSA signatures are composed of many small WOTS+ signatures and authentication paths. A streaming verifier reads the first few hundred bytes (representing one link in the chain), computes the hash, discards those bytes, and moves to the next chunk.</li>
+
+
+
+<li><strong>Network Integration:</strong> The signature is processed directly off the network socket or the flash storage buffer as it arrives, keeping the RAM footprint strictly limited to the size of the internal hash state (e.g., a few hundred bytes for SHA-256 context).</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Strategy 2: Zero-Copy Architecture and XIP</h2>
+
+
+
+<p>In constrained environments,&nbsp;memcpy&nbsp;is the enemy. Copying data from a network buffer to a crypto buffer doubles the memory requirement.</p>
+
+
+
+<h3 class="wp-block-heading">Execute in Place (XIP)</h3>
+
+
+
+<p>For verifying code signatures (Secure Boot), the public key and the signature often reside in NOR Flash.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Naive Approach:</strong> Read flash into RAM, then verify. (Fails due to size).</li>
+
+
+
+<li><strong>Zero-Copy Approach:</strong> Use memory-mapped I/O. The crypto library is passed a pointer directly to the address in the NOR Flash. The CPU reads the bytes directly from the storage medium during the hashing process.</li>
+</ul>
+
+
+
+<p>This requires the cryptographic library to handle&nbsp;const uint8_t*&nbsp;pointers referencing non-volatile memory regions, ensuring it never attempts to write to them or copy them to the stack.</p>
+
+
+
+<h2 class="wp-block-heading">Strategy 3: Stack Hygiene and Static Allocation</h2>
+
+
+
+<p>Recursive algorithms are elegant in Python but dangerous in C on a microcontroller. SLH-DSA’s Hypertree structure is naturally recursive. A naive implementation that recursively calls&nbsp;verify_tree()&nbsp;for every layer of the Hypertree will blow the stack depth limits of small microcontrollers.</p>
+
+
+
+<h3 class="wp-block-heading">Flattening the Recursion</h3>
+
+
+
+<p>Embedded implementations must use&nbsp;<strong>iterative</strong>&nbsp;approaches rather than recursive ones. By managing the tree traversal state in a static loop, you ensure that the stack usage is deterministic and constant, regardless of the tree height.</p>
+
+
+
+<h3 class="wp-block-heading">Global Static Buffers</h3>
+
+
+
+<p>Dynamic memory allocation (malloc/free) causes fragmentation, which is fatal in long-running embedded systems. PQC implementations should rely on&nbsp;<strong>static buffers</strong>&nbsp;allocated at compile time.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Define a global workspace buffer that is shared/reused.</li>
+
+
+
+<li>Use C unions to overlay buffers for different phases of the algorithm (e.g., reusing the key generation buffer for the verification process) to maximize efficiency.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Strategy 4: Packet Fragmentation and Block-Wise Transfer</h2>
+
+
+
+<p>If the signature is 41 KB, it cannot fit in a standard Ethernet packet (1500 bytes), let alone a Zigbee or LoRaWAN frame.</p>
+
+
+
+<p>Embedded protocols must be updated to handle&nbsp;<strong>Application-Layer Fragmentation</strong>.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>CoAP Block-Wise Transfer:</strong> For IoT devices using CoAP, use Block1/Block2 options to transmit the large signature across hundreds of small messages.</li>
+
+
+
+<li><strong>State Management:</strong> The receiving device must maintain a state machine to track which parts of the signature have arrived. Crucially, verify the chunks as they arrive if possible (Streaming Strategy), or write them sequentially to a temporary flash partition (Flash-backed buffering) rather than RAM.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Strategy 5: Hybrid Verification Models</h2>
+
+
+
+<p>Sometimes, the hardware simply cannot handle the load. In these ultra-constrained scenarios (e.g., 8-bit or 16-bit sensors), a hybrid security model is required.</p>
+
+
+
+<h3 class="wp-block-heading">The Proxy Verifier</h3>
+
+
+
+<p>Instead of the sensor verifying the 41 KB post-quantum signature directly:</p>
+
+
+
+<ol class="wp-block-list">
+<li>An edge gateway (with more RAM) verifies the PQC signature from the cloud.</li>
+
+
+
+<li>The gateway re-signs the command using a legacy, lightweight algorithm (like Ed25519) or a symmetric MAC (Message Authentication Code).</li>
+
+
+
+<li>The constrained sensor verifies the lightweight signature from the trusted gateway.</li>
+</ol>
+
+
+
+<p>This maintains a post-quantum chain of trust from the cloud to the edge, with the &#8220;last mile&#8221; secured by the physical proximity and isolation of the gateway-sensor link.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p>The transition to FIPS 205 and post-quantum cryptography is not merely a software update; it is an architectural overhaul for the embedded world. The days of treating memory as an abundant resource are over.</p>
+
+
+
+<p>By adopting streaming verification APIs, enforcing zero-copy disciplines, and flattening recursive algorithms, developers can successfully run heavy algorithms like SLH-DSA on light hardware. The key is to stop thinking about the signature as a single object and start treating it as a stream of data to be processed, validated, and discarded byte by byte.</p>

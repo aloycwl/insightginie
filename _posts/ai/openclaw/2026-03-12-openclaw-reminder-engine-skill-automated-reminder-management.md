@@ -1,13 +1,77 @@
 ---
 layout: post
 title: 'OpenClaw Reminder Engine Skill: Automated Reminder Management'
-date: 2026-03-12 13:16:03
+date: '2026-03-12T13:16:03'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/openclaw-reminder-engine-skill-automated-reminder-management
+original_url: https://insightginie.com/openclaw-reminder-engine-skill-automated-reminder-management/
+featured_image: /media/images/8141.jpg
 ---
 
-
-
-Introduction to the OpenClaw Reminder Engine Skill
+<h2>Introduction to the OpenClaw Reminder Engine Skill</h2>
+<p>The OpenClaw reminder-engine skill provides a sophisticated system for creating, managing, and executing reminders through natural language processing. This skill transforms everyday requests like &#8220;remind me in 20 minutes&#8221; or &#8220;every weekday at 10:30 remind me to stand up&#8221; into scheduled cron jobs that execute precisely when needed.</p>
+<h3>Core Functionality Overview</h3>
+<p>The reminder-engine skill operates as a comprehensive reminder management system with four primary capabilities: creating new reminders, listing existing reminders, canceling scheduled reminders, and snoozing active reminders. It leverages OpenClaw&#8217;s cron job infrastructure to ensure reliable execution of scheduled tasks.</p>
+<h2>Natural Language Processing and Intent Classification</h2>
+<p>The skill begins by parsing user input to classify the intent behind the request. It identifies three main categories of reminder operations:</p>
+<ul>
+<li><strong>One-shot reminders</strong>: Single-time notifications like &#8220;in 20 minutes,&#8221; &#8220;tomorrow at 9 AM,&#8221; or &#8220;on March 1st at 10:00&#8221;</li>
+<li><strong>Recurring reminders</strong>: Repeating schedules such as &#8220;every day at 9 AM,&#8221; &#8220;every weekday at 10:30,&#8221; &#8220;every Monday,&#8221; or &#8220;every 2 hours&#8221;</li>
+<li><strong>Management commands</strong>: Administrative functions including &#8220;list reminders,&#8221; &#8220;cancel reminder,&#8221; &#8220;disable/enable,&#8221; or &#8220;snooze reminder&#8221;</li>
+</ul>
+<p>During parsing, the skill extracts critical information including the reminder text content, delivery channel context (defaulting to the current chat), and timezone preferences. The system defaults to the runtime timezone unless the user specifies otherwise.</p>
+<h2>Confirmation and Safety Protocols</h2>
+<p>Before executing any create, update, or remove operation, the reminder-engine skill implements a mandatory confirmation step. This safety measure displays the computed schedule in human-readable format, specifies whether it&#8217;s a one-shot or recurring reminder, and shows the exact reminder message text that will be delivered.</p>
+<p>For ambiguous requests like &#8220;next Friday&#8221; or &#8220;in the morning,&#8221; the system asks a single clarifying question to ensure accurate scheduling. This confirmation step prevents accidental creation of incorrect reminders and ensures user intent is properly captured.</p>
+<h2>Cron Job Creation and Scheduling</h2>
+<p>The skill utilizes OpenClaw&#8217;s cron tool for job creation, following specific rules for optimal scheduling:</p>
+<ul>
+<li>Prefers <code>schedule.kind="at"</code> for one-shot reminders</li>
+<li>Uses <code>schedule.kind="cron"</code> for recurring reminders when possible</li>
+<li>Incorporates timezone information when available</li>
+<li>Sets <code>sessionTarget="main"</code> and <code>payload.kind="systemEvent"</code></li>
+</ul>
+<p>The reminder payload text follows a consistent format starting with &#8220;Reminder:&#8221; to clearly identify the message&#8217;s purpose. For reminders set far in advance, the system includes light context when helpful, such as &#8220;Reminder: submit the invoice (you said you need this for the client call).&#8221;</p>
+<h2>Management Operations</h2>
+<h3>Listing Reminders</h3>
+<p>The skill uses <code>cron.list</code> to display all scheduled reminders, showing job IDs, next run times, and brief descriptions. This enables users to identify specific reminders for management operations.</p>
+<h3>Canceling Reminders</h3>
+<p>Cancellation uses <code>cron.remove(jobId)</code> and prefers exact job ID matching. If users provide text instead of IDs, the system searches the reminder list and confirms before removal to prevent accidental cancellations.</p>
+<h3>Snoozing Reminders</h3>
+<p>Snoozing is implemented as a cancel-and-recreate operation. For one-shot reminders, it creates a new scheduled instance. For recurring reminders, it creates a one-shot override to temporarily postpone the next occurrence.</p>
+<h2>Quality Guidelines for Reminder Text</h2>
+<p>The skill enforces strict guidelines for reminder message quality:</p>
+<ul>
+<li>Messages should be short and action-oriented</li>
+<li>Avoid including sensitive or secret information</li>
+<li>Warn users when reminders will be delivered to public channels</li>
+<li>Include helpful context when the reminder&#8217;s purpose might not be immediately clear</li>
+</ul>
+<h2>Safety and Security Considerations</h2>
+<p>The reminder-engine skill implements several safety measures to prevent misuse:</p>
+<ul>
+<li>Never creates spammy recurring reminders without explicit user confirmation</li>
+<li>Does not broadcast reminders to multiple targets unless specifically requested</li>
+<li>Never includes access keys or tokens in reminder payloads</li>
+<li>Provides clear warnings for public channel deliveries</li>
+</ul>
+<h2>Practical Examples and Use Cases</h2>
+<h3>Simple One-shot Reminder</h3>
+<p>User: &#8220;remind me in 20 minutes to stretch&#8221;</p>
+<p>Action: Creates a one-shot <code>at</code> job with payload &#8220;Reminder: stretch.&#8221;</p>
+<h3>Recurring Daily Reminder</h3>
+<p>User: &#8220;every weekday at 10:30 remind me to stand up&#8221;</p>
+<p>Action: Creates a recurring <code>cron</code> job in local timezone with payload &#8220;Reminder: stand up (weekday standup alarm).&#8221;</p>
+<h3>Reminder Management</h3>
+<p>User: &#8220;list my reminders&#8221;</p>
+<p>Action: Lists all scheduled reminders with IDs for easy reference.</p>
+<p>User: &#8220;cancel the stand up reminder&#8221;</p>
+<p>Action: Lists matching jobs, asks for clarification if multiple matches exist, then removes the selected reminder.</p>
+<h2>Technical Implementation Details</h2>
+<p>The skill integrates seamlessly with OpenClaw&#8217;s existing cron infrastructure, using standard job scheduling formats and payload structures. It handles timezone conversions automatically and provides consistent user experiences across different timezones and delivery channels.</p>
+<p>The confirmation workflow ensures that users always know exactly what will be scheduled before any job is created, reducing errors and improving user satisfaction. The system&#8217;s ability to handle both simple and complex scheduling requests makes it a versatile tool for personal and professional reminder management.</p>
+<h2>Conclusion</h2>
+<p>The OpenClaw reminder-engine skill represents a sophisticated approach to automated reminder management, combining natural language processing with robust scheduling capabilities. Its emphasis on user confirmation, safety protocols, and high-quality reminder text ensures reliable operation while preventing common pitfalls like spammy reminders or accidental cancellations.</p>
+<p>By leveraging OpenClaw&#8217;s cron infrastructure and implementing thoughtful user interaction patterns, this skill provides an intuitive interface for managing reminders of all types, from simple one-time notifications to complex recurring schedules across multiple timezones and delivery channels.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/martok9803/martok9803-reminder-engine/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/martok9803/martok9803-reminder-engine/SKILL.md</a></p>

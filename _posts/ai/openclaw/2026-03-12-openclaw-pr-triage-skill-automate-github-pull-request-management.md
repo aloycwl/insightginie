@@ -1,13 +1,73 @@
 ---
 layout: post
 title: 'OpenClaw PR Triage Skill: Automate GitHub Pull Request Management'
-date: 2026-03-12 16:15:39
+date: '2026-03-12T16:15:39'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/openclaw-pr-triage-skill-automate-github-pull-request-management
+original_url: https://insightginie.com/openclaw-pr-triage-skill-automate-github-pull-request-management/
+featured_image: /media/images/8151.jpg
 ---
 
-
-
-What is the OpenClaw PR Triage Skill?
+<h2>What is the OpenClaw PR Triage Skill?</h2>
+<p>The PR Triage skill is an OpenClaw capability designed to help repository maintainers manage large volumes of open pull requests efficiently. It automatically detects duplicate PRs, assesses their quality, and generates actionable reports that prioritize which PRs deserve attention.</p>
+<h2>How Does PR Triage Work?</h2>
+<p>The skill follows a six-phase workflow that systematically analyzes open pull requests in any GitHub repository. Here&#8217;s how it operates:</p>
+<h3>Phase 1: Fetching PR Data</h3>
+<p>The skill begins by collecting comprehensive metadata about all open pull requests using GitHub CLI commands. It retrieves information including PR numbers, titles, descriptions, authors, timestamps, labels, changed files, and code additions/deletions.</p>
+<h3>Phase 2: Intent Extraction</h3>
+<p>Each PR is analyzed to extract its core intent through keyword extraction and issue reference detection. This creates a normalized representation that can be compared across PRs to identify similar work.</p>
+<h3>Phase 3: Duplicate Detection</h3>
+<p>The skill employs multiple similarity detection methods:</p>
+<ul>
+<li><strong>File Overlap Analysis:</strong> Uses Jaccard similarity to compare which files each PR modifies</li>
+<li><strong>Keyword Similarity:</strong> Compares extracted keywords from titles and descriptions</li>
+<li><strong>Issue Reference Matching:</strong> Detects when multiple PRs reference the same issue</li>
+<li><strong>Combined Scoring:</strong> Calculates a weighted similarity score from multiple signals</li>
+</ul>
+<h3>Phase 4: Quality Assessment</h3>
+<p>Each PR receives a quality score based on objective signals:</p>
+<ul>
+<li>Presence of detailed description (+10 points)</li>
+<li>References to issues (+15 points)</li>
+<li>Inclusion of tests (+20 points)</li>
+<li>PR size under 100 lines (+10 points)</li>
+<li>Presence of labels (+5 points)</li>
+<li>Recent activity (+10 points)</li>
+<li>First-time contributor status (-5 points)</li>
+</ul>
+<p>PRs are graded from A (60+ points) to D (under 20 points).</p>
+<h3>Phase 5: Report Generation</h3>
+<p>The skill generates comprehensive Markdown reports that include:</p>
+<ul>
+<li>Duplicate groups with recommendations for which PR to keep</li>
+<li>Quality summary with distribution statistics</li>
+<li>Stale PRs requiring attention</li>
+<li>Ready-to-merge high-quality PRs</li>
+</ul>
+<h3>Phase 6: Optional Actions</h3>
+<p>With the &#8211;action flag, the skill can automatically comment on duplicates and add labels to PRs, though it never closes or merges PRs without explicit approval.</p>
+<h2>Usage Examples</h2>
+<p>Basic triage of recent PRs: <code>/pr-triage --repo opencode/opencode --days 7</code></p>
+<p>Full repository audit: <code>/pr-triage --repo anthropics/claude --all --output report.md</code></p>
+<p>High threshold for obvious duplicates: <code>/pr-triage --repo microsoft/vscode --threshold 90</code></p>
+<h2>Benefits for Maintainers</h2>
+<p>The PR Triage skill saves maintainers significant time by:</p>
+<ul>
+<li>Automatically identifying duplicate work before it wastes reviewer time</li>
+<li>Highlighting high-quality PRs ready for review</li>
+<li>Flagging stale PRs that need follow-up</li>
+<li>Providing objective quality metrics for decision-making</li>
+</ul>
+<h2>Implementation Details</h2>
+<p>The skill uses GitHub CLI authentication patterns to avoid token conflicts, fetches PR metadata efficiently without reading full diffs, and implements local similarity calculations to minimize API costs. It&#8217;s designed to be run as needed rather than continuously, with recommended workflows for weekly or monthly audits.</p>
+<h2>Best Practices</h2>
+<p>For optimal results, maintainers should:</p>
+<ul>
+<li>Start with a 7-day analysis for recent PRs</li>
+<li>Run broader 30-day analyses weekly</li>
+<li>Use the &#8211;all flag sparingly for full audits</li>
+<li>Review the generated reports before taking automated actions</li>
+</ul>
+<p>The PR Triage skill represents a practical application of AI-assisted repository management that helps teams maintain code quality while reducing manual overhead in large, active projects.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/zerone0x/pr-triage/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/zerone0x/pr-triage/SKILL.md</a></p>

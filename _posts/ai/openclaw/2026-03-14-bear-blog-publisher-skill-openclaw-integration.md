@@ -1,13 +1,153 @@
 ---
 layout: post
 title: Bear Blog Publisher Skill &#8211; OpenClaw Integration
-date: 2026-03-14 13:15:56
+date: '2026-03-14T13:15:56'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/bear-blog-publisher-skill-openclaw-integration
+original_url: https://insightginie.com/bear-blog-publisher-skill-openclaw-integration/
+featured_image: /media/images/8144.jpg
 ---
 
-
-
-What is the Bear Blog Publisher Skill?
+<h2>What is the Bear Blog Publisher Skill?</h2>
+<p>The Bear Blog Publisher skill is an OpenClaw capability that automates the process of publishing blog posts to Bear Blog platform. It supports multiple authentication methods, optional AI-generated content, and automatic diagram generation for technical topics.</p>
+<h3>Core Functionality</h3>
+<ul>
+<li>Publish markdown content to Bear Blog</li>
+<li>Generate blog posts using AI (OpenAI or Kimi)</li>
+<li>Create technical diagrams with HTML/CSS and Playwright</li>
+<li>Support for multiple authentication methods</li>
+</ul>
+<h2>Authentication Methods</h2>
+<p>The skill offers three ways to authenticate with Bear Blog, each suited for different use cases:</p>
+<h3>Method 1: OpenClaw Config (Personal Use)</h3>
+<p>Store credentials in ~/.openclaw/openclaw.json:</p>
+<pre><code class="language-json">{
+  "skills": {
+    "bear-blog-publisher": {
+      "email": "your@email.com",
+      "password": "yourpassword"
+    }
+  }
+}
+</code></pre>
+<p><strong>Security Note:</strong> Set file permissions to 600 (readable only by owner).</p>
+<h3>Method 2: Environment Variables (CI/CD)</h3>
+<pre><code class="language-bash">export BEAR_BLOG_EMAIL="your@email.com"
+export BEAR_BLOG_PASSWORD="yourpassword"
+</code></pre>
+<p>Credentials exist only in memory, not written to disk.</p>
+<h3>Method 3: Runtime Parameters (Multi-User)</h3>
+<pre><code class="language-python">publisher = BearBlogPublisher(
+    email="user@example.com",
+    password="secret"
+)
+</code></pre>
+<p>Ideal for chat bots and web applications where credentials are collected at runtime.</p>
+<h2>AI Content Generation</h2>
+<p>The skill can generate blog content automatically using either OpenAI or Kimi API. To enable this feature:</p>
+<h3>OpenAI Setup</h3>
+<pre><code class="language-bash">export OPENAI_API_KEY="sk-..."
+</code></pre>
+<h3>Kimi Setup</h3>
+<pre><code class="language-bash">export KIMI_API_KEY="your-kimi-api-key"
+</code></pre>
+<h3>Usage Example</h3>
+<pre><code class="language-python">publisher = BearBlogPublisher()
+content = publisher.generate_content(
+    topic="Python best practices",
+    provider="openai",  # or "kimi"
+    tone="professional",
+    length="medium"
+)
+result = publisher.publish(
+    title="My Post",
+    content=content
+)
+</code></pre>
+<h2>Diagram Generation</h2>
+<p>For technical topics, the skill can automatically generate architecture diagrams using HTML/CSS and Playwright. This feature:</p>
+<ul>
+<li>Downloads a ~100MB Chromium browser</li>
+<li>Creates temporary files in /tmp directory</li>
+<li>Uses &#8211;no-sandbox flag for containerized environments</li>
+<li>Converts HTML to PNG images</li>
+</ul>
+<h2>Priority Order for Credentials</h2>
+<ol>
+<li>Runtime parameters (highest priority)</li>
+<li>Environment variables</li>
+<li>OpenClaw config file (lowest priority)</li>
+</ol>
+<h2>Security Best Practices</h2>
+<p>Follow these guidelines to maintain security:</p>
+<ul>
+<li>Never commit credentials to git repositories</li>
+<li>Use environment variables in production environments</li>
+<li>Set file permissions to 600 for config files</li>
+<li>Prefer runtime parameters for multi-user applications</li>
+</ul>
+<h2>Security Considerations</h2>
+<p>The skill makes several operational choices that users should be aware of:</p>
+<h3>Playwright Browser Download</h3>
+<p>Why: Required for generating architecture diagrams as PNG images</p>
+<p>Size: ~100MB Chromium browser</p>
+<p>Alternative: Skip diagram generation if not needed</p>
+<h3>Temporary Files</h3>
+<p>Location: /tmp/diagram.html and /tmp/diagram.png</p>
+<p>Purpose: Intermediate files for diagram generation</p>
+<p>Cleanup: Files are overwritten on each run, not explicitly deleted</p>
+<h3>&#8211;no-sandbox Flag</h3>
+<p>Why: Required for running Chromium in containerized/Docker environments</p>
+<p>Risk: Slightly reduced browser isolation</p>
+<p>Mitigation: Only used for local HTML-to-image conversion, no external URLs loaded</p>
+<h3>Plaintext Password Storage (Optional)</h3>
+<p>Config file: Only if user chooses Method 1</p>
+<p>Recommendation: Use environment variables (Method 2) or runtime parameters (Method 3) instead</p>
+<p>If using config: Always set file permissions to 600</p>
+<h2>Example Use Cases</h2>
+<h3>With Config File</h3>
+<pre><code class="language-text"># ~/.openclaw/openclaw.json configured
+You: "Publish a blog about Python tips"
+AI: [Uses config credentials, publishes]
+</code></pre>
+<h3>With Environment Variables</h3>
+<pre><code class="language-bash">export BEAR_BLOG_EMAIL="user@example.com"
+export BEAR_BLOG_PASSWORD="secret"
+</code></pre>
+<pre><code class="language-text">You: "Publish a blog about Python tips"
+AI: [Uses env vars, publishes]
+</code></pre>
+<h3>With AI Content Generation</h3>
+<pre><code class="language-bash">export BEAR_BLOG_EMAIL="user@example.com"
+export BEAR_BLOG_PASSWORD="secret"
+export OPENAI_API_KEY="sk-..."
+</code></pre>
+<pre><code class="language-text">You: "Write and publish a blog about Python asyncio"
+AI: [Generates content with OpenAI, publishes]
+</code></pre>
+<h3>With Runtime Parameters</h3>
+<pre><code class="language-python"># In your chat bot code
+email = get_user_email()  # Ask user
+password = get_user_password()  # Ask user
+publisher = BearBlogPublisher(
+    email=email,
+    password=password
+)
+result = publisher.publish(
+    title="My Post",
+    content="# Content"
+)
+</code></pre>
+<h2>Implementation Details</h2>
+<p>The skill uses:</p>
+<ul>
+<li>Bear Blog web API</li>
+<li>CSRF token authentication</li>
+<li>Session-based (no persistent storage)</li>
+<li>Playwright for diagram generation</li>
+<li>OpenAI/Kimi API for content generation</li>
+</ul>
+<h2>License</h2>
+<p>The Bear Blog Publisher skill is distributed under the MIT License, making it free to use and modify for both personal and commercial projects.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/cattalk2/bear-blog-publisher/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/cattalk2/bear-blog-publisher/SKILL.md</a></p>

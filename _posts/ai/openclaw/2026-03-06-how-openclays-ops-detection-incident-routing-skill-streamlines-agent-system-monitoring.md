@@ -2,22 +2,49 @@
 layout: post
 title: How OpenClay&#8217;s Ops-Detection-Incident-Routing Skill Streamlines Agent
   System Monitoring
-date: 2026-03-06 21:45:40
+date: '2026-03-06T21:45:40'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/how-openclays-ops-detection-incident-routing-skill-streamlines-agent-system-monitoring
+original_url: https://insightginie.com/how-openclays-ops-detection-incident-routing-skill-streamlines-agent-system-monitoring/
+featured_image: /media/images/8141.jpg
 ---
 
-
-
-The **ops-detection-incident-routing** skill is a powerful tool from the OpenClay skills repository that automates anomaly detection and incident routing for agent systems. This skill is designed to provide a production-safe operations loop, eliminating the need for ad-hoc prompt-only monitoring. In this article, we'll delve into the functionality of this skill, its components, and how to use it effectively.
-
-**Key Features**:
-
-* **Deterministic Checks**: This skill enables you to perform deterministic checks for various runtime anomalies such as cron failures, context pressure, dangling sessions, and token spikes.
-* **Incident Routing**: Once an anomaly is detected, the skill routes the incident through approval-safe guardrails, ensuring a controlled incident workflow from detection to remediation.
-* **Structured Output**: The skill outputs structured incident actions, making it easy to integrate with other systems and processes.
-* **Guardrails**: The skill includes in-flight and cooldown guards to prevent false positives and ensure that incidents are handled in a controlled manner.
-
-Skill Components
+<p>The <strong>ops-detection-incident-routing</strong> skill is a powerful tool from the OpenClay skills repository that automates anomaly detection and incident routing for agent systems. This skill is designed to provide a production-safe operations loop, eliminating the need for ad-hoc prompt-only monitoring. In this article, we&#8217;ll delve into the functionality of this skill, its components, and how to use it effectively.</p>
+<p><strong>Key Features</strong>:</p>
+<ul>
+<li><strong>Deterministic Checks</strong>: This skill enables you to perform deterministic checks for various runtime anomalies such as cron failures, context pressure, dangling sessions, and token spikes.</li>
+<li><strong>Incident Routing</strong>: Once an anomaly is detected, the skill routes the incident through approval-safe guardrails, ensuring a controlled incident workflow from detection to remediation.</li>
+<li><strong>Structured Output</strong>: The skill outputs structured incident actions, making it easy to integrate with other systems and processes.</li>
+<li><strong>Guardrails</strong>: The skill includes in-flight and cooldown guards to prevent false positives and ensure that incidents are handled in a controlled manner.</li>
+</ul>
+<h2>Skill Components</h2>
+<p>The ops-detection-incident-routing skill comprises several scripts that work together to provide comprehensive monitoring and incident management for agent systems. Here&#8217;s a breakdown of the key components:</p>
+<ul>
+<li><strong>ops-threshold-detector.sh</strong>: This script reads session/cron/snapshot state and appends detector JSONL events. It is designed to identify runtime anomalies and generate alerts when thresholds are breached.</li>
+<li><strong>incident-guard-check.sh</strong>: This script checks the in-flight/cooldown guard status for a check ID. It ensures that incidents are only processed when it is safe to do so.</li>
+<li><strong>incident-state-update.sh</strong>: This script updates the guard state for start/complete/fail transitions. It is responsible for maintaining the state of incidents as they move through the workflow.</li>
+<li><strong>ops-incident-router.sh</strong>: This script converts detector alerts into structured actions. It is responsible for routing incidents to the appropriate teams or processes for investigation and remediation.</li>
+<li><strong>ops-detector-cycle.sh</strong>: This is the main script that runs a full detector + router cycle. It coordinates the other scripts to provide a complete monitoring and incident management solution.</li>
+</ul>
+<h2>Using the Skill</h2>
+<p>To use the ops-detection-incident-routing skill, follow these steps:</p>
+<ol>
+<li><strong>Setup</strong>: Begin by running the setup script to ensure all dependencies are installed and to scaffold the necessary files and directories.</li>
+<li><strong>Quick Start</strong>: Run the ops-detector-cycle.sh script with the appropriate parameters to perform a dry-run cycle. This will simulate the detection and routing of incidents without making any changes to the system.</li>
+<li><strong>Live Mode</strong>: Once you are satisfied with the dry-run cycle, run the ops-detector-cycle.sh script in live mode. This will enable the script to acquire in-flight locks and perform full incident management.</li>
+</ol>
+<p>The ops-detection-incident-routing skill is designed to be flexible and can be customised to meet the specific needs of your agent system. The skill outputs structured data that can be easily integrated with other systems and processes, making it a valuable addition to any monitoring and incident management solution.</p>
+<h2>Operational Pattern</h2>
+<p>The ops-detection-incident-routing skill follows a structured operational pattern that ensures incidents are handled in a controlled and deterministic manner. Here&#8217;s an overview of the operational pattern:</p>
+<ol>
+<li><strong>Schedule</strong>: The ops-threshold-detector.sh script is scheduled to run every 5-15 minutes, depending on the specific requirements of your system.</li>
+<li><strong>Feed the Router</strong>: The latest detector line is fed to the ops-incident-router.sh script, which is responsible for routing the incident to the appropriate team or process for investigation and remediation.</li>
+<li><strong>Spawn Investigator/Remediator</strong>: The router output is used to spawn an investigator or remediator, who is responsible for identifying the root cause of the incident and implementing the necessary fixes.</li>
+<li><strong>Approval</strong>: All remediation efforts are kept behind explicit owner approval to ensure that changes are made in a controlled and safe manner.</li>
+</ol>
+<p>For more details on the operational pattern and the architecture of the ops-detection-incident-routing skill, refer to the <a href="https://github.com/openclaw/skills/tree/main/skills/skills/embryon/ops-detection-incident-routing/references">architecture documentation</a>.</p>
+<h2>Conclusion</h2>
+<p>The ops-detection-incident-routing skill is a comprehensive solution for monitoring and managing incidents in agent systems. By providing deterministic checks, structured incident routing, and approval-safe guardrails, this skill ensures that incidents are handled in a controlled and safe manner. Whether you are a system administrator, a DevOps engineer, or a site reliability engineer, the ops-detection-incident-routing skill is a valuable addition to your toolkit.</p>
+<p>By following the operational pattern and leveraging the flexible and customisable nature of the skill, you can ensure that your agent system is monitored effectively and that incidents are resolved in a timely and efficient manner. So why not give it a try and see how it can help streamline your monitoring and incident management processes?</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/embrron/ops-detection-incident-routing/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/embrron/ops-detection-incident-routing/SKILL.md</a></p>

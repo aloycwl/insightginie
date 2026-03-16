@@ -2,24 +2,116 @@
 layout: post
 title: 'Mastering Chinese LLMs: The Ultimate Guide to the OpenClaw Chinese LLM Router
   Skill'
-date: 2026-03-07 21:45:48
+date: '2026-03-07T21:45:48'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/mastering-chinese-llms-the-ultimate-guide-to-the-openclaw-chinese-llm-router-skill
+original_url: https://insightginie.com/mastering-chinese-llms-the-ultimate-guide-to-the-openclaw-chinese-llm-router-skill/
+featured_image: /media/images/8142.jpg
 ---
 
+<p><strong>The Chinese LLM Router</strong> skill for OpenClaw is a game-changer for anyone needing access to cutting-edge Chinese-language large language models. This comprehensive guide will walk you through everything you need to know about this powerful tool that connects your OpenClaw to a diverse ecosystem of Chinese AI models.</p>
+<p>In this article, we&#8217;ll explore:</p>
+<ul>
+<li>The core capabilities of the Chinese LLM Router</li>
+<li>How to quickly get started with different Chinese AI models</li>
+<li>Command reference for seamless model switching</li>
+<li>Task-specific model recommendations</li>
+<li>Configuration and setup details</li>
+<li>Pricing comparison across major providers</li>
+</ul>
+<h2>The Power of Unified Access</h2>
+<p>The Chinese LLM Router skill revolutionizes how you interact with Chinese AI models by providing a unified interface to:</p>
+<ul>
+<li><strong>DeepSeek</strong> (V3.2 / R1) &#8211; Renowned for its exceptional reasoning capabilities</li>
+<li><strong>Qwen</strong> (Qwen3-Max series) &#8211; Alibaba&#8217;s flagship model offering balanced performance</li>
+<li><strong>GLM</strong> (GLM-5 / GLM-4.7) &#8211; Zhipu AI&#8217;s top-tier solution for coding and agent tasks</li>
+<li><strong>Kimi</strong> (K2.5 series) &#8211; Moonshot AI&#8217;s specialized model for long context comprehension</li>
+<li><strong>Doubao Seed 2.0</strong> (Pro/Lite/Mini) &#8211; ByteDance&#8217;s fast and cost-effective options</li>
+<li><strong>MiniMax</strong> (M2.5) &#8211; A lightweight yet powerful model</li>
+<li><strong>Step</strong> (3.5 Flash) &#8211; StepFun&#8217;s blazing-fast inference model</li>
+<li><strong>Baichuan</strong> (Baichuan4-Turbo) &#8211; Strong in Chinese language understanding</li>
+<li><strong>Spark</strong> (v4.0 Ultra) &#8211; iFlytek&#8217;s specialist in speech and Chinese NLP</li>
+<li><strong>Hunyuan</strong> (Turbo-S) &#8211; Tencent&#8217;s model with WeChat ecosystem integration</li>
+</ul>
+<h2>Getting Started: Quick and Easy Model Switching</h2>
+<p>One of the most convenient features of the Chinese LLM Router is how easily you can switch between models. With simple commands, you can activate different AI capabilities on demand:</p>
+<ul>
+<li><code>Use DeepSeek V3.2 for this conversation</code> &#8211; Instantly switch to DeepSeek&#8217;s reasoning powerhouse</li>
+<li><code>Which Chinese model is best for coding? Switch to it.</code> &#8211; Get a smart recommendation and immediately apply it</li>
+</ul>
+<h2>Complete Command Reference</h2>
+<p>The skill offers a comprehensive set of commands to manage your Chinese LLM access:</p>
+<p><code>list models</code> &#8211; Shows all available Chinese LLMs with their current status</p>
+<p><code>use &lt;model&gt;</code> &#8211; Switches to your specified Chinese LLM</p>
+<p><code>compare &lt;models&gt;</code> &#8211; Compares the capabilities and pricing of selected models</p>
+<p><code>recommend &lt;task&gt;</code> &#8211; Gets the best model recommendation for your specific task type</p>
+<p><code>test &lt;model&gt;</code> &#8211; Verifies connectivity by sending a test prompt</p>
+<p><code>status</code> &#8211; Checks which models are currently accessible</p>
+<h2>Model Selection Guide: The Right Tool for Every Task</h2>
+<p>With so many excellent Chinese LLM options, choosing the right one for your specific needs can be challenging. Here&#8217;s a curated guide:</p>
+<table>
+<thead>
+<tr>
+<th>Task</th>
+<th>Recommended Model</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>General chat</td>
+<td>Qwen3-Max</td>
+<td>Best all-rounder with strong Chinese language capabilities</td>
+</tr>
+<tr>
+<td>Coding</td>
+<td>GLM-5 / Kimi K2.5</td>
+<td>Both excel in coding benchmarks and developer support</td>
+</tr>
+<tr>
+<td>Math &amp; reasoning</td>
+<td>DeepSeek R1</td>
+<td>Purpose-built for complex reasoning tasks</td>
+</tr>
+<tr>
+<td>Long documents</td>
+<td>Kimi K2.5 (128K) / DeepSeek V3.2 (1M)</td>
+<td>Massive context windows for extended content</td>
+</tr>
+<tr>
+<td>Fast &amp; cheap</td>
+<td>Step 3.5 Flash / Doubao Seed 2.0 Mini</td>
+<td>Sub-second latency at affordable prices</td>
+</tr>
+<tr>
+<td>Creative writing</td>
+<td>Qwen3-Max / Doubao Seed 2.0 Pro</td>
+<td>Rich expression capabilities in Chinese language</td>
+</tr>
+<tr>
+<td>Agent tasks</td>
+<td>GLM-5 / Qwen3-Max</td>
+<td>Best tool-use and API integration support</td>
+</tr>
+</tbody>
+</table>
+<h2>Configuration Made Simple</h2>
+<p>The skill uses a straightforward configuration system that reads from either environment variables or a local config file. The settings formatted as follows:</p>
+<pre><code//pre><
 
 
-**The Chinese LLM Router** skill for OpenClaw is a game-changer for anyone needing access to cutting-edge Chinese-language large language models. This comprehensive guide will walk you through everything you need to know about this powerful tool that connects your OpenClaw to a diverse ecosystem of Chinese AI models.
+<p>For each provider, you'll need to specify:</p>
+<ul>
+<li>API keys (obtained from each provider's platform)</li>
+<li>The base URL for their API endpoint</li>
+<li>The available models you want to access</li>
+</ul>
+<h2>Initial Setup Process</h2>
+<p>Getting started with the Chinese LLM Router skill involves a few simple steps:</p>
+<ol>
+<li>Sign up for API keys from the providers you're interested in:</li>
+<ul>
+<li>DeepSeek: <a href=
 
-In this article, we'll explore:
-
-* The core capabilities of the Chinese LLM Router
-* How to quickly get started with different Chinese AI models
-* Command reference for seamless model switching
-* Task-specific model recommendations
-* Configuration and setup details
-* Pricing comparison across major providers
-
-The Power of Unified Access
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/xdd-xund/chinese-llm-router/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/xdd-xund/chinese-llm-router/SKILL.md</a></p>

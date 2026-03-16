@@ -1,13 +1,45 @@
 ---
 layout: post
 title: 'OpenClaw Skill: ChatGPT History Import'
-date: 2026-03-13 18:16:37
+date: '2026-03-13T18:16:37'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/openclaw-skill-chatgpt-history-import
+original_url: https://insightginie.com/openclaw-skill-chatgpt-history-import/
+featured_image: /media/images/8141.jpg
 ---
 
-
-
-What This Skill Does
+<h2>What This Skill Does</h2>
+<p>The ChatGPT History Import skill allows you to seamlessly migrate your ChatGPT conversations into OpenClaw&#8217;s memory search system. This powerful feature enables you to maintain continuity with your previous AI interactions by making all your past ChatGPT conversations searchable within OpenClaw.</p>
+<h2>Why You Need This Skill</h2>
+<p>If you&#8217;re transitioning from ChatGPT to OpenClaw, this skill solves a critical problem: losing access to your conversation history. By importing your ChatGPT conversations, you can:</p>
+<ul>
+<li>Continue building on previous discussions without starting from scratch</li>
+<li>Search through past conversations for specific information or insights</li>
+<li>Create a comprehensive archive of your AI interactions</li>
+<li>Maintain context across different AI platforms</li>
+</ul>
+<h2>How It Works</h2>
+<p>The skill follows a straightforward four-step process that transforms your ChatGPT conversations into searchable OpenClaw memories:</p>
+<h3>Step 1: Export from ChatGPT</h3>
+<p>Begin by downloading your conversation history from ChatGPT using OpenAI&#8217;s export tools. You&#8217;ll receive a <code>conversations.json</code> file containing all your chat data.</p>
+<h3>Step 2: Convert to Markdown</h3>
+<p>The skill includes a conversion script that transforms the JSON data into individual Markdown files. This format is optimized for embedding and makes your conversations more readable and searchable.</p>
+<h3>Step 3: Embed into SQLite Database</h3>
+<p>Using OpenAI&#8217;s embedding API, the skill processes each conversation and stores it in a SQLite database. This creates a searchable index that OpenClaw can access efficiently.</p>
+<h3>Step 4: Configure OpenClaw</h3>
+<p>Finally, you add the generated database as an extra search path in your OpenClaw configuration. After restarting the gateway, your ChatGPT conversations become fully integrated into OpenClaw&#8217;s memory search.</p>
+<h2>Technical Requirements</h2>
+<p>The skill requires an OpenAI API key for embedding conversations. The process is cost-effective, with approximately 2,400 conversations costing around $0.15 using the <code>text-embedding-3-small</code> model. The skill also includes safety features like refusing to overwrite existing databases and not storing your API key in the output.</p>
+<h2>Key Benefits</h2>
+<ul>
+<li><strong>Seamless Migration</strong>: Transition from ChatGPT to OpenClaw without losing valuable conversation history</li>
+<li><strong>Enhanced Searchability</strong>: Access your entire conversation history through OpenClaw&#8217;s powerful memory search</li>
+<li><strong>Cost-Effective</strong>: Minimal embedding costs make it practical for large conversation archives</li>
+<li><strong>Privacy-Focused</strong>: No API keys stored in the final database, and you can filter sensitive content before processing</li>
+</ul>
+<h2>Getting Started</h2>
+<p>To use this skill, you&#8217;ll need to follow the workflow outlined in the documentation. The process is well-documented with clear steps and options for customization, such as filtering trivial conversations and adjusting batch sizes for embedding.</p>
+<h2>Who Should Use This</h2>
+<p>This skill is ideal for anyone migrating from ChatGPT to OpenClaw, users who want to maintain searchable archives of their AI conversations, or teams building knowledge bases from past AI interactions. It&#8217;s particularly valuable for professionals who rely on AI assistants for research, writing, or problem-solving and need to reference past conversations.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/samdickson22/chatgpt-import/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/samdickson22/chatgpt-import/SKILL.md</a></p>

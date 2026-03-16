@@ -1,11 +1,9 @@
-import requests
 import os
+import requests
+import yaml
 import json
-import subprocess
 import re
 from pathlib import Path
-from urllib.parse import urlparse
-from markdownify import markdownify as md
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
@@ -17,39 +15,34 @@ CATEGORY_API = f"{SITE}/wp-json/wp/v2/categories"
 POST_DIR = "../_posts"
 MEDIA_DIR = "../media/images"
 
-INDEX_FILE = "../index/posts.json"
-SYNC_FILE = "../index/sync.json"
+STATE_FILE = "last_sync.json"
 
 PER_PAGE = 100
-THREADS = 10
+MAX_WORKERS = 10
 
-os.makedirs(POST_DIR, exist_ok=True)
-os.makedirs(MEDIA_DIR, exist_ok=True)
-os.makedirs("../index", exist_ok=True)
+Path(POST_DIR).mkdir(exist_ok=True)
+Path(MEDIA_DIR).mkdir(parents=True, exist_ok=True)
 
 
-def sanitize(content):
+# -----------------------------
+# Load sync state
+# -----------------------------
 
-    content = content.replace("‘", "'").replace("’", "'")
+def load_state():
+    if os.path.exists(STATE_FILE):
+        with open(STATE_FILE) as f:
+            return json.load(f)
+    return {"last_id": 0}
 
-    content = re.sub(
-        r"\{%\s*include\s+(.+?)\s*%\}",
-        r"`{% include \1 %}`",
-        content
-    )
 
-    content = content.replace("{{", "`{{")
-    content = content.replace("}}", "}}`")
+def save_state(state):
+    with open(STATE_FILE, "w") as f:
+        json.dump(state, f)
 
-    content = re.sub(
-        r"<script.*?>.*?</script>",
-        "",
-        content,
-        flags=re.DOTALL
-    )
 
-    return content
-
+# -----------------------------
+# Fetch categories
+# -----------------------------
 
 def fetch_categories():
 
@@ -58,9 +51,7 @@ def fetch_categories():
 
     while True:
 
-        url = f"{CATEGORY_API}?per_page=100&page={page}"
-
-        r = requests.get(url)
+        r = requests.get(f"{CATEGORY_API}?per_page=100&page={page}")
 
         if r.status_code != 200:
             break
@@ -84,112 +75,115 @@ def fetch_categories():
 
 def resolve_category(cat_id, categories):
 
-    parts = []
+    path = []
 
     while cat_id in categories:
 
         c = categories[cat_id]
 
-        parts.append(c["slug"])
+        path.append(c["slug"])
 
         if c["parent"] == 0:
             break
 
         cat_id = c["parent"]
 
-    parts.reverse()
+    path.reverse()
 
-    return parts
+    return path
 
+
+# -----------------------------
+# Download image
+# -----------------------------
 
 def download_image(url):
 
-    filename = os.path.basename(urlparse(url).path)
+    filename = url.split("/")[-1]
 
-    path = os.path.join(MEDIA_DIR, filename)
+    local_path = f"{MEDIA_DIR}/{filename}"
 
-    if os.path.exists(path):
-        return filename
+    if os.path.exists(local_path):
+        return f"/media/images/{filename}"
 
     try:
 
-        r = requests.get(url)
+        img = requests.get(url, timeout=30)
 
-        if r.status_code == 200:
+        if img.status_code == 200:
 
-            with open(path, "wb") as f:
-                f.write(r.content)
+            with open(local_path, "wb") as f:
+                f.write(img.content)
 
-    except:
+            return f"/media/images/{filename}"
+
+    except Exception:
         pass
 
-    return filename
+    return None
 
 
-def process_images(content):
+# -----------------------------
+# Clean content
+# -----------------------------
 
-    urls = re.findall(r'https?://[^"]+\.(jpg|jpeg|png|webp)', content)
+def sanitize(content):
 
-    if not urls:
-        return content
+    content = re.sub(
+        r"<script.*?>.*?</script>",
+        "",
+        content,
+        flags=re.DOTALL
+    )
 
-    with ThreadPoolExecutor(max_workers=THREADS) as executor:
-
-        filenames = list(executor.map(download_image, urls))
-
-    for url, name in zip(urls, filenames):
-
-        content = content.replace(url, f"/media/images/{name}")
+    content = content.replace("{%", "{% raw %}{%")
+    content = content.replace("%}", "%}{% endraw %}")
 
     return content
 
 
-def fetch_posts(last_sync):
+# -----------------------------
+# Save post
+# -----------------------------
 
-    posts = []
-    page = 1
-
-    while True:
-
-        url = f"{POST_API}?per_page={PER_PAGE}&page={page}&modified_after={last_sync}"
-
-        r = requests.get(url)
-
-        if r.status_code != 200:
-            break
-
-        data = r.json()
-
-        if not data:
-            break
-
-        posts.extend(data)
-
-        page += 1
-
-    return posts
-
-
-def convert_post(post, categories):
-
-    slug = post["slug"]
+def save_post(post, categories, executor):
 
     title = post["title"]["rendered"]
-    content = post["content"]["rendered"]
+    slug = post["slug"]
 
     date = post["date"]
+    content = post["content"]["rendered"]
 
-    content = process_images(content)
+    content = sanitize(content)
 
-    markdown = md(content)
+    original_url = post["link"]
 
-    markdown = sanitize(markdown)
+    media_url = None
 
-    cat_path = ["general"]
+    if "_embedded" in post:
 
-    if post["categories"]:
+        media = post["_embedded"].get("wp:featuredmedia")
 
-        cat_path = resolve_category(post["categories"][0], categories)
+        if media:
+            media_url = media[0]["source_url"]
+
+    media_path = None
+
+    if media_url:
+
+        future = executor.submit(download_image, media_url)
+
+        media_path = future.result()
+
+    cats = post["categories"]
+
+    if cats:
+
+        cat_path = resolve_category(cats[0], categories)
+
+    else:
+
+        cat_path = ["uncategorized"]
 
     folder = os.path.join(POST_DIR, *cat_path)
 
@@ -197,54 +191,83 @@ def convert_post(post, categories):
 
     filename = f"{date[:10]}-{slug}.md"
 
-    frontmatter = f"""---
-layout: post
-title: "{title}"
-date: {date}
-categories: {cat_path}
-original_url: {SITE}/{slug}
----
+    path = os.path.join(folder, filename)
 
-"""
+    frontmatter = {
+        "layout": "post",
+        "title": title,
+        "date": date,
+        "categories": cat_path,
+        "original_url": original_url
+    }
 
-    with open(os.path.join(folder, filename), "w", encoding="utf-8") as f:
+    if media_path:
+        frontmatter["featured_image"] = media_path
 
-        f.write(frontmatter + markdown)
+    fm = yaml.dump(frontmatter, sort_keys=False)
+
+    text = f"---\n{fm}---\n\n{content}"
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(text)
+
+    print("saved:", slug)
 
 
-def main():
+# -----------------------------
+# Sync posts
+# -----------------------------
 
-    if os.path.exists(SYNC_FILE):
+def sync():
 
-        with open(SYNC_FILE) as f:
-            last_sync = json.load(f)["last_sync"]
+    state = load_state()
 
-    else:
-
-        last_sync = "2000-01-01T00:00:00"
+    last_id = state["last_id"]
 
     categories = fetch_categories()
 
-    posts = fetch_posts(last_sync)
+    page = 1
 
-    print("posts to update:", len(posts))
+    max_id = last_id
 
-    with ThreadPoolExecutor(max_workers=THREADS) as executor:
+    executor = ThreadPoolExecutor(max_workers=MAX_WORKERS)
 
-        executor.map(lambda p: convert_post(p, categories), posts)
+    while True:
 
-    with open(SYNC_FILE, "w") as f:
+        r = requests.get(
+            f"{POST_API}?per_page={PER_PAGE}&page={page}&_embed"
+        )
 
-        json.dump({"last_sync": datetime.utcnow().isoformat()}, f)
+        if r.status_code != 200:
+            break
 
-    subprocess.run(["git", "add", "."])
+        posts = r.json()
 
-    subprocess.run(["git", "commit", "-m", "wordpress sync"])
+        if not posts:
+            break
 
-    subprocess.run(["git", "pull", "--rebase"])
+        for post in posts:
 
-    subprocess.run(["git", "push"])
+            pid = post["id"]
 
+            if pid <= last_id:
+                continue
+
+            save_post(post, categories, executor)
+
+            max_id = max(max_id, pid)
+
+        page += 1
+
+    state["last_id"] = max_id
+
+    save_state(state)
+
+
+# -----------------------------
+# Run
+# -----------------------------
 
 if __name__ == "__main__":
-    main()
+
+    sync()

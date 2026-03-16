@@ -5,8 +5,7 @@ title: InsightGinie
 
 # InsightGinie
 
-Official site:  
-https://insightginie.com
+Official site: <a href="https://insightginie.com">News of Tomorrow</a>
 
 This repository is a mirror of the InsightGinie knowledge archive.
 

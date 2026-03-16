@@ -2,13 +2,148 @@
 layout: post
 title: 'OpenClaw Community Outreach Skill: Finding and Engaging Reddit, HN, and ProductHunt
   Threads'
-date: 2026-03-06 14:14:29
+date: '2026-03-06T14:14:29'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/openclaw-community-outreach-skill-finding-and-engaging-reddit-hn-and-producthunt-threads
+original_url: https://insightginie.com/openclaw-community-outreach-skill-finding-and-engaging-reddit-hn-and-producthunt-threads/
+featured_image: /media/images/8151.jpg
 ---
 
-
-
-What Is the OpenClaw solo-community-outreach Skill?
+<h2>What Is the OpenClaw solo-community-outreach Skill?</h2>
+<p>The <strong>OpenClaw solo-community-outreach skill</strong> is a specialized automation tool designed to help founders, indie hackers, and product builders discover relevant community discussions and craft authentic, value-first responses. It focuses on three key platforms: Reddit, Hacker News (HN), and ProductHunt.</p>
+<p>Unlike generic social media automation, this skill emphasizes genuine community engagement over promotional spam. It helps users find threads where their product can provide real value, then drafts thoughtful responses that naturally mention the solution while maintaining transparency about the author&#8217;s role as the creator.</p>
+<h2>Core Functionality and Purpose</h2>
+<p>The skill serves multiple purposes:</p>
+<ul>
+<li>Finding relevant community threads where target audiences discuss problems your product solves</li>
+<li>Drafting contextual, value-first responses that prioritize helping over selling</li>
+<li>Creating comprehensive ProductHunt launch checklists for successful product launches</li>
+<li>Generating outreach plans that respect community guidelines and avoid astroturfing</li>
+</ul>
+<p>It&#8217;s particularly useful when users express needs like &#8220;find communities,&#8221; &#8220;draft outreach,&#8221; &#8220;Reddit promotion,&#8221; &#8220;ProductHunt launch,&#8221; or &#8220;community marketing.&#8221; The skill explicitly avoids handling social media posts or video scripts, which are covered by other OpenClaw skills.</p>
+<h2>How the Community Outreach Process Works</h2>
+<p>The skill follows a systematic approach to community engagement:</p>
+<h3>1. Project Analysis and Keyword Extraction</h3>
+<p>First, the skill analyzes the project by reading documentation like PRD or README files to understand the problem being solved, the solution offered, the ideal customer profile, and key features. If this information isn&#8217;t available, it prompts the user for clarification.</p>
+<p>From this analysis, it extracts four types of search keywords:</p>
+<ul>
+<li><strong>Problem keywords</strong>: What users complain about or struggle with</li>
+<li><strong>Solution keywords</strong>: What users search for when looking for answers</li>
+<li><strong>Category keywords</strong>: The broader market or niche terms</li>
+<li><strong>Competitor names</strong>: For finding &#8220;vs&#8221; and &#8220;alternative&#8221; discussions</li>
+</ul>
+<h3>2. Community Search Strategy</h3>
+<p>The skill conducts parallel searches across multiple platforms:</p>
+<h4>Reddit Searches</h4>
+<p>For each keyword group, it searches for:</p>
+<ul>
+<li>&#8220;{problem} reddit&#8221; &#8211; pain point threads</li>
+<li>&#8220;{solution category} recommendations reddit&#8221; &#8211; recommendation requests</li>
+<li>&#8220;{competitor} alternative reddit&#8221; &#8211; competitor frustration discussions</li>
+<li>&#8220;{competitor} vs reddit&#8221; &#8211; comparison threads</li>
+</ul>
+<p>It filters results to prefer threads less than 6 months old with more than 5 comments, indicating active discussions.</p>
+<h4>Hacker News Searches</h4>
+<p>Searches include:</p>
+<ul>
+<li>&#8220;Show HN: {similar product category}&#8221; &#8211; similar launches</li>
+<li>&#8220;Ask HN: {problem domain}&#8221; &#8211; questions in the space</li>
+<li>&#8220;{competitor name} site:news.ycombinator.com&#8221; &#8211; competitor mentions</li>
+</ul>
+<h4>ProductHunt Searches</h4>
+<p>Searches cover:</p>
+<ul>
+<li>&#8220;{product category} site:producthunt.com&#8221; &#8211; similar launches</li>
+<li>&#8220;{competitor} site:producthunt.com&#8221; &#8211; competitor pages</li>
+</ul>
+<h3>3. Response Drafting Strategy</h3>
+<p>Before drafting responses, the skill outlines its outreach strategy:</p>
+<ul>
+<li>Identifies the top 5 most relevant threads based on activity and relevance</li>
+<li>Defines appropriate tone for each community (casual for Reddit, technical for HN, enthusiastic for PH)</li>
+<li>Establishes a value-first angle that prioritizes helping before mentioning the product</li>
+<li>Sets clear boundaries against astroturfing and fake accounts</li>
+</ul>
+<p>Each response follows a specific format:</p>
+<ul>
+<li>Directly addresses the question or problem</li>
+<li>Provides genuine value through tips, experience, or data</li>
+<li>Makes a natural product mention in the final paragraph</li>
+<li>Includes a transparent disclosure like &#8220;disclaimer: I&#8217;m the developer&#8221;</li>
+</ul>
+<h3>4. ProductHunt Launch Checklist</h3>
+<p>The skill generates a comprehensive ProductHunt launch checklist covering:</p>
+<ul>
+<li><strong>Pre-Launch (1 week before)</strong>: Hunter identification, tagline preparation, screenshot collection, maker comment drafting</li>
+<li><strong>Launch Day</strong>: Post verification, immediate maker comment, community sharing, rapid comment responses</li>
+<li><strong>Post-Launch</strong>: Thanking supporters, collecting feedback, implementing improvements</li>
+</ul>
+<h2>Technical Implementation Details</h2>
+<p>The skill leverages multiple MCP (Model Context Protocol) tools:</p>
+<ul>
+<li><code>web_search(query, engines, include_raw_content)</code> &#8211; for searching Reddit, HN, and the web</li>
+<li><code>kb_search(query)</code> &#8211; for finding related methodology</li>
+<li><code>project_info(name)</code> &#8211; for getting project details</li>
+</ul>
+<p>If MCP tools aren&#8217;t available, it falls back to WebSearch/WebFetch as primary methods. For optimal results with engine routing, it recommends setting up SearXNG (a private, self-hosted search engine).</p>
+<h2>Critical Rules and Best Practices</h2>
+<p>The skill enforces several non-negotiable rules to ensure ethical community engagement:</p>
+<ol>
+<li><strong>Value first, product second</strong> &#8211; Every response must genuinely help the person before mentioning the product</li>
+<li><strong>Always disclose</strong> &#8211; Include &#8220;I&#8217;m the developer&#8221; or similar transparency statements</li>
+<li><strong>No vote manipulation</strong> &#8211; Never ask for upvotes or engage in vote-begging</li>
+<li><strong>No astroturfing</strong> &#8211; Never pretend to be a regular user or create fake accounts</li>
+<li><strong>Respect community rules</strong> &#8211; Check subreddit rules and platform guidelines before posting</li>
+<li><strong>Quality over quantity</strong> &#8211; Focus on 5 excellent responses rather than 50 generic ones</li>
+</ol>
+<h2>Common Issues and Solutions</h2>
+<p>Users may encounter several common challenges:</p>
+<h3>Web Search Not Available</h3>
+<p><strong>Cause</strong>: MCP web_search tool not configured or WebSearch not accessible</p>
+<p><strong>Fix</strong>: Use WebSearch/WebFetch as primary. For better results with engine routing, set up SearXNG (private, self-hosted, free) and configure solograph MCP.</p>
+<h3>No Relevant Threads Found</h3>
+<p><strong>Cause</strong>: Niche too small or wrong keywords</p>
+<p><strong>Fix</strong>: Broaden search terms. Try competitor names, problem descriptions, or adjacent categories.</p>
+<h3>Responses Sound Promotional</h3>
+<p><strong>Cause</strong>: Product mention too prominent or lacks genuine value</p>
+<p><strong>Fix</strong>: Rewrite with value-first approach: 80% helpful answer, 20% product mention. Always include builder disclosure.</p>
+<h2>Output and Documentation</h2>
+<p>The skill generates several outputs:</p>
+<ul>
+<li><strong>Community Outreach Plan</strong>: A comprehensive document saved to docs/outreach-plan.md with project details, target communities, top threads, PH checklist, and search keywords used</li>
+<li><strong>Response Drafts</strong>: Carefully crafted responses for the top 5 threads</li>
+<li><strong>ProductHunt Checklist</strong>: A detailed launch preparation guide</li>
+<li><strong>Output Summary</strong>: A brief overview of communities found, top 3 threads to engage, and PH readiness status</li>
+</ul>
+<h2>Who Should Use This Skill?</h2>
+<p>The solo-community-outreach skill is ideal for:</p>
+<ul>
+<li><strong>Indie Hackers</strong> launching their first products and seeking authentic community engagement</li>
+<li><strong>Startup Founders</strong> looking to validate their ideas and find early adopters</li>
+<li><strong>Product Managers</strong> conducting market research and competitive analysis</li>
+<li><strong>Solopreneurs</strong> who need systematic approaches to community marketing without hiring agencies</li>
+</ul>
+<p>It&#8217;s particularly valuable for those who want to build genuine relationships with their target audience rather than resorting to spammy promotional tactics.</p>
+<h2>Why This Approach Works</h2>
+<p>The skill&#8217;s methodology is based on proven community marketing principles:</p>
+<ol>
+<li><strong>Help First Philosophy</strong>: By providing genuine value before mentioning products, users build trust and credibility</li>
+<li><strong>Platform-Specific Adaptation</strong>: Different communities have different expectations and communication styles</li>
+<li><strong>Transparency Builds Trust</strong>: Disclosing your role as the creator prevents suspicion and builds authentic relationships</li>
+<li><strong>Quality Over Quantity</strong>: Focused, high-quality engagement is more effective than mass spamming</li>
+<li><strong>Systematic Approach</strong>: The structured methodology ensures consistent, repeatable results</li>
+</ol>
+<h2>Getting Started with OpenClaw</h2>
+<p>To use this skill, you&#8217;ll need:</p>
+<ul>
+<li>An OpenClaw installation with MCP tools configured</li>
+<li>Basic project documentation (PRD, README, or similar)</li>
+<li>Clear understanding of your target audience and value proposition</li>
+<li>Commitment to ethical community engagement practices</li>
+</ul>
+<p>The skill is part of the broader OpenClaw ecosystem, which includes tools for content generation, video promotion, and other marketing activities. It&#8217;s designed to work seamlessly with other skills while maintaining its focus on authentic community outreach.</p>
+<h2>Conclusion</h2>
+<p>The OpenClaw solo-community-outreach skill represents a sophisticated approach to community marketing that prioritizes authenticity, value, and ethical engagement. By systematically finding relevant discussions and crafting thoughtful responses, it helps founders build genuine relationships with their target audiences while avoiding the pitfalls of spammy promotional tactics.</p>
+<p>Whether you&#8217;re launching on ProductHunt, seeking feedback on Reddit, or engaging with technical communities on Hacker News, this skill provides the framework and tools needed for successful community outreach. The emphasis on transparency, value-first responses, and quality over quantity makes it an invaluable asset for any founder serious about building lasting relationships with their users.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-community-outreach/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/fortunto2/solo-community-outreach/SKILL.md</a></p>

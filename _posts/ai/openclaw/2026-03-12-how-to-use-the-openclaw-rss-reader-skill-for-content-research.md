@@ -1,20 +1,170 @@
 ---
 layout: post
 title: How to Use the OpenClaw RSS Reader Skill for Content Research
-date: 2026-03-12 08:45:57
+date: '2026-03-12T08:45:57'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/how-to-use-the-openclaw-rss-reader-skill-for-content-research
+original_url: https://insightginie.com/how-to-use-the-openclaw-rss-reader-skill-for-content-research/
+featured_image: /media/images/8142.jpg
 ---
 
+<p><!DOCTYPE html><br />
+<html lang="en"><br />
+<head><br />
+    <meta charset="UTF-8"><br />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><br />
+    <title>How to Use the OpenClaw RSS Reader Skill for Content Research</title><br />
+</head><br />
+<body></p>
+<h1>How to Use the OpenClaw RSS Reader Skill for Content Research</h1>
+<p>In the fast-paced digital landscape, staying updated with the latest trends and insights is crucial. The OpenClaw RSS Reader skill is a powerful tool designed to simplify content research by monitoring RSS and Atom feeds. Whether you&#8217;re tracking competitor blogs, news sites, newsletters, or any other feed source, this tool can help you stay ahead of the curve.</p>
+<h2>What is the OpenClaw RSS Reader Skill?</h2>
+<p>The OpenClaw RSS Reader skill is designed to help users monitor RSS and Atom feeds for content research. It&#8217;s particularly useful for tracking blogs, news sites, newsletters, and other feed sources. This tool can be invaluable for various purposes such as monitoring competitors, tracking industry news, finding content ideas, or building a personal news aggregator.</p>
+<h2>Key Features</h2>
+<ul>
+<li><strong>Multiple Feeds Support</strong>: You can add and manage multiple feeds with different categories.</li>
+<li><strong>Filters</strong>: Apply filters to focus on specific keywords or categories.</li>
+<li><strong>Summaries</strong>: Get concise summaries of the articles to quickly understand the content.</li>
+<li><strong>Custom Configuration</strong>: Configure the tool to suit your needs with settings like maximum items per feed and summary options.</li>
+</ul>
+<h2>Getting Started</h2>
+<p>To start using the OpenClaw RSS Reader skill, you&#8217;ll need to install it and configure it according to your requirements.</p>
+<h3>Installation</h3>
+<p>You can install the OpenClaw RSS Reader skill by cloning the repository from GitHub and running the necessary commands. The script will prompt for installations if any dependencies are missing.</p>
+<h3>Configuration</h3>
+<p>The configuration file is stored in <code>rss-reader/feeds.json</code>. Here&#8217;s an example configuration:</p>
+<pre>
+        {
+            "feeds": [
+                {
+                    "url": "https://example.com/feed.xml",
+                    "name": "Example Blog",
+                    "category": "tech",
+                    "enabled": true,
+                    "lastChecked": "2026-02-22T00:00:00Z",
+                    "lastItemDate": "2026-02-21T12:00:00Z"
+                }
+            ],
+            "settings": {
+                "maxItemsPerFeed": 10,
+                "maxAgeDays": 7,
+                "summaryEnabled": true
+            }
+        }
+    </pre>
+<h2>Quick Start</h2>
+<p>Here&#8217;s a quick guide to get you started with the OpenClaw RSS Reader skill:</p>
+<pre>
+        # Add a feed
+        node scripts/rss.js add "https://example.com/feed.xml" --category tech
 
+        # Check all feeds
+        node scripts/rss.js check
 
-How to Use the OpenClaw RSS Reader Skill for Content Research
+        # Check specific category
+        node scripts/rss.js check --category tech
 
-How to Use the OpenClaw RSS Reader Skill for Content Research
-=============================================================
+        # List feeds
+        node scripts/rss.js list
 
-In the fast-paced digital landscape, staying updated with the latest trends and insights is crucial. The OpenClaw RSS Reader skill is a powerful tool designed to simplify content research by monitoring RSS and Atom feeds. Whether you're tracking competitor blogs, news sites, newsletters, or any other feed source, this tool can help you stay ahead of the curve.
+        # Remove a feed
+        node scripts/rss.js remove "https://example.com/feed.xml"
+    </pre>
+<h2>Use Cases</h2>
+<p>The OpenClaw RSS Reader skill can be utilized in various ways to enhance your content research process.</p>
+<h3>Content Research</h3>
+<p>Monitor competitor blogs, industry publications, and thought leaders:</p>
+<pre>
+        # Add multiple feeds
+        node scripts/rss.js add "https://competitor.com/blog/feed" --category competitors
+        node scripts/rss.js add "https://techcrunch.com/feed" --category news
+        node scripts/rss.js add "https://news.ycombinator.com/rss" --category tech
 
-What is the OpenClaw RSS Reader Skill?
+        # Get recent items as content ideas
+        node scripts/rss.js check --since 24h --format ideas
+    </pre>
+<h3>Newsletter Aggregation</h3>
+<p>Track newsletters and digests:</p>
+<pre>
+        node scripts/rss.js add "https://newsletter.com/feed" --category newsletters
+    </pre>
+<h3>Keyword Monitoring</h3>
+<p>Filter items by keywords:</p>
+<pre>
+        node scripts/rss.js check --keywords "AI,agents,automation"
+    </pre>
+<h2>Output Formats</h2>
+<p>The OpenClaw RSS Reader skill supports different output formats to make it easier to consume the information.</p>
+<h3>Default (List)</h3>
+<pre>
+        [tech] Example Blog - "New Post Title" (2h ago)
+        https://example.com/post-1
+        [news] TechCrunch - "Breaking News" (4h ago)
+        https://techcrunch.com/article-1
+    </pre>
+<h3>Ideas (Content Research Mode)</h3>
+<pre>
+        ## Content Ideas from RSS (Last 24h)
+        ### Tech
+        - "New Post Title" - [Example Blog]
+            Key points: Point 1, Point 2, Point 3
+            Angle: How this relates to your niche
+        ### News
+        - "Breaking News" - [TechCrunch]
+            Key points: Summary of the article
+            Angle: Your take or response
+    </pre>
+<h3>JSON (for Automation)</h3>
+<pre>
+        node scripts/rss.js check --format json
+    </pre>
+<h2>Popular Feeds by Category</h2>
+<h3>Tech/AI</h3>
+<ul>
+<li><a href="https://news.ycombinator.com/rss">Hacker News</a></li>
+<li><a href="https://www.reddit.com/r/artificial/.rss">r/artificial</a></li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/.rss">r/LocalLLaMA</a></li>
+<li><a href="https://openai.com/blog/rss.xml">OpenAI Blog</a></li>
+</ul>
+<h3>Marketing</h3>
+<ul>
+<li><a href="https://www.reddit.com/r/Entrepreneur/.rss">r/Entrepreneur</a></li>
+<li><a href="https://www.reddit.com/r/SaaS/.rss">r/SaaS</a></li>
+</ul>
+<h3>News</h3>
+<ul>
+<li><a href="https://techcrunch.com/feed/">TechCrunch</a></li>
+<li><a href="https://www.theverge.com/rss/index.xml">The Verge</a></li>
+</ul>
+<h2>Cron Integration</h2>
+<p>You can set up daily feed checking via heartbeat or cron:</p>
+<pre>
+        // In HEARTBEAT.md
+        - Check RSS feeds once daily, summarize new items worth reading
+
+        Or via cron job:
+        clawdbot cron add --schedule "0 8 * * *" --task "Check RSS feeds and summarize: node /root/clawd/skills/rss-reader/scripts/rss.js check --since 24h --format ideas"
+    </pre>
+<h2>Dependencies</h2>
+<p>The OpenClaw RSS Reader skill requires the following dependencies:</p>
+<ul>
+<li><code>xml2js</code></li>
+<li><code>node-fetch</code></li>
+</ul>
+<p>You can install these dependencies using npm:</p>
+<pre>
+        npm install xml2js node-fetch
+    </pre>
+<h2>FAQ</h2>
+<h3>Can I use this tool to monitor my own RSS feed?</h3>
+<p>Yes, the OpenClaw RSS Reader skill can be used to monitor any RSS or Atom feed, including your own.</p>
+<h3>How frequently can I check my feeds for updates?</h3>
+<p>You can configure the tool to check your feeds as frequently as you need, but be mindful of the server load and any rate limits.</p>
+<h3>What are the system requirements?</h3>
+<p>The system requirements are minimal and typically include a basic server or local machine with Node.js installed.</p>
+<h2>Conclusion</h2>
+<p>In conclusion, the OpenClaw RSS Reader skill is a versatile and powerful tool for content research. By effectively monitoring RSS and Atom feeds, you can stay updated with the latest industry news, track competitors, and generate content ideas. The configurable nature of the tool allows you to tailor it to your specific needs, making it an invaluable asset in any content research workflow.</p>
+<p></body><br />
+</html></p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/dimitripantzos/rss-reader/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/dimitripantzos/rss-reader/SKILL.md</a></p>

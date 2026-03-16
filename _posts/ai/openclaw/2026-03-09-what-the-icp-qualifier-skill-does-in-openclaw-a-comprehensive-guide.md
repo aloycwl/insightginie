@@ -1,18 +1,83 @@
 ---
 layout: post
 title: 'What the ICP Qualifier Skill Does in OpenClaw: A Comprehensive Guide'
-date: 2026-03-09 08:45:54
+date: '2026-03-09T08:45:54'
 categories:
 - ai
 - openclaw
-original_url: https://insightginie.com/what-the-icp-qualifier-skill-does-in-openclaw-a-comprehensive-guide
+original_url: https://insightginie.com/what-the-icp-qualifier-skill-does-in-openclaw-a-comprehensive-guide/
+featured_image: /media/images/8147.jpg
 ---
 
-
-
-What the ICP Qualifier Skill Does in OpenClaw: A Comprehensive Guide
-====================================================================
-
-The ICP Qualifier Skill in OpenClaw is a powerful tool designed to help businesses identify and prioritize their ideal customer profiles (ICPs). This skill is particularly useful for companies like Visual Dept, which offers AI-powered product photography services tailored to direct-to-consumer (DTC) e-commerce brands.
-
-Understanding the ICP Qualifier Skill
+<div class="content">
+<h1>What the ICP Qualifier Skill Does in OpenClaw: A Comprehensive Guide</h1>
+<p>The ICP Qualifier Skill in OpenClaw is a powerful tool designed to help businesses identify and prioritize their ideal customer profiles (ICPs). This skill is particularly useful for companies like Visual Dept, which offers AI-powered product photography services tailored to direct-to-consumer (DTC) e-commerce brands.</p>
+<h2>Understanding the ICP Qualifier Skill</h2>
+<p>The ICP Qualifier Skill is an AI-driven agent that analyzes leads and scores them against a predefined set of criteria to determine their fit with the company&#8217;s ideal customer profile.</p>
+<h3>Key Mission</h3>
+<p>The primary mission of the ICP Qualifier Skill is to analyze leads and assign them a score based on how well they match the company&#8217;s ICP criteria. This scoring system helps businesses prioritize their outreach efforts, ensuring they focus on the most promising leads.</p>
+<h3>Ideal Customer Profile (ICP) Criteria</h3>
+<ul>
+<li><strong>Demographics</strong>: Female founders aged 28-45, running DTC Shopify stores in beauty, wellness, home, or fashion sectors, based in the United States.</li>
+<li><strong>Business Metrics</strong>: Revenue between $250K and $2M (with a sweet spot of $500K-$1M), product price points between $50-$300, 100-500 orders per month, and in business for 1-3 years.</li>
+<li><strong>Primary Verticals</strong>: Beauty &#038; cosmetics, skincare &#038; serums, wellness &#038; supplements, candles &#038; home fragrance, fashion &#038; accessories, and home goods.</li>
+<li><strong>Pain Points</strong>: DIY/amateur product photos, high spending on photoshoots, need for constant social content, conversion rates stuck at 1-2%, and reliance on generic Canva templates.</li>
+</ul>
+<h2>ICP Scoring System</h2>
+<p>The ICP Qualifier Skill uses a 100-point scoring system to evaluate leads. Each criterion is assigned a specific point value based on its importance to the ICP.</p>
+<h3>Scoring Criteria</h3>
+<ul>
+<li><strong>Visual Quality</strong>: +25 points for poor/amateur visual quality, +20 points for mediocre visual quality.</li>
+<li><strong>Follower Count</strong>: +20 points for a follower count between 1K-50K.</li>
+<li><strong>Niche Match</strong>: +15 points for being in one of the primary verticals.</li>
+<li><strong>US Location</strong>: +15 points for being based in the United States.</li>
+<li><strong>Website/Shopify Store</strong>: +10 points for having a website or Shopify store.</li>
+<li><strong>Instagram Presence</strong>: +5 points for having an Instagram account.</li>
+<li><strong>Contact Information</strong>: +5 points for having a contact name and +5 points for having an available email.</li>
+</ul>
+<h3>Lead Tiers</h3>
+<ul>
+<li><strong>HOT LEAD (70-100 points)</strong>: Prioritize immediately.</li>
+<li><strong>WARM LEAD (50-69 points)</strong>: Good fit, include in outreach.</li>
+<li><strong>COOL LEAD (30-49 points)</strong>: Lower priority, nurture.</li>
+<li><strong>COLD LEAD (<30 points)</strong>: Skip or revisit later.</li>
+</ul>
+<h2>Output Format</h2>
+<p>When qualifying a lead, the ICP Qualifier Skill provides a detailed report that includes:</p>
+<ul>
+<li><strong>Lead Qualification</strong>: The brand name and ICP score.</li>
+<li><strong>Scoring Breakdown</strong>: A table detailing the points assigned for each criterion.</li>
+<li><strong>Key Observations</strong>: Specific pain points identified, visual quality assessment, and opportunity angle.</li>
+<li><strong>Recommended Outreach Hook</strong>: A personalized hook for direct messages or emails.</li>
+</ul>
+<h2>Research Process</h2>
+<p>The ICP Qualifier Skill follows a structured research process when given a brand to qualify:</p>
+<ul>
+<li><strong>Website Check</strong>: Look for Shopify indicators, product imagery quality, and price points.</li>
+<li><strong>Instagram Review</strong>: Evaluate follower count, content quality, and engagement.</li>
+<li><strong>Visual Quality Assessment</strong>: Determine if the visuals are amateur or professional and check for consistency.</li>
+<li><strong>Contact Information</strong>: Find the founder&#8217;s name and email if available.</li>
+<li><strong>Location Verification</strong>: Confirm the brand is based in the United States.</li>
+</ul>
+<h2>Disqualification Triggers</h2>
+<p>Certain triggers can automatically disqualify a lead, classifying them as a COLD LEAD. These include:</p>
+<ul>
+<li>Already having premium studio photography.</li>
+<li>Being an Amazon-only seller with no DTC presence.</li>
+<li>Falling outside the target verticals entirely.</li>
+<li>Being an international brand with no US presence.</li>
+<li>Having fewer than 1K followers (too early stage).</li>
+<li>Having over 100K followers (likely has an agency or in-house team).</li>
+</ul>
+<h2>Benefits of Using the ICP Qualifier Skill</h2>
+<p>The ICP Qualifier Skill offers several benefits for businesses:</p>
+<ul>
+<li><strong>Efficient Lead Prioritization</strong>: Helps businesses focus on the most promising leads, increasing the likelihood of successful outreach.</li>
+<li><strong>Data-Driven Decisions</strong>: Provides objective criteria for evaluating leads, reducing reliance on gut feelings or subjective judgments.</li>
+<li><strong>Scalability</strong>: Can be applied to a large number of leads quickly and consistently, making it ideal for scaling outreach efforts.</li>
+<li><strong>Resource Optimization</strong>: Ensures that marketing and sales resources are allocated effectively, targeting leads with the highest potential for conversion.</li>
+</ul>
+<h2>Conclusion</h2>
+<p>The ICP Qualifier Skill in OpenClaw is a valuable tool for businesses looking to streamline their lead qualification process. By using a structured scoring system and detailed criteria, it helps companies identify and prioritize their ideal customer profiles, ensuring that outreach efforts are targeted, efficient, and effective.</p>
+</div>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/visualdeptcreative/icp-qualifier/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/visualdeptcreative/icp-qualifier/SKILL.md</a></p>
