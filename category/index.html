@@ -7,13 +7,11 @@ title: Categories
 
 <ul>
 
-{% assign categories = site.categories | sort %}
-
-{% for category in categories %}
+{% for category in site.categories %}
 
 <li>
 <a href="/category/{{ category[0] }}/">
-{{ category[0] }} ({{ category[1].size }})
+{{ category[0] | capitalize }} ({{ category[1].size }})
 </a>
 </li>
 
