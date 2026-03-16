@@ -98,7 +98,7 @@ The openclaw/govee-control skill provides several commands to control your Govee
 curl -sS -X PUT "https://developer-api.govee.com/v1/devices/control" \
 -H "Govee-API-Key: $GOVEE_API_KEY" \
 -H "Content-Type: application/json" \
--d '{"device":"","model":"","cmd":{"name":"turn","value":"on"}}'
+-d '{"device":"","model":"","cmd":{"name":"turn","value":"on"}}`'
 ```
 
 ### Turn Off
@@ -107,7 +107,7 @@ curl -sS -X PUT "https://developer-api.govee.com/v1/devices/control" \
 curl -sS -X PUT "https://developer-api.govee.com/v1/devices/control" \
 -H "Govee-API-Key: $GOVEE_API_KEY" \
 -H "Content-Type: application/json" \
--d '{"device":"","model":"","cmd":{"name":"turn","value":"off"}}'
+-d '{"device":"","model":"","cmd":{"name":"turn","value":"off"}}`'
 ```
 
 ### Adjust Brightness (1-100)
@@ -116,7 +116,7 @@ curl -sS -X PUT "https://developer-api.govee.com/v1/devices/control" \
 curl -sS -X PUT "https://developer-api.govee.com/v1/devices/control" \
 -H "Govee-API-Key: $GOVEE_API_KEY" \
 -H "Content-Type: application/json" \
--d '{"device":"","model":"","cmd":{"name":"brightness","value":75}}'
+-d '{"device":"","model":"","cmd":{"name":"brightness","value":75}}`'
 ```
 
 You can replace the value `75` with any number between 1 and 100 to set the desired brightness level.
@@ -127,7 +127,7 @@ You can replace the value `75` with any number between 1 and 100 to set the desi
 curl -sS -X PUT "https://developer-api.govee.com/v1/devices/control" \
 -H "Govee-API-Key: $GOVEE_API_KEY" \
 -H "Content-Type: application/json" \
--d '{"device":"","model":"","cmd":{"name":"color","value":{"r":120,"g":180,"b":255}}}'
+-d '{"device":"","model":"","cmd":{"name":"color","value":{"r":120,"g":180,"b":255}}`}'
 ```
 
 Replace the RGB values `r`, `g`, and `b` with your desired color values (each ranging from 0 to 255).

@@ -41,7 +41,7 @@ To test for SQL injection, start with simple payloads like `' OR '1'='1` in logi
 
 XSS is like the annoying little sibling of SQL injection. Instead of targeting the database, it **injects malicious scripts into web pages** that other users will execute. It’s like leaving a booby-trapped cookie on someone’s desk—except the cookie is code, and the desk is a website. If a site doesn’t properly escape user input, you can inject JavaScript that steals cookies, redirects users, or even defaces the page.
 
-There are three types of XSS: stored, reflected, and DOM-based. Stored XSS is the most dangerous because it’s persistent—like a bad tattoo. Reflected XSS is more temporary, like a hiccup. DOM-based XSS is the sneakiest of the bunch, hiding in the shadows of the Document Object Model. To test for XSS, try injecting simple scripts like `<script>alert('XSS')</script>` into input fields. If you see a popup, you’ve found a vulnerability. Just don’t be that guy who leaves it there for everyone to see.
+There are three types of XSS: stored, reflected, and DOM-based. Stored XSS is the most dangerous because it’s persistent—like a bad tattoo. Reflected XSS is more temporary, like a hiccup. DOM-based XSS is the sneakiest of the bunch, hiding in the shadows of the Document Object Model. To test for XSS, try injecting simple scripts like `` into input fields. If you see a popup, you’ve found a vulnerability. Just don’t be that guy who leaves it there for everyone to see.
 
 ### Cross-Site Request Forgery (CSRF): The Puppet Master
 

@@ -212,7 +212,7 @@ curl https://elizacloud.ai/api/v1/discovery \
 # 2. Delegate task to specialist agent  
 curl -X POST https://elizacloud.ai/api/a2a \  
 	-H \"Authorization: Bearer $ELIZACLOUD_API_KEY\" \  
-	-d \'{\"jsonrpc\": \"2.0\", \"method\": \"tasks/send\", \"params\": {\"message\": {\"role\": \"user\", \"parts\": [{\"type\": \"text\", \"text\": \"Analyze financial data\"}]}}}\
+	-d \'{\"jsonrpc\": \"2.0\", \"method\": \"tasks/send\", \"params\": {\"message\": {\"role\": \"user\", \"parts\": [{\"type\": \"text\", \"text\": \"Analyze financial data\"}]}}`}\
 ```
 
 Onboarding and Credits Management

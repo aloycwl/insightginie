@@ -6,7 +6,7 @@ categories: [24854]
 original_url: https://insightginie.com/opc-one-person-company-framework-complete-ai-agent-system-for-solo-entrepreneurs
 ---
 
-{% include ‘header.html’ %}
+`{% include ‘header.html’ %}`
 
 What is the OPC Framework?
 --------------------------
@@ -207,6 +207,6 @@ Whether you’re just starting out or looking to scale your existing solo ventur
 
 Ready to transform your solo venture? The OPC Framework is waiting to help you build the business of your dreams.
 
-{% include ‘footer.html’ %}
+`{% include ‘footer.html’ %}`
 
 Skill can be found at: <https://github.com/openclaw/skills/tree/main/skills/tohnee/opc/SKILL.md>

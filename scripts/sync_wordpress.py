@@ -47,6 +47,28 @@ def save_sync():
     with open(SYNC_FILE, "w") as f:
         json.dump({"last_sync": now}, f)
 
+def sanitize_markdown(content):
+
+    import re
+
+    content = re.sub(
+        r"\{%\s*include\s+(.+?)\s*%\}",
+        r"`{% include \1 %}`",
+        content
+    )
+
+    content = content.replace("{{", "`{{")
+    content = content.replace("}}", "}}`")
+
+    content = re.sub(
+        r"<script.*?>.*?</script>",
+        "",
+        content,
+        flags=re.DOTALL
+    )
+
+    return content
+
 
 def fetch_posts(last_sync):
 
@@ -135,7 +157,7 @@ def convert_post(post):
 
     content = process_images(content)
 
-    markdown = md(content)
+    markdown = sanitize_markdown(md(content))
 
     folder = f"{POST_DIR}/{category}/{subcategory}"
 

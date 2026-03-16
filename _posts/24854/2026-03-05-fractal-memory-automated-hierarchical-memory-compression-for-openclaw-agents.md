@@ -98,7 +98,7 @@ To set up Fractal Memory, follow these steps:
 1. **Set Up Directory Structure**:
 
 ```
-mkdir -p memory/diary/{2026/{daily,weekly,monthly},sticky-notes/{workflows,apis,commands,facts}}
+mkdir -p memory/diary/{2026/{daily,weekly,monthly},sticky-notes/{workflows,apis,commands,facts}}`
 ```
 
 2. **Initialize State Files**:

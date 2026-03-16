@@ -49,7 +49,7 @@ These changes break existing user code and require version bumps:
 **Examples:**
 
 * removeUser() → deleteUser()
-* API response format changed from {id: 1} to {data: {id: 1}}
+* API response format changed from {id: 1} to {data: {id: 1}}`
 * Dropping support for Node 16 (if users must upgrade)
 
 ### 🟡 MINOR (New Features)
