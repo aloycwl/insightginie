@@ -20,9 +20,7 @@
 
 <ul>
 
-{% assign categories = site.categories | sort %}
-
-{% for category in categories %}
+{% for category in site.categories %}
 
 <li>
 <a href="/category/{{ category[0] }}/">
