@@ -7,7 +7,7 @@ POST_DIR = BASE_DIR / "_posts"
 
 SGT_OFFSET = timedelta(hours=8)
 
-date_pattern = re.compile(r"date:\s*'([^']+)'")
+date_pattern = re.compile(r"date:\s*['\"]?([0-9T:\-]+)['\"]?")
 
 def convert_date(date_str):
     dt = datetime.fromisoformat(date_str)
@@ -48,5 +48,5 @@ def run():
 
     print("\nupdated", count, "posts")
 
-if __name__ == "main":
+if __name__ == "__main__":
     run()
