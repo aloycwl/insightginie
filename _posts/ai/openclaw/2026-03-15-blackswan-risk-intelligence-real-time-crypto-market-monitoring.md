@@ -9,4 +9,5 @@ original_url: https://insightginie.com/blackswan-risk-intelligence-real-time-cry
 ---
 
 
+
 Understanding BlackSwan Risk Intelligence

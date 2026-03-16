@@ -10,4 +10,5 @@ original_url: https://insightginie.com/splitxch-royalty-split-builder-create-com
 ---
 
 
+
 What is SplitXCH?

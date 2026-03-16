@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-pqc-safety-net-why-hash-based-signatu
 ---
 
 
+
 As the digital world hurtles toward the era of quantum computing, the migration to Post-Quantum Cryptography (PQC) has shifted from a theoretical discussion to an urgent operational mandate. In August 2024, the National Institute of Standards and Technology (NIST) finalized its first set of PQC standards, giving organizations the tools they need to protect data from future quantum attacks.
 
 However, a closer look at these standards reveals a deliberate dichotomy. On one side, we have **Lattice-based algorithms** (like ML-DSA, formerly Dilithium), which are fast, efficient, and intended for general use. On the other side, we have **Hash-based signatures** (specifically SLH-DSA, formerly SPHINCS+). The latter are slower and produce larger signatures, yet they hold a position of reverence among cryptographers.

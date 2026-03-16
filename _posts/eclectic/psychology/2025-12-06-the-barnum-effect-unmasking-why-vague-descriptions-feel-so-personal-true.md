@@ -10,4 +10,5 @@ original_url: https://insightginie.com/the-barnum-effect-unmasking-why-vague-des
 ---
 
 
+
 Introduction: The Universal Truth of You (Or Is It?)

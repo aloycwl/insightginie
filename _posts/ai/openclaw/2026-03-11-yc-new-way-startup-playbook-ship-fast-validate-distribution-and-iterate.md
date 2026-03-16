@@ -10,4 +10,5 @@ original_url: https://insightginie.com/yc-new-way-startup-playbook-ship-fast-val
 ---
 
 
+
 What the YC “New Way” Skill Does

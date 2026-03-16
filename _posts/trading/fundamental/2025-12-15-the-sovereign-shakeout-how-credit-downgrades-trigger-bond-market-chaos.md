@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-sovereign-shakeout-how-credit-downgra
 ---
 
 
+
 In the hierarchy of global finance, sovereign debt is supposed to be the bedrock—the “risk-free” foundation upon which all other assets are priced. But what happens when the bedrock cracks?
 
 A sovereign credit downgrade is more than just a bad report card for a government; it is a seismic event that forces a violent repricing of risk across the entire financial ecosystem. When the “Big Three” rating agencies—Standard & Poor's, Moody's, and Fitch—decide that a nation is no longer a safe borrower, the consequences ripple from the bond pits of New York and London to the pension funds of Tokyo and the street markets of the affected nation.

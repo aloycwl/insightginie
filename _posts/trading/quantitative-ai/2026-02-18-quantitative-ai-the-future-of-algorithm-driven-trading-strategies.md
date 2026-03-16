@@ -9,4 +9,5 @@ original_url: https://insightginie.com/quantitative-ai-the-future-of-algorithm-d
 ---
 
 
+
 Introduction to Quantitative AI in Trading

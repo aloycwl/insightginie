@@ -9,6 +9,7 @@ original_url: https://insightginie.com/in-case-you-missed-out-on-aws-summit-may-
 ---
 
 
+
 Had an amazing time at **AWS Summit 2025** at Marina Bay Sands on 29 May! It was a high-energy day packed with **learning, innovation, and networking**.
 
 AWS once again showcased why they're the leader in **cloud computing** and **AI as a Service**, offering seamless solutions that connect **developers, vendors**, and **end users**. From infrastructure to innovation, there's almost nothing you *can't* build on AWS — and do it with ease.

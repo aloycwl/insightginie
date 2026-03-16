@@ -11,6 +11,7 @@ featured_image: /media/images/2504220135.avif
 
 
 
+
 The concept of using a simple camera to monitor a person's health may sound like science fiction, but RGB video health monitoring is turning this futuristic idea into a practical reality. Leveraging standard red, green, and blue (RGB) imaging found in everyday webcams and smartphone cameras, this emerging field allows for non-contact measurement of physiological parameters such as heart rate, respiration rate, blood oxygen levels, and even emotional state. This innovative technique represents a powerful convergence of computer vision, biomedical engineering, and artificial intelligence.
 
 RGB video health monitoring primarily works through the principle of remote photoplethysmography (rPPG). Every time the heart beats, blood flows through the body in rhythmic pulses, causing tiny changes in the color of the skin that are imperceptible to the human eye but detectable by sensitive algorithms. These color variations, especially in areas of the face, can be extracted from RGB video footage. Once analyzed frame-by-frame using sophisticated signal processing and deep learning models, the data yields surprisingly accurate estimations of vital signs—all without needing physical contact with the subject.

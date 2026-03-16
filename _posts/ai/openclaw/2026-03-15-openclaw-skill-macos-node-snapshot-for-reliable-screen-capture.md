@@ -9,6 +9,7 @@ original_url: https://insightginie.com/openclaw-skill-macos-node-snapshot-for-re
 ---
 
 
+
 The OpenClaw skill **mac-node-snapshot** provides a robust solution for capturing screenshots on macOS systems, particularly in environments where traditional screen capture methods face permission limitations. This skill leverages OpenClaw's node screen.record functionality to create a reliable workflow for obtaining high-quality screen captures.
 
 How It Works

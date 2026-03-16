@@ -12,6 +12,7 @@ featured_image: /media/images/2505021236.avif
 
 
 
+
 In the ever-evolving landscape of Ethereum and public blockchain infrastructure, the introduction of Proposer-Builder Separation (PBS) stands out as a critical innovation aimed at improving security, transparency, and fairness. At its heart, PBS is a structural design change that separates the responsibilities of building blocks from those of proposing them, addressing long-standing concerns about conflicts of interest and centralization within the Ethereum ecosystem. This separation of roles not only boosts the performance of the blockchain but also strengthens its trustless foundation, making it more attractive to both everyday users and institutional stakeholders.
 
 Traditionally, validators in Ethereum have worn two hats: they are both the builders of blocks—choosing which transactions to include and in what order—and the proposers of those blocks for network consensus. This combined role introduces several problems, especially as the economic stakes rise and the opportunities for manipulation increase. Validators with access to high-value transaction ordering, particularly those involving Maximal Extractable Value (MEV), could prioritize their own profits at the expense of user fairness and market neutrality. In such a model, the concentration of power in the hands of a few well-resourced validators undermines decentralization and fosters potential trust issues in the protocol.

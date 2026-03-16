@@ -10,6 +10,7 @@ original_url: https://insightginie.com/seeing-faces-in-the-clouds-unmasking-pare
 ---
 
 
+
 Have you ever looked at a cloud and distinctly seen the shape of a dog, or stared at a piece of toast only to find a surprisingly clear image of a celebrity? Perhaps you've spotted a grumpy face in the front of a car or a startled expression on a plug socket. If so, you're not alone. This universal human experience, where our brains perceive meaningful patterns or images in random or ambiguous stimuli, has a name: **Pareidolia**.
 
 What Exactly is Pareidolia?

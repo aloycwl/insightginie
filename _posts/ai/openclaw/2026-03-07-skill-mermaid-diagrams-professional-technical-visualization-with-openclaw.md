@@ -9,4 +9,5 @@ original_url: https://insightginie.com/skill-mermaid-diagrams-professional-techn
 ---
 
 
+
 Introduction to Skill Mermaid Diagrams

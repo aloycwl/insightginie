@@ -9,4 +9,5 @@ original_url: https://insightginie.com/sun-tzus-art-of-war-7-timeless-strategies
 ---
 
 
+
 Introduction: The Battlefield of Modern Sales

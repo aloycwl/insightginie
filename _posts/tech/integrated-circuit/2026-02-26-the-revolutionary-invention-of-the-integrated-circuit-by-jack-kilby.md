@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-revolutionary-invention-of-the-integr
 ---
 
 
+
 The Birth of the Integrated Circuit

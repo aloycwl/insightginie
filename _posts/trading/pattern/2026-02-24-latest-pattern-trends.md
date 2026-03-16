@@ -9,6 +9,7 @@ original_url: https://insightginie.com/latest-pattern-trends
 ---
 
 
+
 Latest Pattern Trends
 =====================
 

@@ -11,6 +11,7 @@ featured_image: /media/images/171209.avif
 
 
 
+
 Latest Medtech Trends
 =====================
 

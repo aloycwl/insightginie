@@ -9,6 +9,7 @@ original_url: https://insightginie.com/why-we-value-today-more-than-tomorrow-und
 ---
 
 
+
 Why We Value Today More Than Tomorrow: Understanding Time Discounting
 =====================================================================
 

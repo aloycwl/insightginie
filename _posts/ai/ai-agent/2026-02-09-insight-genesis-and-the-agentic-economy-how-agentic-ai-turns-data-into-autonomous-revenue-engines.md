@@ -10,4 +10,5 @@ original_url: https://insightginie.com/insight-genesis-and-the-agentic-economy-h
 ---
 
 
+
 Introduction: From Digital Transformation to Agentic Transformation

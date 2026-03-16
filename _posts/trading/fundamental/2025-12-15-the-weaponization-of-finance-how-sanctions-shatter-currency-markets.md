@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-weaponization-of-finance-how-sanction
 ---
 
 
+
 In the modern era, the most devastating battles are not fought with ballistics or boots on the ground; they are fought on balance sheets. Economic sanctions have evolved into the primary weapon of choice for global superpowers, serving as a non-kinetic method to coerce adversaries. For the foreign exchange (FX) market, the deployment of these financial weapons creates shockwaves that can obliterate a currency's value overnight, alter trade flows, and fundamentally reshape the global financial architecture.
 
 Understanding the relationship between sanctions and currency valuation is critical for investors, corporate treasurers, and policymakers. When a nation is sanctioned, the rules of supply and demand are violently interrupted by the heavy hand of geopolitics.

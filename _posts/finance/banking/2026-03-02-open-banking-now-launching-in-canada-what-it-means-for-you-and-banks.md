@@ -9,4 +9,5 @@ original_url: https://insightginie.com/open-banking-now-launching-in-canada-what
 ---
 
 
+
 Introduction

@@ -12,6 +12,7 @@ featured_image: /media/images/2505060933.avif
 
 
 
+
 *Fusobacterium nucleatum* (Fn) is an anaerobic gram-negative bacterium commonly found in the oral cavity but now widely implicated in **colorectal cancer, periodontitis, and other systemic diseases**. Known for its ability to form biofilms, invade host tissues, and promote inflammatory environments conducive to tumor growth, Fn is a growing concern in both **oral health and oncology**. As antibiotic resistance rises and synthetic antimicrobials lose effectiveness, researchers are turning to **natural plant extracts**—rich in bioactive compounds—for safe and sustainable alternatives to inhibit Fn growth and virulence.
 
 This article explores the **most promising plant extracts** that have been shown to suppress *Fusobacterium nucleatum*, their mechanisms of action, and their potential role in **preventing disease and supporting integrative therapies**.

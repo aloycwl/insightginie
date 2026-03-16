@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-correlation-vs-causation-fallacy-why-
 ---
 
 
+
 Here is a terrifying statistic: As ice cream sales increase, so do shark attacks.
 
 If you look at the raw data, the correlation is undeniable. The two lines on the graph move in perfect lockstep. If you were a reactive politician or a panicked parent, the solution would seem obvious: ban ice cream to save the swimmers.

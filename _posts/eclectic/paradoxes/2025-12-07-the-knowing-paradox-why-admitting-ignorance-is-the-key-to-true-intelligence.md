@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-knowing-paradox-why-admitting-ignoran
 ---
 
 
+
 In a corporate boardroom, a classroom, or a dinner party, we are conditioned to believe that the smartest person in the room is the one with all the answers. We reward the raised hand, the quick retort, and the unwavering confidence of the expert. We view “I don't know” as a phrase of weakness, a signal of incompetence, or a failure of preparation.
 
 But history, psychology, and neuroscience suggest that we have it backward.

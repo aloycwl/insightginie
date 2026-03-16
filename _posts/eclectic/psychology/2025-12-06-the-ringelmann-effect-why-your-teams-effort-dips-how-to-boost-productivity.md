@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-ringelmann-effect-why-your-teams-effo
 ---
 
 
+
 The Ringelmann Effect: Why Your Team's Effort Dips & How to Boost Productivity
 ==============================================================================
 

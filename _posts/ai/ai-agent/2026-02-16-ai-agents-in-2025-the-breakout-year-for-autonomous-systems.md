@@ -9,4 +9,5 @@ original_url: https://insightginie.com/ai-agents-in-2025-the-breakout-year-for-a
 ---
 
 
+
 The Rise of Agentic AI

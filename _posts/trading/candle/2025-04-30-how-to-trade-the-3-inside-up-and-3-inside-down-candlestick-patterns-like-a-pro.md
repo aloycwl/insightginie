@@ -10,6 +10,7 @@ original_url: https://insightginie.com/how-to-trade-the-3-inside-up-and-3-inside
 ---
 
 
+
 Candlestick patterns are more than just artistic price charts—they are a language spoken by the markets to communicate subtle shifts in sentiment. Among the many reversal patterns, the 3 Inside Up and 3 Inside Down formations stand out for their clarity and reliability. These patterns not only signal a potential change in direction but also offer traders a structured entry point backed by three confirming candles. When used correctly, they can become an essential part of a disciplined trading strategy.
 
 The 3 Inside Up pattern is typically found at the end of a downtrend and signals a potential reversal to the upside. This formation begins with a strong bearish candle, which reflects the prevailing negative sentiment in the market. On the second day, a smaller bullish candle forms entirely within the body of the first candle. This internal candle is an early indication that selling pressure may be weakening. The final piece of the pattern is the third candle, which closes above the high of the first bearish candle. This decisive move upward confirms the strength of the bulls and suggests that the trend may be shifting in favor of buyers.

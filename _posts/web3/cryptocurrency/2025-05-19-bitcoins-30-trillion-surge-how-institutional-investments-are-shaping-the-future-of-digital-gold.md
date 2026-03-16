@@ -12,5 +12,6 @@ featured_image: /media/images/2505190936.avif
 
 
 
+
 Bitcoin has recently surpassed the $100,000 mark, driven by optimism over potential U.S. interest rate cuts and increased institutional buying. This milestone underscores Bitcoin's resilience and growing investor confidence amid shifting macroeconomic expectations.
 

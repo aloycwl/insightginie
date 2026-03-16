@@ -9,6 +9,7 @@ original_url: https://insightginie.com/automating-agent-payments-a-guide-to-the-
 ---
 
 
+
 Introduction to the OpenClaw Solana Transfer Skill
 ==================================================
 

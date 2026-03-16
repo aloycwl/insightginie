@@ -9,6 +9,7 @@ original_url: https://insightginie.com/master-the-cycle-how-to-use-sector-rotati
 ---
 
 
+
 The stock market is often treated by the media as a monolith—”The market is up” or “The market is down.” However, seasoned investors know this is a dangerous oversimplification. The market is actually a collection of eleven distinct sectors, each with its own personality, drivers, and sensitivity to the economy.
 
 While a rising tide may lift all boats, it does not lift them equally. In a booming economy, technology stocks might soar while utilities stagnate. Conversely, when a recession hits, industrial stocks may crash while healthcare providers hold their value.

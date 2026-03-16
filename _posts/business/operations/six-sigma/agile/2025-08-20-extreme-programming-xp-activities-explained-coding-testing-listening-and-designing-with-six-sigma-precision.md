@@ -12,6 +12,7 @@ original_url: https://insightginie.com/extreme-programming-xp-activities-explain
 ---
 
 
+
 In the fast-paced world of software development, two methodologies stand out: **Extreme Programming (XP)** and **Six Sigma**. While XP emphasizes agility, collaboration, and adaptability, Six Sigma focuses on quality improvement through data-driven processes. When combined, they create a framework that enables **rapid, customer-focused development without sacrificing quality**.
 
 XP is grounded in a set of **core activities—Coding, Testing, Listening, and Designing**—that form the foundation of its process. These activities are not just technical practices; they represent a mindset that values simplicity, communication, and continuous improvement.

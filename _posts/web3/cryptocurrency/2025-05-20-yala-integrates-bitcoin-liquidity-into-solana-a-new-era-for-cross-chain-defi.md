@@ -11,6 +11,7 @@ featured_image: /media/images/2505200909.avif
 
 
 
+
 In a significant development for the decentralized finance (DeFi) ecosystem, Yala has officially launched on the Solana blockchain. This integration aims to bring Bitcoin (BTC) liquidity into Solana's high-performance DeFi environment, enabling BTC holders to participate in yield-generating activities without relinquishing their Bitcoin exposure.
 
 ### Yala's Mission and Vision

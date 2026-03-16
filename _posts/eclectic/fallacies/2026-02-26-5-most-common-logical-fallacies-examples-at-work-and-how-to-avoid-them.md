@@ -9,4 +9,5 @@ original_url: https://insightginie.com/5-most-common-logical-fallacies-examples-
 ---
 
 
+
 Introduction

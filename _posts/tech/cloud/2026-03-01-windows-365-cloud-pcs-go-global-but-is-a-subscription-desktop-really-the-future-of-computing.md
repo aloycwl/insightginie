@@ -10,4 +10,5 @@ original_url: https://insightginie.com/windows-365-cloud-pcs-go-global-but-is-a-
 ---
 
 
+
 Introduction: The Dawn of Cloud-Based Desktops

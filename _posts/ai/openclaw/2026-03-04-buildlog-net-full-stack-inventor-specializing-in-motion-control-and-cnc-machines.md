@@ -10,4 +10,5 @@ original_url: https://insightginie.com/buildlog-net-full-stack-inventor-speciali
 ---
 
 
+
 Introduction to Buildlog.net and Bart Dring

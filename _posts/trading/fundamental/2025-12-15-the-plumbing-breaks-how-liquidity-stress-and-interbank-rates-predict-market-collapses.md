@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-plumbing-breaks-how-liquidity-stress-
 ---
 
 
+
 To the average retail investor, the stock market is a collection of flashing tickers, earnings reports, and moving averages. But to the seasoned macro strategist, these are merely the surface ripples of a much deeper ocean. The true currents that dictate the direction of the global economy flow through the opaque, high-stakes world of **Interbank Funding**.
 
 Interbank markets are the plumbing of the global financial system. When the pipes are clear, credit flows, businesses hire, and stock markets rally. But when the plumbing gets clogged—a phenomenon known as **Liquidity Stress**—the backup causes a sewage spill that contaminates every asset class from crypto to blue-chip equities.

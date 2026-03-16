@@ -11,6 +11,7 @@ original_url: https://insightginie.com/agile-manifesto-turns-25-just-in-time-for
 ---
 
 
+
 Agile Manifesto Turns 25 – Just in Time for Vibe Coding to Test It
 
 Agile Manifesto Turns 25 – Just in Time for Vibe Coding to Test It

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/xmtp-cli-command-line-tool-for-testing-an
 ---
 
 
+
 The XMTP CLI is a comprehensive command-line tool designed for testing, debugging, and interacting with XMTP conversations, groups, and messages. This versatile tool provides developers with a powerful interface to manage various aspects of the XMTP ecosystem directly from the terminal.
 
 ## Overview  

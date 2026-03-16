@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-the-lead-storage-skill-in-o
 ---
 
 
+
 Understanding the Lead-Storage Skill in OpenClaw
 ================================================
 

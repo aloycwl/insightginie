@@ -9,4 +9,5 @@ original_url: https://insightginie.com/stop-losing-sales-7-ux-patterns-proven-to
 ---
 
 
+
 The Silent Killer: Understanding Payment Abandonment

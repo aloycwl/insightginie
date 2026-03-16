@@ -9,4 +9,5 @@ original_url: https://insightginie.com/nvidia-commits-4b-to-lumentum-and-coheren
 ---
 
 
+
 Nvidia Commits $4B to Lumentum and Coherent for AI Optical Technology Expansion

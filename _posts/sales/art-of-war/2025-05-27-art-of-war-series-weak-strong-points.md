@@ -9,6 +9,7 @@ original_url: https://insightginie.com/art-of-war-series-weak-strong-points
 ---
 
 
+
 1. Sun Tzu said: Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted.
 2. Therefore the clever combatant imposes his will on the enemy, but does not allow the enemy's will to be imposed on him.
 3. By holding out advantages to him, he can cause the enemy to approach of his own accord; or, by inflicting damage, he can make it impossible for the enemy to draw near.

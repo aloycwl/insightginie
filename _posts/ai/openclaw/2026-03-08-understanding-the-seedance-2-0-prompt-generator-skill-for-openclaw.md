@@ -9,4 +9,5 @@ original_url: https://insightginie.com/understanding-the-seedance-2-0-prompt-gen
 ---
 
 
+
 What is the Seedance 2.0 Prompt Generator Skill?

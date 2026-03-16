@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-invisible-filter-how-confirmation-bia
 ---
 
 
+
 The Invisible Filter: How Confirmation Bias Skews Your Reality (And How to Overcome It)
 =======================================================================================
 

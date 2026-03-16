@@ -9,4 +9,5 @@ original_url: https://insightginie.com/iso-20022-explained-why-banks-are-migrati
 ---
 
 
+
 The Silent Revolution in Banking: Understanding ISO 20022

@@ -10,6 +10,7 @@ original_url: https://insightginie.com/understanding-the-openclaw-subskill-gener
 ---
 
 
+
 Understanding the OpenClaw Subskill Generation Rule: Organize and Enforce Project Structure in Skills
 =====================================================================================================
 

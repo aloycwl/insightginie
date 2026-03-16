@@ -11,4 +11,5 @@ original_url: https://insightginie.com/unlocking-the-potential-of-6%cf%83-models
 ---
 
 
+
 Introduction to 6Σ Models

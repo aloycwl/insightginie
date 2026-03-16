@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-ad-hominem-fallacy-why-attacking-the-
 ---
 
 
+
 It is the oldest trick in the book. You are winning a debate. Your facts are solid, your logic is sound, and your opponent is cornered. Suddenly, they stop addressing your points and turn their fire on *you*.
 
 “Well, you're just a hypocrite.”  

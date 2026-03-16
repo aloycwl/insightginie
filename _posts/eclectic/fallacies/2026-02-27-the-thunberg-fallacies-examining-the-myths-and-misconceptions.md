@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-thunberg-fallacies-examining-the-myth
 ---
 
 
+
 Introduction: Understanding the Controversy

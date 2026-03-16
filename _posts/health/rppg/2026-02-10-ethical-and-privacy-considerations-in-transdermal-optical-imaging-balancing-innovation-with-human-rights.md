@@ -12,6 +12,7 @@ featured_image: /media/images/171205.avif
 
 
 
+
 Imagine a world where a glance at your wristwatch doesn't just tell time—it reveals your blood pressure, stress levels, or even early signs of disease. Transdermal optical imaging (TOI) technologies promise this futuristic convenience, but they also raise profound ethical and privacy concerns. As these non-invasive sensors inch closer to mainstream adoption, the line between medical innovation and personal intrusion blurs. The stakes? Nothing less than the autonomy of our biological data.
 
 The Rise of Transdermal Optical Imaging: A Technological Breakthrough

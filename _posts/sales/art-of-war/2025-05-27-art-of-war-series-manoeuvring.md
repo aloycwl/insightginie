@@ -9,6 +9,7 @@ original_url: https://insightginie.com/art-of-war-series-manoeuvring
 ---
 
 
+
 1. Sun Tzu said: In war, the general receives his commands from the sovereign.
 2. Having collected an army and concentrated his forces, he must blend and harmonise the different elements thereof before pitching his camp.
 3. After that, comes tactical manoeuvring, than which there is nothing more difficult. The difficulty of tactical manoeuvring consists in turning the devious into the direct, and misfortune into gain.

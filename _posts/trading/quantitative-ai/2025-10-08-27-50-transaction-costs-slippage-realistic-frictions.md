@@ -9,6 +9,7 @@ original_url: https://insightginie.com/27-50-transaction-costs-slippage-realisti
 ---
 
 
+
 Beyond Ideal: Modeling Transaction Costs, Slippage & Market Impact for True Backtesting
 =======================================================================================
 

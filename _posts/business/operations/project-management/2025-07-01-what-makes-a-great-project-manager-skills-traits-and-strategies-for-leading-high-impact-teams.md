@@ -11,4 +11,5 @@ original_url: https://insightginie.com/what-makes-a-great-project-manager-skills
 ---
 
 
+
 **What Makes a Great Project Manager? Skills, Traits, and Strategies for Leading High-Impact Teams**

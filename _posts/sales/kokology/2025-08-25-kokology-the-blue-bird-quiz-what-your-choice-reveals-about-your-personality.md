@@ -12,6 +12,7 @@ featured_image: /media/images/251401.avif
 
 
 
+
 ### **Quiz Question**
 
 A bird flies into your house and changes colors day after day: blue, yellow, red, and black. What color do you think it will be next?

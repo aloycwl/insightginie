@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-easterlin-paradox-why-getting-richer-
 ---
 
 
+
 We all buy into the same dream. We tell ourselves, “If I just got that promotion, if I just hit six figures, or if I could just afford that house in the hills, I would finally be happy.”
 
 We view our lives as a linear equation: More Money = More Happiness.

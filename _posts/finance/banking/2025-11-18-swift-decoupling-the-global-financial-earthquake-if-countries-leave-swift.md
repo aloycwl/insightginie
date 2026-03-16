@@ -9,4 +9,5 @@ original_url: https://insightginie.com/swift-decoupling-the-global-financial-ear
 ---
 
 
+
 The Unthinkable Scenario: What Happens When Nations Abandon SWIFT?

@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-indispensable-docker-image-security-s
 ---
 
 
+
 Ah, the modern developer's lament: another day, another 'critical' tool shoved into the pipeline. And today's darling? The ubiquitous docker image security scanner. But let's be honest, is it really necessary? After all, what could possibly go wrong with running code from countless unknown sources in your production environment? It's not like the internet is a vast, festering swamp of malicious actors and accidental blunders, is it? We're all just building beautiful, pristine containers, totally free of ancient, forgotten libraries riddled with CVEs.
 
 It seems almost quaint, doesn't it, this quaint notion that we might need to actively check our digital building blocks for rot? Especially when everyone is so busy shipping features at breakneck speed. Yet, here we are, contemplating the 'necessity' of a tool designed to point out the very real flaws in our meticulously (or haphazardly) constructed container images. Because apparently, wishing for security isn't quite enough.

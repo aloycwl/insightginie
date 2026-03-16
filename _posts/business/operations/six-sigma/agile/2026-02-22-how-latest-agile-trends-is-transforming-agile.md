@@ -11,6 +11,7 @@ original_url: https://insightginie.com/how-latest-agile-trends-is-transforming-a
 ---
 
 
+
 How Latest Agile Trends is Transforming Agile
 =============================================
 

@@ -11,6 +11,7 @@ featured_image: /media/images/2505092229.avif
 
 
 
+
 Bipolar disorder is a chronic mental health condition characterized by alternating episodes of depression and mania or hypomania. Despite effective treatments, **relapse** remains a frequent and serious concern—disrupting lives, increasing hospitalization risk, and contributing to long-term functional impairment.
 
 Traditionally, relapse prediction has relied on self-reporting, clinical observations, and infrequent in-person assessments. These approaches are reactive, rather than proactive, often identifying episodes only after they have occurred.

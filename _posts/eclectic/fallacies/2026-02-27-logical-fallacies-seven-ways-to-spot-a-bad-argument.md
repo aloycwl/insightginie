@@ -9,4 +9,5 @@ original_url: https://insightginie.com/logical-fallacies-seven-ways-to-spot-a-ba
 ---
 
 
+
 Introduction

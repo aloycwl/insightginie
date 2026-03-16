@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-choice-paradox-why-unlimited-options-
 ---
 
 
+
 It is Friday night. You have finished a long week of work, and you settle onto the couch to watch a movie. You open Netflix. You scroll. You check Hulu. You scroll. You check Amazon Prime. You watch three trailers, read five reviews, and add ten things to your “Watch Later” list.
 
 Forty-five minutes later, your dinner is cold, you are mentally exhausted, and you end up re-watching *The Office* for the hundredth time.

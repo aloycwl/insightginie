@@ -10,4 +10,5 @@ original_url: https://insightginie.com/stop-project-chaos-master-specification-c
 ---
 
 
+
 The Invisible Enemy: How Vague Specifications Sabotage Your Projects

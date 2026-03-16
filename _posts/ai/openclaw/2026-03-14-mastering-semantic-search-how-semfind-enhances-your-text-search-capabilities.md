@@ -9,6 +9,7 @@ original_url: https://insightginie.com/mastering-semantic-search-how-semfind-enh
 ---
 
 
+
 **Introduction**
 
 In the world of programming and system administration, finding relevant information in logs, documents, and code can be a daunting task. Traditional search tools like `grep` and `ripgrep` are powerful but rely on exact pattern matching. This is where `semfind` comes into play. This article explores how `semfind` can enhance your search capabilities by enabling semantic search over local text files using embeddings.

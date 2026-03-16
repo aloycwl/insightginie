@@ -9,6 +9,7 @@ original_url: https://insightginie.com/errantry-framework-mapping-wizardry-to-ag
 ---
 
 
+
 Errantry Framework: Mapping Wizardry to Agentic AI Architecture
 ===============================================================
 

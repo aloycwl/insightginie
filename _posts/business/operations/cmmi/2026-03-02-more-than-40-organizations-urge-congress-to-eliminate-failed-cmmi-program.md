@@ -10,4 +10,5 @@ original_url: https://insightginie.com/more-than-40-organizations-urge-congress-
 ---
 
 
+
 Introduction

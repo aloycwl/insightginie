@@ -9,4 +9,5 @@ original_url: https://insightginie.com/49-50-research-process-reproducible-paper
 ---
 
 
+
 The Imperative of Reproducible Research in the Modern Era

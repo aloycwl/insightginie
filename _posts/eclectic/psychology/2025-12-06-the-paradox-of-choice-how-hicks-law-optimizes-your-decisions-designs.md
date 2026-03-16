@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-paradox-of-choice-how-hicks-law-optim
 ---
 
 
+
 The Paradox of Choice: How Hick's Law Optimizes Your Decisions & Designs
 ========================================================================
 

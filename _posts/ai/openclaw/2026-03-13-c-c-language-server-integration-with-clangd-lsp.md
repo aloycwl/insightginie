@@ -9,6 +9,7 @@ original_url: https://insightginie.com/c-c-language-server-integration-with-clan
 ---
 
 
+
 clangd LSP is a powerful C/C++ language server integration that provides comprehensive code intelligence through the clangd tool, which is part of the LLVM project. This skill enhances the development experience for C and C++ programmers by offering advanced features like autocomplete, go-to-definition, find references, error detection, formatting, and refactoring capabilities.
 
 Core Capabilities

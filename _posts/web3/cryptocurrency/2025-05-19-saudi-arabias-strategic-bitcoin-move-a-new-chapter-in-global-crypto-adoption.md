@@ -11,5 +11,6 @@ featured_image: /media/images/2505190951.avif
 
 
 
+
 In a groundbreaking development, the Saudi Central Bank has acquired 25,656 shares in Strategy Inc. (formerly MicroStrategy), granting the Kingdom indirect exposure to approximately 568,840 BTC—valued at nearly $60 billion. This strategic investment marks Saudi Arabia's first significant foray into the cryptocurrency realm, signaling a potential shift in its economic diversification efforts under Vision 2030.
 

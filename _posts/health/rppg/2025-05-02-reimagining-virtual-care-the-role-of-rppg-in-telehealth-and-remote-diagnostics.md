@@ -11,6 +11,7 @@ featured_image: /media/images/2505020936.avif
 
 
 
+
 Telehealth has rapidly evolved from a niche offering to a global necessity, transforming how healthcare is accessed and delivered. As medical consultations increasingly take place through screens rather than within clinic walls, the need for accurate, real-time physiological monitoring in virtual settings has grown more urgent than ever. Enter remote photoplethysmography, or rPPG—a technology that enables vital sign monitoring using nothing more than a standard camera. This contactless, AI-powered innovation is now poised to become the backbone of telehealth and remote diagnostics, redefining how clinicians gather and interpret patient data without the need for physical presence or wearable devices.
 
 At its core, rPPG works by detecting subtle variations in skin color that occur as blood flows through facial vessels. These micro-changes, invisible to the human eye, can be captured by a webcam or smartphone camera and translated into critical health metrics such as heart rate, respiratory rate, and even oxygen saturation. The ability to extract this information passively, without any sensors attached to the body, makes rPPG uniquely suited for remote care environments. In a telehealth setting, where physical examination is limited or impossible, rPPG bridges the gap by offering clinicians an additional layer of biometric insight—all in real time.

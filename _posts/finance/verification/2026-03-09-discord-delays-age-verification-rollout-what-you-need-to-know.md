@@ -9,6 +9,7 @@ original_url: https://insightginie.com/discord-delays-age-verification-rollout-w
 ---
 
 
+
 Discord Pushes Back Age Verification Rollout Following Backlash
 ===============================================================
 

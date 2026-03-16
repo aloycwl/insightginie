@@ -9,6 +9,7 @@ original_url: https://insightginie.com/art-of-war-series-the-army-on-the-march
 ---
 
 
+
 1. Sun Tzu said: We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighbourhood of valleys.
 2. Camp in high places, facing the sun. Do not climb heights in order to fight. So much for mountain warfare.
 3. After crossing a river, you should get far away from it.

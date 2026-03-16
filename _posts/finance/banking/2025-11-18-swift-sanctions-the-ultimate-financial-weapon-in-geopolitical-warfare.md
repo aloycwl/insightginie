@@ -9,4 +9,5 @@ original_url: https://insightginie.com/swift-sanctions-the-ultimate-financial-we
 ---
 
 
+
 The Invisible Hand of Power: How SWIFT Became a Geopolitical Lever

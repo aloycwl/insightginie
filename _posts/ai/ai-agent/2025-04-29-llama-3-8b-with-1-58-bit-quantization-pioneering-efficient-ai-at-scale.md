@@ -9,6 +9,7 @@ original_url: https://insightginie.com/llama-3-8b-with-1-58-bit-quantization-pio
 ---
 
 
+
 In the rapidly evolving landscape of artificial intelligence, the quest for models that balance performance with efficiency has become paramount. Meta AI's Llama 3 8B model, when combined with 1.58-bit quantization and trained on 100 billion tokens, represents a significant stride in this direction.​
 
 Llama 3, released in April 2024, is part of Meta's family of large language models designed to be both powerful and accessible. The 8B variant, in particular, has garnered attention for its impressive capabilities despite its relatively modest size. By integrating 1.58-bit quantization—a technique that reduces the precision of model weights to just three values: -1, 0, and +1—the model achieves a remarkable reduction in computational requirements without substantial loss in performance.​

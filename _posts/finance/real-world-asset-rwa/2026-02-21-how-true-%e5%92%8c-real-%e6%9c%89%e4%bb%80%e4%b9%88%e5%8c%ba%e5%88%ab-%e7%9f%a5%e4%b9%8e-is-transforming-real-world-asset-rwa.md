@@ -10,6 +10,7 @@ original_url: https://insightginie.com/how-true-%e5%92%8c-real-%e6%9c%89%e4%bb%8
 ---
 
 
+
 How true 和 real 有什么区别 – 知乎 is Transforming Real World Asset (RWA)
 =================================================================
 

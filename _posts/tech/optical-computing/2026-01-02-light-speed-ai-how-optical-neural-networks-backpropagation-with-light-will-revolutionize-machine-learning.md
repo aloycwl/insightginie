@@ -10,6 +10,7 @@ original_url: https://insightginie.com/light-speed-ai-how-optical-neural-network
 ---
 
 
+
 Light-Speed AI: How Optical Neural Networks & Backpropagation with Light Will Revolutionize Machine Learning
 ============================================================================================================
 

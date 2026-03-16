@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-anecdotal-evidence-fallacy-why-person
 ---
 
 
+
 We have all heard the argument. You are discussing the statistically proven risks of smoking, citing peer-reviewed studies and decades of medical research. Then, someone interrupts with the ultimate trump card:
 
 *“Well, my grandfather smoked two packs a day since he was twelve, and he lived to be 98. So, smoking isn't actually that bad for you.”*

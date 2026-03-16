@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-scarcity-paradox-why-we-crave-whats-l
 ---
 
 
+
 What is the Scarcity Paradox?

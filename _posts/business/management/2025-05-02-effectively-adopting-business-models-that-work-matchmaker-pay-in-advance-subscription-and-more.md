@@ -10,4 +10,5 @@ original_url: https://insightginie.com/effectively-adopting-business-models-that
 ---
 
 
+
 **Introduction: Why Business Model Matters More Than Ever**

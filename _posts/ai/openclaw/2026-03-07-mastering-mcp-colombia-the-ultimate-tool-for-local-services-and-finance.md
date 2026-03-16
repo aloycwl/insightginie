@@ -9,4 +9,5 @@ original_url: https://insightginie.com/mastering-mcp-colombia-the-ultimate-tool-
 ---
 
 
+
 Introduction to MCP Colombia

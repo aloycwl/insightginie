@@ -9,6 +9,7 @@ original_url: https://insightginie.com/explainable-ai-xai-making-artificial-inte
 ---
 
 
+
 As artificial intelligence becomes increasingly embedded in the decisions that shape our lives—whether it's approving a loan, diagnosing a disease, or recommending a prison sentence—the need for **Explainable AI (XAI)** has never been more urgent. At the core of XAI is a fundamental promise: that we should be able to understand, trust, and challenge the decisions made by AI systems. This isn't just a technical goal; it's a societal imperative. In a world where AI influences both personal and institutional decisions, transparency is key to fairness, accountability, and ethical responsibility.
 
 The rise of deep learning and large-scale machine learning models has brought remarkable advances in performance, but at a cost. Many of these models operate as “black boxes,” delivering highly accurate predictions without offering insight into how those predictions are made. While this opacity might be acceptable in low-stakes environments, it becomes deeply problematic in high-impact domains like healthcare, finance, or law enforcement. Explainable AI addresses this challenge by developing methods and frameworks that make AI systems more interpretable without sacrificing performance.

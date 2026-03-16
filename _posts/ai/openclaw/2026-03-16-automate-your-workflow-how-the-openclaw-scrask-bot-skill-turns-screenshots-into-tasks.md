@@ -10,6 +10,7 @@ original_url: https://insightginie.com/automate-your-workflow-how-the-openclaw-s
 ---
 
 
+
 Automate Your Workflow: How the OpenClaw Scrask-Bot Skill Turns Screenshots into Tasks
 ======================================================================================
 

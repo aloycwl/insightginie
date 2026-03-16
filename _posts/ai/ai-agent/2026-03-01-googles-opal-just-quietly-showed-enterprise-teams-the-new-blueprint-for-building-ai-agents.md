@@ -10,4 +10,5 @@ original_url: https://insightginie.com/googles-opal-just-quietly-showed-enterpri
 ---
 
 
+
 Introduction to Google's Opal

@@ -9,5 +9,6 @@ original_url: https://insightginie.com/ibm-to-launch-quantum-center-in-india-wit
 ---
 
 
+
 IBM has announced plans to establish a **world-class quantum computing center in Amaravati, India**, featuring its cutting-edge **156-qubit Heron processor**. Scheduled to open in **2026**, this facility will not only mark a major step in IBM's global quantum roadmap but also firmly position India as a rising hub in the global quantum race. The center is expected to transform the nation's research ecosystem, create advanced talent pipelines, and foster collaborations across academia, government, and industry.
 

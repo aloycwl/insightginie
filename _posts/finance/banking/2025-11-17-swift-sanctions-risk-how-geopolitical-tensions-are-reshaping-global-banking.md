@@ -9,4 +9,5 @@ original_url: https://insightginie.com/swift-sanctions-risk-how-geopolitical-ten
 ---
 
 
+
 Understanding SWIFT Sanctions: A New Era of Geopolitical Risk for Banks

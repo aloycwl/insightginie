@@ -9,4 +9,5 @@ original_url: https://insightginie.com/five-trends-set-to-reshape-banking-in-202
 ---
 
 
+
 Introduction: The Banking Industry in Transition

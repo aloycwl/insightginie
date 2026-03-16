@@ -9,6 +9,7 @@ original_url: https://insightginie.com/fosmvvm-viewmodel-generator-automating-sw
 ---
 
 
+
 The FOSMVVM ViewModel Generator is a powerful tool that automates the creation of ViewModels for SwiftUI applications following the FOSMVVM architecture patterns. This skill generates ViewModels that serve as the bridge between your data models and SwiftUI views, handling everything from localization to error display patterns.
 
 Core Architecture

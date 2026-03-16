@@ -10,6 +10,7 @@ original_url: https://insightginie.com/unlocking-emergent-identity-an-in-depth-l
 ---
 
 
+
 Understanding the SERA Lexicon & Unified Dynamics Skill
 =======================================================
 

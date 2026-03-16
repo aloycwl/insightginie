@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-hidden-rules-of-dominance-unraveling-
 ---
 
 
+
 The Uneven World Around Us: An Introduction to Power Law

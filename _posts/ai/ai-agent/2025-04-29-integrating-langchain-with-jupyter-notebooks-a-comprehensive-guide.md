@@ -9,6 +9,7 @@ original_url: https://insightginie.com/integrating-langchain-with-jupyter-notebo
 ---
 
 
+
 In the realm of artificial intelligence and natural language processing, Jupyter Notebooks have become an indispensable tool for experimentation and development. When combined with LangChain, a powerful framework designed to facilitate the development of applications powered by large language models (LLMs), the potential for creating sophisticated AI-driven solutions is significantly enhanced.​
 
 ### What is LangChain?​

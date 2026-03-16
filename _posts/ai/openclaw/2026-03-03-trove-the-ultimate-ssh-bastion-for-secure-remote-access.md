@@ -9,6 +9,7 @@ original_url: https://insightginie.com/trove-the-ultimate-ssh-bastion-for-secure
 ---
 
 
+
 Trove is an innovative open-source SSH bastion solution designed to provide secure, centralized access to your infrastructure. Built with Go, this powerful tool simplifies the management of SSH connections while enhancing security through robust authentication and auditing capabilities.
 
 What is an SSH Bastion?  

@@ -11,6 +11,7 @@ featured_image: /media/images/2505190938.avif
 
 
 
+
 The report examines how public blockchains are evolving from experimental tools into viable components of the global financial system, while highlighting the regulatory, technological and governance challenges that must be addressed for mainstream adoption—especially by banks.
 
 ### **1. Need for Common Understanding & Regulatory Alignment**

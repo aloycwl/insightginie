@@ -9,6 +9,7 @@ original_url: https://insightginie.com/bitnet-b1-58-2b4t-microsofts-1-bit-llm-no
 ---
 
 
+
 In a significant stride towards efficient and scalable artificial intelligence, Microsoft Research has unveiled BitNet b1.58 2B4T, a 2-billion parameter large language model (LLM) that operates using 1.58-bit quantization. This model is now accessible to the AI community via Hugging Face, marking a pivotal moment in the evolution of low-bit precision models.
 
 BitNet b1.58 2B4T stands out as the first open-source, native 1-bit LLM at this scale. Trained on an extensive corpus of 4 trillion tokens, the model demonstrates that low-bit quantization does not necessitate a compromise in performance. Evaluations across various benchmarks—including language understanding, mathematical reasoning, coding proficiency, and conversational ability—reveal that BitNet b1.58 2B4T achieves results comparable to leading full-precision models of similar size.

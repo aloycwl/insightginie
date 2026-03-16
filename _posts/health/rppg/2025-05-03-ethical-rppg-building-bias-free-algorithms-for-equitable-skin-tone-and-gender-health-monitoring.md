@@ -12,6 +12,7 @@ featured_image: /media/images/2505031438.png
 
 
 
+
 ### Introduction: Why Ethical AI in rPPG Technology Matters
 
 In an era of rapid innovation in health tech, **remote photoplethysmography (rPPG)** is transforming the way we monitor vital signs using just a camera and ambient light. From fitness apps to hospital-grade diagnostics, rPPG is emerging as a contactless, cost-effective, and scalable solution. However, as with any AI-powered system, rPPG is only as fair and accurate as the data and algorithms behind it.

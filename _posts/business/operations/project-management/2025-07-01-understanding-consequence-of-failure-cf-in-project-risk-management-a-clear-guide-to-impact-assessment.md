@@ -11,6 +11,7 @@ original_url: https://insightginie.com/understanding-consequence-of-failure-cf-i
 ---
 
 
+
 In project management, understanding potential risks is only half the battle. Equally important is knowing the **Consequence of Failure (Cf)** — the magnitude of impact a risk event could have on your project objectives such as cost, schedule, reliability, and performance. Properly evaluating Cf allows project teams to prioritize mitigation efforts, allocate resources wisely, and safeguard project success.
 
 This article delves into the five defined levels of Cf, detailing their characteristics and implications for your projects. Whether you're managing a small initiative or a large-scale program, mastering Cf assessment is essential for effective risk management.

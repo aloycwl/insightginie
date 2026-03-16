@@ -9,4 +9,5 @@ original_url: https://insightginie.com/verification-before-completion-the-essent
 ---
 
 
+
 What is Verification Before Completion?

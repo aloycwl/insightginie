@@ -9,6 +9,7 @@ original_url: https://insightginie.com/unlocking-earthquake-secrets-the-gutenber
 ---
 
 
+
 Unlocking Earthquake Secrets: The Gutenberg-Richter Law Explained
 =================================================================
 

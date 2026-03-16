@@ -9,6 +9,7 @@ original_url: https://insightginie.com/how-to-trade-bullish-and-bearish-tri-star
 ---
 
 
+
 In the realm of technical analysis, certain candlestick patterns are prized not for their frequency, but for their accuracy. The **tri-star candlestick pattern** is one such rare but powerful formation that signals a high-probability market reversal. Found at key turning points, the bullish and bearish tri-star patterns are made up of three consecutive dojis, each indicating market indecision and exhaustion, and together forming a compelling signal for a potential trend reversal.
 
 A **bullish tri-star** pattern appears at the end of a downtrend and typically consists of three doji candles in succession. The first doji continues the bearish narrative, but the next two reflect a shifting sentiment. The second doji gaps below the first, often suggesting heightened uncertainty or reduced bearish momentum. The third doji then opens higher, closer to or within the range of the first, indicating that the sellers may have lost control and buyers could be preparing to step in. This progression from clear trend to indecision often foreshadows a strong bullish reversal, particularly when confirmed by a subsequent upward price move.

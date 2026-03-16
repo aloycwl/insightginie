@@ -12,4 +12,5 @@ original_url: https://insightginie.com/from-agile-to-ai-anniversary-workshop-hig
 ---
 
 
+
 Introduction to the Workshop and Its Significance

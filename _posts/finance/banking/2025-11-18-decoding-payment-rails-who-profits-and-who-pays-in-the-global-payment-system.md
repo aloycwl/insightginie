@@ -9,4 +9,5 @@ original_url: https://insightginie.com/decoding-payment-rails-who-profits-and-wh
 ---
 
 
+
 Introduction: The Hidden Economics of Every Transaction

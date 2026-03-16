@@ -11,4 +11,5 @@ original_url: https://insightginie.com/exploring-the-world-of-6%cf%83-models-a-c
 ---
 
 
+
 Introduction to 6Σ Models

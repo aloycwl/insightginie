@@ -11,4 +11,5 @@ original_url: https://insightginie.com/understanding-project-stakeholders-how-to
 ---
 
 
+
 **Understanding Project Stakeholders: How to Identify, Analyze, and Engage the People Who Shape Project Success**

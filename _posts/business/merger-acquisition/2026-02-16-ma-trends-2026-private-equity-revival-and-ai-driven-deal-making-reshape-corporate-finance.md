@@ -10,4 +10,5 @@ original_url: https://insightginie.com/ma-trends-2026-private-equity-revival-and
 ---
 
 
+
 The Great Return: M&A Activity Surges in Late 2025

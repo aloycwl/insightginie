@@ -10,4 +10,5 @@ original_url: https://insightginie.com/your-strategy-needs-a-visual-metaphor-unl
 ---
 
 
+
 Introduction: The Power of Visual Thinking in Strategy

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-icarus-paradox-why-your-greatest-stre
 ---
 
 
+
 In Greek mythology, Icarus and his father, Daedalus, were imprisoned in a tower. To escape, Daedalus crafted wings made of feathers and wax. He warned his son not to fly too low, lest the sea dampen the wings, nor too high, lest the sun melt the wax. But Icarus, intoxicated by the thrill of flight, soared higher and higher. He flew too close to the sun, the wax melted, and he fell to his death.
 
 The tragedy of Icarus is not that he was incompetent; it is that his greatest asset—the wings that allowed him to fly—became the direct cause of his destruction.

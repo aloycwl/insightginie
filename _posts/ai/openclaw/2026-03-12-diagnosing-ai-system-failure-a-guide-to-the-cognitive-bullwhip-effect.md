@@ -9,6 +9,7 @@ original_url: https://insightginie.com/diagnosing-ai-system-failure-a-guide-to-t
 ---
 
 
+
 Understanding the Cognitive Bullwhip Effect in AI Agents
 ========================================================
 

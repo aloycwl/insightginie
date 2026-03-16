@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-helping-paradox-why-we-help-those-who
 ---
 
 
+
 Scroll through any crowdfunding platform or look at your own LinkedIn feed, and you will notice a disturbing trend.
 
 A successful tech entrepreneur posts about a minor setback—perhaps a stolen laptop or a delayed product launch—and is immediately flooded with offers of support, connections, and even capital. Meanwhile, a few clicks away, a single parent facing eviction or a medical crisis struggles to raise a fraction of that support.

@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-fine-print-trap-8-critical-ma-terms-t
 ---
 
 
+
 Selling a business is rarely as simple as agreeing on a price and handing over the keys. While the “headline price”—the dollar amount written on the Letter of Intent (LOI)—gets all the attention, seasoned dealmakers know that the real value of a transaction is determined in the definitive purchase agreement.
 
 This 50-to-100-page legal document is where your “exit” actually happens. It is also where value can be eroded, risks can be shifted, and the “cash at close” can be drastically reduced.

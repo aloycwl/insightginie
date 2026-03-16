@@ -10,4 +10,5 @@ original_url: https://insightginie.com/unraveling-the-magnus-effect-how-spin-sha
 ---
 
 
+
 The Invisible Hand of Spin: Introducing the Magnus Effect

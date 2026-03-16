@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-bandwagon-fallacy-why-following-the-c
 ---
 
 
+
 “Fifty million people can't be wrong!”
 
 You have likely heard this sentiment before. It is used to justify everything from voting for a specific politician to buying a specific brand of smartphone. It feels intuitively correct; surely, if a massive population agrees on something, there must be validity to it. Safety in numbers, right?

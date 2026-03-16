@@ -10,6 +10,7 @@ original_url: https://insightginie.com/understanding-the-openclaw-miro-workshop-
 ---
 
 
+
 Understanding the OpenClaw Miro Workshop Assistant Skill: Simplifying Workshops with Miro
 =========================================================================================
 

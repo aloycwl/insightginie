@@ -9,6 +9,7 @@ original_url: https://insightginie.com/panic-proof-mastering-safe-haven-flows-du
 ---
 
 
+
 In the theater of global finance, fear is the director, and volatility is the script. When geopolitical tensions flare—be it a military conflict in Eastern Europe, trade wars in the Pacific, or instability in the Middle East—the reaction of the financial markets is visceral and immediate. This phenomenon is known as the “flight to safety” or safe-haven flows.
 
 For the uninitiated, these moments are defined by panic selling and eroding portfolio values. However, for the seasoned macro investor, understanding the mechanics of safe-haven flows is not just about survival; it is about capitalizing on the predictable currents of global capital as it seeks shelter from the storm.

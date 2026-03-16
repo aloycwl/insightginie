@@ -10,6 +10,7 @@ original_url: https://insightginie.com/understanding-openclaws-clipboard-skill-s
 ---
 
 
+
 The OpenClaw [Clipboard skill](https://github.com/openclaw/skills/blob/main/skills/skills/xejrax/clipboard/SKILL.md) is a specialized tool designed to enhance productivity within the OpenClaw environment by providing seamless interaction with the system clipboard. This skill is particularly useful for developers, system administrators, or anyone who frequently works with text data and wants to streamline their clipboard operations.
 
 What is the Clipboard Skill?

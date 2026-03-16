@@ -10,4 +10,5 @@ original_url: https://insightginie.com/applying-lean-six-sigma-to-the-healthcare
 ---
 
 
+
 Introduction to Lean Six Sigma in Healthcare

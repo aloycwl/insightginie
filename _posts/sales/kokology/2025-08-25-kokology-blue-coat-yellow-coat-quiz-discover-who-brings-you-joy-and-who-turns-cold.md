@@ -12,6 +12,7 @@ featured_image: /media/images/251425.avif
 
 
 
+
 ### **Quiz Question**
 
 On a cold Christmas night, you decide to watch the lightings with a group. One person is wearing a **blue coat**, another is wearing a **yellow coat**.  

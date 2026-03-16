@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-future-of-payments-fintech-50-2026
 ---
 
 
+
 The Future Of Payments: Fintech 50 2026

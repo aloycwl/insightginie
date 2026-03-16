@@ -10,6 +10,7 @@ original_url: https://insightginie.com/unveiling-the-leidenfrost-effect-the-scie
 ---
 
 
+
 Unveiling the Leidenfrost Effect: The Science Behind 'Dancing' Water Drops & Superheated Surfaces
 =================================================================================================
 

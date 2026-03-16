@@ -10,4 +10,5 @@ original_url: https://insightginie.com/swift-payments-transformed-how-gpi-iso-20
 ---
 
 
+
 The Unseen Revolution: SWIFT, gpi, and the Future of Global Payments

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/mastering-google-maps-review-extraction-w
 ---
 
 
+
 Understanding the OpenClaw Google Maps Reviews API Skill
 ========================================================
 

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-the-speckit-workflow-skill-
 ---
 
 
+
 Understanding the SpecKit Workflow Skill for OpenClaw
 =====================================================
 

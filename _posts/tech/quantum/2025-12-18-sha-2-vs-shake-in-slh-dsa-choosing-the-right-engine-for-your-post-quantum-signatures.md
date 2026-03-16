@@ -10,6 +10,7 @@ original_url: https://insightginie.com/sha-2-vs-shake-in-slh-dsa-choosing-the-ri
 ---
 
 
+
 When the National Institute of Standards and Technology (NIST) finalized **FIPS 205**, establishing **SLH-DSA** as the standard for stateless hash-based digital signatures, they did not provide a single, monolithic algorithm. Instead, they provided a framework with choices.
 
 Beyond the decisions regarding signature size (Small vs. Fast) and security levels (128, 192, 256), there is a fundamental architectural decision every implementer must make: **The Hash Function.**

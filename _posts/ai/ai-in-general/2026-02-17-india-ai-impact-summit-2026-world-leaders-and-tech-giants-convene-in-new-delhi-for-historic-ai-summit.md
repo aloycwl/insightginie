@@ -10,6 +10,7 @@ original_url: https://insightginie.com/india-ai-impact-summit-2026-world-leaders
 ---
 
 
+
 India is hosting a landmark artificial intelligence summit this week, bringing together heads of state, top tech executives, and global AI leaders for a five-day event that promises to shape the future of artificial intelligence worldwide.
 
 India AI Impact Summit 2026: A Historic Gathering

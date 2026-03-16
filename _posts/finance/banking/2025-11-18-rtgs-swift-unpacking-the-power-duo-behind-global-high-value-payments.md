@@ -9,4 +9,5 @@ original_url: https://insightginie.com/rtgs-swift-unpacking-the-power-duo-behind
 ---
 
 
+
 The Unseen Architects: How RTGS and SWIFT Drive Modern Finance

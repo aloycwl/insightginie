@@ -10,6 +10,7 @@ original_url: https://insightginie.com/unlock-your-money-mind-how-mental-account
 ---
 
 
+
 Unlock Your Money Mind: How Mental Accounting Shapes Your Financial Choices & How to Master It
 ==============================================================================================
 

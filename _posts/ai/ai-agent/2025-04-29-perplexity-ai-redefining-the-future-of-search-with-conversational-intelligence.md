@@ -9,6 +9,7 @@ original_url: https://insightginie.com/perplexity-ai-redefining-the-future-of-se
 ---
 
 
+
 In the rapidly evolving landscape of artificial intelligence, Perplexity AI has emerged as a formidable contender in the realm of search engines. Launched in December 2022 by a team of engineers including Aravind Srinivas, Denis Yarats, Johnny Ho, and Andy Konwinski, Perplexity AI aims to revolutionize the way users interact with information online. By integrating advanced large language models with real-time web browsing capabilities, Perplexity offers a conversational search experience that is both intuitive and informative.
 
 ### A Conversational Approach to Search

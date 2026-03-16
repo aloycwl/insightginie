@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-art-of-war-by-sun-tzu-adapted-by-dave
 ---
 
 
+
 Introduction

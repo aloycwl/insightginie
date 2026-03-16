@@ -9,6 +9,7 @@ original_url: https://insightginie.com/simulated-annealing-explained-how-metallu
 ---
 
 
+
 In the high-stakes world of algorithmic optimization, finding a “good” solution is often easy, but finding the “best” solution is incredibly hard. Whether it is designing the layout of a microscopic computer chip or routing delivery trucks across a continent, data scientists constantly battle the problem of “local optima”—solutions that look perfect from up close but are actually inferior to a hidden, global solution.
 
 To solve this, computer science turned to an unlikely source: **Metallurgy**.

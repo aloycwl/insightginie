@@ -11,4 +11,5 @@ original_url: https://insightginie.com/six-sigma-models-in-2026-transform-your-b
 ---
 
 
+
 Introduction to Six Sigma Models

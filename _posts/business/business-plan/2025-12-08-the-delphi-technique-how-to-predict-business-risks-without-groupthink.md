@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-delphi-technique-how-to-predict-busin
 ---
 
 
+
 In the high-stakes world of strategic planning and risk management, the traditional boardroom meeting is often the enemy of truth. We have all been there: a critical risk assessment session where the “Highest Paid Person's Opinion” (HIPPO) dominates the room, junior experts stay silent out of fear, and the team succumbs to the dangerous psychological phenomenon known as Groupthink.
 
 The result? Risks are overlooked, optimism bias takes over, and the project eventually fails due to foreseeable issues that no one felt comfortable raising.

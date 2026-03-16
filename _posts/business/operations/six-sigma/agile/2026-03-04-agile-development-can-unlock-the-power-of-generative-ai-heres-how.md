@@ -12,4 +12,5 @@ original_url: https://insightginie.com/agile-development-can-unlock-the-power-of
 ---
 
 
+
 Introduction to Agile Development and Generative AI

@@ -10,4 +10,5 @@ original_url: https://insightginie.com/commodity-currencies-and-terms-of-trade-h
 ---
 
 
+
 Commodity Currencies and Terms of Trade: The Core Relationship

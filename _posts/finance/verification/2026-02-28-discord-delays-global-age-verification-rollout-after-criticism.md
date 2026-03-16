@@ -9,4 +9,5 @@ original_url: https://insightginie.com/discord-delays-global-age-verification-ro
 ---
 
 
+
 Discord Delays Global Age Verification Rollout After Criticism

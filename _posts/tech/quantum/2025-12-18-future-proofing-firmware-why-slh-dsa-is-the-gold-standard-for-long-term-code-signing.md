@@ -10,6 +10,7 @@ original_url: https://insightginie.com/future-proofing-firmware-why-slh-dsa-is-t
 ---
 
 
+
 In the frantic race to adopt Post-Quantum Cryptography (PQC), speed often dominates the conversation. When securing web traffic, API calls, or ephemeral messaging, milliseconds matter. This need for speed has propelled lattice-based algorithms, specifically ML-DSA (FIPS 204/Dilithium), to the forefront of the NIST standardization process.
 
 However, not all digital interactions are created equal. There is a critical subset of cybersecurity where speed is irrelevant, and longevity is everything: **Firmware and Code Signing**.

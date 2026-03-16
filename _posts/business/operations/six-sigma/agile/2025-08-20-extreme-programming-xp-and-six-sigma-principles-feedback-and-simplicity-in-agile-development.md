@@ -12,6 +12,7 @@ original_url: https://insightginie.com/extreme-programming-xp-and-six-sigma-prin
 ---
 
 
+
 In the ever-evolving world of software development, two powerful methodologies—**Extreme Programming (XP)** and **Six Sigma**—offer complementary ways to balance **flexibility with discipline**.
 
 While XP is an **Agile software engineering methodology** focused on adaptability, customer collaboration, and incremental improvement, Six Sigma provides a **data-driven framework for quality control and process optimization**. Together, they give organizations the tools to build software that is both **agile and reliable**.

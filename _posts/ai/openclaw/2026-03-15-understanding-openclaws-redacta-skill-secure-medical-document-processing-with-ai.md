@@ -10,6 +10,7 @@ original_url: https://insightginie.com/understanding-openclaws-redacta-skill-sec
 ---
 
 
+
 In the rapidly evolving landscape of healthcare technology, ensuring patient privacy while leveraging the power of artificial intelligence (AI) is paramount. The **OpenClaw** platform's **Redacta** skill, developed by [PharmaTools.AI](https://pharmatools.ai), addresses this critical need by pseudonymizing medical documents before they are processed by AI systems. This comprehensive guide will delve into what the Redacta skill does, how it works, and its significance in the healthcare industry.
 
 What is the Redacta Skill?

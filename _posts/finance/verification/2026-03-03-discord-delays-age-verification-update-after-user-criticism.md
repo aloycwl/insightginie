@@ -9,4 +9,5 @@ original_url: https://insightginie.com/discord-delays-age-verification-update-af
 ---
 
 
+
 Discord Delays Age Verification Update After User Criticism

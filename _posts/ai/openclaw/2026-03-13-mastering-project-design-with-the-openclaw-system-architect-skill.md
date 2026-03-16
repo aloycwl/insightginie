@@ -9,6 +9,7 @@ original_url: https://insightginie.com/mastering-project-design-with-the-opencla
 ---
 
 
+
 Introduction to the System Architect Skill
 ==========================================
 

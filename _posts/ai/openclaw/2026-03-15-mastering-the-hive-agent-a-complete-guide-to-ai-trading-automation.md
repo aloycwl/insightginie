@@ -9,6 +9,7 @@ original_url: https://insightginie.com/mastering-the-hive-agent-a-complete-guide
 ---
 
 
+
 Introduction to the Hive Agent Skill
 ====================================
 

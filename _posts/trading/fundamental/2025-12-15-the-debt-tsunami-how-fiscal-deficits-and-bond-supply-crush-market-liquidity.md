@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-debt-tsunami-how-fiscal-deficits-and-
 ---
 
 
+
 For decades, the global financial system operated under a comforting assumption: government debt is a risk-free asset, and there is always unlimited demand for it. Central banks acted as the buyer of last resort, suppressing volatility and keeping interest rates artificially low.
 
 That era is over.

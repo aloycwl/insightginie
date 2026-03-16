@@ -12,6 +12,7 @@ featured_image: /media/images/2505020924.avif
 
 
 
+
 As healthcare technology steadily moves toward contactless, accessible, and on-demand solutions, remote photoplethysmography (rPPG) has emerged as a groundbreaking technique that transforms ordinary cameras into tools for vital sign detection. At the core of its evolution is a critical challenge: achieving real-time, energy-efficient processing without compromising accuracy. The promise of rPPG lies not just in its ability to monitor physiological signals from a distance but in doing so swiftly and reliably across varied conditions, from smartphones to embedded devices.
 
 Efficiency in rPPG refers to the ability to extract physiological signals like heart rate from facial videos with minimal computational resources. Traditionally, this process was highly demanding, requiring extensive hardware power and memory, which limited its scalability and usability in real-world applications. However, the tide is shifting thanks to innovative algorithmic frameworks and hardware-conscious model architectures.

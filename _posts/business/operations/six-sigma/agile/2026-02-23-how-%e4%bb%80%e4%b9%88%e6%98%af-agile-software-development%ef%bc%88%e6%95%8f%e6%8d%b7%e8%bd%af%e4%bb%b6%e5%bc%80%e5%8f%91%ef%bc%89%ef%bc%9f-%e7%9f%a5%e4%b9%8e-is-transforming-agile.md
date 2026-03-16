@@ -12,6 +12,7 @@ original_url: https://insightginie.com/how-%e4%bb%80%e4%b9%88%e6%98%af-agile-sof
 ---
 
 
+
 How 什么是 Agile Software Development（敏捷软件开发）？ – 知乎 is Transforming Agile
 ======================================================================
 

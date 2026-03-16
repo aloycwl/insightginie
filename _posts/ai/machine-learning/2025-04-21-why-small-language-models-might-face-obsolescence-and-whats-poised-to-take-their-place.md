@@ -10,6 +10,7 @@ original_url: https://insightginie.com/why-small-language-models-might-face-obso
 ---
 
 
+
 In the rapidly accelerating world of artificial intelligence, the spotlight has overwhelmingly been on the giants – the Large Language Models (LLMs) like GPT, Gemini, and Claude. These colossal networks, with their hundreds of billions or even trillions of parameters, have captured the public imagination with their ability to generate human-quality text, translate languages, write code, and answer complex questions.
 
 Yet, for years before the current LLM boom, and even alongside it, a different class of AI models quietly powered many of the language tasks we interact with daily. These are the Small Language Models (SLMs). But as LLMs become more capable and accessible, the future of SLMs is facing increasing scrutiny. Are they destined for obsolescence, and if so, what will step into their crucial role?

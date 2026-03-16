@@ -11,6 +11,7 @@ original_url: https://insightginie.com/latest-6%cf%83-models-trends-trends-tips-
 ---
 
 
+
 Latest 6σ Models Trends: Trends, Tips & Best Practices
 ======================================================
 

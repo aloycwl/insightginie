@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-jarvis-tts-a-guide-to-micro
 ---
 
 
+
 Understanding Jarvis TTS: A Guide to Microsoft Edge-TTS and Afplay Integration
 ==============================================================================
 

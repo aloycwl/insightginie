@@ -9,4 +9,5 @@ original_url: https://insightginie.com/unpacking-swift-messages-mt-vs-iso-20022-
 ---
 
 
+
 What is SWIFT? The Global Connector

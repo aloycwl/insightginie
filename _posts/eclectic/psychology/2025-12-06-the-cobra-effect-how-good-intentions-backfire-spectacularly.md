@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-cobra-effect-how-good-intentions-back
 ---
 
 
+
 The Cobra Effect: How Good Intentions Backfire Spectacularly
 ============================================================
 

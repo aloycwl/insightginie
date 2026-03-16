@@ -11,6 +11,7 @@ original_url: https://insightginie.com/latest-agile-trends
 ---
 
 
+
 Latest Agile Trends
 ===================
 

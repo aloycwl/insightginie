@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-efficient-market-paradox-why-your-sto
 ---
 
 
+
 It is the ultimate fantasy of every investor. You are sitting at your computer, you read a news headline or notice a trend that no one else has spotted, and you buy a stock right before it skyrockets. You outsmarted the system. You beat the market.
 
 But according to one of the most controversial and resilient theories in finance, this fantasy is mathematically impossible.

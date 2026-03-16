@@ -9,6 +9,7 @@ original_url: https://insightginie.com/automate-your-workflow-how-to-send-macos-
 ---
 
 
+
 Automating macOS Screenshots with OpenClaw and Telegram
 =======================================================
 

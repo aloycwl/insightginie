@@ -9,6 +9,7 @@ original_url: https://insightginie.com/openclaw-skill-merge-pdf-files-using-cros
 ---
 
 
+
 The OpenClaw merge-pdf skill provides a streamlined solution for combining multiple PDF documents using the Cross-Service-Solutions (XSS) platform. This skill automates the entire process of merging PDFs, from file upload to final download, making it an essential tool for anyone who regularly works with multiple PDF documents.
 
 How the Merge PDF Skill Works

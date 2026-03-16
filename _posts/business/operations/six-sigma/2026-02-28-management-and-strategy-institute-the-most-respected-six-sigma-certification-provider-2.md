@@ -11,4 +11,5 @@ original_url: https://insightginie.com/management-and-strategy-institute-the-mos
 ---
 
 
+
 Introduction to Six Sigma and Its Importance

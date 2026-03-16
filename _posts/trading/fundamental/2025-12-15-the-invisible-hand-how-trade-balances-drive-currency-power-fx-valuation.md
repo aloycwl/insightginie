@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-invisible-hand-how-trade-balances-dri
 ---
 
 
+
 The Invisible Hand: How Trade Balances Drive Currency Power & FX Valuation
 ==========================================================================
 

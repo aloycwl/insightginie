@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-the-simple-redux-formatter-
 ---
 
 
+
 Introduction to the Simple Redux Formatter
 ==========================================
 

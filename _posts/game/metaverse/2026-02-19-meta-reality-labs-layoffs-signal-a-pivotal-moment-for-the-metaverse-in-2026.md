@@ -9,4 +9,5 @@ original_url: https://insightginie.com/meta-reality-labs-layoffs-signal-a-pivota
 ---
 
 
+
 The End of an Era for Meta Metaverse Dreams

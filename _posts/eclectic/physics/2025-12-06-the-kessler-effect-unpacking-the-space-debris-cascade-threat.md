@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-kessler-effect-unpacking-the-space-de
 ---
 
 
+
 The Kessler Effect: Unpacking the Space Debris Cascade Threat
 =============================================================
 

@@ -10,6 +10,7 @@ original_url: https://insightginie.com/how-openclaws-mirroir-skill-enables-termi
 ---
 
 
+
 How OpenClaw's Mirroir Skill Enables Terminal Control of iPhones via macOS
 ==========================================================================
 

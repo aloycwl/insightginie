@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-no-true-scotsman-fallacy-how-to-spot-
 ---
 
 
+
 You are in a debate about politics, diet, or perhaps software engineering. You make a solid point, citing a specific example that disproves your opponent's broad generalization.
 
 Instead of admitting they were wrong, your opponent scoffs. “Well,” they say, “that guy doesn't count. No *true* member of our group would do that.”

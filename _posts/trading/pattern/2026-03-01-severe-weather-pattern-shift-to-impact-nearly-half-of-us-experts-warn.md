@@ -9,4 +9,5 @@ original_url: https://insightginie.com/severe-weather-pattern-shift-to-impact-ne
 ---
 
 
+
 Introduction

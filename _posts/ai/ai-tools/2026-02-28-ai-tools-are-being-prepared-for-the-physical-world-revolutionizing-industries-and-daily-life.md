@@ -10,4 +10,5 @@ original_url: https://insightginie.com/ai-tools-are-being-prepared-for-the-physi
 ---
 
 
+
 Introduction: The Dawn of AI in the Physical World

@@ -12,6 +12,7 @@ featured_image: /media/images/2504301611.avif
 
 
 
+
 In recent years, the conversation around healthcare has expanded beyond hospitals, prescriptions, and medical diagnostics. A powerful shift is underway, placing increasing emphasis on what are known as **Social Determinants of Health (SDoH)**—the non-medical factors that influence health outcomes. These include the environments where people live, learn, work, and play, as well as economic stability, education, access to nutritious food, transportation, and community support networks. As these elements gain recognition, they are proving to be as crucial as clinical care in achieving better health outcomes and reducing systemic disparities.
 
 Healthcare providers and policymakers alike are beginning to understand that medical interventions alone cannot fully address the root causes of poor health. For example, a patient with asthma may receive the best inhalers and medications, but if they return to a mold-infested apartment or live in a polluted neighborhood, their condition is unlikely to improve. Similarly, managing diabetes requires more than insulin; it requires access to healthy food, safe spaces for physical activity, and health literacy. This broader perspective has led to a growing consensus that tackling social determinants is essential to delivering effective and equitable care.

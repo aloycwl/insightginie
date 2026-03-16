@@ -11,6 +11,7 @@ featured_image: /media/images/2505251323.avif
 
 
 
+
 Have you ever wondered what your subconscious mind is trying to tell you? Kokology is a fascinating psychological game developed in Japan by Tadahiko Nagao and Isamu Saito, designed to reveal hidden aspects of your personality through imaginative scenarios.
 
 The name Kokology comes from the Japanese word *kokoro*, meaning “mind” or “spirit.” Unlike traditional personality tests, Kokology doesn't rely on numbers or checklists; instead, it immerses participants in creative situations that encourage introspection and self-discovery.

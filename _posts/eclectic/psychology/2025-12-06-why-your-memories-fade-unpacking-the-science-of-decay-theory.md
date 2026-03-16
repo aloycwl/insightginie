@@ -9,6 +9,7 @@ original_url: https://insightginie.com/why-your-memories-fade-unpacking-the-scie
 ---
 
 
+
 Why Your Memories Fade: Unpacking the Science of Decay Theory
 =============================================================
 

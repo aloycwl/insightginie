@@ -11,6 +11,7 @@ featured_image: /media/images/2504251224.avif
 
 
 
+
 In the ever-advancing world of medical technology, remote photoplethysmography (rPPG) has emerged as a groundbreaking tool in pediatric healthcare. As a non-invasive, camera-based technique for monitoring vital signs, rPPG offers a touchless method to measure physiological signals such as heart rate, respiratory rate, and blood oxygenation. Its applications in pediatric settings are particularly compelling, given the unique challenges involved in monitoring infants, toddlers, and young children.
 
 Children, especially newborns and infants, often experience stress and discomfort from traditional contact-based monitoring devices like ECG leads or pulse oximeters. These tools can interfere with a child's movement, sleep, and general comfort, making continuous monitoring a challenge. rPPG, which derives vital sign data by analyzing subtle color changes in the skin captured via standard cameras, solves this issue by allowing clinicians to collect accurate physiological data without physically touching the child.

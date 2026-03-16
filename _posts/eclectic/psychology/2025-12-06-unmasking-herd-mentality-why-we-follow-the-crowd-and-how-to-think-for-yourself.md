@@ -9,4 +9,5 @@ original_url: https://insightginie.com/unmasking-herd-mentality-why-we-follow-th
 ---
 
 
+
 Introduction: The Irresistible Pull of the Crowd

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-95-5-rule-why-investors-buy-the-story
 ---
 
 
+
 In the high-stakes world of business, real estate, and venture capital, there is a pervasive myth that data drives decisions. We like to believe that human beings are rational actors who plug numbers into a spreadsheet, analyze the risk-to-reward ratio, and make a logical choice based on the bottom line.
 
 The reality, however, is starkly different.

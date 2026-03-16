@@ -10,4 +10,5 @@ original_url: https://insightginie.com/lean-six-sigma-vs-project-management-what
 ---
 
 
+
 Introduction

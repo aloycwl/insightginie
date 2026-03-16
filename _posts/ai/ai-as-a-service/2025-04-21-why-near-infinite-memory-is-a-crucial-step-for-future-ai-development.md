@@ -9,6 +9,7 @@ original_url: https://insightginie.com/why-near-infinite-memory-is-a-crucial-ste
 ---
 
 
+
 Artificial intelligence (AI) has come a long way, but it still has a long way to go. One of the biggest challenges facing AI is its limited memory capacity. This is a problem because AI needs to remember things in order to learn and grow.
 
 In the past, AI systems had very limited memory capacity. This meant that they could only learn from a small amount of data. As a result, they were not able to perform complex tasks such as natural language processing and image recognition.

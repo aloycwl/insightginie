@@ -9,4 +9,5 @@ original_url: https://insightginie.com/45-chart-patterns-every-trader-must-know-
 ---
 
 
+
 Introduction

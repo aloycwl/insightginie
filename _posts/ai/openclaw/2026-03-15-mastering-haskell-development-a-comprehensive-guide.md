@@ -9,4 +9,5 @@ original_url: https://insightginie.com/mastering-haskell-development-a-comprehen
 ---
 
 
+
 Introduction to Haskell Development

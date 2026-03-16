@@ -11,6 +11,7 @@ featured_image: /media/images/2505092237.avif
 
 
 
+
 Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental condition characterized by inattention, hyperactivity, and impulsivity, affecting both children and adults globally. Traditional methods of diagnosing and monitoring ADHD often rely on clinical interviews, self-reports, and caregiver observations, which can be subjective, intermittent, and prone to recall bias.
 
 Enter **digital phenotyping**—the passive and continuous collection of behavioral data from digital devices like smartphones. This technology opens a new frontier in mental health monitoring by capturing real-time indicators of attention, impulsivity, and daily routines through everyday digital interactions. For individuals with ADHD, digital phenotyping can provide actionable insights that support diagnosis, symptom monitoring, and personalized interventions.

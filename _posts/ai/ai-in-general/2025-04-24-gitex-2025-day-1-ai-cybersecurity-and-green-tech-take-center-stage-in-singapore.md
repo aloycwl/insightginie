@@ -9,6 +9,7 @@ original_url: https://insightginie.com/gitex-2025-day-1-ai-cybersecurity-and-gre
 ---
 
 
+
 GITEX 2025 launched with a dynamic start, uniting global tech leaders, innovators, and policymakers across two major venues: Dubai and Singapore. The first day set the tone for a week of groundbreaking announcements, strategic collaborations, and visionary discussions, emphasizing the transformative power of technology in shaping our future.​
 
 In Dubai, the event commenced with a keynote address by H.H Sheikh Mohammed bin Rashid Al Maktoum, highlighting the UAE's commitment to fostering innovation and digital transformation. The venue buzzed with excitement as attendees explored the latest advancements in artificial intelligence, cybersecurity, and sustainable technologies. Notably, the “AI 100” program showcased a curated selection of 100 award-winning AI startups from around the globe, reflecting the event's focus on cutting-edge innovation. ​

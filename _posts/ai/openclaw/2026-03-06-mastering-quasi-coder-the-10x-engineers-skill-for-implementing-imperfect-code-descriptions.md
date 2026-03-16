@@ -10,6 +10,7 @@ original_url: https://insightginie.com/mastering-quasi-coder-the-10x-engineers-s
 ---
 
 
+
 Mastering Quasi-Coder: The 10x Engineer's Skill for Implementing Imperfect Code Descriptions
 ============================================================================================
 

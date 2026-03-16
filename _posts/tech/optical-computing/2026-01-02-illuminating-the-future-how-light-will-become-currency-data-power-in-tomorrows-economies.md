@@ -10,4 +10,5 @@ original_url: https://insightginie.com/illuminating-the-future-how-light-will-be
 ---
 
 
+
 The Dawn of the Photon Economy: Light as the Ultimate Resource

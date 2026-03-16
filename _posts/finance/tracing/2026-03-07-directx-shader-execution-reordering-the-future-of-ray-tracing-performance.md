@@ -9,6 +9,7 @@ original_url: https://insightginie.com/directx-shader-execution-reordering-the-f
 ---
 
 
+
 The Revolution in Ray Tracing: Understanding Shader Execution Reordering
 ========================================================================
 

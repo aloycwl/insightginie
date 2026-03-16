@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-fortress-portfolio-how-dividend-polic
 ---
 
 
+
 In the adrenaline-fueled world of modern finance, investors are often seduced by the “next big thing.” Tech startups, cryptocurrencies, and high-growth disruptors dominate the headlines, promising overnight riches. However, when the economic cycle turns—when inflation spikes, recessions loom, and bear markets growl—the glamour of growth stocks fades rapidly.
 
 In these turbulent times, smart money retreats to the “Fortress Portfolio.” This strategy is built on two unshakeable pillars: **Defensive Stocks** and **Disciplined Dividend Policy**.

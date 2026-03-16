@@ -11,4 +11,5 @@ original_url: https://insightginie.com/ai-driven-project-management-how-agentic-
 ---
 
 
+
 The Evolution of AI in Project Management

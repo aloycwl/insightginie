@@ -9,4 +9,5 @@ original_url: https://insightginie.com/garmin-pulse-skill-sync-your-garmin-healt
 ---
 
 
+
 What is the Garmin Pulse Skill?

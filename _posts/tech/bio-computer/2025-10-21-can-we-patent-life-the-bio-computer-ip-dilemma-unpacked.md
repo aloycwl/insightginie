@@ -9,4 +9,5 @@ original_url: https://insightginie.com/can-we-patent-life-the-bio-computer-ip-di
 ---
 
 
+
 The Ultimate IP Battleground: Can You Patent a Bio-Computer?

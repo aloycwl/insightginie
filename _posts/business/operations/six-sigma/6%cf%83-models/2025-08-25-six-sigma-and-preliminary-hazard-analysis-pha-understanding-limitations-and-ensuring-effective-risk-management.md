@@ -12,6 +12,7 @@ original_url: https://insightginie.com/six-sigma-and-preliminary-hazard-analysis
 ---
 
 
+
 In industrial engineering, manufacturing, and high-risk industries, ensuring both quality and safety is crucial. **Six Sigma** focuses on reducing process variability and improving quality, while **Preliminary Hazard Analysis (PHA)** identifies potential hazards early in the system lifecycle. However, like any early-stage assessment, PHA comes with inherent limitations that can affect its reliability and effectiveness.
 
 Understanding these limitations is critical for managers, engineers, and Six Sigma practitioners who want to integrate hazard assessment into process improvement initiatives. This article explores the constraints of PHA, its procedural steps, and strategies to maximize its usefulness in risk management.

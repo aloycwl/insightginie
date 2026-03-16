@@ -9,4 +9,5 @@ original_url: https://insightginie.com/brain-power-swiss-startup-powers-computer
 ---
 
 
+
 Introduction

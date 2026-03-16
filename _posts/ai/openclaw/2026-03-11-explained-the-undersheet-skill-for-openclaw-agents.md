@@ -9,6 +9,7 @@ original_url: https://insightginie.com/explained-the-undersheet-skill-for-opencl
 ---
 
 
+
 UnderSheet is a powerful skill designed for OpenClaw agents, offering persistent thread memory across various platforms. This article will delve into the functionalities of UnderSheet, its installation and setup process, and how it can enhance your OpenClaw agent's performance.
 
 Understanding UnderSheet's Purpose

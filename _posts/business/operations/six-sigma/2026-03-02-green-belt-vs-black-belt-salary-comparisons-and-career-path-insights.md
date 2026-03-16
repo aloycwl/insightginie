@@ -10,4 +10,5 @@ original_url: https://insightginie.com/green-belt-vs-black-belt-salary-compariso
 ---
 
 
+
 Introduction

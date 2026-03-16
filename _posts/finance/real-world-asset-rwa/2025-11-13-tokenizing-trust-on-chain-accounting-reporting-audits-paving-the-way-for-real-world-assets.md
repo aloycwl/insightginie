@@ -10,4 +10,5 @@ original_url: https://insightginie.com/tokenizing-trust-on-chain-accounting-repo
 ---
 
 
+
 The Rise of Real-World Assets (RWAs) in Decentralized Finance

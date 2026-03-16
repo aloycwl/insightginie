@@ -9,6 +9,7 @@ original_url: https://insightginie.com/beyond-luck-unmasking-the-gamblers-fallac
 ---
 
 
+
 Beyond Luck: Unmasking the Gambler's Fallacy and How It Costs You
 =================================================================
 

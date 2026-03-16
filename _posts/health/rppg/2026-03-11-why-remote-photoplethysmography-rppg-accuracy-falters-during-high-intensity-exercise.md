@@ -12,6 +12,7 @@ featured_image: /media/images/8141.jpg
 
 
 
+
 The Challenge of Measuring High Heart Rates via Remote Photoplethysmography
 ===========================================================================
 

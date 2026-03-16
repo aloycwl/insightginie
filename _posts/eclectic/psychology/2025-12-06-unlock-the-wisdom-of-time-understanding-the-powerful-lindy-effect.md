@@ -9,6 +9,7 @@ original_url: https://insightginie.com/unlock-the-wisdom-of-time-understanding-t
 ---
 
 
+
 Unlock the Wisdom of Time: Understanding the Powerful Lindy Effect
 ==================================================================
 

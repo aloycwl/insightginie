@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-hegel-paradox-why-we-are-doomed-to-re
 ---
 
 
+
 Open a newspaper today, and then open a history book from 100 years ago. The dates change, the technology evolves, and the names of the leaders are different, but the fundamental plotlines remain eerily the same. Financial bubbles inflate and burst. Empires overextend and collapse. Political polarization leads to gridlock.
 
 We look at the past and ask, “How could they have been so blind?” Yet, we are currently walking into the exact same traps.

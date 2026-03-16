@@ -9,6 +9,7 @@ original_url: https://insightginie.com/mastering-fors-the-few-time-secret-behind
 ---
 
 
+
 In the architecture of **SLH-DSA** (Stateless Hash-Based Digital Signature Algorithm), defined by NIST in **FIPS 205**, there is a clear division of labor. The heavy lifting of the infrastructure—building the massive Hypertree and linking layers together—is handled by **WOTS+** (Winternitz One-Time Signature Plus). But when it comes time to actually sign the user's message, a different, more specialized tool is deployed.
 
 That tool is **FORS**: The **Forest of Random Subsets**.

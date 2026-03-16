@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-the-openclaw-agent-chat-ux-
 ---
 
 
+
 The OpenClaw Agent Chat UX skill is a comprehensive enhancement for the OpenClaw Control UI that transforms how users interact with and manage multiple AI agents. This skill, currently at version 1.4.0, was developed by Charles Sears to provide a robust multi-agent experience with features like agent selection, session management, and agent creation wizards.
 
 Core Features

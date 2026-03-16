@@ -9,4 +9,5 @@ original_url: https://insightginie.com/turing-pyramid-psychological-hierarchy-fo
 ---
 
 
+
 What is the Turing Pyramid Skill?

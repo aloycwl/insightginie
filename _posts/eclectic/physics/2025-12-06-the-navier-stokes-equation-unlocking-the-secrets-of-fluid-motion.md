@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-navier-stokes-equation-unlocking-the-
 ---
 
 
+
 Introduction: The World of Moving Fluids

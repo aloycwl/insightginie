@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-straw-man-fallacy-how-to-spot-and-def
 ---
 
 
+
 We have all been there. You are in the middle of a discussion—perhaps about politics, a workplace project, or even household chores—and you make a nuanced point. Suddenly, your opponent counters with an exaggerated, twisted version of what you just said, attacking that distortion instead of your actual argument.
 
 You stand there baffled, thinking, *“That is not what I said at all.”*

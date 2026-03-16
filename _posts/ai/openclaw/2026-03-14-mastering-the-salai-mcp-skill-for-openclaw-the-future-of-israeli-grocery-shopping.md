@@ -10,4 +10,5 @@ original_url: https://insightginie.com/mastering-the-salai-mcp-skill-for-opencla
 ---
 
 
+
 Introduction to the Salai MCP Skill for OpenClaw

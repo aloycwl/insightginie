@@ -10,4 +10,5 @@ original_url: https://insightginie.com/svp-explained-unraveling-the-shortest-vec
 ---
 
 
+
 The Shortest Vector Problem (SVP): A Cornerstone of Cryptographic Security

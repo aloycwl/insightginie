@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-the-canvas-design-skill-in-
 ---
 
 
+
 Understanding the Canvas Design Skill in OpenClaw: A Comprehensive Guide
 ========================================================================
 

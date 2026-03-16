@@ -9,6 +9,7 @@ original_url: https://insightginie.com/art-of-war-series-the-use-of-spies
 ---
 
 
+
 1. Sun Tzu said: Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the State. The daily expenditure will amount to a thousand ounces of silver. There will be commotion at home and abroad, and men will drop down exhausted on the highways. As many as seven hundred thousand families will be impeded in their labour.
 2. Hostile armies may face each other for years, striving for the victory which is decided in a single day. This being so, to remain in ignorance of the enemy's condition simply because one grudges the outlay of a hundred ounces of silver in honours and emoluments, is the height of inhumanity.
 3. One who acts thus is no leader of men, no present help to his sovereign, no master of victory.

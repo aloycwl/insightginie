@@ -10,4 +10,5 @@ original_url: https://insightginie.com/merger-acquisition-outlook-2026-private-e
 ---
 
 
+
 The Great Consolidation: US Bank M&A Hits 7-Year High

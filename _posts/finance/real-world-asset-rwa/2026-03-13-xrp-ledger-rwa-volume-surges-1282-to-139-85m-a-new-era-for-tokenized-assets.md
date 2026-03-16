@@ -9,6 +9,7 @@ original_url: https://insightginie.com/xrp-ledger-rwa-volume-surges-1282-to-139-
 ---
 
 
+
 The Rise of Real-World Assets on the XRP Ledger
 ===============================================
 

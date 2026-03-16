@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-friendship-paradox-why-your-friends-a
 ---
 
 
+
 We have all had that moment. You are scrolling through Instagram or Facebook, looking at photos of a party or a group dinner, and a sinking feeling hits you. It seems like everyone else is more connected, more social, and more “in the mix” than you are.
 
 You look at your friends and think, “They all seem to know so many more people than I do.”

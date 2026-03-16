@@ -10,4 +10,5 @@ original_url: https://insightginie.com/powering-tomorrow-singapores-bold-quest-f
 ---
 
 
+
 The Lion City's Energy Conundrum: Dependence and the Drive for Diversification

@@ -9,4 +9,5 @@ original_url: https://insightginie.com/strategic-business-planning-for-2026-navi
 ---
 
 
+
 The New Strategic Imperative

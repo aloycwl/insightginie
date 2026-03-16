@@ -11,4 +11,5 @@ original_url: https://insightginie.com/cetol-6%cf%83-v11-5-revolutionizing-3d-to
 ---
 
 
+
 Introduction to CETOL 6σ v11.5

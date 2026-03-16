@@ -9,4 +9,5 @@ original_url: https://insightginie.com/see-the-world-through-patterns-unlocking-
 ---
 
 
+
 Introduction: The Power of Patterns

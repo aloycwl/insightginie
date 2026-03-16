@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-role-of-an-operations-manager-driving
 ---
 
 
+
 The Role of an Operations Manager: Driving Efficiency and Success

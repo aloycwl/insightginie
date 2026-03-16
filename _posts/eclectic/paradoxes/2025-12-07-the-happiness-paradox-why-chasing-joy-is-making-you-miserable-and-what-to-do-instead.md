@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-happiness-paradox-why-chasing-joy-is-
 ---
 
 
+
 We live in the age of the “Happiness Industrial Complex.”
 
 Scroll through your social media feed, walk through the self-help section of a bookstore, or listen to the latest top-charting podcasts. The message is singular, relentless, and deafening: *You should be happy, and if you aren't, you are doing something wrong.*

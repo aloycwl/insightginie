@@ -9,6 +9,7 @@ original_url: https://insightginie.com/openclaw-paper-fetcher-skill-automated-ac
 ---
 
 
+
 The OpenClaw Paper Fetcher skill represents a significant advancement in academic research automation, designed to streamline the process of obtaining scholarly papers from Sci-Hub. This comprehensive skill eliminates the tedious manual process of searching for and downloading academic papers, instead providing researchers with an automated solution that handles the entire workflow from DOI input to PDF storage.
 
 How the Paper Fetcher Skill Works

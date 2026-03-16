@@ -9,6 +9,7 @@ original_url: https://insightginie.com/5-chatgpt-prompts-to-write-your-business-
 ---
 
 
+
 5 ChatGPT Prompts To Write Your Business Plan Like a Pro
 ========================================================
 

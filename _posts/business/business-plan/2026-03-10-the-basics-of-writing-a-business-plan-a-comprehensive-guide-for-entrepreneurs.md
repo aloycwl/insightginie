@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-basics-of-writing-a-business-plan-a-c
 ---
 
 
+
 Introduction: Why You Need a Business Plan

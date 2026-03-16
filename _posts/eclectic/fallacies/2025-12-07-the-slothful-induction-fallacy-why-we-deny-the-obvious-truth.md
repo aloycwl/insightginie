@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-slothful-induction-fallacy-why-we-den
 ---
 
 
+
 We all know that one person. They have been fired from five different jobs in two years. Every time it happens, they have a detailed excuse: the boss was a tyrant, the company was downsizing, the training was bad, or office politics were unfair. They are convinced they are just the victim of a run of terrible luck.
 
 To an outside observer, the pattern is undeniable: the employee is the common denominator. But to the person involved, the conclusion remains out of reach.

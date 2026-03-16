@@ -9,6 +9,7 @@ original_url: https://insightginie.com/31-50-backtesting-fundamentals-infrastruc
 ---
 
 
+
 Build Your Trading Edge: A Deep Dive into Event-Driven Backtesting & Infrastructure
 ===================================================================================
 

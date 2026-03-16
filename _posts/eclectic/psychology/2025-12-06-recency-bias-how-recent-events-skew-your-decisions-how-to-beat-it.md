@@ -9,6 +9,7 @@ original_url: https://insightginie.com/recency-bias-how-recent-events-skew-your-
 ---
 
 
+
 Recency Bias: How Recent Events Skew Your Decisions & How to Beat It
 ====================================================================
 

@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-future-of-business-exploring-technolo
 ---
 
 
+
 The Future of Business: Exploring Technology & Operations Management

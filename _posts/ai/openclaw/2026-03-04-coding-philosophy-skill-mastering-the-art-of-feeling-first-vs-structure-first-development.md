@@ -10,4 +10,5 @@ original_url: https://insightginie.com/coding-philosophy-skill-mastering-the-art
 ---
 
 
+
 What is the Coding Philosophy Skill?

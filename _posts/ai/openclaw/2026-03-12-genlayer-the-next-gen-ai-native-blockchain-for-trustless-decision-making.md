@@ -9,6 +9,7 @@ original_url: https://insightginie.com/genlayer-the-next-gen-ai-native-blockchai
 ---
 
 
+
 GenLayer: Revolutionizing Blockchain with AI-Powered Consensus
 ==============================================================
 

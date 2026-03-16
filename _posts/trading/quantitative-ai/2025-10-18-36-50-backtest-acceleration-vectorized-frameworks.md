@@ -9,4 +9,5 @@ original_url: https://insightginie.com/36-50-backtest-acceleration-vectorized-fr
 ---
 
 
+
 The Need for Speed: Why Backtest Acceleration is Critical for Traders

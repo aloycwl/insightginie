@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-domino-effect-how-markets-price-syste
 ---
 
 
+
 In the world of finance, trust is the currency of the realm. A bank is, at its core, a confidence trick: it takes in deposits on the promise of immediate liquidity, while lending that same money out for long-term projects. When that confidence evaporates, the result is not just a decline in stock price—it is an existential crisis.
 
 For the global economy, the failure of a single bank is a tragedy; the failure of the banking *system* is a catastrophe. This potential for total collapse is known as **Systemic Risk**. For investors, understanding how the market prices this risk—often in the span of hours or minutes—is the difference between capital preservation and financial ruin.

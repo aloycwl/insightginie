@@ -9,4 +9,5 @@ original_url: https://insightginie.com/43-candlestick-patterns-every-trader-must
 ---
 
 
+
 Understanding Candlestick Patterns

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/protein-folding-at-scale-solving-biologic
 ---
 
 
+
 Proteins are the workhorses of life, responsible for virtually every biological process in cells. Their function depends on their three-dimensional structure, determined by the sequence of amino acids. Misfolded proteins can lead to diseases such as Alzheimer's, Parkinson's, and cystic fibrosis. Historically, determining protein structures has been a painstaking process, taking decades of experimental work for a single protein. Today, advances in computational biology and large-scale protein folding simulations are transforming this landscape, enabling scientists to predict structures in hours instead of decades.
 
 ### Understanding Protein Folding

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-change-paradox-why-you-cant-fix-other
 ---
 
 
+
 It is the universal complaint. You hear it over coffee, in marriage counseling sessions, and in corporate boardrooms.
 
 “My partner just won't listen.”  

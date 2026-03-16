@@ -9,6 +9,7 @@ original_url: https://insightginie.com/decoding-the-inverted-yield-curve-smart-r
 ---
 
 
+
 Decoding the Inverted Yield Curve: Smart Recession Trades for Savvy Investors
 =============================================================================
 

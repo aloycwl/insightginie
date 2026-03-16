@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-inflation-domino-how-energy-supply-sh
 ---
 
 
+
 In the intricate web of the global economy, energy is the spider. It is the master input, the foundational commodity upon which all other economic activity is built. When the price of an iPhone rises, it affects a niche group of consumers. When the price of energy rises, it affects every living being and every operating business on the planet.
 
 This universality makes **Energy Supply Shocks**—sudden, unexpected reductions in the availability of oil, natural gas, or electricity—the most potent trigger for global inflation. However, the true danger lies not in the immediate spike at the gas pump, but in the insidious phenomenon known as **Inflation Pass-Through**.

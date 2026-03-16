@@ -12,6 +12,7 @@ featured_image: /media/images/281244.avif
 
 
 
+
 ### **Quiz Question**
 
 You ordered a sandwich and a cup of coffee without thinking, but after she leaves you suddenly have the mood for hot chocolate. What would you do?

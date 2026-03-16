@@ -9,6 +9,7 @@ original_url: https://insightginie.com/uncovering-systemic-risk-what-is-the-econ
 ---
 
 
+
 Understanding the Economic Incentive Misalignment Detector
 ==========================================================
 

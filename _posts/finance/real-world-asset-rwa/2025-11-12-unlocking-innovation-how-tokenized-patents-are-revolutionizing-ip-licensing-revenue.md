@@ -10,4 +10,5 @@ original_url: https://insightginie.com/unlocking-innovation-how-tokenized-patent
 ---
 
 
+
 The Untapped Potential of Intellectual Property

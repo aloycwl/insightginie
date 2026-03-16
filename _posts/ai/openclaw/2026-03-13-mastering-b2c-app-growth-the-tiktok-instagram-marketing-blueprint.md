@@ -9,6 +9,7 @@ original_url: https://insightginie.com/mastering-b2c-app-growth-the-tiktok-insta
 ---
 
 
+
 Mastering B2C App Growth: The TikTok-Instagram Marketing Blueprint
 ==================================================================
 

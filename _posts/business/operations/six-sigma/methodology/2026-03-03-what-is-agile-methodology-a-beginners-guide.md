@@ -11,4 +11,5 @@ original_url: https://insightginie.com/what-is-agile-methodology-a-beginners-gui
 ---
 
 
+
 Introduction to Agile Methodology

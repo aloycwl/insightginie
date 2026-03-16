@@ -9,4 +9,5 @@ original_url: https://insightginie.com/understanding-the-openclaw-emotion-detect
 ---
 
 
+
 What is the OpenClaw Emotion Detector Skill?

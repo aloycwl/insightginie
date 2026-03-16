@@ -9,4 +9,5 @@ original_url: https://insightginie.com/openclaw-skill-screenshot-capture-automat
 ---
 
 
+
 What is the Screenshot Capture Skill?

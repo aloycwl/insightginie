@@ -11,4 +11,5 @@ original_url: https://insightginie.com/agile-project-management-explained-why-fl
 ---
 
 
+
 **Agile Project Management: Mastering Change in an Unpredictable World**

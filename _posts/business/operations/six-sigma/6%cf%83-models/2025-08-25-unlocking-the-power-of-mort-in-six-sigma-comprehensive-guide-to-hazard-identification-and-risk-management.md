@@ -12,6 +12,7 @@ original_url: https://insightginie.com/unlocking-the-power-of-mort-in-six-sigma-
 ---
 
 
+
 The **Management Oversight and Risk Tree (MORT)** is widely recognized as one of the most comprehensive hazard identification tools in risk management. Originally developed by the U.S. Department of Energy in connection with nuclear safety programs, MORT combines detailed logic diagrams with systematic analysis to identify operational and management-level hazards.
 
 When integrated with **Six Sigma methodologies**, MORT provides organizations with a **robust framework for process improvement, risk mitigation, and safety assurance**. This article explores MORT's role in hazard identification, its practical applications, and why even a simplified MORT chart is invaluable for analysts and risk managers.

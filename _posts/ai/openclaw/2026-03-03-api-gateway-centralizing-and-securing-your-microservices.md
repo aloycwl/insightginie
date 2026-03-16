@@ -9,4 +9,5 @@ original_url: https://insightginie.com/api-gateway-centralizing-and-securing-you
 ---
 
 
+
 What is an API Gateway?

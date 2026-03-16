@@ -9,6 +9,7 @@ original_url: https://insightginie.com/art-of-war-series-terrain
 ---
 
 
+
 1. Sun Tzu said: We may distinguish six kinds of terrain, to wit
    1. Accessible ground;
    2. Entangling ground;

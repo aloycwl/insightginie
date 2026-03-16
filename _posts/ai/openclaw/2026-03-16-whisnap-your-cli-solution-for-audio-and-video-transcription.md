@@ -9,6 +9,7 @@ original_url: https://insightginie.com/whisnap-your-cli-solution-for-audio-and-v
 ---
 
 
+
 Whisnap: Your CLI Solution for Audio and Video Transcription
 ============================================================
 

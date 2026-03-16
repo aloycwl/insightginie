@@ -11,6 +11,7 @@ original_url: https://insightginie.com/cmmis-fowler-predicts-more-mandatory-paym
 ---
 
 
+
 CMMI's Fowler Predicts More Mandatory Payment Models – What It Means for Value‑Based Care
 =========================================================================================
 

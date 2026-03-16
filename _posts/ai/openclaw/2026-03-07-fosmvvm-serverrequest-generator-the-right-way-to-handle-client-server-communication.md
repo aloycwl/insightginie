@@ -9,6 +9,7 @@ original_url: https://insightginie.com/fosmvvm-serverrequest-generator-the-right
 ---
 
 
+
 Building client-server communication in Swift applications can be surprisingly error-prone. Hardcoded URLs, manual JSON encoding, and inconsistent error handling create technical debt that compounds over time. The FOSMVVM ServerRequest Generator solves these problems by providing a type-safe, architecture-consistent approach to all client-server interactions.
 
 What is FOSMVVM ServerRequest Generator?

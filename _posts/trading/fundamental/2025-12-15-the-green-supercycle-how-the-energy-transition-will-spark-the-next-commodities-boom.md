@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-green-supercycle-how-the-energy-trans
 ---
 
 
+
 For the past century, the global economy was built on a foundation of hydrocarbons. Oil, coal, and natural gas were the distinct inputs that powered industrialization. Today, however, we are witnessing the early stages of the largest capital reallocation in human history. The world is attempting to pivot from a fuel-intensive energy system to a **material-intensive** energy system.
 
 This is the essence of the **Energy Transition**. While politicians debate timelines and activists push for “Net Zero,” financial markets are waking up to a stark reality: The path to a green future is paved with raw materials. Solar panels, wind turbines, and electric vehicles (EVs) do not grow on trees; they must be mined, refined, and manufactured.

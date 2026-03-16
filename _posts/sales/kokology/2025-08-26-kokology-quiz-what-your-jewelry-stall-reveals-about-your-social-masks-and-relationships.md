@@ -12,6 +12,7 @@ featured_image: /media/images/261206.avif
 
 
 
+
 ### **Quiz Questions**
 
 Imagine you're at a lively fair filled with exquisite boutiques and merchandise. You decide to open your own stall for handmade jewelry.

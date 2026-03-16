@@ -11,5 +11,6 @@ featured_image: /media/images/2505101145.avif
 
 
 
+
 Brazil's primary stock exchange, B3, is set to launch Ethereum (ETH) and Solana (SOL) futures contracts on June 16, 2025. This development marks a significant expansion of regulated cryptocurrency derivatives in Latin America, providing institutional and retail investors with new avenues for exposure to digital assets.
 

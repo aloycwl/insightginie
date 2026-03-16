@@ -12,6 +12,7 @@ featured_image: /media/images/2505012158.avif
 
 
 
+
 In an era where technology is reshaping industries, FIFA has embarked on a transformative journey by integrating blockchain into the world of football. This strategic move aims to revolutionize fan engagement, enhance transparency, and usher in a new digital age for the sport.
 
 The cornerstone of FIFA's blockchain initiative is its partnership with Algorand, a leading blockchain technology company known for its sustainability and scalability. Announced in May 2022, this collaboration designated Algorand as FIFA's official blockchain platform, providing the infrastructure for various digital assets and applications. ​

@@ -11,6 +11,7 @@ featured_image: /media/images/2504212156.avif
 
 
 
+
 Remote Photoplethysmography (rPPG) is a non-contact, non-invasive technology that measures a person's heart rate and other physiological signals using a video camera. It works by analyzing subtle changes in skin color caused by variations in blood flow. These fluctuations, though imperceptible to the naked eye, contain valuable information about the heart's activity.
 
 **The Science Behind rPPG** Photoplethysmography is a long-established technique that involves measuring changes in light absorption in the skin due to variations in blood volume. Traditional PPG methods require physical contact using sensors placed on the skin. However, rPPG takes this concept a step further by utilizing a camera to capture video of the subject's face.

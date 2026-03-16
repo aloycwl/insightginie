@@ -9,4 +9,5 @@ original_url: https://insightginie.com/ramadan-times-skill-intelligent-islamic-p
 ---
 
 
+
 Introduction to the Ramadan Times Skill

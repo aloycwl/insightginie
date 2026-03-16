@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-approval-paradox-why-trying-too-hard-
 ---
 
 
+
 We have all been there. You are on a date with someone you really like, so you laugh a little too loud at their jokes, agree with everything they say, and carefully curate your personality to be “perfect.” The result? They don't call you back.
 
 Or perhaps you are in a job interview. You are desperate for the role, so you over-explain your qualifications, nod enthusiastically at every comment the hiring manager makes, and practically beg for the opportunity. The result? They hire the candidate who seemed relaxed, poised, and slightly indifferent.

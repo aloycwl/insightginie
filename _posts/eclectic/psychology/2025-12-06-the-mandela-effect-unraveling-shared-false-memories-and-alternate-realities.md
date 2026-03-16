@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-mandela-effect-unraveling-shared-fals
 ---
 
 
+
 Is Your Memory Playing Tricks? Welcome to the Mandela Effect

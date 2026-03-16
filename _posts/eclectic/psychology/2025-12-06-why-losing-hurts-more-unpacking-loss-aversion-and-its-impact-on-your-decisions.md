@@ -9,6 +9,7 @@ original_url: https://insightginie.com/why-losing-hurts-more-unpacking-loss-aver
 ---
 
 
+
 Why Losing Hurts More: Unpacking Loss Aversion and Its Impact on Your Decisions
 ===============================================================================
 

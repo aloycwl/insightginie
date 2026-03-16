@@ -11,4 +11,5 @@ original_url: https://insightginie.com/the-power-of-a-project-champion-driving-i
 ---
 
 
+
 **The Power of a Project Champion: Driving Innovation, Risk-Taking, and Vision to Project Success**

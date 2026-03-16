@@ -12,6 +12,7 @@ featured_image: /media/images/2505031449.avif
 
 
 
+
 ### Introduction: A New Era of Wildlife Conservation Using rPPG
 
 In the world of wildlife conservation, **remote photoplethysmography (rPPG)** is emerging as a silent yet powerful tool to **monitor the stress and well-being of endangered species**. Traditionally used in medical and biometric fields, rPPG analyzes **minute color changes in skin or fur caused by blood flow**—and when integrated with high-resolution trail cameras, it allows researchers to **track the physiological responses of wild animals** without touching or disturbing them.

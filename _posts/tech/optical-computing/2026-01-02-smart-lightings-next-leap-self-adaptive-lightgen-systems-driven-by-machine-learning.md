@@ -10,6 +10,7 @@ original_url: https://insightginie.com/smart-lightings-next-leap-self-adaptive-l
 ---
 
 
+
 Smart Lighting's Next Leap: Self-Adaptive LightGen Systems Driven by Machine Learning
 =====================================================================================
 

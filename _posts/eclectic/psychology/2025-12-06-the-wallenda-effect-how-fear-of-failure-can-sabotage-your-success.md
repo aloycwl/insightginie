@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-wallenda-effect-how-fear-of-failure-c
 ---
 
 
+
 The Wallenda Effect: How Fear of Failure Can Sabotage Your Success
 ==================================================================
 

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/agentic-ai-the-new-era-of-automation-and-
 ---
 
 
+
 Artificial intelligence is rapidly evolving from a tool that assists with isolated tasks into a powerful ecosystem of autonomous agents capable of executing entire workflows. The groundbreaking report **“Artificial Intelligence Agents and Agentic Workflows: The New Frontier of Automation”** by Juan Gustavo Corvalán and his team at UBA IALAB offers a comprehensive and practical roadmap to understanding this paradigm shift. Published in 2025, the report bridges theory and application, demonstrating how generative AI is redefining automation, productivity, and the balance of power between machines and human oversight.
 
 At its core, agentic AI refers to AI systems that are not just responsive but also proactive, capable of planning, adapting, and executing tasks across dynamic environments with minimal human intervention. These agents differ significantly from traditional automation, which relies on rigid rule-based logic. Instead, agentic AI uses advanced models—especially generative AI and large language models (LLMs)—to interpret context, interact with tools, recall past interactions, and make autonomous decisions.

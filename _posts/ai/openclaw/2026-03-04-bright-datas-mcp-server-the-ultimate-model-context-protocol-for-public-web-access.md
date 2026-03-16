@@ -10,4 +10,5 @@ original_url: https://insightginie.com/bright-datas-mcp-server-the-ultimate-mode
 ---
 
 
+
 What is Bright Data's MCP Server?

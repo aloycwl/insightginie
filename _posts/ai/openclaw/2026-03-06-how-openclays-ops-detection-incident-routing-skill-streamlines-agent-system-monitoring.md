@@ -10,6 +10,7 @@ original_url: https://insightginie.com/how-openclays-ops-detection-incident-rout
 ---
 
 
+
 The **ops-detection-incident-routing** skill is a powerful tool from the OpenClay skills repository that automates anomaly detection and incident routing for agent systems. This skill is designed to provide a production-safe operations loop, eliminating the need for ad-hoc prompt-only monitoring. In this article, we'll delve into the functionality of this skill, its components, and how to use it effectively.
 
 **Key Features**:

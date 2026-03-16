@@ -11,6 +11,7 @@ original_url: https://insightginie.com/critical-chain-project-management-ccpm-th
 ---
 
 
+
 In a world where time-to-market can make or break a product or service, traditional project scheduling often falls short. That's where **Critical Chain Project Management (CCPM)** comes in. Developed by **Dr. Eliyahu Goldratt** in the mid-1990s, CCPM builds upon his **Theory of Constraints (TOC)** to revolutionize how projects are scheduled, executed, and completed.
 
 Unlike traditional methods such as CPM or PERT that focus solely on task sequences and durations, **CCPM accounts for both technical scheduling and human behavior**, addressing issues like resource bottlenecks, multitasking inefficiencies, and the tendency to pad estimates.

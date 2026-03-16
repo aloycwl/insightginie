@@ -12,6 +12,7 @@ featured_image: /media/images/2505031443.avif
 
 
 
+
 ### ntroduction: Revolutionizing Burn Assessment with Contactless 3D Imaging
 
 In the world of trauma care, **burn injuries** present unique diagnostic challenges. Accurately assessing **tissue perfusion, depth, and viability** is crucial for timely intervention and improved outcomes. Traditional methods—such as visual inspection and laser Doppler imaging—often fall short due to subjectivity, cost, and limited coverage. Enter the groundbreaking fusion of **remote photoplethysmography (rPPG)** and **LiDAR (Light Detection and Ranging)** technology: a **contactless, high-resolution, real-time solution for 3D blood flow mapping**, tailor-made for the critical assessment of burn victims.

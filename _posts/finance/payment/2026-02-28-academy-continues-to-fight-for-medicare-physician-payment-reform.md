@@ -9,4 +9,5 @@ original_url: https://insightginie.com/academy-continues-to-fight-for-medicare-p
 ---
 
 
+
 The Ongoing Battle for Fair Medicare Physician Payments

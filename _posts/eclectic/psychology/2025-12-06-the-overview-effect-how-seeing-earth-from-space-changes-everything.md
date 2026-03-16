@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-overview-effect-how-seeing-earth-from
 ---
 
 
+
 The Overview Effect: How Seeing Earth from Space Changes Everything
 ===================================================================
 

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/how-to-trade-with-inverted-hammer-and-sho
 ---
 
 
+
 Among the many candlestick patterns used by traders to interpret market sentiment and price action, the inverted hammer and shooting star stand out as classic single-candle reversal signals. Despite their similar structure, they represent opposite market contexts and expectations. Recognizing the differences between the two, and understanding how to confirm and trade them, can provide an edge in spotting turning points in trends across forex, crypto, and stock markets.
 
 The inverted hammer is typically found at the bottom of a downtrend and indicates a potential bullish reversal. It is shaped like an upside-down hammer, with a small real body at the bottom and a long upper shadow. The pattern reflects a session where buyers attempted to push prices higher but failed to hold those levels by the close. However, this upper shadow is not a sign of weakness — rather, it's a clue that buyers are beginning to test the resolve of the selling side. While the session closes near its open, the candle leaves behind evidence that the market may be preparing for a shift in momentum. For the inverted hammer to be considered actionable, traders often look for confirmation in the form of a strong bullish candle on the following session that closes above the inverted hammer's high. This second candle signals that buyers have taken over and a potential uptrend is underway.

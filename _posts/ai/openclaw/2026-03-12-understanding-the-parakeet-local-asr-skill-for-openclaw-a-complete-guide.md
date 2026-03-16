@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-the-parakeet-local-asr-skil
 ---
 
 
+
 Mastering Local Voice Transcription with OpenClaw's Parakeet ASR Skill
 ======================================================================
 

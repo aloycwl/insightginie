@@ -10,4 +10,5 @@ original_url: https://insightginie.com/the-future-of-psychology-9-transformative
 ---
 
 
+
 Introduction: A New Era in Psychological Science

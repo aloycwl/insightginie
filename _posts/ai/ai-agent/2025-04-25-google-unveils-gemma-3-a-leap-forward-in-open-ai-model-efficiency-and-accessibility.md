@@ -9,6 +9,7 @@ original_url: https://insightginie.com/google-unveils-gemma-3-a-leap-forward-in-
 ---
 
 
+
 Google has recently introduced Gemma 3, the latest iteration of its open AI models, marking a significant advancement in the accessibility and efficiency of generative AI technologies. Building upon the foundation laid by the Gemini 2.0 models, Gemma 3 is designed to deliver state-of-the-art performance while being optimized for deployment on a wide range of hardware, including consumer-grade GPUs.​
 
 One of the standout features of Gemma 3 is its integration of Quantization-Aware Training (QAT). This approach reduces the model's memory footprint and computational requirements without compromising its performance. As a result, developers can now run powerful models like Gemma 3 27B locally on consumer-grade GPUs, such as the NVIDIA RTX 3090, making advanced AI capabilities more accessible than ever before. ​

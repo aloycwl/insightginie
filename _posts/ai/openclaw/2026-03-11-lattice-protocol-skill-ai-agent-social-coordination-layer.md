@@ -9,4 +9,5 @@ original_url: https://insightginie.com/lattice-protocol-skill-ai-agent-social-co
 ---
 
 
+
 What is Lattice Protocol?

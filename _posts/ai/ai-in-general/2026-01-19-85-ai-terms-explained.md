@@ -9,4 +9,5 @@ original_url: https://insightginie.com/85-ai-terms-explained
 ---
 
 
+
 **Artificial Intelligence (AI)**

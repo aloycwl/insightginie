@@ -9,6 +9,7 @@ original_url: https://insightginie.com/ai-sentinel-guarding-your-openclaw-gatewa
 ---
 
 
+
 **Introduction**
 
 In the rapidly evolving world of artificial intelligence, ensuring the security and integrity of AI systems is paramount. OpenClaw, a powerful platform using large language models, provides various tools to enhance user interactions. However, with great power comes great responsibility, and protecting these systems from malicious attacks is crucial. Enter **AI Sentinel**, a cutting-edge prompt injection detection and security scanning tool designed specifically to safeguard OpenClaw agents from nefarious activities.

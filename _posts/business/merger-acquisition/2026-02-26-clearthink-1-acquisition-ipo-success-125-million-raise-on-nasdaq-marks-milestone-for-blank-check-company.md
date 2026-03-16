@@ -10,4 +10,5 @@ original_url: https://insightginie.com/clearthink-1-acquisition-ipo-success-125-
 ---
 
 
+
 ClearThink 1 Acquisition IPO Success: $125 Million Raise on NASDAQ Marks Milestone for Blank Check Company

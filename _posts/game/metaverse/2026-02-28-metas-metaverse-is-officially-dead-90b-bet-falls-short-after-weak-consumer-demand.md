@@ -10,6 +10,7 @@ original_url: https://insightginie.com/metas-metaverse-is-officially-dead-90b-be
 ---
 
 
+
 Meta's Metaverse is Officially Dead: $90B Bet Falls Short, After Weak Consumer Demand
 
 Meta's Metaverse is Officially Dead: $90B Bet Falls Short, After Weak Consumer Demand

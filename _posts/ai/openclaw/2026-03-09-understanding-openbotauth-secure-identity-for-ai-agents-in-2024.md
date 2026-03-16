@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-openbotauth-secure-identity
 ---
 
 
+
 Explanation of OpenBotAuth Skill
 
 Comprehensive Guide to OpenBotAuth: Cryptographic Identity for AI Agents

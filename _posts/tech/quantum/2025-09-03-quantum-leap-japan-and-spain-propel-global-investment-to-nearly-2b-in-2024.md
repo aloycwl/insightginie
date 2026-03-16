@@ -9,6 +9,7 @@ original_url: https://insightginie.com/quantum-leap-japan-and-spain-propel-globa
 ---
 
 
+
 The quantum technology sector has experienced a significant surge in investment, with global funding reaching nearly $2 billion in 2024—a 50% increase from the previous year. This growth is largely attributed to substantial public investments from countries like Japan and Spain, signaling a strong commitment to advancing quantum research and development.
 
 ### Japan's $7.4 Billion Commitment

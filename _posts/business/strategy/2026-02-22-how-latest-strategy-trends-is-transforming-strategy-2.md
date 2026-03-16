@@ -9,6 +9,7 @@ original_url: https://insightginie.com/how-latest-strategy-trends-is-transformin
 ---
 
 
+
 How Latest Strategy Trends is Transforming Strategy
 ===================================================
 

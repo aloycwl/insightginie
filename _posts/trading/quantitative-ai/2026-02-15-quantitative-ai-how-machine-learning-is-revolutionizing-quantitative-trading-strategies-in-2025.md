@@ -10,4 +10,5 @@ original_url: https://insightginie.com/quantitative-ai-how-machine-learning-is-r
 ---
 
 
+
 Introduction to Quantitative AI

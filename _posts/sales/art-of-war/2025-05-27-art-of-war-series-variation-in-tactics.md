@@ -9,6 +9,7 @@ original_url: https://insightginie.com/art-of-war-series-variation-in-tactics
 ---
 
 
+
 1. Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces
 2. When in a difficult country, do not encamp. In a country where high roads intersect, join hands with your allies. Do not linger in dangerously isolated positions. In hemmed-in situations, you must resort to stratagem. In a desperate position, you must fight.
 3. There are roads which must not be followed, armies which must not be attacked, towns which must be besieged, positions which must not be contested, commands of the sovereign which must not be obeyed.

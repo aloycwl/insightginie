@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-dark-side-of-agreement-navigating-the
 ---
 
 
+
 The Dark Side of Agreement: Navigating the Unanimity Paradox
 ============================================================
 

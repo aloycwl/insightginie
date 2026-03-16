@@ -9,6 +9,7 @@ original_url: https://insightginie.com/profit-from-chaos-how-to-trade-supply-cha
 ---
 
 
+
 For decades, the global economy operated on a “Just-in-Time” model. Efficiency was king, inventory was minimized, and goods flowed seamlessly across borders like water through a pipe. Those days are gone.
 
 We have entered the era of “Just-in-Case.” From geopolitical tensions and labor strikes to lingering pandemic aftershocks, the global supply chain has revealed itself to be far more fragile than investors realized. When these delicate networks fracture, the immediate result is scarcity. And in economics, scarcity births the investor's greatest enemy: **Inflation.**

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/mastering-ai-media-generation-a-deep-dive
 ---
 
 
+
 Introduction to the MuleRouter Skill in OpenClaw
 ================================================
 

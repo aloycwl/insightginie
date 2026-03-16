@@ -9,6 +9,7 @@ original_url: https://insightginie.com/28-50-portfolio-construction-basics
 ---
 
 
+
 Mastering Portfolio Construction: Build Your Own Optimizer with Advanced Strategies
 ===================================================================================
 

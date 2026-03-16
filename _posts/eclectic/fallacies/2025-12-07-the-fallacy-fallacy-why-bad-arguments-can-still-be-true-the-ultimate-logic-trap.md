@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-fallacy-fallacy-why-bad-arguments-can
 ---
 
 
+
 You are in the heat of a debate. Your opponent makes a claim, but in doing so, they slip up. They use a “Straw Man” argument, or perhaps they make an “Appeal to Authority.” You spot it immediately. You point your finger and shout, “Aha! That is a logical fallacy! Therefore, your point is wrong, and I win.”
 
 You feel a rush of intellectual superiority. You have dismantled their logic. You have exposed their error.

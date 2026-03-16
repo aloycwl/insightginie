@@ -10,6 +10,7 @@ original_url: https://insightginie.com/slh-dsa-vs-xmss-and-lms-the-battle-of-sta
 ---
 
 
+
 In the race to secure the internet against the impending threat of quantum computing, hash-based cryptography has emerged as the most conservative and mathematically sound “insurance policy.” Unlike lattice-based algorithms, which rely on relatively newer mathematical assumptions, hash-based signatures depend only on the security of cryptographic hash functions—a concept we have understood and tested for decades.
 
 However, not all hash-based signatures are created equal. The National Institute of Standards and Technology (NIST) has standardized two distinct categories: **Stateful** (XMSS and LMS) and **Stateless** (SLH-DSA).

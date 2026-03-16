@@ -9,5 +9,6 @@ original_url: https://insightginie.com/time-taken-for-a-scam-tracing-case-to-be-
 ---
 
 
+
 | Channel | Parties Involved | Speed | Remark |
 | 

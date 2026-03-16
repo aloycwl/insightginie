@@ -9,4 +9,5 @@ original_url: https://insightginie.com/what-is-people-operations-a-comprehensive
 ---
 
 
+
 Introduction to People Operations

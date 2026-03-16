@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-attention-paradox-why-ignoring-distra
 ---
 
 
+
 Try this experiment right now: For the next ten seconds, do not think of a white bear.
 
 You can think of a car, your lunch, or your job. You can think of anything in the universe, as long as it is not a white bear.

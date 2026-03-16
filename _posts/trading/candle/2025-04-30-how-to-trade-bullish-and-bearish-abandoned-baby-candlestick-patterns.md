@@ -9,6 +9,7 @@ original_url: https://insightginie.com/how-to-trade-bullish-and-bearish-abandone
 ---
 
 
+
 In the fast-paced world of trading, recognizing clear reversal signals is crucial for staying ahead of the market. One of the rare but highly effective candlestick reversal patterns is the **abandoned baby**. Whether bullish or bearish, this pattern often marks a sharp turning point in price action, making it a valuable signal for traders who seek high-probability entry points.
 
 The **bullish abandoned baby** is a pattern that typically appears at the bottom of a downtrend and signals a potential reversal to the upside. It consists of three distinct candles. First comes a long bearish candle that reflects strong downward pressure. Next, a doji appears that is completely isolated from the prior candle by a gap down, signaling market indecision and a potential change in sentiment. Finally, a strong bullish candle follows, gapping up from the doji and closing well into the previous bearish candle's range. The visual separation between the candles, especially the gap around the doji, is what gives this pattern its unique “abandoned” appearance.

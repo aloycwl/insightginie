@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-invisible-barriers-thermal-noise-sign
 ---
 
 
+
 The Invisible Barriers: Thermal Noise, Signal Loss, and the Ultimate Limits of Optical Processing
 =================================================================================================
 

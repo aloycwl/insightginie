@@ -10,6 +10,7 @@ original_url: https://insightginie.com/1-billion-identity-records-exposed-the-ma
 ---
 
 
+
 1 Billion Identity Records Exposed: The Massive ID Verification Data Leak Explained
 ===================================================================================
 

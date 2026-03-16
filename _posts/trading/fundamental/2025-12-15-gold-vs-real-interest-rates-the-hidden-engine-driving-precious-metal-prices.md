@@ -9,6 +9,7 @@ original_url: https://insightginie.com/gold-vs-real-interest-rates-the-hidden-en
 ---
 
 
+
 For generations, investors have been told a simple narrative: “Buy gold to protect against inflation.” While this adage holds truth over multi-decade timelines, short-term gold traders often find themselves baffled. There are periods when inflation skyrockets, yet gold prices stagnate or even fall. Conversely, there are times of low inflation when gold embarks on a massive bull run.
 
 If inflation isn't the primary joystick controlling the price of gold, what is?

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/automating-presentations-a-guide-to-the-o
 ---
 
 
+
 Automating Presentations: A Guide to the OpenClaw 2slides AI Skill
 ==================================================================
 

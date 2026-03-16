@@ -9,6 +9,7 @@ original_url: https://insightginie.com/latest-mathematics-trends
 ---
 
 
+
 Latest Mathematics Trends
 =========================
 

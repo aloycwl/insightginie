@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-burden-of-proof-fallacy-why-prove-me-
 ---
 
 
+
 Imagine you are at a dinner party, and a guest casually announces, “There is an invisible, heatless, intangible dragon living in my garage.”
 
 You smile politely and say, “That sounds unlikely.”

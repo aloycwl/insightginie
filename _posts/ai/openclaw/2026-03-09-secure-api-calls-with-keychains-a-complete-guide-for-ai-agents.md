@@ -9,6 +9,7 @@ original_url: https://insightginie.com/secure-api-calls-with-keychains-a-complet
 ---
 
 
+
 Calling external APIs securely is one of the biggest challenges for AI agents. How do you authenticate requests without exposing sensitive credentials like API keys or OAuth tokens? This is where Keychains comes in – a credential proxy that allows you to call any API without ever handling real credentials.
 
 How Keychains Works

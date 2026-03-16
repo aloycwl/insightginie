@@ -10,6 +10,7 @@ original_url: https://insightginie.com/candle%e6%98%af%e4%bb%80%e4%b9%88%e6%84%8
 ---
 
 
+
 candle是什么意思? – 知乎: Complete Guide 2026
 ======================================
 

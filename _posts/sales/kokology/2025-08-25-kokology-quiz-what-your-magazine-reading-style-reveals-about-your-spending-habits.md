@@ -12,6 +12,7 @@ featured_image: /media/images/251910.avif
 
 
 
+
 ### **Quiz Questions**
 
 You bought a popular magazine. How do you read it?

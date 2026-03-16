@@ -9,4 +9,5 @@ original_url: https://insightginie.com/trump-is-authoring-his-own-version-of-the
 ---
 
 
+
 Introduction: The Art of War in Modern Politics

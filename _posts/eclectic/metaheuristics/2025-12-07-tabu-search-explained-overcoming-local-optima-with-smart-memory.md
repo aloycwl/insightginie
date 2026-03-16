@@ -9,6 +9,7 @@ original_url: https://insightginie.com/tabu-search-explained-overcoming-local-op
 ---
 
 
+
 In the world of algorithmic optimization, “amnesia” is a common weakness. Many basic search algorithms operate with zero memory of where they have just been. They blindly climb the nearest hill, assuming that going up is always the right answer. Consequently, they often get stuck on a small peak (a local optimum), oblivious to the massive mountain (the global optimum) standing right next to them.
 
 Enter **Tabu Search (TS)**.

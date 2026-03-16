@@ -9,6 +9,7 @@ original_url: https://insightginie.com/art-of-war-series-energy
 ---
 
 
+
 1. Sun Tzu said: The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers.
 2. Fighting with a large army under your command is noisily different from fighting with a small one: it is merely a question of instituting signs and signals.
 3. To ensure that your whole host may withstand the brunt of the enemy's attack and remain unshaken— this is affected by manoeuvres direct and indirect.

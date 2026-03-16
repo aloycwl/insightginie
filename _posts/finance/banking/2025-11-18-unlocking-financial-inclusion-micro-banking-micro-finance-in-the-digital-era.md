@@ -10,4 +10,5 @@ original_url: https://insightginie.com/unlocking-financial-inclusion-micro-banki
 ---
 
 
+
 The Digital Revolution of Micro-Finance: A New Dawn for Financial Inclusion

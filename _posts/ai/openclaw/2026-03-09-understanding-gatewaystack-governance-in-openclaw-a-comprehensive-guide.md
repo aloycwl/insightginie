@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-gatewaystack-governance-in-
 ---
 
 
+
 The [**GatewayStack Governance**](https://github.com/openclaw/skills/tree/main/skills/davidcrowe/gatewaystack-governance) skill in OpenClaw is a powerful tool designed to provide "deny-by-default" governance for every tool call. It integrates into the OpenClaw process level, ensuring that the agent cannot bypass it. In this guide, we will explore what this skill does, its core features, and how it can be installed and customized.
 
 **GatewayStack Governance** is primarily focused on ensuring secure and controlled tool usage. It achieves this through five core checks that run automatically on every invocation:

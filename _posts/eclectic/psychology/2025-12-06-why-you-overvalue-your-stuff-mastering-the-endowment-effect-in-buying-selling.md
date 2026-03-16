@@ -10,6 +10,7 @@ original_url: https://insightginie.com/why-you-overvalue-your-stuff-mastering-th
 ---
 
 
+
 Why You Overvalue Your Stuff: Mastering the Endowment Effect in Buying & Selling
 ================================================================================
 

@@ -12,6 +12,7 @@ featured_image: /media/images/251414.avif
 
 
 
+
 ### **Quiz Question**
 
 In an art museum, a stranger suddenly says something to you:

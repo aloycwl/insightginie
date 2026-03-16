@@ -10,4 +10,5 @@ original_url: https://insightginie.com/bgl-announces-the-merger-of-vecta-environ
 ---
 
 
+
 Introduction

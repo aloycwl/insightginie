@@ -10,6 +10,7 @@ original_url: https://insightginie.com/pqc-on-the-edge-memory-management-strateg
 ---
 
 
+
 The standardization of Post-Quantum Cryptography (PQC) by NIST, specifically **FIPS 205 (SLH-DSA)** and **FIPS 204 (ML-DSA)**, marks a pivotal moment in cybersecurity. However, for embedded systems engineers and IoT architects, it marks the beginning of a massive logistical headache.
 
 For the past decade, the industry has relied on Elliptic Curve Cryptography (ECC). An ECDSA signature is a petite 64 bytes. It fits comfortably in a single TCP packet, a tiny database row, or the limited RAM of a Cortex-M0 microcontroller.

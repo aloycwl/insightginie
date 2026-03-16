@@ -11,6 +11,7 @@ featured_image: /media/images/111240.avif
 
 
 
+
 Why Latest rPPG Trends Matters in 2026
 ======================================
 

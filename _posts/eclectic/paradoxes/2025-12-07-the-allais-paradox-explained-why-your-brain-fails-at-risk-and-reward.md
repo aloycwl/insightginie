@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-allais-paradox-explained-why-your-bra
 ---
 
 
+
 For decades, classical economics relied on a comforting, yet flawed, assumption: humans are rational actors. The theory was that when faced with risky financial decisions, we calculate the “Expected Utility”—essentially the mathematical probability of a win—and choose the option with the highest score. We were viewed as *Homo Economicus*, logical computing machines driven by consistent self-interest.
 
 Then came Maurice Allais.

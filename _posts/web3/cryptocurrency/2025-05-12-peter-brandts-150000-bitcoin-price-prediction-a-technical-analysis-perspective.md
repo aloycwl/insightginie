@@ -12,5 +12,6 @@ featured_image: /media/images/2505121047.avif
 
 
 
+
 Veteran trader Peter Brandt has made headlines with his bold forecast that Bitcoin (BTC) could reach as high as $150,000 by late 2025. This projection is grounded in his extensive experience and technical analysis, which examines historical market cycles and current price patterns.
 

@@ -9,4 +9,5 @@ original_url: https://insightginie.com/duckdb-the-fast-powerful-and-easy-to-use-
 ---
 
 
+
 What is DuckDB?

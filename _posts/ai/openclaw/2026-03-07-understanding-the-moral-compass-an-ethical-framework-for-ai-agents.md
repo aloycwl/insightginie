@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-the-moral-compass-an-ethica
 ---
 
 
+
 Introduction to the Moral Compass Skill
 =======================================
 

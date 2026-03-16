@@ -10,6 +10,7 @@ original_url: https://insightginie.com/unlock-the-power-of-right-triangles-your-
 ---
 
 
+
 Unlock the Power of Right Triangles: Your Ultimate Guide to the Pythagorean Theorem
 ===================================================================================
 

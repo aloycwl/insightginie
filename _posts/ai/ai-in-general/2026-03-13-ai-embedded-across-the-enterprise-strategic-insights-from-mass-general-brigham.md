@@ -9,6 +9,7 @@ original_url: https://insightginie.com/ai-embedded-across-the-enterprise-strateg
 ---
 
 
+
 AI Embedded Across the Enterprise: Strategic Insights from Mass General Brigham
 ===============================================================================
 

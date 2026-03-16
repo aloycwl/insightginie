@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-currency-of-trust-why-central-bank-cr
 ---
 
 
+
 In the complex machinery of the global economy, fiat currency is backed by nothing more than government decree. But beneath that decree lies a far more fragile and essential foundation: **Credibility**.
 
 For the modern investor, the most valuable asset on a Central Bank's balance sheet is not its gold reserves or its portfolio of treasury bonds; it is the market's belief that the bank will do what it says. Central bank credibility is the invisible tether that holds the financial system together. When that tether is strong, markets are stable, and inflation is tamed with mere words. When it snaps, chaos ensues.

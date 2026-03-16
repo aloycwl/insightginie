@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-appeal-to-authority-fallacy-when-trus
 ---
 
 
+
 In an era of information overload, we crave shortcuts. We want to know which diet is best, which economic policy will lower inflation, or which tech stock to buy. Because we cannot be experts in everything, we naturally look to those who are. We trust the doctor to prescribe medicine; we trust the mechanic to fix the brakes.
 
 However, there is a fine line between respecting expertise and falling into a logical trap.

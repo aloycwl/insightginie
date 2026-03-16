@@ -9,6 +9,7 @@ original_url: https://insightginie.com/understanding-exoskeletons-the-onchain-id
 ---
 
 
+
 Understanding Exoskeletons: The Onchain Identity for AI Agents
 ==============================================================
 

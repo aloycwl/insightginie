@@ -10,4 +10,5 @@ original_url: https://insightginie.com/unraveling-murphys-law-why-everything-tha
 ---
 
 
+
 The Universal Truth of Things Going Wrong

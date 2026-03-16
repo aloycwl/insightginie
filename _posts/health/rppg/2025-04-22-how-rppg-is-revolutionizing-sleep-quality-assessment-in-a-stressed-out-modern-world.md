@@ -12,6 +12,7 @@ featured_image: /media/images/2504220130.avif
 
 
 
+
 In today's hyper-connected, always-on society, sleep has quietly become one of the most neglected pillars of health. The modern workforce, burdened by long hours, digital overload, and relentless stress, is sleeping less and worse than ever before. The World Health Organization has called sleep deprivation a global epidemic, with millions suffering from insomnia, sleep apnea, and general sleep fragmentation. The consequences are profound—poor sleep has been directly linked to a weakened immune system, increased risk of cardiovascular disease, impaired cognitive function, and even shortened life expectancy.
 
 Amid this growing crisis, the need for accurate and accessible sleep monitoring tools has never been greater. Traditional sleep assessments, such as polysomnography, require overnight stays in clinical labs with multiple electrodes and sensors attached to the body. While effective, this setup is expensive, uncomfortable, and not suitable for continuous monitoring at home. Enter remote photoplethysmography (rPPG), a non-invasive, camera-based technology that is redefining the way we understand and track sleep quality—without a single wire touching the skin.

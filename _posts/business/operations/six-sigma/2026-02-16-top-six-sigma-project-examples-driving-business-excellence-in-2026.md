@@ -10,4 +10,5 @@ original_url: https://insightginie.com/top-six-sigma-project-examples-driving-bu
 ---
 
 
+
 Introduction: The Evolution of Six Sigma in Modern Business

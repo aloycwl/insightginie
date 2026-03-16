@@ -9,6 +9,7 @@ original_url: https://insightginie.com/openclaw-bazaar-cli-skill-professional-vi
 ---
 
 
+
 The Bazaar CLI skill (baz) is a powerful tool for creating professional motion graphics and videos directly from your terminal. This AI-powered composition tool features multi-track layering, choreography capabilities, voiceover integration, and Lambda rendering. The skill implements a strict 5-phase gated workflow to ensure quality output.
 
 Installation and Setup

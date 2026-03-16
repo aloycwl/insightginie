@@ -10,6 +10,7 @@ original_url: https://insightginie.com/transitory-vs-persistent-inflation-why-th
 ---
 
 
+
 In early 2021, as the global economy began to thaw from lockdowns, a specific word began to dominate financial headlines: **“Transitory.”**
 
 Central bankers, led by the Federal Reserve, assured the public that the sudden spike in prices was a temporary glitch—a “supply chain hiccup” that would resolve itself once factories reopened and shipping containers started moving again. The narrative was comforting. It suggested that the low-interest-rate, low-inflation paradise of the last decade would continue indefinitely.

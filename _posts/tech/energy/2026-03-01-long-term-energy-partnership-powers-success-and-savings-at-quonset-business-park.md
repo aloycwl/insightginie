@@ -10,4 +10,5 @@ original_url: https://insightginie.com/long-term-energy-partnership-powers-succe
 ---
 
 
+
 Introduction

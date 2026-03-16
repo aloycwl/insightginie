@@ -9,4 +9,5 @@ original_url: https://insightginie.com/banking-in-2026-the-era-of-unconstrained-
 ---
 
 
+
 The Transformation of Banking in 2026

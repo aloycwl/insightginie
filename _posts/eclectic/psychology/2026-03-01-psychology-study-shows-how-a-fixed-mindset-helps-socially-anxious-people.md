@@ -10,4 +10,5 @@ original_url: https://insightginie.com/psychology-study-shows-how-a-fixed-mindse
 ---
 
 
+
 Introduction

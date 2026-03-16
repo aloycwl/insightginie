@@ -9,6 +9,7 @@ original_url: https://insightginie.com/art-of-war-series-attack-by-stratagem
 ---
 
 
+
 1. Sun Tzu said: In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good. So, too, it is better to recapture an entire army than to destroy it, to capture a regiment, a detachment or a company entirely rather than to destroy them.
 2. Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting.
 3. Thus the highest form of generalship is to block the enemy's plans; the next best is to prevent the junction of the enemy's forces; the next in order is to attack the enemy's army in the field; and the worst policy of all is to besiege walled cities.

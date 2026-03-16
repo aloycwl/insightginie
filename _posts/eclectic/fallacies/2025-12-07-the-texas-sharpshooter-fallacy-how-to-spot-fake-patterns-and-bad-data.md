@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-texas-sharpshooter-fallacy-how-to-spo
 ---
 
 
+
 Imagine a cowboy standing in a field, holding a revolver. He aims at the side of a massive barn and unloads six shots. The bullets hit the wood in random spots, but by sheer chance, three of them land close together in the upper right corner.
 
 The cowboy then walks up to the barn with a paintbrush. He paints a red bullseye around that tight cluster of three holes. He steps back, points to his handiwork, and declares to the town, “Look at my aim! I'm the sharpest shooter in the West.”

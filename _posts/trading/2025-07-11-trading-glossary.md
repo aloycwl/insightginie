@@ -8,4 +8,5 @@ original_url: https://insightginie.com/trading-glossary
 ---
 
 
+
 Price Action Trading

@@ -10,10 +10,6 @@ CATEGORY_API = f"{SITE}/wp-json/wp/v2/categories"
 POST_DIR = "../_posts"
 
 
-# --------------------------
-# Fetch WordPress categories
-# --------------------------
-
 def fetch_categories():
 
     categories = {}
@@ -43,10 +39,6 @@ def fetch_categories():
     return categories
 
 
-# --------------------------
-# Resolve category hierarchy
-# --------------------------
-
 def resolve_category(cat_id, categories):
 
     path = []
@@ -67,10 +59,6 @@ def resolve_category(cat_id, categories):
     return path
 
 
-# --------------------------
-# Convert category IDs
-# --------------------------
-
 def convert_categories(frontmatter, categories):
 
     cat_ids = frontmatter.get("categories", [])
@@ -80,20 +68,25 @@ def convert_categories(frontmatter, categories):
 
     first = cat_ids[0]
 
-    # Already slug
     if isinstance(first, str):
         return cat_ids
 
-    # Convert ID -> slug
     if first in categories:
         return resolve_category(first, categories)
 
     return ["general"]
 
 
-# --------------------------
-# Process a single post
-# --------------------------
+def repair_raw_blocks(content):
+
+    raw_count = content.count("{% raw %}")
+    end_count = content.count("{% endraw %}")
+
+    if raw_count > end_count:
+        content += "\n{% endraw %}\n"
+
+    return content
+
 
 def process_post(path, categories):
 
@@ -109,14 +102,14 @@ def process_post(path, categories):
     content = parts[2]
 
     new_categories = convert_categories(frontmatter, categories)
-
     frontmatter["categories"] = new_categories
+
+    content = repair_raw_blocks(content)
 
     new_front = yaml.dump(frontmatter, sort_keys=False)
 
     new_text = f"---\n{new_front}---\n{content}"
 
-    # new folder based on slug categories
     new_folder = os.path.join(POST_DIR, *new_categories)
 
     Path(new_folder).mkdir(parents=True, exist_ok=True)
@@ -130,10 +123,6 @@ def process_post(path, categories):
         os.remove(path)
 
 
-# --------------------------
-# Remove numeric folders
-# --------------------------
-
 def cleanup_numeric_folders():
 
     for name in os.listdir(POST_DIR):
@@ -142,20 +131,13 @@ def cleanup_numeric_folders():
 
         if os.path.isdir(full) and name.isdigit():
 
-            print("removing numeric folder:", name)
-
             for root, dirs, files in os.walk(full):
 
                 for file in files:
-
                     os.remove(os.path.join(root, file))
 
             os.rmdir(full)
 
-
-# --------------------------
-# Main
-# --------------------------
 
 def main():
 
@@ -177,7 +159,7 @@ def main():
 
     cleanup_numeric_folders()
 
-    print("posts processed:", total)
+    print("processed:", total)
 
 
 if __name__ == "__main__":

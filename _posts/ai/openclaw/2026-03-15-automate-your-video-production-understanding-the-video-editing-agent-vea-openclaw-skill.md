@@ -10,6 +10,7 @@ original_url: https://insightginie.com/automate-your-video-production-understand
 ---
 
 
+
 Introduction to the Video Editing Agent (VEA)
 =============================================
 

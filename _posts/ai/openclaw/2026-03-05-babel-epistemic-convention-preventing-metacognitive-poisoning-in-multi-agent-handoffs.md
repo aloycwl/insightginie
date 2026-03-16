@@ -10,6 +10,7 @@ original_url: https://insightginie.com/babel-epistemic-convention-preventing-met
 ---
 
 
+
 The Babel Epistemic Convention is a sophisticated skill designed to address a critical failure mode in multi-agent systems: metacognitive poisoning. This skill prevents the silent inflation of confidence that occurs when agents hand off work to one another, ensuring that downstream agents maintain proper calibration of the information they receive rather than treating upstream inferences as verified facts.
 
 When to Install This Skill  

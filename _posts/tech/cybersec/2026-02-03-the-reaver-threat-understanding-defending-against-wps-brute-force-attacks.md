@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-reaver-threat-understanding-defending
 ---
 
 
+
 The Reaver Threat: Understanding & Defending Against WPS Brute Force Attacks
 ============================================================================
 

@@ -9,4 +9,5 @@ original_url: https://insightginie.com/soc-design-flow-explained-your-complete-g
 ---
 
 
+
 Introduction: The Brains Behind Modern Electronics

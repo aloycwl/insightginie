@@ -9,6 +9,7 @@ original_url: https://insightginie.com/2-50-market-microstructure-basics-instrum
 ---
 
 
+
 To understand how quantitative strategies operate in real markets, one must first understand **market microstructure**. Market microstructure is the study of how trading actually happens — the mechanics behind order execution, liquidity, and price formation.
 
 Grasping these basics is essential for anyone building AI-driven or systematic trading strategies.

@@ -10,6 +10,7 @@ original_url: https://insightginie.com/deterministic-vs-hedged-signing-the-rando
 ---
 
 
+
 In the high-stakes world of cryptography, the most dangerous variable is often the one we trust the most: **Randomness**.
 
 For decades, the security of digital signatures—from the classic DSA to the modern ECDSA—hinged on the generation of a unique, unpredictable value known as the **nonce** (number used once). The rule is absolute: if you reuse a nonce with the same private key to sign two different messages, an attacker can perform simple algebra to extract your private key. This exact vulnerability led to the infamous PlayStation 3 hack and continues to plague cryptocurrency wallets today.

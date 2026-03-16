@@ -11,6 +11,7 @@ featured_image: /media/images/2505021307.avif
 
 
 
+
 In the ever-evolving landscape of blockchain technology, Nervos stands out as a pioneering network designed to address the inherent challenges of scalability, interoperability, and long-term sustainability. Unlike traditional monolithic blockchains that attempt to handle all functionalities within a single layer, Nervos introduces a modular architecture that separates the base layer from the application layers, allowing for greater flexibility and efficiency.
 
 At the heart of the Nervos network lies the Common Knowledge Base (CKB), the Layer 1 blockchain that serves as the foundation for the entire ecosystem. CKB is built upon a novel generalized UTXO model and employs a RISC-V instruction set-based virtual machine for executing transactions and smart contracts. This design ensures that CKB supports all current and prospective cryptographic primitives, making it possible to build diverse Layer 2 networks on top of it .

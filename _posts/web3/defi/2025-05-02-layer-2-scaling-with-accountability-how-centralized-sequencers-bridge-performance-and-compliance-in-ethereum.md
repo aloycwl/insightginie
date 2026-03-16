@@ -12,6 +12,7 @@ featured_image: /media/images/2505021243.avif
 
 
 
+
 As Ethereum continues to evolve into a global settlement layer for digital assets and decentralized applications, the challenge of scalability remains a critical hurdle. While Layer 1 provides unmatched security and decentralization, it struggles under the weight of rising demand, leading to high transaction fees and limited throughput. Enter Layer 2 (L2) solutions—an architectural leap that promises to bring scalability to Ethereum without compromising the foundational principles of security and transparency. But with this evolution comes a new trade-off: performance now rests heavily on the shoulders of centralized sequencers.
 
 Layer 2 solutions, including rollups like zk-rollups and optimistic rollups, scale Ethereum by processing transactions off-chain and then submitting compressed data back to Layer 1. This drastically reduces costs and increases throughput, allowing thousands of transactions per second to settle with Ethereum-grade security. Yet, at the center of these L2 architectures lies a powerful actor: the sequencer. This entity is responsible for determining the order of transactions, batching them for submission to Ethereum, and publishing state updates. In many L2 implementations today, there is only one sequencer, a central figure in an otherwise decentralized ecosystem.

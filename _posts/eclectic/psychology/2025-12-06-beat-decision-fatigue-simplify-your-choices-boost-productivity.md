@@ -9,6 +9,7 @@ original_url: https://insightginie.com/beat-decision-fatigue-simplify-your-choic
 ---
 
 
+
 Beat Decision Fatigue: Simplify Your Choices & Boost Productivity
 =================================================================
 

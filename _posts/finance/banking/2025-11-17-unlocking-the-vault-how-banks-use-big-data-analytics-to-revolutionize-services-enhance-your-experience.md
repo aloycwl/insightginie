@@ -10,4 +10,5 @@ original_url: https://insightginie.com/unlocking-the-vault-how-banks-use-big-dat
 ---
 
 
+
 The Data Goldmine: Understanding Big Data in Banking

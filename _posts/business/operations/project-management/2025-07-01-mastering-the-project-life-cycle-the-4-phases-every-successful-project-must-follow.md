@@ -11,4 +11,5 @@ original_url: https://insightginie.com/mastering-the-project-life-cycle-the-4-ph
 ---
 
 
+
 **Mastering the Project Life Cycle: The 4 Phases Every Successful Project Must Follow**

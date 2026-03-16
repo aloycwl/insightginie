@@ -10,6 +10,7 @@ original_url: https://insightginie.com/bitnet-b1-58-2b4t-microsofts-leap-into-ul
 ---
 
 
+
 In the rapidly evolving landscape of artificial intelligence, Microsoft has introduced a groundbreaking development with BitNet b1.58 2B4T—a large language model (LLM) that operates using a novel 1.58-bit quantization approach. This innovation promises to deliver high-performance AI capabilities while significantly reducing computational demands, making advanced AI more accessible and sustainable.​
 
 BitNet b1.58 2B4T stands out as the first open-source, natively trained 1.58-bit LLM at the 2-billion parameter scale. Unlike traditional models that rely on 16-bit or higher precision, BitNet employs ternary weights, allowing each parameter to take on values of -1, 0, or +1. This design choice leads to a substantial reduction in model size and energy consumption without compromising performance. The model was trained on a diverse corpus of 4 trillion tokens, encompassing web data, code, and synthetic mathematical content, ensuring a broad understanding of language and reasoning tasks.​

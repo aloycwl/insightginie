@@ -10,4 +10,5 @@ original_url: https://insightginie.com/the-future-of-operations-management-7-tra
 ---
 
 
+
 Introduction: A New Era of Operations

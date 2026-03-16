@@ -9,6 +9,7 @@ original_url: https://insightginie.com/building-an-mcp-server-with-fastmcp-v2
 ---
 
 
+
 In the rapidly evolving landscape of AI development, integrating external tools and resources into large language models (LLMs) has become a pivotal aspect of enhancing their capabilities. The Model Context Protocol (MCP) offers a standardized approach to achieve this integration, allowing LLMs to seamlessly interact with custom tools, APIs, and data sources. FastMCP v2, a Pythonic framework for building MCP servers, simplifies this process, enabling developers to create robust and efficient servers with minimal boilerplate code.​
 
 FastMCP v2 introduces several enhancements over its predecessor, including support for proxying and composing servers, as well as the ability to generate servers from OpenAPI specifications or FastAPI objects. These features streamline the development process, making it easier to build and deploy MCP servers tailored to specific use cases.​

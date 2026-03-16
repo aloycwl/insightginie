@@ -12,6 +12,7 @@ original_url: https://insightginie.com/why-%e4%bb%80%e4%b9%88%e6%98%af-agile-sof
 ---
 
 
+
 Why 什么是 Agile Software Development（敏捷软件开发）？ – 知乎 Matters in 2026
 ================================================================
 

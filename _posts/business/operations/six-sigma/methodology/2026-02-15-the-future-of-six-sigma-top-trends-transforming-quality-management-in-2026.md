@@ -11,4 +11,5 @@ original_url: https://insightginie.com/the-future-of-six-sigma-top-trends-transf
 ---
 
 
+
 Introduction: The Evolution of Six Sigma in the Modern Enterprise

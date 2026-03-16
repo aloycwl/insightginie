@@ -9,4 +9,5 @@ original_url: https://insightginie.com/6-ways-to-make-strategy-resonate-with-ske
 ---
 
 
+
 Introduction

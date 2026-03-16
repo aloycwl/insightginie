@@ -9,6 +9,7 @@ original_url: https://insightginie.com/latest-candle-trends-2
 ---
 
 
+
 Latest Candle Trends
 ====================
 

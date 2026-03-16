@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-ethical-hackers-guide-to-tls-capable-
 ---
 
 
+
 Oh, you fancy yourself a cybersecurity enthusiast? Maybe you've dabbled in penetration testing, or perhaps you're just that one friend who insists on “auditing” every public Wi-Fi network within a 10-mile radius. Either way, if you've ever tried to intercept HTTPS traffic without breaking everything in sight, you've probably muttered a few choice words about TLS-capable intercepting HTTP proxies. Well, mutter no more—let's dive into the gloriously chaotic world of man-in-the-middle (MITM) tools that actually work, even when WebSockets are involved.
 
 The Great HTTPS Heist: Why Your Browser Hates You

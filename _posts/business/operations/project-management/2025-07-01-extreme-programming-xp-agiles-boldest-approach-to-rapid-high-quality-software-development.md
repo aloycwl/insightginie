@@ -11,4 +11,5 @@ original_url: https://insightginie.com/extreme-programming-xp-agiles-boldest-app
 ---
 
 
+
 **Extreme Programming (XP): How Agile's Boldest Methodology Delivers Quality at Speed**

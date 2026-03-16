@@ -12,6 +12,7 @@ featured_image: /media/images/2505031445.avif
 
 
 
+
 ### Introduction: The Next Frontier in Emotional AI
 
 Understanding human emotion is no longer confined to facial expressions or speech tone. Thanks to advances in **remote photoplethysmography (rPPG)**, we can now detect subtle **microvascular changes** in the skin that correlate with emotional states—without touching the subject. This emerging technology, dubbed **“Mood rPPG,”** leverages AI and computer vision to read the body's involuntary physiological signals and translate them into emotional insights.

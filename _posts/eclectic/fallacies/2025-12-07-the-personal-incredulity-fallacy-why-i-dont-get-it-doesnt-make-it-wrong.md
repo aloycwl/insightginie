@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-personal-incredulity-fallacy-why-i-do
 ---
 
 
+
 “I just can't believe that humans evolved from bacteria. It's too complicated. Therefore, evolution must be false.”
 
 “How can the earth be spinning at 1,000 miles per hour if I don't feel the motion? It doesn't make sense, so the earth must be flat.”

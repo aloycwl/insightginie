@@ -11,4 +11,5 @@ original_url: https://insightginie.com/exploring-6%cf%83-models-revolutionizing-
 ---
 
 
+
 What are 6Σ Models?

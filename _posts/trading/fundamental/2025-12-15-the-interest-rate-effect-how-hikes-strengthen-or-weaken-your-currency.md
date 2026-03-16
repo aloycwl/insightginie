@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-interest-rate-effect-how-hikes-streng
 ---
 
 
+
 The Interest Rate Effect: How Hikes Strengthen (or Weaken) Your Currency
 ========================================================================
 

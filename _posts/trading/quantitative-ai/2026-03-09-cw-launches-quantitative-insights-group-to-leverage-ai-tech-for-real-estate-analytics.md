@@ -10,6 +10,7 @@ original_url: https://insightginie.com/cw-launches-quantitative-insights-group-t
 ---
 
 
+
 C&W Launches Quantitative Insights Group to Leverage AI Tech
 ============================================================
 

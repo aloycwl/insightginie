@@ -11,4 +11,5 @@ original_url: https://insightginie.com/exploring-the-6%cf%83-models-a-comprehens
 ---
 
 
+
 Introduction to 6Σ Models

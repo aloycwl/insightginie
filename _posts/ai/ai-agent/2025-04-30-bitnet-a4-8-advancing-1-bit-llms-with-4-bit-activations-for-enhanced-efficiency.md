@@ -9,6 +9,7 @@ original_url: https://insightginie.com/bitnet-a4-8-advancing-1-bit-llms-with-4-b
 ---
 
 
+
 As the demand for deploying large language models (LLMs) on resource-constrained environments grows, the focus has shifted towards optimizing both model weights and activations for efficiency. Building upon the foundation laid by BitNet b1.58, which introduced 1.58-bit quantized weights using ternary values (-1, 0, +1), researchers have now turned their attention to activation quantization. This progression has led to the development of BitNet a4.8, a model that employs 4-bit activations in conjunction with 1.58-bit weights, aiming to enhance inference efficiency without compromising performance.​
 
 BitNet a4.8 introduces a hybrid quantization and sparsification strategy to address the challenges posed by activation outliers—rare but significant activation values that can adversely affect model performance when quantized. Specifically, the model applies 4-bit quantization to the inputs of attention and feed-forward network (FFN) layers, where activations typically follow a Gaussian-like distribution. For intermediate states, which are more prone to outlier activations, BitNet a4.8 employs sparsification followed by 8-bit quantization. This approach effectively balances the need for low-bit precision with the preservation of critical activation information.

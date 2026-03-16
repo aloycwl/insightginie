@@ -10,4 +10,5 @@ original_url: https://insightginie.com/xrpl-has-added-more-tokenized-assets-in-2
 ---
 
 
+
 Introduction: The XRPL's Explosive Growth in Tokenized Assets

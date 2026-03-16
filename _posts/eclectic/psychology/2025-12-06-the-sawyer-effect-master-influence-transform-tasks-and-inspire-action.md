@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-sawyer-effect-master-influence-transf
 ---
 
 
+
 The Sawyer Effect: Master Influence, Transform Tasks, and Inspire Action

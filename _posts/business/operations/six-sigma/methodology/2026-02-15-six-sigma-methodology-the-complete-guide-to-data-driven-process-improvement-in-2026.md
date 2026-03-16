@@ -12,4 +12,5 @@ original_url: https://insightginie.com/six-sigma-methodology-the-complete-guide-
 ---
 
 
+
 Introduction to Six Sigma Methodology

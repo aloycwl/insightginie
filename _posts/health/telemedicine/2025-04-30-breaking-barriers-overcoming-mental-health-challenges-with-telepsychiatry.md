@@ -11,6 +11,7 @@ featured_image: /media/images/2504301700.avif
 
 
 
+
 In recent years, mental health has taken center stage in global healthcare discussions, and the rise of telepsychiatry has emerged as a revolutionary solution to one of the most pressing public health issues of our time. With mental health disorders on the rise, from anxiety and depression to PTSD and bipolar disorder, access to timely, effective psychiatric care has never been more critical. Telepsychiatry, the practice of delivering psychiatric services through digital communication tools, is transforming the way mental health care is delivered, making support more accessible, affordable, and stigma-free.
 
 The COVID-19 pandemic played a pivotal role in accelerating the adoption of telehealth technologies across all medical fields, but it was particularly impactful for mental health services. With lockdowns and social distancing measures in place, millions were left feeling isolated, anxious, and uncertain about the future. In this context, telepsychiatry stepped in as not just a temporary alternative, but a lifeline that ensured continuity of care for existing patients while also extending services to those seeking help for the first time.

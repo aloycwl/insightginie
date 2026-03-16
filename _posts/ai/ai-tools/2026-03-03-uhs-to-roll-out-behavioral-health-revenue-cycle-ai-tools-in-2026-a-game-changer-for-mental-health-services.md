@@ -10,4 +10,5 @@ original_url: https://insightginie.com/uhs-to-roll-out-behavioral-health-revenue
 ---
 
 
+
 UHS to Roll Out Behavioral Health Revenue Cycle AI Tools in 2026: A Game-Changer for Mental Health Services

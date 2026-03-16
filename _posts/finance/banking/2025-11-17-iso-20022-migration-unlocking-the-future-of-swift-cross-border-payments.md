@@ -9,4 +9,5 @@ original_url: https://insightginie.com/iso-20022-migration-unlocking-the-future-
 ---
 
 
+
 The Global Financial Shift: Embracing ISO 20022

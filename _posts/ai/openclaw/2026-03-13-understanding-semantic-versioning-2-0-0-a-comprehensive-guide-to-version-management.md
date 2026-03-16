@@ -10,4 +10,5 @@ original_url: https://insightginie.com/understanding-semantic-versioning-2-0-0-a
 ---
 
 
+
 What Is Semantic Versioning 2.0.0?

@@ -11,4 +11,5 @@ original_url: https://insightginie.com/why-agile-teams-are-winning-the-race-to-c
 ---
 
 
+
 Introduction

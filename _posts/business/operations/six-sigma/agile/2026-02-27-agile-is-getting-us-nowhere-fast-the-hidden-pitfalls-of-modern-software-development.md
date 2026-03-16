@@ -11,4 +11,5 @@ original_url: https://insightginie.com/agile-is-getting-us-nowhere-fast-the-hidd
 ---
 
 
+
 Introduction: The Agile Paradox

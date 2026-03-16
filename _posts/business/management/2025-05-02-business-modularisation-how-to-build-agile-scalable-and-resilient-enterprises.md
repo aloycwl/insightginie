@@ -9,4 +9,5 @@ original_url: https://insightginie.com/business-modularisation-how-to-build-agil
 ---
 
 
+
 **Introduction: Why Modularisation Is the Future of Business Strategy**

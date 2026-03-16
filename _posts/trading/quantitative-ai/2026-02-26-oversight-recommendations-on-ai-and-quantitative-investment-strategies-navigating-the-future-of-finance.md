@@ -10,4 +10,5 @@ original_url: https://insightginie.com/oversight-recommendations-on-ai-and-quant
 ---
 
 
+
 Introduction: The Rise of AI in Investment Management

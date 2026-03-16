@@ -12,6 +12,7 @@ original_url: https://insightginie.com/extreme-programming-xp-practices-explaine
 ---
 
 
+
 In today's fast-paced software landscape, organizations are constantly seeking methodologies that **deliver high-quality software quickly while adapting to changing requirements**. Two approaches that complement each other in this pursuit are **Extreme Programming (XP)** and **Six Sigma**.
 
 XP is a highly adaptive Agile methodology that emphasizes **continuous feedback, collaboration, and simplicity**, while Six Sigma focuses on **process improvement, quality control, and minimizing variability**. Together, they create a framework for delivering software that is both **flexible and reliable**.

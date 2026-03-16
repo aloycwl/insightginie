@@ -9,6 +9,7 @@ original_url: https://insightginie.com/management-hbr
 ---
 
 
+
 Management – HBR
 ================
 

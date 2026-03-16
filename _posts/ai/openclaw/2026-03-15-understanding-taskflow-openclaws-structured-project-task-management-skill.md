@@ -10,6 +10,7 @@ original_url: https://insightginie.com/understanding-taskflow-openclaws-structur
 ---
 
 
+
 Understanding TaskFlow: OpenClaw's Structured Project/Task Management Skill
 ===========================================================================
 

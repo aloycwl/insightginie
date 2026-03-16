@@ -9,6 +9,7 @@ original_url: https://insightginie.com/mastering-prediction-the-ultimate-skill-t
 ---
 
 
+
 Mastering Prediction: The Ultimate Skill to Win in Life and Business
 ====================================================================
 

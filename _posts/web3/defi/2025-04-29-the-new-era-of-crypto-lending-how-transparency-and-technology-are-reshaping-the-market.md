@@ -12,6 +12,7 @@ featured_image: /media/images/2504290943.avif
 
 
 
+
 In the ever-evolving world of cryptocurrency, lending has emerged as one of the most powerful yet least understood sectors. Galaxy Research's April 2025 report, *The State of Crypto Lending: Bringing Transparency to an Opaque Market*, provides a rare, in-depth view into how crypto lending has developed, the key players involved, and the pivotal changes reshaping the landscape after years of volatility, collapse, and rebirth.
 
 Crypto lending, both onchain (DeFi) and offchain (CeFi), has become a major cornerstone in building liquidity and financial services atop digital assets. At its peak during the 2020–2021 bull run, the total crypto lending market ballooned to an astounding $64.4 billion. However, this size dramatically shrank following the catastrophic collapses of major centralized lenders like Genesis, Celsius, BlockFi, and Voyager, leading to an 82% contraction in CeFi lending alone. Today, while the total lending market remains 43% below its peak, it has shown signs of strong recovery, reaching $36.5 billion by the end of 2024, with DeFi leading the resurgence.

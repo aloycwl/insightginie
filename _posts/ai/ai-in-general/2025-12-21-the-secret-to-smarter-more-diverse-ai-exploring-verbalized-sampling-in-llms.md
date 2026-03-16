@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-secret-to-smarter-more-diverse-ai-exp
 ---
 
 
+
 The Secret to Smarter, More Diverse AI: Exploring Verbalized Sampling in LLMs
 =============================================================================
 

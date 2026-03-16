@@ -10,4 +10,5 @@ original_url: https://insightginie.com/rag-vs-cag-how-cache-augmented-generation
 ---
 
 
+
 RAG vs CAG: A Practical Guide to Modern Retrieval Architectures for LLMs

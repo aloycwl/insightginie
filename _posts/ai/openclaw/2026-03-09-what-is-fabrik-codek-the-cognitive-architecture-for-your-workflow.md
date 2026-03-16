@@ -9,6 +9,7 @@ original_url: https://insightginie.com/what-is-fabrik-codek-the-cognitive-archit
 ---
 
 
+
 Understanding Fabrik-Codek: A Personal Cognitive Architecture
 =============================================================
 

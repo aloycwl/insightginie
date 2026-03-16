@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-false-dilemma-fallacy-escaping-the-tr
 ---
 
 
+
 “You are either with us, or you are against us.”  
 “It's my way or the highway.”  
 “Choose: do you want a clean environment or a strong economy?”

@@ -10,6 +10,7 @@ original_url: https://insightginie.com/is-ma-insurance-necessary-why-transaction
 ---
 
 
+
 In the high-stakes arena of Mergers and Acquisitions (M&A), the signing of the purchase agreement is often viewed as the finish line. However, for seasoned dealmakers, the period immediately following the close is where the real anxiety begins. What if the financial statements were inaccurate? What if there is a hidden tax liability? What if a third-party lawsuit emerges regarding intellectual property?
 
 Historically, these risks were managed through “holdbacks”—locking up a significant portion of the seller's proceeds in an escrow account for years. Today, however, the landscape has shifted.

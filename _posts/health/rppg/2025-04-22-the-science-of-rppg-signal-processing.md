@@ -11,6 +11,7 @@ featured_image: /media/images/2504220215.avif
 
 
 
+
 In the age of digital health and AI-powered diagnostics, the ability to monitor vital signs remotely and non-invasively has become a groundbreaking frontier. Among the most promising technologies in this realm is remote photoplethysmography, or rPPG. Unlike traditional sensors that require physical contact with the body, rPPG extracts physiological signals—most notably heart rate and respiratory rate—using only standard RGB cameras. At the heart of this technology lies a sophisticated process known as rPPG signal processing, which translates subtle color changes in human skin into meaningful biomedical insights.
 
 rPPG signal processing begins with the basic principle that blood flow under the skin affects its coloration. Every heartbeat causes a transient change in the amount of blood in facial vessels, subtly altering the reflected light captured by a camera. These changes, while imperceptible to the human eye, can be amplified and analyzed using advanced computer vision and signal processing techniques. The process typically starts with face detection and region-of-interest (ROI) tracking, where algorithms identify stable skin areas—usually the cheeks or forehead—that offer consistent signal quality.

@@ -10,4 +10,5 @@ original_url: https://insightginie.com/oceans-untapped-power-how-tidal-wave-ener
 ---
 
 
+
 The Looming Energy Challenge and the Ocean's Promise

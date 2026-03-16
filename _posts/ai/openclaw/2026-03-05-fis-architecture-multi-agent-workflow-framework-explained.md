@@ -9,6 +9,7 @@ original_url: https://insightginie.com/fis-architecture-multi-agent-workflow-fra
 ---
 
 
+
 FIS Architecture: A Complete Guide to the Multi‑Agent Workflow Framework
 ========================================================================
 

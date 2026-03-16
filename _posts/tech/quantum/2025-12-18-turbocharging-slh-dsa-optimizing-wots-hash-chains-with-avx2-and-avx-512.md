@@ -9,6 +9,7 @@ original_url: https://insightginie.com/turbocharging-slh-dsa-optimizing-wots-has
 ---
 
 
+
 The arrival of FIPS 205 and the standardization of **SLH-DSA** (Stateless Hash-Based Digital Signature Algorithm) has provided the cybersecurity world with a robust safety net against the quantum threat. However, this safety comes with a tangible cost: performance.
 
 Compared to lattice-based alternatives like ML-DSA (Dilithium), SLH-DSA is computationally expensive. The algorithm requires millions of hash operations to generate keys and sign messages. In high-throughput environments—such as TLS termination proxies or certificate authorities—this latency can be a dealbreaker.

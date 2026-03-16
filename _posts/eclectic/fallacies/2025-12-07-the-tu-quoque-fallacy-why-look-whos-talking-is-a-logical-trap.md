@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-tu-quoque-fallacy-why-look-whos-talki
 ---
 
 
+
 Imagine a teenager is caught smoking a cigarette behind the school gym. His father arrives, furious, and lectures him on the dangers of nicotine, citing cancer risks and addiction statistics.
 
 The teenager rolls his eyes and replies, “But Dad, you smoke a pack a day! You can't tell me not to do it.”

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-cryptographic-size-showdown-rsa-ecdsa
 ---
 
 
+
 For decades, the internet has run on a “lightweight” trust model. We have grown accustomed to digital signatures that are barely a blip on the network radar. Elliptic Curve Cryptography (ECDSA), the current gold standard, operates with keys and signatures so small that they are effectively negligible in terms of bandwidth and storage.
 
 However, the transition to Post-Quantum Cryptography (PQC) is about to change the mathematics of overhead.

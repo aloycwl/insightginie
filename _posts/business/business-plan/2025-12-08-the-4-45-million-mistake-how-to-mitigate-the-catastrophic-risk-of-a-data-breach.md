@@ -10,6 +10,7 @@ original_url: https://insightginie.com/the-4-45-million-mistake-how-to-mitigate-
 ---
 
 
+
 In the hierarchy of business anxieties, many CEOs place supply chain disruptions, market volatility, or regulatory changes at the top. While these are valid concerns, there is one risk that outpaces them all in terms of speed, devastation, and probability: **The Cybersecurity Data Breach.**
 
 According to IBM's recent report, the global average cost of a data breach has reached a staggering $4.45 million. For small to mid-sized businesses (SMBs), the statistics are even grimmer: roughly 60% of small companies go out of business within six months of falling victim to a cyber attack or data breach.

@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-unseen-carbon-footprint-do-renewable-
 ---
 
 
+
 Unpacking the Paradox: Renewable Energy and Its Construction Emissions

@@ -10,4 +10,5 @@ original_url: https://insightginie.com/the-director-of-operations-vs-the-chief-o
 ---
 
 
+
 Introduction

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/the-silent-economic-engine-how-services-p
 ---
 
 
+
 In the world of financial news, smokestacks and assembly lines still capture the imagination. When the Manufacturing Purchasing Managers' Index (PMI) is released, it often triggers immediate volatility in the bond and equity markets. There is a historical romance to industrial production that dates back to the Industrial Revolution.
 
 However, for the modern investor, this fixation on factories is a dangerous anachronism.

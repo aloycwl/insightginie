@@ -12,5 +12,6 @@ featured_image: /media/images/2505260938.avif
 
 
 
+
 Bilateral pheochromocytoma, the presence of catecholamine-secreting tumors in both adrenal glands, is a rare but significant manifestation of Von Hippel–Lindau (VHL) disease. VHL is an autosomal dominant genetic disorder characterized by the development of multiple benign and malignant tumors in various organs, including the adrenal glands. Understanding the relationship between bilateral pheochromocytoma and VHL is crucial for early diagnosis and effective management.
 

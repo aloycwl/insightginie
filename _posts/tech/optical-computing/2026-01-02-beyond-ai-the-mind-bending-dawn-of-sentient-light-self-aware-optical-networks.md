@@ -10,4 +10,5 @@ original_url: https://insightginie.com/beyond-ai-the-mind-bending-dawn-of-sentie
 ---
 
 
+
 The Next Frontier: When Light Becomes Aware

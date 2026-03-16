@@ -9,4 +9,5 @@ original_url: https://insightginie.com/45-powerful-chart-patterns-every-trader-n
 ---
 
 
+
 Introduction to Trading Chart Patterns

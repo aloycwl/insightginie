@@ -9,4 +9,5 @@ original_url: https://insightginie.com/embedded-kyc-powering-secure-real-time-pa
 ---
 
 
+
 The Revolution of Real-Time Payments: Speed Meets Security

@@ -9,6 +9,7 @@ original_url: https://insightginie.com/how-to-use-the-vlm-run-cli-skill-for-adva
 ---
 
 
+
 Understanding the VLM Run CLI Skill for OpenClaw: Advanced Image and Video Processing
 =====================================================================================
 

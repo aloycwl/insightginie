@@ -9,6 +9,7 @@ original_url: https://insightginie.com/dollar-liquidity-vs-emerging-markets-the-
 ---
 
 
+
 In the global financial theater, the US Dollar is not merely a participant; it is the stage upon which the entire play is performed. While American investors focus on the S&P 500 and domestic inflation, a far more volatile drama plays out internationally when the supply of dollars—known as **dollar liquidity**—expands or contracts.
 
 For Emerging Markets (EMs)—nations like Brazil, Turkey, Indonesia, and South Africa—dollar liquidity is the oxygen in the room. When it is abundant, these economies breathe easily and grow rapidly. But when the Federal Reserve tightens the taps and dollar liquidity evaporates, EMs begin to suffocate.

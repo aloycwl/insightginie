@@ -9,6 +9,7 @@ original_url: https://insightginie.com/github-how-people-build-software
 ---
 
 
+
 GitHub is the world's leading platform for software development, enabling over 100 million developers to build, collaborate, and innovate together. Since its founding in 2008, GitHub has revolutionized how developers work, making it easier than ever to write code, track changes, and ship software.
 
 ## What is GitHub?

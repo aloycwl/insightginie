@@ -9,4 +9,5 @@ original_url: https://insightginie.com/understanding-the-wir-identity-registry-s
 ---
 
 
+
 What is the WIR Identity Registry Skill?

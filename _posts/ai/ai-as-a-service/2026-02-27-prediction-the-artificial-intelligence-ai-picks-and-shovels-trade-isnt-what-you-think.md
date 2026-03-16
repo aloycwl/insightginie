@@ -10,4 +10,5 @@ original_url: https://insightginie.com/prediction-the-artificial-intelligence-ai
 ---
 
 
+
 Introduction: Beyond the Obvious

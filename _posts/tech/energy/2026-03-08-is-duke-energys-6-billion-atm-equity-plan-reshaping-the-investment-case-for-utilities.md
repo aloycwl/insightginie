@@ -10,6 +10,7 @@ original_url: https://insightginie.com/is-duke-energys-6-billion-atm-equity-plan
 ---
 
 
+
 Is Duke Energy's $6 Billion ATM Equity Plan Reshaping the Investment Case for Utilities?
 ========================================================================================
 

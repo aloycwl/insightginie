@@ -11,4 +11,5 @@ original_url: https://insightginie.com/mastering-6%cf%83-models-a-comprehensive-
 ---
 
 
+
 Understanding Six Sigma and the 6σ Philosophy

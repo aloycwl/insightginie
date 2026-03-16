@@ -9,6 +9,7 @@ original_url: https://insightginie.com/beyond-zero-how-banks-navigate-thrive-in-
 ---
 
 
+
 The financial world has long operated on the fundamental principle that money has a time value – a concept inherently linked to positive interest rates. Lenders earn from borrowers, and savers earn from their deposits. But what happens when this bedrock principle is inverted, and central banks push interest rates below zero?
 
 Negative Interest Rate Policies (NIRP) have emerged as an unconventional monetary tool in recent years, primarily in economies battling persistent low inflation and sluggish growth. While intended to stimulate lending and spending, NIRP presents a profound paradox for commercial banks: how do you make a profit when the traditional spread between lending and borrowing rates is squeezed, or even inverted?

@@ -11,6 +11,7 @@ featured_image: /media/images/2504212219.avif
 
 
 
+
 Remote Photoplethysmography (rPPG) is a non-contact, non-invasive technology that measures a person's heart rate and other physiological signals using a video camera. It works by analyzing subtle changes in skin color caused by variations in blood flow. These fluctuations, though imperceptible to the naked eye, contain valuable information about the heart's activity.
 
 To extract the heart rate signal from video data, rPPG algorithms employ various techniques. The most commonly used algorithms are POS (Pulse Oximetry Signal), LGI (Local Gradient Intensity), and CHROM (CHROMatic analysis). In this article, we will explore what each algorithm is, how it works, and the differences between each one.

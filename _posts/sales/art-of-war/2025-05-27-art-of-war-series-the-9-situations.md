@@ -9,6 +9,7 @@ original_url: https://insightginie.com/art-of-war-series-the-9-situations
 ---
 
 
+
 1. Sun Tzu said: The art of war recognises nine varieties of ground:
    1. Dispersive ground;
    2. Facile ground;

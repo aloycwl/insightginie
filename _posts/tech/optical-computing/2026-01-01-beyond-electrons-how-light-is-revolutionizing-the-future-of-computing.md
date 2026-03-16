@@ -9,4 +9,5 @@ original_url: https://insightginie.com/beyond-electrons-how-light-is-revolutioni
 ---
 
 
+
 The Dawn of a New Era: Why Light is the Future of Computing

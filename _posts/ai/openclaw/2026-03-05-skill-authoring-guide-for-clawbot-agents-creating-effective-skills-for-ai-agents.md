@@ -10,4 +10,5 @@ original_url: https://insightginie.com/skill-authoring-guide-for-clawbot-agents-
 ---
 
 
+
 What is the Skill Authoring Guide?

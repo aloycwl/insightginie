@@ -10,3 +10,4 @@ original_url: https://insightginie.com/aligning-fundamentals-with-trade-timefram
 ---
 
 
+

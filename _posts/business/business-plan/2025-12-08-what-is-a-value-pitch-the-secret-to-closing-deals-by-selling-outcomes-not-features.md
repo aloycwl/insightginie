@@ -10,6 +10,7 @@ original_url: https://insightginie.com/what-is-a-value-pitch-the-secret-to-closi
 ---
 
 
+
 In the competitive landscape of modern sales, the era of “feature dumping” is dead. If you are walking into a meeting and spending the first twenty minutes talking about your company, your awards, or the technical specifications of your product, you are likely losing the room before you even reach your pricing slide.
 
 Today's buyers are educated, skeptical, and pressed for time. They do not care about what your product *does*; they care about what your product does *for them*.

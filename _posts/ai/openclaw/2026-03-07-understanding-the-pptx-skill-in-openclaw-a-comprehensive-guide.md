@@ -9,4 +9,5 @@ original_url: https://insightginie.com/understanding-the-pptx-skill-in-openclaw-
 ---
 
 
+
 What is the PPTX Skill?

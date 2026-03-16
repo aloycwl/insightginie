@@ -9,4 +9,5 @@ original_url: https://insightginie.com/the-contractor-payment-timing-that-puts-h
 ---
 
 
+
 The Contractor Payment Timing That Puts Homeowners at Risk

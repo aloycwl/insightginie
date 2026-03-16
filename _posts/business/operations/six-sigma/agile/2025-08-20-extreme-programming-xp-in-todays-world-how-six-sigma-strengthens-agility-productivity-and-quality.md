@@ -12,6 +12,7 @@ original_url: https://insightginie.com/extreme-programming-xp-in-todays-world-ho
 ---
 
 
+
 When **Extreme Programming (XP)** burst onto the software development scene in the late 1990s and early 2000s, it was hailed as a radical yet refreshing alternative to traditional system development methods. XP's emphasis on adaptability, collaboration, and simplicity resonated with teams frustrated by rigid methodologies that struggled to accommodate change.
 
 Fast-forward to today, and while XP may not enjoy the same buzz it once did, its influence remains deeply woven into Agile practices. Meanwhile, organizations increasingly turn to **Six Sigma** to add discipline, measurement, and quality control to Agile frameworks like XP. The combination of these approaches enables teams to remain flexible while maintaining consistent productivity and quality.

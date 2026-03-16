@@ -11,6 +11,7 @@ featured_image: /media/images/2504220202.avif
 
 
 
+
 In the evolving landscape of digital health, real-time rPPG analysis is emerging as a game-changing technology. Remote photoplethysmography, commonly known as rPPG, is a non-contact method of measuring vital signs such as heart rate, respiratory rate, and oxygen saturation by analyzing color variations in human skin captured through regular RGB cameras. When paired with real-time processing capabilities, rPPG becomes a powerful tool that enables continuous health monitoring with immediate feedback—without the need for wearable devices or physical contact.
 
 The fundamental principle behind rPPG lies in its ability to detect minute changes in skin coloration caused by blood flow beneath the surface. These subtle shifts are typically imperceptible to the naked eye but can be captured and interpreted through computer vision algorithms. With advancements in signal processing and machine learning, real-time analysis now allows these signals to be processed and interpreted instantaneously, offering a level of convenience and accessibility that was once considered futuristic.

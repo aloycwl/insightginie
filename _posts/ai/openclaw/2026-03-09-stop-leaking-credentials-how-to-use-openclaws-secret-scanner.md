@@ -9,6 +9,7 @@ original_url: https://insightginie.com/stop-leaking-credentials-how-to-use-openc
 ---
 
 
+
 Protect Your Codebase with OpenClaw Secret Scanner
 ==================================================
 

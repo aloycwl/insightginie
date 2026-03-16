@@ -12,6 +12,7 @@ featured_image: /media/images/2505200920.avif
 
 
 
+
 Encephalitis, an inflammation of the brain often caused by viral infections, poses significant public health challenges worldwide. Viruses such as Japanese encephalitis virus (JEV), Eastern equine encephalitis virus (EEEV), and tick-borne encephalitis virus (TBEV) are notable culprits, transmitted primarily through vectors like mosquitoes and ticks. Effective monitoring of these viruses is crucial for early detection, timely intervention, and prevention of widespread outbreaks.
 
 Diagnostic Techniques for Encephalitis Viruses

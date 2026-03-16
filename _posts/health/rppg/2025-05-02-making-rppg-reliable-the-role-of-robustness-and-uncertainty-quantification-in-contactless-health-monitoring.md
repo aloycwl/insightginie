@@ -12,6 +12,7 @@ featured_image: /media/images/2505020925.avif
 
 
 
+
 In the expanding field of contactless health monitoring, remote photoplethysmography (rPPG) stands at the forefront as a non-invasive method for measuring vital signs using standard video cameras. From heart rate and respiratory tracking to emotional and stress analysis, rPPG promises to reshape how we understand and interact with our own health. But to truly fulfill its potential beyond controlled environments, one critical frontier must be conquered: robustness and uncertainty quantification.
 
 Robustness in rPPG refers to the system's ability to deliver consistent, accurate results despite real-world challenges. These challenges include fluctuations in lighting, head movements, varying skin tones, occlusions like eyeglasses or facial hair, and diverse camera quality. In a laboratory, extracting a clean pulse signal from a still, well-lit subject may seem trivial. But real-life scenarios—such as a user walking outdoors, engaging in video calls, or monitoring sleep in dim rooms—introduce countless unpredictable variables. Without sufficient robustness, rPPG systems can fail silently, providing users with misleading or unusable data.

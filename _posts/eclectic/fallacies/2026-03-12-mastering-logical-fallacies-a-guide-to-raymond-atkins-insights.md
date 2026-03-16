@@ -9,6 +9,7 @@ original_url: https://insightginie.com/mastering-logical-fallacies-a-guide-to-ra
 ---
 
 
+
 Raymond Atkins: Expert Tips on Spotting and Avoiding Logical Fallacies
 ======================================================================
 
