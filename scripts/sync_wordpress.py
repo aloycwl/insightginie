@@ -7,15 +7,17 @@ from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+POST_DIR = BASE_DIR / "_posts"
+MEDIA_DIR = BASE_DIR / "media/images"
+STATE_FILE = BASE_DIR / "scripts/last_sync.json"
+POST_DIR.mkdir(exist_ok=True)
+MEDIA_DIR.mkdir(parents=True, exist_ok=True)
+
 SITE = "https://insightginie.com"
 
 POST_API = f"{SITE}/wp-json/wp/v2/posts"
 CATEGORY_API = f"{SITE}/wp-json/wp/v2/categories"
-
-POST_DIR = "../_posts"
-MEDIA_DIR = "../media/images"
-
-STATE_FILE = "last_sync.json"
 
 PER_PAGE = 100
 MAX_WORKERS = 10

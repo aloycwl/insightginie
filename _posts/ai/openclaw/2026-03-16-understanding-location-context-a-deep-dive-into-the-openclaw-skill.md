@@ -1,0 +1,128 @@
+---
+layout: post
+title: 'Understanding Location Context: A Deep Dive into the OpenClaw Skill'
+date: '2026-03-16T18:45:56'
+categories:
+- ai
+- openclaw
+original_url: https://insightginie.com/understanding-location-context-a-deep-dive-into-the-openclaw-skill/
+featured_image: /media/images/8157.jpg
+---
+
+<h1>Understanding Location Context: A Deep Dive into the OpenClaw Skill</h1>
+<p>In the era of data-driven decision-making, understanding the context of a location is crucial for various applications, from travel planning to business intelligence. The OpenClaw skill for location context, provided by James Southend Solutions and powered by Camino AI, offers a comprehensive way to gather detailed insights about any given location. This blog post explores what this skill does, how to install and use it, and its practical applications.</p>
+<h2>What is the Location Context Skill?</h2>
+<p>The location context skill in OpenClaw allows you to retrieve comprehensive information about a specific geographical location. This includes nearby places of interest, detailed area descriptions, and optional weather data. By leveraging the Camino AI platform, this skill provides location-aware recommendations and insights, making it valuable for a wide range of use cases.</p>
+<h2>Key Features</h2>
+<ol>
+<li><strong>Comprehensive Context:</strong> Get detailed insights about what&#8217;s around a location, including restaurants, cafes, transit options, and more.</li>
+<li><strong>Area Description:</strong> Receive a concise yet informative description of the area.</li>
+<li><strong>Weather Data:</strong> Optionally include weather information, either daily or hourly, to plan activities accordingly.</li>
+<li><strong>Customizable Radius:</strong> Adjust the search radius to focus on a specific area.</li>
+<li><strong>Contextual Insights:</strong> Tailor the insights based on specific contexts, such as &#8216;lunch options&#8217; or &#8216;tourist visiting Paris&#8217;.</li>
+</ol>
+<h2>Installation</h2>
+<p>The location context skill is part of the Camino AI location intelligence suite. To get the most out of this skill, it&#8217;s recommended to install all available skills. Here&#8217;s how you can do it:</p>
+<h3>Via npx</h3>
+<p>Install all skills from the repository:</p>
+<pre><code>npx skills add https://github.com/barneyjm/camino-skills</code></pre>
+<p>Or install specific skills:</p>
+<pre><code>npx skills add https://github.com/barneyjm/camino-skills --skill context</code></pre>
+<h3>Via clawhub</h3>
+<p>Use the following command:</p>
+<pre><code>npx clawhub@latest install context</code></pre>
+<p>Or with pnpm:</p>
+<pre><code>pnpm dlx clawhub@latest install context</code></pre>
+<p>Or with bun:</p>
+<pre><code>bunx clawhub@latest install context</code></pre>
+<h2>Setup</h2>
+<p>To use the location context skill, you&#8217;ll need an API key from Camino AI. Here&#8217;s how to get one:</p>
+<h3>Instant Trial</h3>
+<p>Get a temporary API key with 25 calls:</p>
+<pre><code>curl -s -X POST -H "Content-Type: application/json" -d '{"email": "you@example.com"}' https://api.getcamino.ai/trial/start</code></pre>
+<p>This will return an API key and the number of calls remaining.</p>
+<h3>Free Calls</h3>
+<p>For 1,000 free calls per month, sign up at <a href="https://app.getcamino.ai/skills/activate">https://app.getcamino.ai/skills/activate</a>.</p>
+<h3>Adding Your Key to Claude Code</h3>
+<p>Add your API key to your ~/.claude/settings.json file:</p>
+<pre><code>{
+  "env": {
+    "CAMINO_API_KEY": "your-api-key-here"
+  }
+}</code></pre>
+<p>Restart Claude Code to apply the changes.</p>
+<h2>Usage Examples</h2>
+<p>Here are some examples of how to use the location context skill:</p>
+<h3>Via Shell Script</h3>
+<p>Get context about a location:</p>
+<pre><code>./scripts/context.sh '{
+  "location": {"lat": 40.7589, "lon": -73.9851},
+  "radius": 500
+}'</code></pre>
+<p>With specific context for tailored insights:</p>
+<pre><code>./scripts/context.sh '{
+  "location": {"lat": 40.7589, "lon": -73.9851},
+  "radius": 500,
+  "context": "lunch options"
+}'</code></pre>
+<p>Include weather data:</p>
+<pre><code>./scripts/context.sh '{
+  "location": {"lat": 40.7589, "lon": -73.9851},
+  "include_weather": true,
+  "weather_forecast": "hourly"
+}'</code></pre>
+<h3>Via curl</h3>
+<p>Use the following command to get location context:</p>
+<pre><code>curl -X POST -H "X-API-Key: $CAMINO_API_KEY" -H "Content-Type: application/json" -d '{"location": {"lat": 40.7589, "lon": -73.9851}, "radius": 500, "context": "lunch options"}' "https://api.getcamino.ai/context"</code></pre>
+<h2>Parameters</h2>
+<p>The location context skill accepts the following parameters:</p>
+<table>
+<tr>
+<th>Field</th>
+<th>Type</th>
+<th>Required</th>
+<th>Default</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>location</td>
+<td>object</td>
+<td>Yes</td>
+<td>&#8211;</td>
+<td>Coordinate with lat/lon</td>
+</tr>
+<tr>
+<td>radius</td>
+<td>int</td>
+<td>No</td>
+<td>500</td>
+<td>Search radius in meters</td>
+</tr>
+<tr>
+<td>context</td>
+<td>string</td>
+<td>No</td>
+<td>&#8211;</td>
+<td>Context for tailored insights (e.g., &#8220;outdoor dining&#8221;)</td>
+</tr>
+<tr>
+<td>time</td>
+<td>string</td>
+<td>No</td>
+<td>&#8211;</td>
+<td>Temporal query format</td>
+</tr>
+<tr>
+<td>include_weather</td>
+<td>bool</td>
+<td>No</td>
+<td>false</td>
+<td>Include weather data</td>
+</tr>
+<tr>
+<td>weather_forecast</td>
+<td>string</td>
+<td>No</td>
+<td>&#8220;daily&#8221;</td>
+<td>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/location-context/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/james-southendsolutions/location-context/SKILL.md</a></p>
