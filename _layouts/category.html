@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<h1>{{ page.category | capitalize }}</h1>
+
+<ul>
+
+{% assign subs = site.posts | where_exp: "post", "post.categories[0] == page.category" %}
+
+{% assign list = "" | split: "" %}
+
+{% for post in subs %}
+{% if post.categories.size > 1 %}
+{% assign list = list | push: post.categories[1] %}
+{% endif %}
+{% endfor %}
+
+{% assign list = list | uniq %}
+
+{% for sub in list %}
+
+<li>
+<a href="/{{ page.category }}/{{ sub }}/">
+{{ sub | capitalize }}
+</a>
+</li>
+
+{% endfor %}
+
+</ul>

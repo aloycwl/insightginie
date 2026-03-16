@@ -1,165 +1,112 @@
 import os
-import re
-import requests
 import yaml
+from collections import defaultdict
 from pathlib import Path
 
-SITE = "https://insightginie.com"
-CATEGORY_API = f"{SITE}/wp-json/wp/v2/categories"
-
 POST_DIR = "../_posts"
+CATEGORY_DIR = "../categories"
+SUBCATEGORY_DIR = "../subcategories"
+
+Path(CATEGORY_DIR).mkdir(exist_ok=True)
+Path(SUBCATEGORY_DIR).mkdir(exist_ok=True)
+
+categories = defaultdict(set)
 
 
-def fetch_categories():
-
-    categories = {}
-    page = 1
-
-    while True:
-
-        r = requests.get(f"{CATEGORY_API}?per_page=100&page={page}")
-
-        if r.status_code != 200:
-            break
-
-        data = r.json()
-
-        if not data:
-            break
-
-        for c in data:
-
-            categories[c["id"]] = {
-                "slug": c["slug"],
-                "parent": c["parent"]
-            }
-
-        page += 1
-
-    return categories
-
-
-def resolve_category(cat_id, categories):
-
-    path = []
-
-    while cat_id in categories:
-
-        c = categories[cat_id]
-
-        path.append(c["slug"])
-
-        if c["parent"] == 0:
-            break
-
-        cat_id = c["parent"]
-
-    path.reverse()
-
-    return path
-
-
-def convert_categories(frontmatter, categories):
-
-    cat_ids = frontmatter.get("categories", [])
-
-    if not cat_ids:
-        return ["general"]
-
-    first = cat_ids[0]
-
-    if isinstance(first, str):
-        return cat_ids
-
-    if first in categories:
-        return resolve_category(first, categories)
-
-    return ["general"]
-
-
-def repair_raw_blocks(content):
-
-    raw_count = content.count("{% raw %}")
-    end_count = content.count("{% endraw %}")
-
-    if raw_count > end_count:
-        content += "\n{% endraw %}\n"
-
-    return content
-
-
-def process_post(path, categories):
+def extract_frontmatter(path):
 
     with open(path, "r", encoding="utf-8") as f:
         text = f.read()
 
+    if not text.startswith("---"):
+        return None
+
     parts = text.split("---")
 
     if len(parts) < 3:
-        return
+        return None
 
-    frontmatter = yaml.safe_load(parts[1])
-    content = parts[2]
-
-    new_categories = convert_categories(frontmatter, categories)
-    frontmatter["categories"] = new_categories
-
-    content = repair_raw_blocks(content)
-
-    new_front = yaml.dump(frontmatter, sort_keys=False)
-
-    new_text = f"---\n{new_front}---\n{content}"
-
-    new_folder = os.path.join(POST_DIR, *new_categories)
-
-    Path(new_folder).mkdir(parents=True, exist_ok=True)
-
-    new_path = os.path.join(new_folder, os.path.basename(path))
-
-    with open(new_path, "w", encoding="utf-8") as f:
-        f.write(new_text)
-
-    if new_path != path:
-        os.remove(path)
+    return yaml.safe_load(parts[1])
 
 
-def cleanup_numeric_folders():
-
-    for name in os.listdir(POST_DIR):
-
-        full = os.path.join(POST_DIR, name)
-
-        if os.path.isdir(full) and name.isdigit():
-
-            for root, dirs, files in os.walk(full):
-
-                for file in files:
-                    os.remove(os.path.join(root, file))
-
-            os.rmdir(full)
-
-
-def main():
-
-    categories = fetch_categories()
-
-    total = 0
+def scan_posts():
 
     for root, dirs, files in os.walk(POST_DIR):
 
         for file in files:
 
-            if file.endswith(".md"):
+            if not file.endswith(".md"):
+                continue
 
-                path = os.path.join(root, file)
+            path = os.path.join(root, file)
 
-                process_post(path, categories)
+            fm = extract_frontmatter(path)
 
-                total += 1
+            if not fm:
+                continue
 
-    cleanup_numeric_folders()
+            cats = fm.get("categories", [])
 
-    print("processed:", total)
+            if not cats:
+                continue
+
+            main = cats[0]
+
+            if len(cats) > 1:
+                sub = cats[1]
+                categories[main].add(sub)
+            else:
+                categories[main]
+
+
+def create_category_pages():
+
+    for main in categories:
+
+        path = os.path.join(CATEGORY_DIR, f"{main}.md")
+
+        content = f"""---
+layout: category
+category: {main}
+permalink: /{main}/
+title: {main.capitalize()}
+---
+"""
+
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(content)
+
+
+def create_subcategory_pages():
+
+    for main, subs in categories.items():
+
+        for sub in subs:
+
+            path = os.path.join(SUBCATEGORY_DIR, f"{main}-{sub}.md")
+
+            content = f"""---
+layout: subcategory
+category: {main}
+subcategory: {sub}
+permalink: /{main}/{sub}/
+title: {sub.capitalize()}
+---
+"""
+
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(content)
+
+
+def main():
+
+    scan_posts()
+
+    create_category_pages()
+
+    create_subcategory_pages()
+
+    print("Category pages generated")
 
 
 if __name__ == "__main__":

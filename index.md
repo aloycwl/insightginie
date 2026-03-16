@@ -19,7 +19,7 @@ This repository is a mirror of the InsightGinie knowledge archive.
 {% for category in site.categories %}
 
 <li>
-<a href="/category/#{{ category[0] }}">
+<a href="/{{ category[0] }}/">
 {{ category[0] | capitalize }} ({{ category[1].size }})
 </a>
 </li>
