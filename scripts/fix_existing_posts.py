@@ -1,46 +1,52 @@
-import os
 import re
+from pathlib import Path
+from datetime import datetime, timedelta
 
-POST_DIR = "../_posts"
+BASE_DIR = Path(__file__).resolve().parent.parent
+POST_DIR = BASE_DIR / "_posts"
 
+SGT_OFFSET = timedelta(hours=8)
+
+date_pattern = re.compile(r"date:\s*'([^']+)'")
+
+def convert_date(date_str):
+    dt = datetime.fromisoformat(date_str)
+    dt_utc = dt - SGT_OFFSET
+    return dt_utc.replace(microsecond=0).isoformat()
 
 def fix_file(path):
+    text = path.read_text(encoding="utf-8")
 
-    with open(path, "r", encoding="utf-8") as f:
-        content = f.read()
+    match = date_pattern.search(text)
+    if not match:
+        return False
 
-    original = content
+    old_date = match.group(1)
 
-    # remove raw blocks
-    content = content.replace("{% raw %}", "")
-    content = content.replace("{% endraw %}", "")
+    try:
+        new_date = convert_date(old_date)
+    except Exception:
+        return False
 
-    # remove remaining liquid tags
-    content = re.sub(r"\{%.+?%\}", "", content)
+    new_text = text.replace(
+        f"date: '{old_date}'",
+        f"date: '{new_date}'"
+    )
 
-    # remove double blank lines
-    content = re.sub(r"\n{3,}", "\n\n", content)
+    path.write_text(new_text, encoding="utf-8")
 
-    if content != original:
+    print("fixed:", path.name, old_date, "→", new_date)
+    return True
 
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(content)
+def run():
 
-        print("fixed:", path)
+    count = 0
 
+    for file in POST_DIR.rglob("*.md"):
+        if fix_file(file):
+            count += 1
 
-def main():
+    print("\nupdated", count, "posts")
 
-    for root, dirs, files in os.walk(POST_DIR):
-
-        for file in files:
-
-            if file.endswith(".md"):
-
-                path = os.path.join(root, file)
-
-                fix_file(path)
-
-
-if __name__ == "__main__":
-    main()
+if __name__ == "main":
+    run()

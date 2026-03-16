@@ -153,7 +153,7 @@ def save_post(post, categories, executor):
     title = post["title"]["rendered"]
     slug = post["slug"]
 
-    date = post["date"]
+    date = datetime.fromisoformat(post["date_gmt"]).isoformat()
     content = post["content"]["rendered"]
 
     content = sanitize(content)
