@@ -1,0 +1,16 @@
+title: InsightGinie Archive
+description: Article mirror of insightginie.com
+
+url: https://github.insightginie.com
+baseurl: ""
+
+markdown: kramdown
+
+permalink: /:categories/:title/
+
+collections:
+  posts:
+    output: true
+
+plugins:
+  - jekyll-sitemap
