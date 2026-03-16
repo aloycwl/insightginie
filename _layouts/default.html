@@ -2,19 +2,26 @@
 <html>
 
 <head>
-<meta charset="UTF-8">
-<title>{{ page.title }}</title>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BTJW5FLR4Y"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-BTJW5FLR4Y');
+    </script>
 </head>
 
 <body>
 
-<h2>
-<a href="/">InsightGinie</a>
-</h2>
+    <h2>
+        <a href="/">InsightGinie</a>
+    </h2>
 
-<hr>
+    <hr>
 
-{{ content }}
+    {{ content }}
 
 </body>
 
