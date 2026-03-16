@@ -9,30 +9,8 @@
 <body>
 
 <h2>
-<a href="/">InsightGinie Archive</a>
+<a href="/">InsightGinie</a>
 </h2>
-
-<hr>
-
-<nav>
-
-<strong>Categories</strong>
-
-<ul>
-
-{% for category in site.categories %}
-
-<li>
-<a href="/category/{{ category[0] }}/">
-{{ category[0] | capitalize }} ({{ category[1].size }})
-</a>
-</li>
-
-{% endfor %}
-
-</ul>
-
-</nav>
 
 <hr>
 
