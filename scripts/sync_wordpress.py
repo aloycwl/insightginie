@@ -153,7 +153,7 @@ def save_post(post, categories, executor):
     title = post["title"]["rendered"]
     slug = post["slug"]
 
-    date = datetime.fromisoformat(post["date_gmt"]).isoformat()
+    date = post["date_gmt"] + "+00:00"
     content = post["content"]["rendered"]
 
     content = sanitize(content)
@@ -224,20 +224,17 @@ def sync():
 
     state = load_state()
 
-    last_sync = state.get("last_sync")
+    last_id = state.get("last_id", 0)
 
     categories = fetch_categories()
 
-    page = 1
-
     executor = ThreadPoolExecutor(max_workers=MAX_WORKERS)
+
+    page = 1
 
     while True:
 
-        url = f"{POST_API}?per_page={PER_PAGE}&page={page}&_embed"
-
-        if last_sync:
-            url += f"&after={last_sync}"
+        url = f"{POST_API}?per_page={PER_PAGE}&page={page}&_embed&orderby=id&order=desc&status=publish"
 
         r = requests.get(url)
 
@@ -249,16 +246,26 @@ def sync():
         if not posts:
             break
 
+        stop = False
+
         for post in posts:
+
+            if post["id"] <= last_id:
+                stop = True
+                break
 
             save_post(post, categories, executor)
 
+            last_id = max(last_id, post["id"])
+
+        if stop:
+            break
+
         page += 1
 
-    state["last_sync"] = datetime.now(UTC).isoformat()
+    state["last_id"] = last_id
 
     save_state(state)
-
 
 # -----------------------------
 # Run
