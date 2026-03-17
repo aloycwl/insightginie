@@ -1,5 +1,7 @@
 title: InsightGinie Archive
 description: Article mirror of insightginie.com
+tagline: News of Tomorrow
+locale: en_US
 
 url: https://github.insightginie.com
 baseurl: ""
@@ -14,3 +16,4 @@ collections:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
