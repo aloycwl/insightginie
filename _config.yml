@@ -3,7 +3,7 @@ description: Article mirror of insightginie.com
 tagline: News of Tomorrow
 locale: en_US
 
-url: https://github.insightginie.com
+url: ""
 baseurl: ""
 
 markdown: kramdown
