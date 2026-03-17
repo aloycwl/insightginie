@@ -6,24 +6,24 @@ layout: default
 
 <ul>
 
-{% assign subcats = site.posts | where_exp: "post", "post.categories[0] == page.category" | map: "categories" %}
+    {% assign subcats = site.posts | where_exp: "post", "post.categories[0] == page.category" | map: "categories" %}
 
-{% assign subs = "" | split: "" %}
+    {% assign subs = "" | split: "" %}
 
-{% for cat in subcats %}
-{% assign subs = subs | push: cat[1] %}
-{% endfor %}
+    {% for cat in subcats %}
+    {% assign subs = subs | push: cat[1] %}
+    {% endfor %}
 
-{% assign subs = subs | uniq %}
+    {% assign subs = subs | uniq %}
 
-{% for sub in subs %}
+    {% for sub in subs %}
 
-<li>
-<a href="/{{ page.category }}/{{ sub }}/">
-{{ sub | capitalize }}
-</a>
-</li>
+    <li>
+        <a href="{{ '/' | append: page.category | append: '/' | append: sub | append: '/' | relative_url }}">
+            {{ sub | capitalize }}
+        </a>
+    </li>
 
-{% endfor %}
+    {% endfor %}
 
 </ul>

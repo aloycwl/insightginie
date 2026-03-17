@@ -25,7 +25,7 @@ layout: default
     {% for sub in subcategories | sort %}
 
     <li>
-        <a href="/{{ page.category }}/{{ sub }}/">
+        <a href="{{ '/' | append: page.category | append: '/' | append: sub | append: '/' | relative_url }}">
             {{ sub | capitalize }}
         </a>
     </li>
