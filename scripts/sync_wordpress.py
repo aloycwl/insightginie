@@ -248,6 +248,8 @@ def sync():
 
         stop = False
 
+        max_id = last_id
+
         for post in posts:
 
             if post["id"] <= last_id:
@@ -256,14 +258,15 @@ def sync():
 
             save_post(post, categories, executor)
 
-            last_id = max(last_id, post["id"])
+            if post["id"] > max_id:
+                max_id = post["id"]
 
         if stop:
             break
 
         page += 1
 
-    state["last_id"] = last_id
+    state["last_id"] = max_id
 
     save_state(state)
 
