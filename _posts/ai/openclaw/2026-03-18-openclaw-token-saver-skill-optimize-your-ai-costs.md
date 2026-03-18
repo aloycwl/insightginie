@@ -1,0 +1,137 @@
+---
+layout: post
+title: 'OpenClaw Token Saver Skill: Optimize Your AI Costs'
+date: '2026-03-18T01:15:50+00:00'
+categories:
+- ai
+- openclaw
+original_url: https://insightginie.com/openclaw-token-saver-skill-optimize-your-ai-costs/
+featured_image: /media/images/8146.jpg
+---
+
+<h2>What is the OpenClaw Token Saver Skill?</h2>
+<p>The Token Saver skill is a model-aware optimization tool that reduces OpenClaw AI costs by intelligently compressing workspace files. Every API call sends your workspace files (SOUL.md, USER.md, MEMORY.md, AGENTS.md, etc.) along with your message, and these files count toward your context window, slowing responses and costing real money on every message.</p>
+<h3>How It Works</h3>
+<p>Token Saver v3 is model-aware—it knows your model&#8217;s context window and adapts recommendations accordingly. Using Gemini&#8217;s 1M context? Presets scale up. On GPT-4o&#8217;s 128K? Presets adjust down. This intelligent approach ensures optimal compression without losing essential information.</p>
+<h2>Key Features of Token Saver v3</h2>
+<h3>Model-Aware Dashboard</h3>
+<p>The skill provides a comprehensive dashboard showing your current model, context window, and usage percentage. For example:</p>
+<blockquote>
+<p>🤖 Model: Claude Opus 4.5 (200K context)<br />
+Detected: openclaw.json<br />
+📊 Context Usage: [████████░░░░░░░░░░░░] 42% (84K/200K)</p>
+</blockquote>
+<h3>Workspace File Compression</h3>
+<p>The skill scans all .md files in your workspace, showing token count and potential savings. It features smart bypass that skips already-optimized files, ensuring you don&#8217;t waste time re-compressing content that&#8217;s already efficient.</p>
+<h3>File-Aware Compression Strategies</h3>
+<p>Each file type receives optimized compression:</p>
+<ul>
+<li><strong>SOUL.md</strong> — Light compression, keeps personality language</li>
+<li><strong>AGENTS.md</strong> — Medium compression, dense instructions</li>
+<li><strong>USER.md / MEMORY.md</strong> — Heavy compression, key:value format</li>
+<li><strong>PROJECTS.md</strong> — No compression (user structure preserved)</li>
+</blockquote>
+<h3>Dynamic Compaction Presets</h3>
+<p>Presets adapt to your model&#8217;s context window:</p>
+<table>
+<thead>
+<tr>
+<th>Preset</th>
+<th>% of Context</th>
+<th>Claude 200K</th>
+<th>GPT-4o 128K</th>
+<th>Gemini 1M</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aggressive</td>
+<td>40%</td>
+<td>80K</td>
+<td>51K</td>
+<td>400K</td>
+</tr>
+<tr>
+<td>Balanced</td>
+<td>60%</td>
+<td>120K</td>
+<td>77K</td>
+<td>600K</td>
+</tr>
+<tr>
+<td>Conservative</td>
+<td>80%</td>
+<td>160K</td>
+<td>102K</td>
+<td>800K</td>
+</tr>
+<tr>
+<td>Off</td>
+<td>95%</td>
+<td>190K</td>
+<td>122K</td>
+<td>950K</td>
+</tr>
+</tbody>
+</table>
+<h3>Robust Model Detection</h3>
+<p>The skill features a sophisticated detection system with multiple fallback options:</p>
+<ol>
+<li>Runtime injection (&#8211;model=&#8230;)</li>
+<li>Environment variables (SKILL_MODEL, OPENCLAW_MODEL)</li>
+<li>Config file (~/.openclaw/openclaw.json)</li>
+<li>File inference (TOOLS.md, MEMORY.md mentions)</li>
+<li>Fallback: Claude Sonnet 4 (safe default)</li>
+</ol>
+<h3>24+ Model Registry</h3>
+<p>The skill supports extensive model coverage:</p>
+<ul>
+<li><strong>Claude:</strong> Opus 4.6 (1M), Opus 4.5, Sonnet 4.5, Sonnet 4, Haiku 4.5, Haiku 3.5 (200K)</li>
+<li><strong>OpenAI:</strong> GPT-5.2, GPT-5.1, GPT-5-mini, GPT-5-nano (256K), GPT-4.1, GPT-4o (128K), o1, o3, o4-mini</li>
+<li><strong>Gemini:</strong> 3 Pro (2M), 2.5 Pro, 2.0 Flash (1M)</li>
+<li><strong>Others:</strong> DeepSeek V3 (64K), Kimi K2.5 (128K), Llama 3.3 70B, Mistral Large</li>
+</ul>
+<h2>Available Commands</h2>
+<p>The skill provides several commands for different optimization needs:</p>
+<ul>
+<li><strong>/optimize</strong> — Full dashboard showing files, models, and context usage percentage</li>
+<li><strong>/optimize tokens</strong> — Compress workspace files with auto-backup</li>
+<li><strong>/optimize compaction</strong> — Chat compaction control with model-aware settings</li>
+<li><strong>/optimize compaction balanced</strong> — Apply balanced preset (60% of context)</li>
+<li><strong>/optimize compaction 120</strong> — Custom threshold (compact at 120K)</li>
+<li><strong>/optimize models</strong> — Detailed model audit with registry</li>
+<li><strong>/optimize revert</strong> — Restore backups, disable persistent mode</li>
+</ul>
+<h2>Installation and Setup</h2>
+<p>Installing the Token Saver skill is straightforward:</p>
+<pre><code>clawhub install token-saver --registry "https://www.clawhub.ai"
+</code></pre>
+<p>After installation, the skill automatically detects your model and applies optimal compression settings.</p>
+<h2>Safety and Integrity Features</h2>
+<p>The skill prioritizes safety and data integrity:</p>
+<ul>
+<li><strong>Auto-backup</strong> — All modified files get .backup extension</li>
+<li><strong>Integrity > Size</strong> — Never sacrifices meaning for smaller tokens</li>
+<li><strong>Smart bypass</strong> — Skips already-optimized files</li>
+<li><strong>Revert anytime</strong> — /optimize revert restores everything</li>
+<li><strong>No external calls</strong> — All analysis runs locally</li>
+</ul>
+<h2>Persistent Mode</h2>
+<p>The skill includes a persistent mode that adds writing guidance to AGENTS.md for continued token efficiency:</p>
+<ul>
+<li><strong>SOUL.md</strong> — Evocative, personality-shaping language</li>
+<li><strong>AGENTS.md</strong> — Dense instructions, symbols OK</li>
+<li><strong>USER.md</strong> — Key:value facts</li>
+<li><strong>MEMORY.md</strong> — Ultra-dense data</li>
+</ul>
+<h2>Version History</h2>
+<p>The skill has evolved significantly:</p>
+<ul>
+<li><strong>3.0.0</strong> — Model registry, dynamic presets, robust detection, smart bypass</li>
+<li><strong>2.0.1</strong> — Chat compaction, file-aware compression, persistent mode</li>
+<li><strong>1.0.0</strong> — Initial release</li>
+</ul>
+<h2>Why Use Token Saver?</h2>
+<p>The Token Saver skill can significantly reduce your AI costs by optimizing how your workspace files are sent with each API call. By intelligently compressing files based on your specific model&#8217;s context window, it ensures you&#8217;re not paying for unnecessary tokens while maintaining the quality and functionality of your OpenClaw experience.</p>
+<p>Whether you&#8217;re using Claude, GPT, Gemini, or other models, the Token Saver skill adapts to your needs, providing automatic optimization that saves you money without requiring manual intervention or technical expertise.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/rubenaquispe/token-saver/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/rubenaquispe/token-saver/SKILL.md</a></p>
