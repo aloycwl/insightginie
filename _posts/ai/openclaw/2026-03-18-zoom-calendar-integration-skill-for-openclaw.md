@@ -1,0 +1,89 @@
+---
+layout: post
+title: Zoom Calendar Integration Skill for OpenClaw
+date: '2026-03-18T15:17:18+00:00'
+categories:
+- ai
+- openclaw
+original_url: https://insightginie.com/zoom-calendar-integration-skill-for-openclaw/
+featured_image: /media/images/8146.jpg
+---
+
+<p>The Zoom Calendar skill is a powerful OpenClaw integration that bridges Zoom video conferencing with Google Calendar functionality. This skill allows users to create Zoom meetings via API and automatically attach them to Google Calendar events with proper conference data, including icons, video entry points, and meeting notes.</p>
+<h2>Core Functionality</h2>
+<p>At its core, this skill provides three primary capabilities:</p>
+<ol>
+<li>Create new Zoom meetings and add them to Google Calendar events</li>
+<li>Add Zoom functionality to existing calendar events</li>
+<li>Provide comprehensive Zoom + Google Calendar integration</li>
+</ol>
+<p>The skill is designed to replicate the user experience of the official Zoom for Google Workspace add-on, ensuring familiarity and consistency for users who are already accustomed to that interface.</p>
+<h2>Quick Usage Example</h2>
+<p>The skill provides a simple bash script for quick meeting creation:</p>
+<pre><code>bash skills/zoom-calendar/scripts/zoom_meeting.sh &lt;event_id&gt; "Meeting Title" "2026-03-01T11:50:00" 60
+</code></pre>
+<p>This command creates a Zoom meeting and attaches it to the specified Google Calendar event. The parameters include:</p>
+<ul>
+<li><strong>event_id</strong>: Google Calendar event ID (e.g., dgth9d45bb93a0q7ohfnckq88k)</li>
+<li><strong>topic</strong>: Meeting title (e.g., &#8220;Team Meeting&#8221;)</li>
+<li><strong>start_time</strong>: ISO format without timezone (Jerusalem time assumed)</li>
+<li><strong>duration</strong>: Meeting duration in minutes (default is 60 minutes)</li>
+</ul>
+<p>The output provides the join URL, meeting ID, and password, with the event automatically updated with the conference data.</p>
+<h2>Typical Workflow</h2>
+<p>The standard workflow for using this skill involves three simple steps:</p>
+<ol>
+<li>Create a calendar event using the gog CLI tool</li>
+<li>Run the zoom_meeting.sh script with the event ID</li>
+<li>Complete the integration &#8211; conference data with icon, video link, and notes are automatically set</li>
+</ol>
+<p>This streamlined process eliminates manual copying of meeting details and ensures consistency between your calendar and meeting platform.</p>
+<h2>Critical Implementation Rules</h2>
+<p>The skill enforces specific formatting rules to ensure proper integration with both Zoom and Google Calendar:</p>
+<ul>
+<li><strong>iconUri</strong>: Must use exactly the URL provided in the script &#8211; this is the official Zoom Marketplace icon</li>
+<li><strong>entryPoints</strong>: Only video entry points are allowed &#8211; no phone or SIP options</li>
+<li><strong>passcode</strong>: The field name must be exactly &#8220;passcode&#8221; rather than &#8220;pin&#8221;</li>
+<li><strong>meetingCode</strong>: The meeting ID should be included in this field as well</li>
+<li><strong>notes</strong>: Use HTML line breaks (&lt;br /&gt;) rather than newline characters</li>
+<li><strong>description</strong>: Should be left empty to avoid duplicating information</li>
+<li><strong>location</strong>: Should be left empty as the Zoom link lives in conferenceData</li>
+<li><strong>Default behavior</strong>: Zoom is not added unless explicitly requested</li>
+</ul>
+<h2>Authentication Setup</h2>
+<p>The skill requires two sets of credentials for proper operation:</p>
+<h3>Zoom Server-to-Server OAuth</h3>
+<p>Zoom credentials are stored in .credentials/zoom.json with the following structure:</p>
+<pre><code>{
+  "account_id": "...",
+  "client_id": "...",
+  "client_secret": "..."
+}
+</code></pre>
+<p>These credentials are created at marketplace.zoom.us under Develop &gt; Server-to-Server OAuth. The required scopes are:</p>
+<ul>
+<li>meeting:write:admin</li>
+<li>meeting:read:admin</li>
+</ul>
+<h3>Google Calendar Authentication</h3>
+<p>The skill uses gog CLI authentication. The script handles token export and refresh automatically. Required environment variables include:</p>
+<ul>
+<li>GOG_KEYRING_PASSWORD</li>
+<li>GOG_ACCOUNT</li>
+</ul>
+<h2>Benefits and Use Cases</h2>
+<p>This skill provides numerous benefits for teams and organizations:</p>
+<ol>
+<li><strong>Time Savings</strong>: Eliminates manual copying of meeting details between platforms</li>
+<li><strong>Consistency</strong>: Ensures all meeting information is properly formatted and complete</li>
+<li><strong>Professional Appearance</strong>: Uses official Zoom icons and proper conference data formatting</li>
+<li><strong>Automation</strong>: Reduces human error in meeting setup</li>
+<li><strong>Integration</strong>: Provides seamless connection between calendar and video conferencing</li>
+</ol>
+<p>Common use cases include team meetings, client presentations, webinars, and any scenario where scheduled video conferences are needed.</p>
+<h2>Technical Implementation</h2>
+<p>The skill is implemented as a bash script that handles API calls to both Zoom and Google Calendar services. It uses the Zoom API to create meetings and the Google Calendar API to update events with the appropriate conference data. The script manages authentication tokens, handles API responses, and ensures proper error handling throughout the process.</p>
+<p>The skill is maintained by Leo 🦁 and is currently at version 1.0.0. It includes proper tagging for easy discovery and categorization within the OpenClaw ecosystem.</p>
+<h2>Conclusion</h2>
+<p>The Zoom Calendar skill represents a practical solution for organizations looking to streamline their meeting scheduling workflow. By automating the integration between Zoom and Google Calendar, it saves time, reduces errors, and provides a professional experience for meeting participants. The skill&#8217;s adherence to official formatting guidelines ensures compatibility and reliability across both platforms.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/shaharsha/zoom-calendar/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/shaharsha/zoom-calendar/SKILL.md</a></p>
