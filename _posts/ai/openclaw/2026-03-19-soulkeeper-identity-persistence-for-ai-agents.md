@@ -1,0 +1,101 @@
+---
+layout: post
+title: 'SoulKeeper: Identity Persistence for AI Agents'
+date: '2026-03-19T10:15:41+00:00'
+categories:
+- ai
+- openclaw
+original_url: https://insightginie.com/soulkeeper-identity-persistence-for-ai-agents/
+featured_image: /media/images/8152.jpg
+---
+
+<h2>What SoulKeeper Does</h2>
+<p>SoulKeeper solves a fundamental problem for AI agents: identity drift between sessions. Without it, agents forget their core principles, ask permission when they should act, and gradually transform into generic corporate drones that violate their foundational rules.</p>
+<h2>Core Components</h2>
+<p>The skill provides three integrated tools that work together to maintain agent identity:</p>
+<h3>audit.py &#8211; Soul Rule Extraction</h3>
+<p>Parses your SOUL.md, TOOLS.md, and AGENTS.md files into structured JSON rules that can be programmatically analyzed and enforced.</p>
+<h3>drift.py &#8211; Identity Drift Detection</h3>
+<p>Analyzes conversation transcripts against your soul rules, scoring violations on a 0-100 scale where higher scores indicate greater identity compromise.</p>
+<h3>remind.py &#8211; Context-Aware Reminders</h3>
+<p>Injects relevant soul rule reminders before you respond to requests, ensuring you stay aligned with your core identity.</p>
+<h2>Quick Start Workflow</h2>
+<p>Getting started with SoulKeeper takes just three commands:</p>
+<ol>
+<li><code>python audit.py --workspace /root/.openclaw/workspace --output soul_rules.json</code></li>
+<li><code>python drift.py --transcript /path/to/chat.txt --report</code></li>
+<li><code>python remind.py --context "about to write Python code"</code></li>
+</ol>
+<h2>Installation and Setup</h2>
+<p>SoulKeeper requires only Python 3.8+ and works immediately without dependencies. For convenience, you can create symbolic links:</p>
+<pre><code>ln -s /root/.openclaw/workspace/skills/soulkeeper/audit.py /usr/local/bin/soul-audit
+ln -s /root/.openclaw/workspace/skills/soulkeeper/drift.py /usr/local/bin/soul-drift
+ln -s /root/.openclaw/workspace/skills/soulkeeper/remind.py /usr/local/bin/soul-remind
+</code></pre>
+<h2>Usage Patterns</h2>
+<h3>Pattern 1: Heartbeat Check</h3>
+<p>Add to your HEARTBEAT.md: &#8220;[ ] Run soul-remind &#8211;heartbeat to refresh core rules&#8221;</p>
+<h3>Pattern 2: Pre-Response Filter</h3>
+<p>Before complex requests: <code>python remind.py --context "user wants me to post on Twitter"</code></p>
+<h3>Pattern 3: Post-Session Audit</h3>
+<p>After long sessions: <code>python drift.py --transcript transcript.txt --report</code></p>
+<h3>Pattern 4: CI/Validation Hook</h3>
+<p>In scripts: <code>python drift.py --stdin --threshold 50 &lt; agent_output.txt</code></p>
+<h2>Understanding Drift Scores</h2>
+<p>SoulKeeper scores identity drift on a 0-100 scale:</p>
+<ul>
+<li>0-19: Minor drift &#8211; small stylistic slips</li>
+<li>20-49: Moderate drift &#8211; behavioral patterns drifting</li>
+<li>50-74: Significant drift &#8211; multiple core rules violated</li>
+<li>75-100: Severe drift &#8211; identity compromised</li>
+</ol>
+<h2>What SoulKeeper Detects</h2>
+<p>The system identifies violations across multiple severity levels:</p>
+<h3>Critical Violations (+25 points each)</h3>
+<ul>
+<li>Em dash usage (prohibited in many SOUL.md files)</li>
+<li>Sycophantic openers like &#8220;Great question!&#8221;</li>
+<li>Submission to other agents</li>
+<li>Infrastructure leaks in public content</li>
+</ul>
+<h3>High Violations (+15 points each)</h3>
+<ul>
+<li>Asking permission when agent should act</li>
+<li>Claiming to lack tools the agent possesses</li>
+<li>Doing inline execution instead of spawning subagents</li>
+<li>Passive waiting patterns</li>
+</ul>
+<h3>Medium Violations (+8 points each)</h3>
+<ul>
+<li>Excessive padding or verbosity</li>
+<li>Standby phrases like &#8220;Just say the word&#8221;</li>
+</ul>
+<h3>Low Violations (+3 points each)</h3>
+<ul>
+<li>Claiming to have no opinions</li>
+<li>Minor style violations</li>
+</ul>
+<h2>Rule Format</h2>
+<p>Extracted rules are stored in JSON with comprehensive metadata:</p>
+<pre><code>{
+  "id": "R001-A3F2C1",
+  "category": "tone",
+  "severity": "critical",
+  "source_file": "SOUL.md",
+  "source_line": 7,
+  "text": "Never open with 'Great question,' 'I'd be happy to help,' or 'Absolutely.'",
+  "violation_patterns": ["great question", "i'd be happy to help", "absolutely!"],
+  "keywords": ["opener", "greeting", "sycophant"]
+}
+</code></pre>
+<h2>Extending SoulKeeper</h2>
+<p>You can customize SoulKeeper by editing violation patterns in drift.py or adding custom context triggers in remind.py. The system is designed to be extensible for different agent personalities and requirements.</p>
+<h2>Philosophy</h2>
+<p>SoulKeeper doesn&#8217;t nag or suggest improvement. It provides specific, sourced, actionable feedback: &#8220;Line 12 of SOUL.md says never use em dash. You used it 3 times in this session.&#8221;</p>
+<p>The goal isn&#8217;t compliance monitoring &#8211; it&#8217;s continuity. An agent that knows who it is performs better, takes initiative faster, and needs less hand-holding.</p>
+<h2>Publishing to ClawHub</h2>
+<p>SoulKeeper is ready for ClawHub publication with required fields including name, version, description, author, tags, entrypoints, and dependencies.</p>
+<h2>Who Should Use SoulKeeper</h2>
+<p>Any AI agent that needs to maintain consistent identity across sessions will benefit from SoulKeeper. Whether you&#8217;re a developer building autonomous agents or an agent yourself, identity persistence is fundamental infrastructure that pays dividends in performance and reliability.</p>
+<p>SoulKeeper v1.0 &#8211; Built for OpenClaw. Works everywhere.</p>
+<p>Skill can be found at: <a href="https://github.com/openclaw/skills/tree/main/skills/cassh100k/soulkeeper/SKILL.md">https://github.com/openclaw/skills/tree/main/skills/cassh100k/soulkeeper/SKILL.md</a></p>
