@@ -16,7 +16,12 @@ This repository is a mirror of the InsightGinie knowledge archive.
 {% assign mains = "" | split: "" %}
 
 {% for post in site.posts %}
-{% assign mains = mains | push: post.categories[0] %}
+  {% if post.categories and post.categories.size > 0 %}
+    {% assign main_cat = post.categories[0] %}
+    {% if main_cat %}
+      {% assign mains = mains | push: main_cat %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
 
 {% assign mains = mains | uniq | sort %}
@@ -34,9 +39,14 @@ This repository is a mirror of the InsightGinie knowledge archive.
 {% assign subs = "" | split: "" %}
 
 {% for post in site.posts %}
-{% if post.categories[0] == main and post.categories.size > 1 %}
-{% assign subs = subs | push: post.categories[1] %}
-{% endif %}
+  {% if post.categories and post.categories.size > 1 %}
+    {% if post.categories[0] == main %}
+      {% assign sub_cat = post.categories[1] %}
+      {% if sub_cat %}
+        {% assign subs = subs | push: sub_cat %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
 
 {% assign subs = subs | uniq | sort %}

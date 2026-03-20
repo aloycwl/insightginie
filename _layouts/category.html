@@ -6,30 +6,34 @@ layout: default
 
 <ul>
 
-    {% assign subcategories = "" | split: "" %}
+{% assign subcategories = "" | split: "" %}
 
-    {% for post in site.categories[page.category] %}
+{% for post in site.categories[page.category] %}
 
-    {% if post.categories.size > 1 %}
+  {% if post.categories and post.categories.size > 1 %}
 
     {% assign sub = post.categories[1] %}
 
-    {% unless subcategories contains sub %}
-    {% assign subcategories = subcategories | push: sub %}
-    {% endunless %}
-
+    {% if sub %}
+      {% unless subcategories contains sub %}
+        {% assign subcategories = subcategories | push: sub %}
+      {% endunless %}
     {% endif %}
 
-    {% endfor %}
+  {% endif %}
 
-    {% for sub in subcategories | sort %}
+{% endfor %}
 
-    <li>
-        <a href="{{ '/' | append: page.category | append: '/' | append: sub | append: '/' | relative_url }}">
-            {{ sub | capitalize }}
-        </a>
-    </li>
+{% assign sorted_subcategories = subcategories | uniq | sort %}
 
-    {% endfor %}
+{% for sub in sorted_subcategories %}
+
+<li>
+  <a href="{{ '/' | append: page.category | append: '/' | append: sub | append: '/' | relative_url }}">
+    {{ sub | capitalize }}
+  </a>
+</li>
+
+{% endfor %}
 
 </ul>
