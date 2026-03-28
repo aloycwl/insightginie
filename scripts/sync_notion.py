@@ -20,6 +20,8 @@ INDEX_PATH = BASE_DIR / "scripts/.notion_index.json"
 NOTION_API_BASE = "https://api.notion.com/v1"
 NOTION_VERSION = "2022-06-28"
 
+# ---------------- API ----------------
+
 def notion_request(method: str, path: str, payload: dict[str, Any] | None = None):
     url = f"{NOTION_API_BASE}{path}"
     body = json.dumps(payload).encode("utf-8") if payload else None
@@ -42,9 +44,11 @@ def notion_request(method: str, path: str, payload: dict[str, Any] | None = None
                 return json.loads(raw) if raw else {}
         except error.HTTPError as e:
             if e.code == 429:
-                time.sleep(2)
+                time.sleep(1)
                 continue
             raise RuntimeError(e.read().decode())
+
+# ---------------- INDEX ----------------
 
 def load_index():
     if INDEX_PATH.exists():
@@ -52,10 +56,12 @@ def load_index():
     return {}
 
 def save_index(index):
-    INDEX_PATH.write_text(json.dumps(index))
+    INDEX_PATH.write_text(json.dumps(index, separators=(",", ":")))
 
 def file_hash(path):
     return hashlib.md5(path.read_bytes()).hexdigest()
+
+# ---------------- PARSE ----------------
 
 def parse_frontmatter(raw):
     m = re.match(r"\A---\n(.*?)\n---\n?(.*)\Z", raw, re.DOTALL)
@@ -78,6 +84,8 @@ def parse_frontmatter(raw):
                 fm[current] = v.strip("'\"")
 
     return fm, m.group(2)
+
+# ---------------- HTML → BLOCKS ----------------
 
 def html_to_blocks(content):
     blocks = []
@@ -117,16 +125,12 @@ def html_to_blocks(content):
                 })
             continue
 
-        if t == "h1":
-            block_type = "heading_1"
-        elif t == "h2":
-            block_type = "heading_2"
-        elif t == "h3":
-            block_type = "heading_3"
-        elif t == "li":
-            block_type = "bulleted_list_item"
-        else:
-            block_type = "paragraph"
+        block_type = {
+            "h1": "heading_1",
+            "h2": "heading_2",
+            "h3": "heading_3",
+            "li": "bulleted_list_item"
+        }.get(t, "paragraph")
 
         blocks.append({
             "object": "block",
@@ -138,28 +142,58 @@ def html_to_blocks(content):
 
     return blocks
 
+# ---------------- BLOCK OPS ----------------
+
+def get_children(block_id):
+    results = []
+    cursor = None
+
+    while True:
+        path = f"/blocks/{block_id}/children?page_size=100"
+        if cursor:
+            path += f"&start_cursor={cursor}"
+
+        res = notion_request("GET", path)
+        results.extend(res.get("results", []))
+
+        if not res.get("has_more"):
+            break
+
+        cursor = res.get("next_cursor")
+
+    return results
+
+def delete_all_blocks(page_id):
+    for b in get_children(page_id):
+        notion_request("DELETE", f"/blocks/{b['id']}")
+
+def append_blocks(page_id, blocks):
+    for i in range(0, len(blocks), 100):
+        notion_request("PATCH", f"/blocks/{page_id}/children", {
+            "children": blocks[i:i+100]
+        })
+
+# ---------------- CORE ----------------
+
 def extract_categories(path: Path):
     rel = path.relative_to(POSTS_DIR)
     parts = rel.parts[:-1]
-
     cat = parts[0] if len(parts) > 0 else ""
     sub = parts[1] if len(parts) > 1 else ""
-
     return cat.lower(), sub.lower()
 
-def get_changed_files(index):
-    changed = []
-
-    for path in POSTS_DIR.rglob("*.md"):
-        slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", path.stem)
-        h = file_hash(path)
+def get_changes(index):
+    out = []
+    for p in POSTS_DIR.rglob("*.md"):
+        slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", p.stem)
+        h = file_hash(p)
 
         if slug not in index:
-            changed.append((path, "new", h))
-        elif index[slug]["hash"] != h:
-            changed.append((path, "update", h))
+            out.append((p, "new", h))
+        elif index[slug]["h"] != h:
+            out.append((p, "update", h))
 
-    return changed
+    return out
 
 def sync_post(path: Path, index, mode, h):
     raw = path.read_text(encoding="utf-8")
@@ -175,7 +209,6 @@ def sync_post(path: Path, index, mode, h):
 
     date = fm.get("date")
     url = fm.get("original_url", "")
-
     cat, sub = extract_categories(path)
 
     img = fm.get("featured_image")
@@ -212,27 +245,25 @@ def sync_post(path: Path, index, mode, h):
         notion_id = res["id"]
 
     else:
-        notion_id = index[slug]["notion_id"]
+        notion_id = index[slug]["n"]
 
-        notion_request("PATCH", f"/pages/{notion_id}", {
-            "properties": props
-        })
+        notion_request("PATCH", f"/pages/{notion_id}", {"properties": props})
+        delete_all_blocks(notion_id)
+        append_blocks(notion_id, blocks)
 
-    index[slug] = {
-        "file_path": str(path),
-        "hash": h,
-        "notion_id": notion_id
-    }
+    index[slug] = {"h": h, "n": notion_id}
+
+# ---------------- MAIN ----------------
 
 def main():
     index = load_index()
-    changes = get_changed_files(index)[:5]
+    changes = get_changes(index)
 
     print("to process:", len(changes))
 
-    with ThreadPoolExecutor(max_workers=5) as ex:
-        for path, mode, h in changes:
-            ex.submit(sync_post, path, index, mode, h)
+    with ThreadPoolExecutor(max_workers=3) as ex:
+        for p, m, h in changes:
+            ex.submit(sync_post, p, index, m, h)
 
     save_index(index)
     print("done")
