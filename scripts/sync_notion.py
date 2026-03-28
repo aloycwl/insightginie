@@ -3,27 +3,23 @@
 import json
 import re
 import time
+import hashlib
 import urllib.parse
 from pathlib import Path
 from typing import Any
 from urllib import request, error
+from concurrent.futures import ThreadPoolExecutor
 
-# -----------------------------
-# CONFIG
-# -----------------------------
 NOTION_API_KEY = "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"
 POSTS_DB_ID = "778c4be6ee44828f883c0181a47083d8"
-CATEGORIES_DB_ID = "331c4be6ee448024a2fdf32b99d057c0"
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 POSTS_DIR = BASE_DIR / "_posts"
+INDEX_PATH = BASE_DIR / "scripts/.notion_index.json"
 
 NOTION_API_BASE = "https://api.notion.com/v1"
 NOTION_VERSION = "2022-06-28"
 
-# -----------------------------
-# API
-# -----------------------------
 def notion_request(method: str, path: str, payload: dict[str, Any] | None = None):
     url = f"{NOTION_API_BASE}{path}"
     body = json.dumps(payload).encode("utf-8") if payload else None
@@ -50,9 +46,17 @@ def notion_request(method: str, path: str, payload: dict[str, Any] | None = None
                 continue
             raise RuntimeError(e.read().decode())
 
-# -----------------------------
-# PARSE FRONTMATTER
-# -----------------------------
+def load_index():
+    if INDEX_PATH.exists():
+        return json.loads(INDEX_PATH.read_text())
+    return {}
+
+def save_index(index):
+    INDEX_PATH.write_text(json.dumps(index))
+
+def file_hash(path):
+    return hashlib.md5(path.read_bytes()).hexdigest()
+
 def parse_frontmatter(raw):
     m = re.match(r"\A---\n(.*?)\n---\n?(.*)\Z", raw, re.DOTALL)
     if not m:
@@ -75,9 +79,6 @@ def parse_frontmatter(raw):
 
     return fm, m.group(2)
 
-# -----------------------------
-# HTML → NOTION BLOCKS
-# -----------------------------
 def html_to_blocks(content):
     blocks = []
 
@@ -97,35 +98,7 @@ def html_to_blocks(content):
 
         t = tag.group(1).lower()
 
-        if t == "h1":
-            blocks.append({
-                "object": "block",
-                "type": "heading_1",
-                "heading_1": {"rich_text": [{"type": "text", "text": {"content": text}}]}
-            })
-
-        elif t == "h2":
-            blocks.append({
-                "object": "block",
-                "type": "heading_2",
-                "heading_2": {"rich_text": [{"type": "text", "text": {"content": text}}]}
-            })
-
-        elif t == "h3":
-            blocks.append({
-                "object": "block",
-                "type": "heading_3",
-                "heading_3": {"rich_text": [{"type": "text", "text": {"content": text}}]}
-            })
-
-        elif t == "li":
-            blocks.append({
-                "object": "block",
-                "type": "bulleted_list_item",
-                "bulleted_list_item": {"rich_text": [{"type": "text", "text": {"content": text}}]}
-            })
-
-        elif t == "img":
+        if t == "img":
             src_match = re.search(r'src="([^"]+)"', chunk)
             if src_match:
                 src = src_match.group(1)
@@ -134,89 +107,61 @@ def html_to_blocks(content):
                     encoded = src.split("/image/")[1].split("?")[0]
                     src = urllib.parse.unquote(encoded)
 
-                if src.startswith("/"):
-                    src = f"https://insightginie.com{src}"
+                filename = src.split("/")[-1]
+                src = f"https://github.insightginie.com/media/images/{filename}"
 
                 blocks.append({
                     "object": "block",
                     "type": "image",
                     "image": {"type": "external", "external": {"url": src}}
                 })
+            continue
 
+        if t == "h1":
+            block_type = "heading_1"
+        elif t == "h2":
+            block_type = "heading_2"
+        elif t == "h3":
+            block_type = "heading_3"
+        elif t == "li":
+            block_type = "bulleted_list_item"
         else:
-            if text:
-                blocks.append({
-                    "object": "block",
-                    "type": "paragraph",
-                    "paragraph": {"rich_text": [{"type": "text", "text": {"content": text}}]}
-                })
+            block_type = "paragraph"
+
+        blocks.append({
+            "object": "block",
+            "type": block_type,
+            block_type: {
+                "rich_text": [{"type": "text", "text": {"content": text[:1900]}}]
+            }
+        })
 
     return blocks
 
-# -----------------------------
-# CATEGORY LOGIC
-# -----------------------------
-def find_category(name, parent_id=None):
-    res = notion_request("POST", f"/databases/{CATEGORIES_DB_ID}/query", {
-        "filter": {
-            "and": [
-                {"property": "Name", "title": {"equals": name}},
-                {
-                    "property": "Parent",
-                    "relation": {"contains": parent_id}
-                } if parent_id else {
-                    "property": "Parent",
-                    "relation": {"is_empty": True}
-                }
-            ]
-        },
-        "page_size": 1
-    })
+def extract_categories(path: Path):
+    rel = path.relative_to(POSTS_DIR)
+    parts = rel.parts[:-1]
 
-    return res["results"][0]["id"] if res["results"] else None
+    cat = parts[0] if len(parts) > 0 else ""
+    sub = parts[1] if len(parts) > 1 else ""
 
+    return cat.lower(), sub.lower()
 
-def create_category(name, parent_id=None):
-    props = {
-        "Name": {"title": [{"text": {"content": name}}]}
-    }
+def get_changed_files(index):
+    changed = []
 
-    if parent_id:
-        props["Parent"] = {"relation": [{"id": parent_id}]}
+    for path in POSTS_DIR.rglob("*.md"):
+        slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", path.stem)
+        h = file_hash(path)
 
-    res = notion_request("POST", "/pages", {
-        "parent": {"database_id": CATEGORIES_DB_ID},
-        "properties": props
-    })
+        if slug not in index:
+            changed.append((path, "new", h))
+        elif index[slug]["hash"] != h:
+            changed.append((path, "update", h))
 
-    return res["id"]
+    return changed
 
-
-def get_or_create_category_path(cat_list):
-    parent_id = None
-
-    for name in cat_list:
-        existing = find_category(name, parent_id)
-
-        if existing:
-            parent_id = existing
-        else:
-            parent_id = create_category(name, parent_id)
-
-    return parent_id
-
-# -----------------------------
-# POSTS
-# -----------------------------
-def find_post(slug):
-    res = notion_request("POST", f"/databases/{POSTS_DB_ID}/query", {
-        "filter": {"property": "Slug", "rich_text": {"equals": slug}},
-        "page_size": 1
-    })
-    return res["results"][0]["id"] if res["results"] else None
-
-
-def sync_post(path: Path):
+def sync_post(path: Path, index, mode, h):
     raw = path.read_text(encoding="utf-8")
     fm, body = parse_frontmatter(raw)
 
@@ -225,34 +170,24 @@ def sync_post(path: Path):
     title = fm.get("title")
     if isinstance(title, list):
         title = " ".join(title)
-    if not title or title == "[]":
+    if not title:
         title = slug
-    title = str(title).strip()
 
     date = fm.get("date")
     url = fm.get("original_url", "")
 
-    # CATEGORY FROM FOLDER
-    rel_path = path.relative_to(POSTS_DIR)
-    parts = rel_path.parts[:-1]
-    cats = [p.strip() for p in parts if p.strip()]
+    cat, sub = extract_categories(path)
 
-    cat_id = get_or_create_category_path(cats) if cats else None
-
-    # IMAGE
     img = fm.get("featured_image")
-
     if img:
-        if img.startswith("/image/"):
-            encoded = img.split("/image/")[1].split("?")[0]
-            img = urllib.parse.unquote(encoded)
-
-        if img.startswith("/"):
-            img = f"https://insightginie.com{img}"
+        filename = img.split("/")[-1]
+        img = f"https://github.insightginie.com/media/images/{filename}"
 
     props = {
         "Name": {"title": [{"text": {"content": title}}]},
-        "Slug": {"rich_text": [{"text": {"content": slug}}]}
+        "Slug": {"rich_text": [{"text": {"content": slug}}]},
+        "Category": {"rich_text": [{"text": {"content": cat}}]},
+        "Sub-category": {"rich_text": [{"text": {"content": sub}}]},
     }
 
     if date:
@@ -261,40 +196,46 @@ def sync_post(path: Path):
     if url:
         props["Source URL"] = {"url": url}
 
-    if cat_id:
-        props["Category"] = {"relation": [{"id": cat_id}]}
-
-    if img:
-        props["Featured Image"] = {
-            "files": [{"name": "img", "external": {"url": img}}]
-        }
-
     blocks = html_to_blocks(body)
-    page_id = find_post(slug)
 
-    if page_id:
-        notion_request("PATCH", f"/pages/{page_id}", {"properties": props})
-        notion_request("PATCH", f"/blocks/{page_id}/children", {"children": blocks})
-        print("updated:", slug)
-    else:
-        notion_request("POST", "/pages", {
+    if mode == "new":
+        payload = {
             "parent": {"database_id": POSTS_DB_ID},
             "properties": props,
             "children": blocks
+        }
+
+        if img:
+            payload["cover"] = {"type": "external", "external": {"url": img}}
+
+        res = notion_request("POST", "/pages", payload)
+        notion_id = res["id"]
+
+    else:
+        notion_id = index[slug]["notion_id"]
+
+        notion_request("PATCH", f"/pages/{notion_id}", {
+            "properties": props
         })
-        print("created:", slug)
 
-# -----------------------------
-# MAIN
-# -----------------------------
+    index[slug] = {
+        "file_path": str(path),
+        "hash": h,
+        "notion_id": notion_id
+    }
+
 def main():
-    files = sorted(POSTS_DIR.rglob("*.md"))[:5]
+    index = load_index()
+    changes = get_changed_files(index)[:5]
 
-    for f in files:
-        sync_post(f)
+    print("to process:", len(changes))
 
-    print("done:", len(files))
+    with ThreadPoolExecutor(max_workers=5) as ex:
+        for path, mode, h in changes:
+            ex.submit(sync_post, path, index, mode, h)
 
+    save_index(index)
+    print("done")
 
 if __name__ == "__main__":
     main()
