@@ -5,11 +5,12 @@ import re
 import time
 import hashlib
 import urllib.parse
+import os
 from pathlib import Path
 from typing import Any
 from urllib import request, error
 
-NOTION_API_KEY = "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"
+NOTION_API_KEY = os.getenv("NOTION_API_KEY")
 POSTS_DB_ID = "778c4be6ee44828f883c0181a47083d8"
 
 BASE_DIR = Path(__file__).resolve().parent.parent
