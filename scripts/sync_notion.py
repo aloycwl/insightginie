@@ -8,7 +8,6 @@ import urllib.parse
 from pathlib import Path
 from typing import Any
 from urllib import request, error
-from concurrent.futures import ThreadPoolExecutor
 
 NOTION_API_KEY = "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"
 POSTS_DB_ID = "778c4be6ee44828f883c0181a47083d8"
@@ -19,8 +18,6 @@ INDEX_PATH = BASE_DIR / "scripts/.notion_index.json"
 
 NOTION_API_BASE = "https://api.notion.com/v1"
 NOTION_VERSION = "2022-06-28"
-
-# ---------------- API ----------------
 
 def notion_request(method: str, path: str, payload: dict[str, Any] | None = None):
     url = f"{NOTION_API_BASE}{path}"
@@ -41,14 +38,16 @@ def notion_request(method: str, path: str, payload: dict[str, Any] | None = None
         try:
             with request.urlopen(req, timeout=60) as res:
                 raw = res.read().decode()
+                time.sleep(0.2)
                 return json.loads(raw) if raw else {}
         except error.HTTPError as e:
             if e.code == 429:
                 time.sleep(1)
                 continue
+            if e.code == 403:
+                time.sleep(3)
+                continue
             raise RuntimeError(e.read().decode())
-
-# ---------------- INDEX ----------------
 
 def load_index():
     if INDEX_PATH.exists():
@@ -56,12 +55,12 @@ def load_index():
     return {}
 
 def save_index(index):
-    INDEX_PATH.write_text(json.dumps(index, separators=(",", ":")))
+    tmp = INDEX_PATH.with_suffix(".tmp")
+    tmp.write_text(json.dumps(index, separators=(",", ":")))
+    tmp.replace(INDEX_PATH)
 
 def file_hash(path):
     return hashlib.md5(path.read_bytes()).hexdigest()
-
-# ---------------- PARSE ----------------
 
 def parse_frontmatter(raw):
     m = re.match(r"\A---\n(.*?)\n---\n?(.*)\Z", raw, re.DOTALL)
@@ -84,8 +83,6 @@ def parse_frontmatter(raw):
                 fm[current] = v.strip("'\"")
 
     return fm, m.group(2)
-
-# ---------------- HTML → BLOCKS ----------------
 
 def html_to_blocks(content):
     blocks = []
@@ -142,8 +139,6 @@ def html_to_blocks(content):
 
     return blocks
 
-# ---------------- BLOCK OPS ----------------
-
 def get_children(block_id):
     results = []
     cursor = None
@@ -172,8 +167,7 @@ def append_blocks(page_id, blocks):
         notion_request("PATCH", f"/blocks/{page_id}/children", {
             "children": blocks[i:i+100]
         })
-
-# ---------------- CORE ----------------
+        time.sleep(0.3)
 
 def extract_categories(path: Path):
     rel = path.relative_to(POSTS_DIR)
@@ -234,8 +228,7 @@ def sync_post(path: Path, index, mode, h):
     if mode == "new":
         payload = {
             "parent": {"database_id": POSTS_DB_ID},
-            "properties": props,
-            "children": blocks
+            "properties": props
         }
 
         if img:
@@ -244,16 +237,15 @@ def sync_post(path: Path, index, mode, h):
         res = notion_request("POST", "/pages", payload)
         notion_id = res["id"]
 
+        append_blocks(notion_id, blocks)
+
     else:
         notion_id = index[slug]["n"]
-
         notion_request("PATCH", f"/pages/{notion_id}", {"properties": props})
         delete_all_blocks(notion_id)
         append_blocks(notion_id, blocks)
 
     index[slug] = {"h": h, "n": notion_id}
-
-# ---------------- MAIN ----------------
 
 def main():
     index = load_index()
@@ -261,11 +253,14 @@ def main():
 
     print("to process:", len(changes))
 
-    with ThreadPoolExecutor(max_workers=3) as ex:
-        for p, m, h in changes:
-            ex.submit(sync_post, p, index, m, h)
+    for p, m, h in changes:
+        try:
+            sync_post(p, index, m, h)
+        except Exception as e:
+            print("error:", e)
 
-    save_index(index)
+        save_index(index)
+
     print("done")
 
 if __name__ == "__main__":
